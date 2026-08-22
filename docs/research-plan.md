@@ -210,12 +210,38 @@ in H6. Human rating on a subset calibrates the judge.
 
 ## Findings so far
 
-- **2026-08-22, pilot A (15 pairs, no review filter).** The only strong
-  case/twin difference is reference count (117 vs 26, 14/15 pairs,
-  p < 0.001) because ≥ 9/15 top-1 % "articles" are reviews, guidelines or
-  perspectives. The pipeline now filters to primary research; the review
-  share of top-1 % pools (~30 % by the conservative classifier, ~60 % by
-  hand on pilot A) is recorded per draw. `experiments/2026-08-22-h1-pilot-bibliometrics/`.
+All from `experiments/2026-08-22-h1-pilot-bibliometrics/` (15 dev pairs,
+primary research only; held-out 5 pairs untouched).
+
+- **The top 1 % by citations is mostly not primary research.** In pilot A
+  (no filter) ≥ 9 of 15 "impactful articles" were reviews, guidelines or
+  perspectives, and they produced the whole apparent effect (reference count
+  117 vs 26). Accretion is not a corner case of impact; at the top of the
+  citation distribution it is the majority. The sampler now classifies and
+  excludes them, and logs the share as data.
+- **H1 partly confirmed, with its central prediction reversed.** Surviving
+  BH-FDR at n = 15: impactful papers cite work that is **younger**
+  (`ref_share_le3` +0.15, q = 0.025; median reference age −4 y, q = 0.040) and
+  **hotter** (median reference citations 309 vs 124, q = 0.025). But every
+  cross-boundary share runs **lower** for the impactful member — domain
+  −0.13 (q = 0.050), subfield −0.11, topic −0.14. Breadth of citation is not
+  what distinguishes impact here; working at the live edge of a hot, *local*
+  literature is. Caveat: a mean share cannot see Uzzi's atypical *tail*, and
+  the atypicality null model is not built yet.
+- **H0: an idea-first genesis is the minority.** Two blind coders over 14
+  papers (κ = 0.714 on `genesis_model`, gate passed first try): idea-first
+  2–3, means-first 4, problem-first 3–4, accretion 3–5. Both coders
+  independently concluded a prospectively-statable proposition was the
+  exception; tool-, resource- and consolidation-driven work was the rule.
+- **H4 broadly true but not a discriminator.** 105 of 117 coded ingredients
+  were already cited by the paper; exactly 1 was new-here; 19 of 28 cards had
+  every ingredient cited. Case and twin are indistinguishable on this
+  (52/60 vs 53/57). Anchoring caveat in the experiment log.
+- **`transfer` was coded 8 times on twins and 0 times on cases** (7 pairs ×
+  2 coders). Weak evidence, two named confounds, but it points the same way
+  as the reversed breadth result.
+- **Memorisation base rate 14 %**: both coders recognised the same 2 of 14
+  randomly drawn 2010s papers.
 
 ## Open questions
 
