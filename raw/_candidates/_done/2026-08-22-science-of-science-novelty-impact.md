@@ -5,6 +5,7 @@ discovered: 2026-08-22
 source: discover
 n_requested: 14
 n_returned: 17
+curated: "2026-08-22"
 ---
 
 ## 1. Atypical Combinations and Scientific Impact (Uzzi, Mukherjee, Stringer, Jones, 2013)
@@ -125,3 +126,25 @@ n_returned: 17
 - type: paper
 - summary: A multitask scaffold model classifies why a citation was made (background / method / result-comparison) and introduces SciCite, a dataset 5x larger and more domain-diverse than prior citation-intent corpora; code and data at https://github.com/allenai/scicite.
 - reason: This is the Semantic Scholar citation-intent classifier the plan's data-sources table names explicitly ("citation intents... tells us which references are load-bearing without reading every citer"); needed to know what "method" vs "background" citation labels actually mean before using S2 intents to identify a genesis card's load-bearing ingredients (H4).
+
+## Curation
+
+1. **Uzzi, Mukherjee, Stringer, Jones 2013** — `ingested → uzzi2013atypical`. relevance 5, credibility 5. Canonical evidence for [[atypical-combination]]; sources [[novelty-vs-impact]] too. OA PDF from Kellogg School author page.
+2. **Park, Leahey, Funk 2023** — `ingested → park2023papers`. relevance 5, credibility 4 (contested finding). Canonical CD5-decline evidence for [[disruption-index]]. OA PDF via NSF Public Access Repository (Nature landing page paywalled/login-gated).
+3. **Holst/Ginis et al. Matters Arising + Park/Leahey/Funk reply, Nature 2026** — `ingested → holst2024dataset`. relevance 4, credibility 4. Live, unresolved CD-index dispute directly flagged in the [[disruption-index]] concept file. Ingested via the arXiv preprint (2402.14583) full text; the final Nature Matters Arising + reply exchange itself was paywalled (403) — reply specifics drawn from secondary search coverage only, noted in the note's Critique section.
+4. **Funk & Owen-Smith 2017** — `ingested → funk2017dynamic`. relevance 5, credibility 5. Primary source for the CD/CD5 formula behind [[disruption-index]]. OA PDF from co-author's University of Michigan page.
+5. **Bentley, Kyriakou, Mackay, Petersen et al. 2023/2024** — `ingested → petersen2023disruption`. relevance 4, credibility 4. Note: the candidate entry's author list was wrong — the paper's actual authors (confirmed via OpenAlex and the arXiv abstract page) are Alexander M. Petersen, Felber Arroyave, Fabio Pammolli; ingested under the correct citekey. Independent citation-inflation critique of the CD index, distinct mechanism from item 3.
+6. **Wang, Veugelers, Stephan 2017** — `ingested → wang2017bias`. relevance 5, credibility 5. Second, independent novelty operationalization; sources [[atypical-combination]] and [[novelty-vs-impact]]. OA PDF directly from NBER (working paper 22180; published version Research Policy 2017).
+7. **Foster, Rzhetsky, Evans 2015** — declined. Tradition/innovation strategy classification is H2/H3 move-taxonomy territory, out of this batch's H1/H3/H5 + bibliometric-feature-block scope; not on this curator's owned-topic list.
+8. **Shi & Evans 2023** — declined. Extends Uzzi/Wang-style novelty into content×context surprise; valuable but the atypicality/novelty slot for this batch is filled by the two canonical measures (Uzzi, Wang); revisit for H3 move-enrichment analysis.
+9. **Wu, Wang, Evans 2019** — declined. Team-size/disruption finding; secondary to establishing the core CD-index evidence base and its 2026 methodological dispute, which had priority in this batch.
+10. **Mukherjee, Romero, Jones, Uzzi 2017 (hotspot)** — declined. Reference-age feature not required for the H1/H3/H5 axis prioritized this batch; revisit when the pipeline implements the reference-age bibliometric feature.
+11. **Lin, Evans, Wu 2022** — declined. Overlaps with the sleeping-beauty/sampling-window open question (already flagged in the research plan and index); not core evidence for the H1/H3/H5 bibliometric-feature metrics themselves.
+12. **Ke, Ferrara, Radicchi, Flammini 2015 (Sleeping Beauties)** — declined. Bears on the 2010-2019 sampling-window open question rather than on H1/H3/H5 bibliometric-feature evidence directly; revisit alongside that open question.
+13. **Hofstra et al. 2020 (Diversity-Innovation Paradox)** — declined. Strong H5 case-study candidate (same move, different uptake by identity) but the 8-item batch cap was filled by core CD/atypicality evidence; flag for pilot-phase H5 qualitative coding.
+14. **Fleming 2001** — `ingested → fleming2001recombinant`. relevance 5, credibility 5. Foundational recombination-variance mechanism; seeded new concept [[recombinant-uncertainty]]; sources [[novelty-vs-impact]] and [[matched-control-twin]]. OA PDF via UC Berkeley Fung Institute mirror (HBS author-page copy is dead; wayback snapshot available as fallback).
+15. **OpenAlex FWCI documentation** — `ingested → openalex-fwci` (post). relevance 5. Sources [[field-normalized-impact]] and [[matched-control-twin]] — the only direct source available for the exact sampling-frame metric, previously unsourced.
+16. **Zhao & Zhang 2025 review** — declined. A survey/review, not primary evidence; lower priority under the 8-item cap this round.
+17. **Cohan, Ammar, van Zuylen, Cady 2019 (SciCite)** — declined. Tooling for S2 citation-intent classification (H4 ingredient identification), not H1/H3/H5 bibliometric-feature evidence; revisit when implementing the `features` pipeline stage's citation-intent step.
+
+Ingested: 8 (uzzi2013atypical, park2023papers, holst2024dataset, funk2017dynamic, petersen2023disruption, wang2017bias, fleming2001recombinant, openalex-fwci). Declined: 9. Duplicates against existing graph: 0 (literature/ was empty at curation time). New concept seeded: [[recombinant-uncertainty]]. Concepts newly sourced: [[atypical-combination]], [[disruption-index]], [[field-normalized-impact]], [[novelty-vs-impact]], [[matched-control-twin]]. MoC candidate flagged in `_meta/index.md` (bibliometric novelty/impact measurement, 6 concepts) but not promoted — left for a follow-up pass once sibling curators' concept edits (theories-of-discovery, llm-idea-generation) have also landed.

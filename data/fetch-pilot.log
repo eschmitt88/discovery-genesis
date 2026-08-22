@@ -1,3 +1,33 @@
 30 works -> /mnt/projects/research/discovery-genesis/raw/cases
 [1/30]  W2092406095  refs=35  citers=1356  s2=ok  text=no  16.0s
 [2/30]  W1511964252  refs=27  citers=14  s2=ok  text=no  7.0s
+[3/30]  W2316766720  refs=488  citers=1067  s2=ok  text=no  11.3s
+[4/30]  W4230051646  refs=83  citers=25  s2=missing  text=no  1.9s
+[5/30]  W2009989575  refs=209  citers=1473  s2=ok  text=no  10.6s
+[6/30]  W2109039561  refs=35  citers=33  s2=ok  text=no  5.9s
+[7/30]  W2040841239  refs=220  citers=1525  s2=ok  text=no  10.3s
+[8/30]  W2000587171  refs=16  citers=31  s2=ok  text=no  6.8s
+[9/30]Ignoring wrong pointing object 8 0 (offset 0)
+Ignoring wrong pointing object 10 0 (offset 0)
+Ignoring wrong pointing object 13 0 (offset 0)
+Ignoring wrong pointing object 26 0 (offset 0)
+Ignoring wrong pointing object 32 0 (offset 0)
+Ignoring wrong pointing object 80 0 (offset 0)
+Ignoring wrong pointing object 82 0 (offset 0)
+Ignoring wrong pointing object 84 0 (offset 0)
+Ignoring wrong pointing object 86 0 (offset 0)
+Ignoring wrong pointing object 138 0 (offset 0)
+Ignoring wrong pointing object 140 0 (offset 0)
+Ignoring wrong pointing object 142 0 (offset 0)
+Ignoring wrong pointing object 144 0 (offset 0)
+Ignoring wrong pointing object 154 0 (offset 0)
+  W2986932602  refs=52  citers=326  s2=missing  text=yes  5.4s
+[10/30]  W2967132151  refs=26  citers=12  s2=ok  text=no  9.1s
+[11/30]  W2142988890  refs=225  citers=1768  s2=ok  text=no  12.2s
+[12/30]  W2166015942  refs=18  citers=21  s2=ok  text=no  6.9s
+[13/30]  W2611274699  refs=283  citers=508  s2=ok  text=no  8.2s
+[14/30]  W2619190098  refs=87  citers=21  s2=ok  text=no  10.5s
+[15/30]  W2789794824  refs=70  citers=343  s2=ok  text=no  8.7s
+[16/30]  W2890145591  refs=15  citers=4  s2=ok  text=no  6.5s
+[17/30]  W2787363066  refs=117  citers=185  s2=ok  text=no  6.6s
+[18/30]  W2886777590  refs=25  citers=17  s2=ok  text=no  5.5s

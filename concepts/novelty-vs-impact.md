@@ -3,8 +3,8 @@ kind: concept
 name: "novelty vs impact"
 status: seedling
 added: "2026-08-22"
-sources: []
-related_concepts: ["atypical-combination", "disruption-index", "field-normalized-impact", "matched-control-twin"]
+sources: ["uzzi2013atypical", "wang2017bias", "fleming2001recombinant", "si2025ideation"]
+related_concepts: ["atypical-combination", "disruption-index", "field-normalized-impact", "matched-control-twin", "recombinant-uncertainty"]
 related_experiments: []
 tags: ["core", "h5"]
 ---
@@ -34,3 +34,19 @@ explained by the move.
   impact-sample's novelty distribution is itself a finding. If
   consolidating (low-novelty, high-impact) papers dominate, a 2×2
   impact × disruption sampling design replaces the 1-D one.
+- Fleming (2001) supplies the mechanism for "higher-variance, not
+  higher-mean": unfamiliar recombination widens the outcome distribution
+  rather than shifting its center, which is why same-move twins should
+  exist rather than being a design artifact — see
+  [[recombinant-uncertainty]].
+- Wang, Veugelers & Stephan (2017) show part of the "weak correlation" is
+  a citation-window measurement artifact, not just a real behavioral
+  effect: novel work is under-cited early and over-represented in the
+  top percentile late.
+- `[[si2025ideation]]` (the ideation-execution gap) is a related decoupling
+  one level down, at idea rather than paper granularity: LLM-generated
+  ideas are judged more "novel" than human ideas before anyone executes
+  them, but that apparent-novelty advantage does not survive execution —
+  the same shape as novelty and impact correlating only weakly here, but
+  observed directly in a controlled human study rather than inferred from
+  bibliometrics. See `[[ideation-execution-gap]]`.

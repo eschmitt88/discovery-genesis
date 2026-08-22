@@ -3,7 +3,7 @@ kind: concept
 name: "adjacent possible"
 status: seedling
 added: "2026-08-22"
-sources: []
+sources: ["merton1961singletons", "swanson1986fishoil", "taalbi2022adjacent"]
 related_concepts: ["genesis-models", "atypical-combination"]
 related_experiments: []
 tags: ["theory", "h0", "h4"]
@@ -30,7 +30,18 @@ concept made concrete.
 
 ## Connections
 
-- Swanson's literature-based discovery (A→B, B→C, therefore test A→C) is
-  the oldest operational version.
+- `[[swanson1986fishoil]]`'s literature-based discovery (A→B, B→C,
+  therefore test A→C) is the oldest operational version — a limit case
+  with zero new empirical ingredient; see the new [[literature-based-discovery]]
+  concept.
+- `[[merton1961singletons]]` is the primary source for the "multiples as
+  fingerprint" claim above: Merton's case catalogue argues multiples, not
+  singletons, are science's normal pattern once a discovery's enabling
+  conditions are in place.
+- `[[taalbi2022adjacent]]` gives the adjacent possible a quantitative,
+  falsifiable form on a century of real innovation data: innovation rate
+  depends linearly on cumulative past innovations, novel-type share
+  follows Heaps' law, and the reachable space's topology carries real
+  predictive signal — the adjacent possible is structured, not just large.
 - Opposite pole: transformational creativity (Boden) that changes the
   space itself; expected to be rare in a random impact sample.
