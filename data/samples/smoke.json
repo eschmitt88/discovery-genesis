@@ -1,0 +1,282 @@
+{
+ "kind": "sample",
+ "date": "2026-08-22",
+ "seed": 20260822,
+ "xpol_record": {
+  "seed": 20260822,
+  "level": "topic",
+  "k": 15,
+  "stratify": "domain",
+  "population": 4516,
+  "band": null,
+  "exclude_home": true,
+  "eligible": 4516
+ },
+ "params": {
+  "years": [
+   2010,
+   2019
+  ],
+  "case_pct": 0.99,
+  "twin_band": [
+   0.4,
+   0.6
+  ],
+  "min_refs": 5,
+  "domains": [
+   "Physical Sciences",
+   "Life Sciences",
+   "Health Sciences"
+  ],
+  "type": "article"
+ },
+ "n_pairs": 5,
+ "skipped_topics": [],
+ "pairs": [
+  {
+   "topic": "Airway Management and Intubation Techniques",
+   "topic_id": "T10830",
+   "path": "Health Sciences > Medicine > Anesthesiology and Pain Medicine > Airway Management and Intubation Techniques",
+   "domain": "Health Sciences",
+   "year": 2017,
+   "pools": {
+    "case": 14,
+    "twin": 127
+   },
+   "draw_seeds": {
+    "case": 731119580,
+    "twin": 492830396
+   },
+   "case": {
+    "id": "W2769002019",
+    "doi": "https://doi.org/10.1111/anae.14113",
+    "title": "Cuffed vs. uncuffed tracheal tubes in children: a randomised controlled trial comparing leak, tidal volume and complications",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 169,
+    "pct": 0.99813003,
+    "n_refs": 15,
+    "n_authors": 9,
+    "topic_id": "T10830",
+    "topic": "Airway Management and Intubation Techniques",
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false
+   },
+   "twin": {
+    "id": "W2625640744",
+    "doi": "https://doi.org/10.5811/westjem.2017.3.32078",
+    "title": "Altitude-Related Change in Endotracheal Tube Cuff Pressures in Helicopter EMS",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 10,
+    "pct": 0.59134062,
+    "n_refs": 18,
+    "n_authors": 3,
+    "topic_id": "T10830",
+    "topic": "Airway Management and Intubation Techniques",
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://escholarship.org/content/qt835648w2/qt835648w2.pdf?t=p7dmke",
+    "is_oa": true
+   }
+  },
+  {
+   "topic": "Metal-Catalyzed Oxygenation Mechanisms",
+   "topic_id": "T11747",
+   "path": "Physical Sciences > Chemistry > Inorganic Chemistry > Metal-Catalyzed Oxygenation Mechanisms",
+   "domain": "Physical Sciences",
+   "year": 2014,
+   "pools": {
+    "case": 6,
+    "twin": 51
+   },
+   "draw_seeds": {
+    "case": 220823850,
+    "twin": 540781396
+   },
+   "case": {
+    "id": "W2131027449",
+    "doi": "https://doi.org/10.1021/ja507807v",
+    "title": "Status of Reactive Non-Heme Metal–Oxygen Intermediates in Chemical and Enzymatic Reactions",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 480,
+    "pct": 0.9961714,
+    "n_refs": 278,
+    "n_authors": 4,
+    "topic_id": "T11747",
+    "topic": "Metal-Catalyzed Oxygenation Mechanisms",
+    "field": "Chemistry",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false
+   },
+   "twin": {
+    "id": "W1575610855",
+    "doi": "https://doi.org/10.1002/ejic.201402263",
+    "title": "Mid‐ and Far‐Infrared Marker Bands of the Metal Coordination Sites of the Histidine Side Chains in the Protein Cu,Zn‐Superoxide Dismutase",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 11,
+    "pct": 0.50553312,
+    "n_refs": 58,
+    "n_authors": 8,
+    "topic_id": "T11747",
+    "topic": "Metal-Catalyzed Oxygenation Mechanisms",
+    "field": "Chemistry",
+    "domain": "Physical Sciences",
+    "oa_url": "http://hdl.handle.net/20.500.12210/36206",
+    "is_oa": true
+   }
+  },
+  {
+   "topic": "Ion Channels and Receptors",
+   "topic_id": "T11204",
+   "path": "Life Sciences > Neuroscience > Sensory Systems > Ion Channels and Receptors",
+   "domain": "Life Sciences",
+   "year": 2011,
+   "pools": {
+    "case": 22,
+    "twin": 86
+   },
+   "draw_seeds": {
+    "case": 770023433,
+    "twin": 621802675
+   },
+   "case": {
+    "id": "W1978300668",
+    "doi": "https://doi.org/10.1371/journal.pbio.1001025",
+    "title": "Local Ca2+ Entry Via Orai1 Regulates Plasma Membrane Recruitment of TRPC1 and Controls Cytosolic Ca2+ Signals Required for Specific Cell Functions",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 249,
+    "pct": 0.99430264,
+    "n_refs": 67,
+    "n_authors": 5,
+    "topic_id": "T11204",
+    "topic": "Ion Channels and Receptors",
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1001025&type=printable",
+    "is_oa": true
+   },
+   "twin": {
+    "id": "W2080748125",
+    "doi": "https://doi.org/10.1007/s10517-011-1294-z",
+    "title": "Association of Cold Receptor TRPM8 Gene Polymorphism with Blood Lipid Indices and Anthropometric Parameters in Shorians",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 6,
+    "pct": 0.44097539,
+    "n_refs": 12,
+    "n_authors": 8,
+    "topic_id": "T11204",
+    "topic": "Ion Channels and Receptors",
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false
+   }
+  },
+  {
+   "topic": "Cannabis and Cannabinoid Research",
+   "topic_id": "T10414",
+   "path": "Health Sciences > Medicine > Pharmacology > Cannabis and Cannabinoid Research",
+   "domain": "Health Sciences",
+   "year": 2019,
+   "pools": {
+    "case": 97,
+    "twin": 112
+   },
+   "draw_seeds": {
+    "case": 466179571,
+    "twin": 542140076
+   },
+   "case": {
+    "id": "W2943967654",
+    "doi": "https://doi.org/10.2460/javma.254.11.1301",
+    "title": "Randomized blinded controlled clinical trial to assess the effect of oral cannabidiol administration in addition to conventional antiepileptic treatment on seizure frequency in dogs with intractable idiopathic epilepsy",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 172,
+    "pct": 0.99389157,
+    "n_refs": 41,
+    "n_authors": 5,
+    "topic_id": "T10414",
+    "topic": "Cannabis and Cannabinoid Research",
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false
+   },
+   "twin": {
+    "id": "W2973428675",
+    "doi": null,
+    "title": "Cannabis Legalization and Driving: Exploring Young Ontarians’ Knowledge, Perceptions and Attitudes",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 1,
+    "pct": 0.55639564,
+    "n_refs": 36,
+    "n_authors": 1,
+    "topic_id": "T10414",
+    "topic": "Cannabis and Cannabinoid Research",
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://ir.lib.uwo.ca/etd/6444",
+    "is_oa": true
+   }
+  },
+  {
+   "topic": "Advanced MIMO Systems Optimization",
+   "topic_id": "T10148",
+   "path": "Physical Sciences > Engineering > Electrical and Electronic Engineering > Advanced MIMO Systems Optimization",
+   "domain": "Physical Sciences",
+   "year": 2010,
+   "pools": {
+    "case": 49,
+    "twin": 4
+   },
+   "draw_seeds": {
+    "case": 545335721,
+    "twin": 670667587
+   },
+   "case": {
+    "id": "W2095690595",
+    "doi": "https://doi.org/10.1109/twc.2010.04.090553",
+    "title": "Coordinated linear beamforming in downlink multi-cell wireless networks",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 192,
+    "pct": 0.99669784,
+    "n_refs": 36,
+    "n_authors": 3,
+    "topic_id": "T10148",
+    "topic": "Advanced MIMO Systems Optimization",
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false
+   },
+   "twin": {
+    "id": "W178630581",
+    "doi": null,
+    "title": "Interference Alignment at Intermediate SNR with Perfect or Noisy CSI",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 2,
+    "pct": 0.58958123,
+    "n_refs": 34,
+    "n_authors": 1,
+    "topic_id": "T10148",
+    "topic": "Advanced MIMO Systems Optimization",
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false
+   }
+  }
+ ]
+}

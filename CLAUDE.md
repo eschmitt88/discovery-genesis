@@ -5,7 +5,14 @@ principles; this file refines them for this project.
 
 ## What this project is about
 
-One or two sentences. Fill in when the project stops being exploratory.
+How discoveries are made: sample impactful STEM papers at random
+(field-stratified), pair each with a matched median-impact twin, and code
+what each did to its prior art — the **move**, the **enabler**, and which
+**genesis model** fits (idea-first / means-first / problem-first /
+accretion). The idea step is a hypothesis, not the frame. End product: a
+Claude Code skill for going from prior art to a contribution, evaluated by
+retrodiction on held-out cases.
+Plan + hypotheses: `docs/research-plan.md`. Scope: `docs/decisions/0001-*`.
 
 ## Layout (see user CLAUDE.md for the full rationale)
 
@@ -46,7 +53,18 @@ down or explicitly flag the need to raise a ceiling.
 
 ## Project-specific facts
 
-- Primary language: (fill in)
+- Primary language: Python (`genesis/` package: sample → fetch → features →
+  bundle); cards and codebook as Markdown.
+- Sampling frame + RNG: the `xpol` sampler in
+  `~/projects/research/llm-cross-pollination` (invoked via
+  `uv run --project`, never re-implemented here). Seeds are logged.
+- Data: OpenAlex (polite pool, mailto set), Semantic Scholar citation
+  intents, OA full text. Raw API responses and PDFs go to
+  `raw/cases/<W-id>/` (DVC); derived genesis cards go to `cases/` (git).
+- LLM coders run as Sonnet subagents; `claude -p` on the subscription with
+  `--model` pinned in any unattended job. Never a raw API key.
+- Evaluation: HCE applies once `cases/` has a `test/` split; the
+  retrodiction test runs on it once.
 - Environment: managed by `uv`; run `make env` to sync.
 - Data: tracked by DVC. Large artifacts on SN850X via `~/projects/`.
 
