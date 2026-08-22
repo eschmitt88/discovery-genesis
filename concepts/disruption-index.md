@@ -26,7 +26,9 @@ if consolidating papers dominate the impact sample. Known problems: it is
 sensitive to reference-list length and to database coverage, and the
 "science is getting less disruptive" result built on it is contested —
 use it as a card feature, not a selection criterion, until the pilot shows
-it is stable on this sample.
+it is stable on this sample. As of 2026 the decline result is under open
+dispute in *Nature* (Holst/Ginis et al. Matters Arising vs the Park/Leahey/
+Funk reply); the pipeline must document raw vs corrected CD.
 
 ## Connections
 
