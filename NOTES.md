@@ -51,7 +51,7 @@ SessionEnd hook backstops this if you forget.
   (2606.12071) and the ideation–execution gap (2506.20803) are warnings
   for the H6 judge design.
 
-### Next
+### Next (superseded — see the 2026-08-22 evening entry)
 
 - Curate the three triage files: `/fetch-paper` + `/ingest` the top ~10
   and attach them as `sources:` on the 12 seedlings (all sourceless now).
@@ -63,3 +63,63 @@ SessionEnd hook backstops this if you forget.
   split at draw time; first `/new-experiment`: H1 on the pilot.
 - Open-code 4–6 pilot pairs by hand (user + main agent) before any LLM
   coder runs, to draft the coder prompt from real cases.
+
+## 2026-08-22 (evening)
+
+### Did
+
+- Set `agency: max`; headroom verdict GO/high all session.
+- Curated all three triage files via parallel Sonnet subagents: **26 papers
+  ingested** with trust-signal frontmatter, 13 declined with reasons, all
+  archived to `raw/_candidates/_done/`. Graph is now 26 literature notes,
+  18 concepts, 2 MoCs (`measuring-novelty-and-impact`,
+  `how-contributions-arise`).
+- Built the pipeline end to end: `genesis.sample` (rank-based draws with a
+  primary-research filter) → `genesis.fetch` (refs, citers, S2 intents,
+  abstracts, OA text) → `genesis.features` → `genesis.dossier` (blinded coder
+  packets) → `genesis.agree` (κ, confusion, unblinded role contrast).
+- Ran the H1 experiment twice: pilot A (all article types) and pilot B
+  (primary research only, 15 dev pairs + 5 held out).
+- Open-coded 14 papers with two independent blind Sonnet coders; measured
+  agreement; wrote **codebook v1** from their friction reports.
+
+### Findings
+
+- **The top 1 % by citations is mostly reviews and guidelines.** ≥ 9/15 in
+  pilot A. This produced a spurious "impactful papers have 4× more
+  references" effect that vanished under the filter (+92 → +8).
+- **H1 partly confirmed, breadth reversed.** Recency (q = 0.025) and
+  reference hotness (q = 0.025) are large and robust; cross-domain,
+  cross-subfield and cross-topic shares are all *lower* for impactful
+  papers. Impact here looks like working at the live edge of a hot local
+  literature, not like crossing fields.
+- **H0: idea-first is the minority genesis** (κ = 0.714). Means-first,
+  problem-first and accretion together dominate. Both coders reached this
+  independently.
+- **H4: 90 % of ingredients are cited prior art** (1/117 new-here) — and
+  identical for cases and twins, so it is not a discriminator.
+- **`transfer` appeared only on twins** (8 vs 0). If it survives n = 150 it
+  challenges `llm-cross-pollination`'s premise directly.
+- 14 % of randomly drawn 2010s papers were recognised by both coders — the
+  memorisation floor H6 must design around.
+- Infrastructure: OpenAlex omits abstracts for ~28 % of works (now backfilled
+  S2 → EPMC → Crossref, TLDR labelled); OpenAlex throttles *list* queries
+  (`?filter=…`) independently of entity GETs and can 429 every list query for
+  hours — reference fetching now falls back to per-entity GETs, and citers are
+  decoupled entirely.
+
+### Next
+
+- Build the **Uzzi atypicality null model** (field-year reference-pair
+  background). It is the highest-value missing feature: the conventional-core
+  hypothesis predicts a thin atypical *tail*, which a mean share cannot see,
+  and it is the direct test of whether the reversed breadth result is the
+  whole story.
+- Add a **subfield-velocity control** — median reference age of the whole
+  topic-year pool — to test whether reference recency is a field-tempo
+  artefact.
+- Code the remaining pilot-B pairs with **codebook v1** and re-measure κ
+  (target: `enabler` κ from 0.16 to > 0.6 on the closed vocabulary).
+- Drip the missing citers (`--citers-only --citer-delay`) once the OpenAlex
+  cooldown lifts; recompute CD5 at n = 15.
+- Then scale: 150–300 pairs, closed coding, H3/H5.
