@@ -129,21 +129,39 @@ def fetch_citers(w: str, max_citers: int) -> list[dict]:
     return out[:max_citers]
 
 
+# Semantic Scholar's unauthenticated pool is ~1 req/s shared across all users, so a
+# 429 is normal, not an error. Pace deliberately and treat an empty reference list
+# as a failure worth retrying (that is where the citation *intents* live).
+S2_SLEEP = 3.5
+
+
+def s2_get(url: str, tries: int = 6):
+    for i in range(tries):
+        try:
+            r = get(url, timeout=60, retries=1)
+        except Exception:                      # noqa: BLE001
+            r = None
+        if r is not None:
+            return r
+        time.sleep(S2_SLEEP * (i + 1))
+    return None
+
+
 def fetch_s2(doi: str | None, w: str) -> dict | None:
     key = f"DOI:{doi.replace('https://doi.org/', '')}" if doi else None
     if not key:
         return None
-    base = get(f"{S2}/{urllib.parse.quote(key)}?fields=paperId,title,citationCount,"
-               "influentialCitationCount,referenceCount,tldr,fieldsOfStudy,openAccessPdf")
+    base = s2_get(f"{S2}/{urllib.parse.quote(key)}?fields=paperId,title,citationCount,"
+                  "influentialCitationCount,referenceCount,tldr,fieldsOfStudy,openAccessPdf")
     if not base:
         return None
-    time.sleep(1.2)
-    refs = get(f"{S2}/{base['paperId']}/references?fields=intents,contexts,isInfluential,"
-               "title,year,externalIds,citationCount&limit=1000") or {}
-    time.sleep(1.2)
-    cits = get(f"{S2}/{base['paperId']}/citations?fields=intents,contexts,isInfluential,"
-               "title,year,externalIds&limit=500") or {}
-    time.sleep(1.2)
+    time.sleep(S2_SLEEP)
+    refs = s2_get(f"{S2}/{base['paperId']}/references?fields=intents,contexts,isInfluential,"
+                  "title,year,externalIds,citationCount&limit=999") or {}
+    time.sleep(S2_SLEEP)
+    cits = s2_get(f"{S2}/{base['paperId']}/citations?fields=intents,contexts,isInfluential,"
+                  "title,year,externalIds&limit=500") or {}
+    time.sleep(S2_SLEEP)
     return {"paper": base, "references": refs.get("data", []), "citations": cits.get("data", [])}
 
 
@@ -233,7 +251,8 @@ def pdf_text(pdf: Path) -> str:
     return "\n\n".join((p.extract_text() or "") for p in PdfReader(str(pdf)).pages)
 
 
-def bundle(w: str, max_citers: int, want_text: bool, log=print, retry_text: bool = False) -> dict:
+def bundle(w: str, max_citers: int, want_text: bool, log=print, retry_text: bool = False,
+           retry_s2: bool = False) -> dict:
     d = RAW / w
     status_p = d / "status.json"
     status = json.load(status_p.open()) if status_p.exists() else {"id": w}
@@ -254,11 +273,18 @@ def bundle(w: str, max_citers: int, want_text: bool, log=print, retry_text: bool
         status["n_citers_fetched"] = len(citers)
         status["citers_capped"] = len(citers) >= max_citers
 
-    if not (d / "s2.json").exists() and "s2" not in status:
+    s2_p = d / "s2.json"
+    s2_thin = s2_p.exists() and not (json.load(s2_p.open()).get("references") or [])
+    if (not s2_p.exists() and "s2" not in status) or (retry_s2 and s2_thin):
         s2 = fetch_s2(work.get("doi"), w)
-        status["s2"] = "ok" if s2 else "missing"
-        if s2:
-            write_once(d / "s2.json", s2)
+        if s2 and (s2.get("references") or not s2_p.exists()):
+            if s2_p.exists():
+                s2_p.unlink()                  # only ever replaces an empty-reference stub
+            write_once(s2_p, s2)
+            status["s2"] = "ok"
+            status["s2_n_refs"] = len(s2.get("references") or [])
+        elif not s2_p.exists():
+            status["s2"] = "missing"
 
     if want_text and not (d / "fulltext.txt").exists() and ("fulltext" not in status or retry_text):
         txt = fetch_epmc_text(work)
@@ -284,8 +310,10 @@ def bundle(w: str, max_citers: int, want_text: bool, log=print, retry_text: bool
     status["seconds"] = round(time.time() - t0, 1)
     status_p.write_text(json.dumps(status, indent=1))
     ft = status.get("fulltext") or {}
+    s2n = json.load(s2_p.open()).get("references") if s2_p.exists() else None
     log(f"  {w}  refs={work.get('referenced_works_count')}  citers={status.get('n_citers_fetched')}"
-        f"  s2={status.get('s2')}  text={'yes' if ft.get('chars') else 'no'}  {status['seconds']}s")
+        f"  s2_refs={len(s2n) if s2n is not None else '-'}  text={'yes' if ft.get('chars') else 'no'}"
+        f"  {status['seconds']}s")
     return status
 
 
@@ -296,6 +324,7 @@ def main(argv=None):
     ap.add_argument("--no-text", action="store_true")
     ap.add_argument("--only", nargs="*", help="restrict to these W-ids")
     ap.add_argument("--retry-text", action="store_true", help="retry full text even if a previous attempt failed")
+    ap.add_argument("--retry-s2", action="store_true", help="re-pull Semantic Scholar when the stored reference list is empty (rate-limited first time)")
     a = ap.parse_args(argv)
     rec = json.load(open(a.sample))
     ids = []
@@ -306,7 +335,8 @@ def main(argv=None):
     print(f"{len(ids)} works -> {RAW}", file=sys.stderr)
     for i, w in enumerate(ids, 1):
         print(f"[{i}/{len(ids)}]", file=sys.stderr, end="")
-        bundle(w, a.max_citers, not a.no_text, log=lambda s: print(s, file=sys.stderr), retry_text=a.retry_text)
+        bundle(w, a.max_citers, not a.no_text, log=lambda s: print(s, file=sys.stderr),
+               retry_text=a.retry_text, retry_s2=a.retry_s2)
 
 
 if __name__ == "__main__":
