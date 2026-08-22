@@ -23,3 +23,21 @@ skills; read by `/lint`.
 2026-08-22 18:53 fetch-paper openalex-fwci → raw/web/openalex-help-fwci.md
 2026-08-22 18:53 ingest raw/web/openalex-help-fwci.md
 2026-08-22 18:53 curate raw/_candidates/_done/2026-08-22-science-of-science-novelty-impact.md ingested=8 declined=9 dup=0
+2026-08-22 18:44 fetch-paper 2409.04109 → raw/papers/si2024can.pdf
+2026-08-22 18:44 ingest raw/papers/si2024can.pdf
+2026-08-22 18:44 fetch-paper 2506.20803 → raw/papers/si2025ideation.pdf
+2026-08-22 18:44 ingest raw/papers/si2025ideation.pdf
+2026-08-22 18:44 fetch-paper 2410.07076 → raw/papers/yang2024moose.pdf
+2026-08-22 18:44 ingest raw/papers/yang2024moose.pdf
+2026-08-22 18:44 fetch-paper 2606.12071 → raw/papers/sinhahajari2026limits.pdf
+2026-08-22 18:44 ingest raw/papers/sinhahajari2026limits.pdf
+2026-08-22 18:44 fetch-paper 2305.14259 → raw/papers/wang2023scimon.pdf
+2026-08-22 18:44 ingest raw/papers/wang2023scimon.pdf
+2026-08-22 18:44 fetch-paper 2410.13185 → raw/papers/li2024chain.pdf
+2026-08-22 18:44 ingest raw/papers/li2024chain.pdf
+2026-08-22 18:44 fetch-paper 2504.08066 → raw/papers/yamada2025aiscientistv2.pdf
+2026-08-22 18:44 ingest raw/papers/yamada2025aiscientistv2.pdf
+2026-08-22 18:44 fetch-paper 2411.02429 → raw/papers/guo2024ideabench.pdf
+2026-08-22 18:44 ingest raw/papers/guo2024ideabench.pdf
+2026-08-22 19:10 curate raw/_candidates/_done/2026-08-22-llm-idea-generation.md ingested=8 declined=5 dup=1
+2026-08-22 19:20 curate raw/_candidates/_done/2026-08-22-theories-of-discovery.md ingested=10 declined=4 dup=2

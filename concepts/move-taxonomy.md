@@ -42,3 +42,15 @@ compute / theory / collaboration / imported problem) is coded alongside.
   ([[triz-lineage]]): a catalogue is only useful if it beats a baseline.
 - "Transfer" is the whole of `llm-cross-pollination`; its base rate here is
   that project's premise check.
+- `[[dunbar1997scientists]]` supplies worked examples for two entries:
+  "anomaly" (18 of 70 tracked findings were unexpected and drew more
+  reasoning than expected ones) and a *distance* sub-feature on any
+  analogy-based move (99 observed analogies were overwhelmingly local —
+  40 within-organism, 57 other-organism, only 2 non-biological — so
+  "transfer" should be coded with how far the import travelled, not just
+  whether it occurred).
+- `[[sternberg1999propulsion]]` is an independent, previously-published
+  ~8-type taxonomy (sorted by paradigm-acceptance/rejection) that
+  cross-checks this list's plausible size and suggests
+  paradigm-relationship as a candidate orthogonal coding axis alongside
+  `move` and `enabler`.
