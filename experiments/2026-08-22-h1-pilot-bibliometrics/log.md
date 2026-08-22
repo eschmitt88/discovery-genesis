@@ -20,3 +20,28 @@
 - Full text: 1/30 works. PDF hosts (Hindawi, Cell, Elsevier) refuse the
   client; OpenAlex lacks PMCIDs for most biomed OA papers. Fix: resolve PMCID
   via Europe PMC search by DOI and pull `fullTextXML`; retrying.
+- 2026-08-22 19:40 pilot B (primary-research filter) drawn, seed 2419655738578421181.
+  Review share of the top-1 % band, by the conservative classifier, is logged per
+  draw: median ~33 % (range 0/6 to 7/26) — a *lower bound*, since hand-checking
+  pilot A put it near 60 %.
+- First pilot-B result on the 7 pairs fetched before an OpenAlex 429 killed the
+  run (`results/paired-pilotB-partial.md`): the picture inverts relative to
+  pilot A. `n_refs` is no longer the story (+14, p = 0.58 — the pilot-A effect
+  was entirely the review artefact). What appears instead is **reference
+  recency** — `ref_share_le3` +0.15 (6/7 pairs, p = 0.031, Cliff δ +0.73) and
+  `ref_age_median` −4 years (δ −0.80) — plus **hotter references**
+  (`ref_hot_median` +94, δ +0.55; `ref_fwci_median` +3.45). Cross-field
+  *shares* run slightly LOWER in cases at every level (topic/subfield/field/
+  domain), which is the direction Uzzi's "conventional core" predicts.
+  `cd5_nok` is more negative for cases (−0.68 vs 0.00), i.e. the impactful
+  primary papers here are still consolidating rather than disrupting.
+- Caveat: n = 7, and the pairs are the first-drawn ones, not a random subset —
+  treat as a smoke reading, not the H1 result. Rerunning at n = 15.
+- Infrastructure: three concurrent fetch processes tripped OpenAlex 429s and
+  starved Semantic Scholar (references empty in 26/40 bundles, which is where
+  the citation *intents* live). Fixes: polite-pool `mailto` on every OpenAlex
+  call with 429-aware backoff; S2 paced at 3.5 s with 6 retries and a
+  `--retry-s2` pass that re-pulls bundles whose stored reference list is empty;
+  full text now resolves PMCID via Europe PMC search (OpenAlex often lacks it)
+  and falls back to a browser-UA PDF fetch. Publisher PDF hosts (Hindawi, Cell,
+  Elsevier) return 403 regardless, so Europe PMC is the main text route.
