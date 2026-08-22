@@ -1,0 +1,1200 @@
+{
+ "paper": {
+  "paperId": "8cf20c523370172fe62ebab0760e869dae278646",
+  "title": "Cuffed vs. uncuffed tracheal tubes in children: a randomised controlled trial comparing leak, tidal volume and complications",
+  "referenceCount": 17,
+  "citationCount": 68,
+  "influentialCitationCount": 4,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null,
+   "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/anae.14113?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/anae.14113, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+   "Medicine"
+  ],
+  "tldr": {
+   "model": "tldr@v2.0.0",
+   "text": "With standardised ventilator settings, cuffed tracheal tubes produced better ventilation characteristics compared with uncuffed trachesal tubes during general anaesthesia for routine elective surgery."
+  },
+  "authors": [
+   {
+    "authorId": "31698916",
+    "name": "N. Chambers"
+   },
+   {
+    "authorId": "31698916",
+    "name": "N. Chambers"
+   },
+   {
+    "authorId": "2813020",
+    "name": "A. Ramgolam"
+   },
+   {
+    "authorId": "1940207",
+    "name": "D. Sommerfield"
+   },
+   {
+    "authorId": "46266317",
+    "name": "Guicheng Zhang"
+   },
+   {
+    "authorId": "6675638",
+    "name": "T. Ledowski"
+   },
+   {
+    "authorId": "50055255",
+    "name": "M. Thurm"
+   },
+   {
+    "authorId": "73772812",
+    "name": "M. Lethbridge"
+   },
+   {
+    "authorId": "40213677",
+    "name": "M. Hegarty"
+   },
+   {
+    "authorId": "1398314042",
+    "name": "B. Ungern‐Sternberg"
+   },
+   {
+    "authorId": "1398314042",
+    "name": "B. Ungern‐Sternberg"
+   }
+  ]
+ },
+ "references": null,
+ "citations": [
+  {
+   "contexts": [
+    "Lower peritubal leakage with microcuff tubes was also observed in the supine position, which is in agreement with ﬁ ndings from Chambers et al. 15 Similar advantages in sealing characteristics have been reported by Weiss et al and Dull-enkopf et al. 16,21 Anatomical features of the pediatric…",
+    "15,16,22 Reduced tube exchange likely re ﬂ ects the ability to ﬁ ne-tune the tracheal seal using cuff pressure rather than relying solely on anatomical ﬁ t.",
+    "14,15 It has been reported that ETT changes and other airway problems are more common with uncuffed tubes than microcuff tubes.",
+    "Lower peritubal leakage with microcuff tubes was also observed in the supine position, which is in agreement with ﬁ ndings from Chambers et al. 15 Similar advantages in sealing characteristics have been reported by Weiss et al and Dull-enkopf et al. 16,21 Anatomical features of the pediatric airway, including an elliptical and variable cricoid region, limit the ability of uncuffed tubes to achieve a uniform seal without downsizing.",
+    "The sample size was determined a priori based on the primary outcome, namely the difference in peritubal leakage (mL/kg) between microcuffed and uncuffed ETTs, using data from a previous study by Chambers et al. 15 The sample size was calculated using the formula for comparing two independent means.",
+    "14,15,22 While the present study was not powered to detect differences in individual complications, the consistent direction of observed effects suggests improved airway stability with microcuff tubes."
+   ],
+   "isInfluential": true,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "16d8ff1f3f48ec716328a55095dabccc0d0557a6",
+    "externalIds": {
+     "DOI": "10.1055/s-0046-1824757",
+     "CorpusId": 290031976
+    },
+    "title": "Comparison of Microcuffed versus Uncuffed Endotracheal Tubes on Efficacy of Ventilation and Airway Complications in Pediatric Patients Undergoing Elective Neurosurgical Procedures in the Prone Position: A Randomized Controlled Trial",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [
+    "They ensure a good seal and reduce the need for multiple tube changes, which lowers the risk of airway-related injuries [3,4]."
+   ],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "fd84473c511dc0042cdaa901f574fc483a2b0c4d",
+    "externalIds": {
+     "PubMedCentral": "12936448",
+     "DOI": "10.7759/cureus.102359",
+     "CorpusId": 285132113,
+     "PubMed": "41769566"
+    },
+    "title": "Ultrasound Versus Age-Based Formula for Predicting Endotracheal Tube Size in Pediatric Patients Undergoing General Anesthesia: A Randomized Comparative Study",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "942ff8d17e6fa701e273cc8e0dee93fe06a3c530",
+    "externalIds": {
+     "DOI": "10.1111/anae.70056",
+     "CorpusId": 282909622,
+     "PubMed": "41208566"
+    },
+    "title": "Feasibility of the pre‐operative measurement of fractional exhaled nitric oxide and respiratory mechanics to predict respiratory outcomes in children undergoing general anaesthesia",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "35a32f44f5b3cffb8a960e00a8bd74d0637223c4",
+    "externalIds": {
+     "PubMedCentral": "12706819",
+     "DOI": "10.7759/cureus.96956",
+     "CorpusId": 283089841,
+     "PubMed": "41409909"
+    },
+    "title": "Cuff Pressure in Pediatric Patients: From Monitoring to Clinical Practice",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "5723248b095b449a471a30bb615bd940aa630987",
+    "externalIds": {
+     "DOI": "10.1161/CIR.0000000000001368",
+     "CorpusId": 282269519,
+     "PubMed": "41122885"
+    },
+    "title": "Part 8: Pediatric Advanced Life Support: 2025 American Heart Association and American Academy of Pediatrics Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "e63928623d67dd25dc90e5cf9ebdb574edd9828c",
+    "externalIds": {
+     "DOI": "10.36290/ped.2025.039",
+     "CorpusId": 281618317
+    },
+    "title": "Airway management in paediatric patients",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "bac54e44eb6bee911e74b75e660b751e9c56e671",
+    "externalIds": {
+     "DOI": "10.4103/acped.acped_24_25",
+     "CorpusId": 284670135
+    },
+    "title": "Cuffed Versus Uncuffed Endotracheal Intubation in Pediatric Population: A Systematic Review and Meta-analysis",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "94546850fbb482c0d311b442fb3fa7400b78ed4d",
+    "externalIds": {
+     "PubMedCentral": "12149494",
+     "DOI": "10.1111/pan.15123",
+     "CorpusId": 278235220,
+     "PubMed": "40309924"
+    },
+    "title": "Pediatric Endotracheal Tube Cuff Management at Altitude: Implications for Aeromedical Retrieval and Other Austere Environments",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [
+    "This is supported by previous research indicating that the unique physiological changes associated with laparoscopic procedures can challenge conventional airway management techniques, particularly in pediatric patients [9,10]."
+   ],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "42a5e2daa5057e3cde6fe26907e03fa96cd3511c",
+    "externalIds": {
+     "PubMedCentral": "12178453",
+     "DOI": "10.7759/cureus.84376",
+     "CorpusId": 278759755,
+     "PubMed": "40539146"
+    },
+    "title": "Comparison of the Efficacy of Throat Pack in Uncuffed Tube Versus Microcuff® Tubes on Sealing Pressure in Pediatric Laparoscopic Surgeries: A Randomized Clinical Trial",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "d5cc3135cfac1d73982f287a6136e30911123064",
+    "externalIds": {
+     "PubMedCentral": "11615024",
+     "DOI": "10.1007/s00101-024-01486-2",
+     "CorpusId": 274369557,
+     "PubMed": "39609304"
+    },
+    "title": "Exchange rates of second generation Microcuff® pediatric endotracheal tubes in children weighing more than 3 kg",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "c59acae1e3b66e433d3d45ce9dcd42e429995fe1",
+    "externalIds": {
+     "DOI": "10.1016/j.jss.2024.10.038",
+     "CorpusId": 274286820,
+     "PubMed": "39591806"
+    },
+    "title": "Neonatal Airway Management and Outcomes Following Fetoscopic Endoluminal Tracheal Occlusion (FETO): A Single-Center Descriptive Analysis.",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "0a9f61164e3323954c543c940dcb1ae9583e73de",
+    "externalIds": {
+     "DOI": "10.1097/EJA.0000000000001999",
+     "CorpusId": 269928661,
+     "PubMed": "38769936"
+    },
+    "title": "Effect of different lung recruitment strategies and airway device on oscillatory mechanics in children under general anaesthesia",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [
+    "23 Less ETT cuff pressure may be needed due to tracheal edema, 26 and all patients, including pediatric patients, 27,28 have microcuff ETT placement."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citingPaper": {
+    "paperId": "110d920e34ee1c3ce01402bd4c16537b9f37f380",
+    "externalIds": {
+     "DOI": "10.1055/s-0044-1786008",
+     "CorpusId": 269419679,
+     "PubMed": "38746695"
+    },
+    "title": "Airway Management for Acute and Reconstructive Burns: Our 30-year Experience",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [
+    "This is consistent with a publication of Chambers et al., who recommend an intubation trial with a 6.5 mm ID SLT in children who should receive a 6.0 ID tube following the empirical formula “age/4 + 3.5” to see if intubation with a 26 Ch DLT might be possible [10]."
+   ],
+   "isInfluential": true,
+   "intents": [
+    "result"
+   ],
+   "citingPaper": {
+    "paperId": "97d5135133d283be86e734288a09d2741323a667",
+    "externalIds": {
+     "PubMedCentral": "10883753",
+     "DOI": "10.1055/a-2194-3467",
+     "CorpusId": 267197776,
+     "PubMed": "38262422"
+    },
+    "title": "Ten-year experience of whole lung lavage in pediatric Pulmonary Alveolar Proteinosis",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "9ac8dcf88da8cf6d0ba0d4d3cf3c926211175d87",
+    "externalIds": {
+     "DOI": "10.1111/pan.14837",
+     "CorpusId": 266841982,
+     "PubMed": "38189558"
+    },
+    "title": "Comparison of preformed microcuff and preformed uncuffed endotracheal tubes in pediatric cleft palate surgery—A randomized controlled trial",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [
+    "Research has substantiated the benefits of cuffed tracheal tubes, demonstrating enhanced ventilation efficacy, a reduction in the number of intubation attempts, and a decrease in adverse perioperative respiratory events (11)."
+   ],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "83a50b9a1f021c5f2917c1f7f77d79024eb425a2",
+    "externalIds": {
+     "PubMedCentral": "10772827",
+     "DOI": "10.21037/tp-23-502",
+     "CorpusId": 266584037,
+     "PubMed": "38197113"
+    },
+    "title": "The development of prediction model for cuffed tracheal tube size from the middle finger in pediatrics: a concise and feasible approach",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "da7f6584ff7644c6768731c804f306072ab34065",
+    "externalIds": {
+     "PubMedCentral": "10720842",
+     "DOI": "10.1097/EJA.0000000000001928",
+     "CorpusId": 265622125,
+     "PubMed": "38018248"
+    },
+    "title": "Airway management in neonates and infants",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "7d6039e836fa8c83facbb932a6d9a68bd57a2569",
+    "externalIds": {
+     "DOI": "10.1016/j.bja.2023.08.040",
+     "CorpusId": 266227368,
+     "PubMed": "38065762"
+    },
+    "title": "Airway management in neonates and infants: European Society of Anaesthesiology and Intensive Care and British Journal of Anaesthesia joint guidelines.",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [
+    "However, in a randomized controlled trial comparing cuffed and uncuffed tubes in intubated pediatric patients, post-extubation complications (including pharyngospasm, bronchospasm, and persistent cough) were significantly lower in the cuffed ETT group (19)."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citingPaper": {
+    "paperId": "53253d8fb1ec98b61a9a539096dd41ad91dcd5e3",
+    "externalIds": {
+     "DOI": "10.1097/PCC.0000000000003282",
+     "CorpusId": 258864422,
+     "PubMed": "37219965"
+    },
+    "title": "Pre-Extubation Cuffed Tube Leak Test and Subsequent Post-Extubation Laryngeal Edema: Prospective, Single-Center Evaluation of PICU Patients*",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "2cfbe1bfa0aa99508b0b983900af5b40e48e4b40",
+    "externalIds": {
+     "DOI": "10.1542/peds.2022-056415H",
+     "CorpusId": 253246794,
+     "PubMed": "36317970"
+    },
+    "title": "Respiratory Care for Neonates With Congenital Heart Disease.",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "59fef6f03c50f58846ab2d38c927a5f687f450d7",
+    "externalIds": {
+     "PubMedCentral": "9600438",
+     "DOI": "10.3390/children9101490",
+     "CorpusId": 252631852,
+     "PubMed": "36291426"
+    },
+    "title": "Airway Management in Pediatric Patients: Cuff-Solved Problem?",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [
+    "Cuffed ETTs are most commonly used in the pediatric population (25)."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citingPaper": {
+    "paperId": "170117f52490150a7864542b6cb5724324ed6fc0",
+    "externalIds": {
+     "PubMedCentral": "9150886",
+     "DOI": "10.1097/CCE.0000000000000710",
+     "CorpusId": 249103067,
+     "PubMed": "35651738"
+    },
+    "title": "Ventilation Liberation Practices Among 380 International PICUs",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "0c4536df3d5b8bad0025b771e9cf5e587add9cdf",
+    "externalIds": {
+     "PubMedCentral": "9130697",
+     "DOI": "10.3389/fped.2022.864766",
+     "CorpusId": 248672779,
+     "PubMed": "35633947"
+    },
+    "title": "Incidence of Post-extubation Stridor in Infants With Cuffed vs. Uncuffed Endotracheal Tube: A Retrospective Cohort Analysis",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "a06fc8ae5a0cd19c26a75e2b5ad6c772a7bbee9e",
+    "externalIds": {
+     "DOI": "10.1055/a-1352-8875",
+     "CorpusId": 247205310
+    },
+    "title": "Schädel-Hirn- und Polytrauma – Besonderheiten im Kindes- und Adoleszentenalter",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "8b506da42670fac0b0520d7a019ddd1a60ac0a50",
+    "externalIds": {
+     "DOI": "10.1111/pan.14398",
+     "CorpusId": 246141684,
+     "PubMed": "35049111"
+    },
+    "title": "Comparison of the success with two bending angles for lighted stylet intubation in children: A prospective randomised study",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "a4ebc32cbb7f8cbc8845cdc5b1af437a0c7e8161",
+    "externalIds": {
+     "DOI": "10.1007/s00431-022-04372-4",
+     "CorpusId": 245829868,
+     "PubMed": "35006378"
+    },
+    "title": "Same baby, different care: variations in practice between neonatologists and pediatric intensivists",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "b743d90e8fb1bf1f6b7bf7a2207c961354d677fe",
+    "externalIds": {
+     "DOI": "10.1111/pan.14376",
+     "CorpusId": 245127541,
+     "PubMed": "34897894"
+    },
+    "title": "Risk assessment and optimization strategies to reduce perioperative respiratory adverse events in Pediatric Anesthesia—Part 2: Anesthesia‐related risk and treatment options",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "6c67a48d08cda7e48a218829fb249b38f03f76dd",
+    "externalIds": {
+     "DOI": "10.1111/pan.14373",
+     "CorpusId": 245086932,
+     "PubMed": "34890494"
+    },
+    "title": "Anesthetic considerations in children with asthma",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "6054e4b9663e03ca695334116c6d142b4a7a6ae8",
+    "externalIds": {
+     "DOI": "10.1111/pan.14354",
+     "CorpusId": 244871649,
+     "PubMed": "34862993"
+    },
+    "title": "Aerosolized drug delivery in awake and anesthetized children to treat bronchospasm",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "bba19d36f303e7db5820d00023035f4cf8996a90",
+    "externalIds": {
+     "DOI": "10.1111/pan.14353",
+     "CorpusId": 244871943,
+     "PubMed": "34861089"
+    },
+    "title": "Challenges with pediatric anesthesia and intraoperative ventilation of the child in the resource‐constrained setting",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "d235859d8778ab057a3c39ca4aace1ec0fdac453",
+    "externalIds": {
+     "DOI": "10.1111/pan.14341",
+     "CorpusId": 244490270,
+     "PubMed": "34811851"
+    },
+    "title": "Impact of airway and a standardized recruitment maneuver on CT chest imaging quality in a pediatric population: A retrospective review",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "1c09b962b4bfd541a24633df705b33bd5e7de36e",
+    "externalIds": {
+     "DOI": "10.1111/pan.14335",
+     "CorpusId": 244402020,
+     "PubMed": "34797011"
+    },
+    "title": "Atelectasis and lung recruitment in pediatric anesthesia: An educational review",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "1e54391d67f1e6cf98a3ef4c06965985415520a5",
+    "externalIds": {
+     "DOI": "10.1016/j.emc.2021.04.004",
+     "CorpusId": 235722253,
+     "PubMed": "34215399"
+    },
+    "title": "Just Breathe: Tips and Highlights for Managing Pediatric Respiratory Distress and Failure.",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "5bb81c43e214e2dba10a20a2f8028ce02ab96dc1",
+    "externalIds": {
+     "DOI": "10.1016/j.mpaic.2021.07.027",
+     "CorpusId": 263371402
+    },
+    "title": "Equipment and monitoring in paediatric anaesthesia",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [
+    "Bei Notfalleingriffen ist bei nicht nüchternen Kindern die Intubation nach wie vor der beste Aspirationsschutz [10,11].",
+    "[10] Chambers NA, Ramgolam A, Sommerfield DM et al."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citingPaper": {
+    "paperId": "0589a74f0e8a85e6ef97fed88e40d837c04d99a0",
+    "externalIds": {
+     "DOI": "10.1055/a-1189-8044",
+     "CorpusId": 240873484,
+     "PubMed": "34038973"
+    },
+    "title": "Beatmung in der Kinderanästhesie",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "370d5fb120ac6b1eb186cf8cf302b35dd828c4df",
+    "externalIds": {
+     "DOI": "10.1136/archdischild-2020-320764",
+     "CorpusId": 233313425,
+     "PubMed": "33879529"
+    },
+    "title": "Comparison of the efficacy and safety of cuffed versus uncuffed endotracheal tubes for infants in the intensive care setting: a pilot, unblinded RCT",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [
+    "Since their introduction in 2006, Microcuff ETTs have been associated with fewer perioperative respiratory complications and tube exchanges than uncuffed tubes (Weiss et al., 2006; Chambers et al., 2018; Shah & Carlisle, 2019)."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citingPaper": {
+    "paperId": "bbac8d488027f47c6eaaba0f010366b5a84ec755",
+    "externalIds": {
+     "MAG": "3143219086",
+     "DOI": "10.1177/10556656211000553",
+     "CorpusId": 232482318,
+     "PubMed": "33789506"
+    },
+    "title": "The Throat Pack Debate: A Review of Current Practice in UK and Ireland Cleft Centers",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "c9f05f8cb277251ea7d272cab5c5fb2d8202eb9b",
+    "externalIds": {
+     "DOI": "10.1016/j.jpedsurg.2021.02.064",
+     "CorpusId": 232431592,
+     "PubMed": "33785203"
+    },
+    "title": "Use of cuffed endotracheal tubes in infants less than 5 Kilograms: A retrospective cohort study.",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [
+    "sore throat and hoarse voice, likely from the decrease need for tube exchanges [12].",
+    "Expired tidal volume levels, which more accurately reflect true tidal volume, increased over time in the cuffed group suggesting better maintenance of lung volumes [12].",
+    "Studies have also shown no major difference in acute respiratory complications such as stridor after extubation between cuffed and uncuffed ETT [11,13] with some showing decreased postoperative complications [12]."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citingPaper": {
+    "paperId": "512447e044822825ef31541d3dd059dd5c9a7fa1",
+    "externalIds": {
+     "MAG": "3127639488",
+     "DOI": "10.36502/2021/ASJBCCR.6228",
+     "CorpusId": 233252516
+    },
+    "title": "Cuffed vs Uncuffed Endotracheal Tubes for Pediatric Patients: A Review",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "c28a9f4a7ca923adde53a6f1206fd338f4ba8509",
+    "externalIds": {
+     "PubMedCentral": "8532237",
+     "DOI": "10.1177/20503121211052436",
+     "CorpusId": 239228061,
+     "PubMed": "34691473"
+    },
+    "title": "The prevalence of difficult airway and its associated factors in pediatric patients who underwent surgery under general anesthesia: An observational study",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "87f8402b3a33824ebe25dc0feda225ca0e23212b",
+    "externalIds": {
+     "MAG": "3112109794",
+     "DOI": "10.1111/pan.14104",
+     "CorpusId": 230608787,
+     "PubMed": "33615635"
+    },
+    "title": "Cuffed endotracheal tubes in neonates and infants of less than 3 kg body weight—A retrospective audit",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "32976bb335554005c950e51e92202be1a3807509",
+    "externalIds": {
+     "MAG": "3093577148",
+     "DOI": "10.1542/peds.2020-038505D",
+     "CorpusId": 224826594,
+     "PubMed": "33087552"
+    },
+    "title": "2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "c721a45de5f12768a683ac25a0fe977125406d1b",
+    "externalIds": {
+     "MAG": "3093949537",
+     "DOI": "10.1161/CIR.0000000000000918",
+     "CorpusId": 224824546,
+     "PubMed": "33081530"
+    },
+    "title": "Part 1: Executive Summary: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "8fb1df9a4bce2f5dbfbbfaf4cb4e321a4587afe1",
+    "externalIds": {
+     "MAG": "3094494803",
+     "DOI": "10.1161/CIR.0000000000000901",
+     "CorpusId": 224827611,
+     "PubMed": "33081526"
+    },
+    "title": "Part 4: Pediatric Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "d47d949e29fbf9da9a059ab508dc097f8589385c",
+    "externalIds": {
+     "MAG": "3088575989",
+     "DOI": "10.1002/14651858.CD013736",
+     "CorpusId": 246276818,
+     "PubMed": "35073407"
+    },
+    "title": "Cuffed versus uncuffed endotracheal tubes for neonates.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [
+    "When using a mesh ETT, the distal placement limit of the tracheal tube is in the carina, while the proximal cuffed border extends to the edge of the vocal cord [1, 4, 6, 7, 9].",
+    "In addition, the small uncuffed ETT in very low-birth weight infants in the neonatal intensive care unit with insufficient tidal volumes in mechanical ventilation results in an extension of the duration [4, 6, 10].",
+    "Disturbance of mechanical ventilation due to target tidal volume, lung compliance, and resistance changes due to ETT leakage is over 20% [4, 8].",
+    "In addition, if the uncuffed ETT is not of a suitable size, the ETT leakage rate increases; this can create problems in reaching target tidal volumes in mechanical ventilation [4, 6].",
+    "Despite disadvantages such as air leakage, environmental contamination of anesthetic gases, and aspiration, the application of an uncuffed ETT prevents trauma to the subglottic region in childhood; moreover, a lower airway is often preferred for many reasons, such as the application of resistance [1, 2, 4, 5]."
+   ],
+   "isInfluential": true,
+   "intents": [
+    "methodology",
+    "background"
+   ],
+   "citingPaper": {
+    "paperId": "09c2af3b8facce185d28b9499d71e386a7276cce",
+    "externalIds": {
+     "PubMedCentral": "7232717",
+     "MAG": "3022572248",
+     "DOI": "10.1155/2020/6325293",
+     "CorpusId": 218890260,
+     "PubMed": "32462006"
+    },
+    "title": "Uncuffed Endotracheal Tube Experience in Pediatric Patients with Laparotomy and Laparoscopic Surgeries",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "e06eba5667d2a53e835cc72cf4a1f3baa08ba483",
+    "externalIds": {
+     "MAG": "3015040193",
+     "DOI": "10.12968/coan.2019.0070",
+     "CorpusId": 216239820
+    },
+    "title": "Cuffed endotracheal tubes in cats",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "f162586a494ea0889e465898bfd610e9ec5bc2f2",
+    "externalIds": {
+     "MAG": "3011848515",
+     "DOI": "10.4187/respcare.07382",
+     "CorpusId": 212752842,
+     "PubMed": "32184375"
+    },
+    "title": "The Incidence and Severity of Hypocarbia in Neonates Undergoing General Anesthesia",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "2ddd80c99152a432d80b9b4ee21dcf39059b9c76",
+    "externalIds": {
+     "MAG": "3004162045",
+     "DOI": "10.1016/j.anclin.2019.10.001",
+     "CorpusId": 211013349,
+     "PubMed": "32008645"
+    },
+    "title": "Anesthesia for Major Surgery in the Neonate.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "8685e5525c8f3e14c443e210d54327bcf77b7bed",
+    "externalIds": {
+     "MAG": "2990766394",
+     "DOI": "10.1111/pan.13772",
+     "CorpusId": 208187028,
+     "PubMed": "31743521"
+    },
+    "title": "The development of the cricoid cartilage and its implications for the use of endotracheal tubes in the pediatric population",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "600a777e02ad0b6458011386764a953206375bf8",
+    "externalIds": {
+     "MAG": "2985824803",
+     "DOI": "10.1097/PCC.0000000000002083",
+     "CorpusId": 207890378,
+     "PubMed": "31688682"
+    },
+    "title": "Tip of the Endotracheal Tube: Reassessment of Intubation Procedure in Pediatric and Neonatal Critical Care.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [
+    "[1] was a unique, mechanistic study that investigated the effects of cuffed and uncuffed tubes on leakage and tidal volume – outcomes not addressed by a Cochrane systematic review in 2017 [21].",
+    "uncuffed tracheal tubes in children undergoing elective surgery [1]."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citingPaper": {
+    "paperId": "984e695e79ea4bf6f2f6ec6e7d081cb6e79d890c",
+    "externalIds": {
+     "MAG": "2962196322",
+     "DOI": "10.1111/anae.14787",
+     "CorpusId": 197423029,
+     "PubMed": "31313280"
+    },
+    "title": "Cuffed tracheal tubes: guilty now proven innocent",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "7df32da5df9dd5639820269a4c58148db6b9f15d",
+    "externalIds": {
+     "DOI": "10.1017/9781108565011.087",
+     "CorpusId": 242919542
+    },
+    "title": "Paediatric Physiology",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "8092aa6d5270bba2c9bdc45be8d28e19d4f331cd",
+    "externalIds": {
+     "DOI": "10.1017/9781108565011.004",
+     "CorpusId": 245215756
+    },
+    "title": "General Organisation of the Body",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "741da89f93691aa3da90b186f9d331fbd3dd6cbf",
+    "externalIds": {
+     "MAG": "2811254018",
+     "DOI": "10.1016/J.MPAIC.2018.05.001",
+     "CorpusId": 81889250
+    },
+    "title": "Equipment and monitoring in paediatric anaesthesia",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "67de3dea5625b2f947284d8abfdc54739ccf1eab",
+    "externalIds": {
+     "MAG": "2884687945",
+     "DOI": "10.1111/anae.14373",
+     "CorpusId": 207008227,
+     "PubMed": "30047981"
+    },
+    "title": "Using middle finger length to determine the internal diameter of uncuffed tracheal tubes in paediatrics",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "d6dfa5734c3c6204431b95a710a22e2e40950164",
+    "externalIds": {
+     "MAG": "2883493658",
+     "DOI": "10.1111/anae.14346",
+     "CorpusId": 51676434,
+     "PubMed": "30019450"
+    },
+    "title": "Taking stock of anaesthetic databases: enough data, time for action!",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [
+    "This might especially occur in the age group 7 and 23 months just before the use of a next bigger ETT.",
+    "Previous studies investigating the impact of ETT characteristics on tube resistance found a significant reduction in resistance when the next larger sized ETT was chosen and postulated a decreased WOB due to the reduction of resistance in larger sized ETT.19,20 The present investigation is the first study quantifying the differences in WOB between differently sized cuffed and uncuffed ETT in a standardized neonatal and pediatric lung model.",
+    "Furthermore, to choose the cuffed ETT with a 0.5 mm smaller ID than the uncuffed ETT in the same age group is in agreement with the age‐related ETT size recommendation in well‐known pediatric anesthesiology text books.27\nIn conclusion, the current study quantified and confirmed statistically significant differences in both WOB and peak inspiratory pressures between cuffed and uncuffed ETT.",
+    "To investigate the impact ATC and PSV on WOB trough cuffed and uncuffed ETT experiments were performed with and without ATC and PSV. ATC was developed by Draeger (Dräger Medical GmbH, Lübeck, Germany) and is an option of the EVITA 4 ventilator to overcome the imposed work of breathing due to an ETT.",
+    "However, as hypothesized the application of both ATC and PSV almost completely compensate for the differences in WOB between the 2 types of ETT.",
+    "On the other hand, if the Salgo formula with related ID changes at 5 and 18 months is used, the differences are smaller.16\nThe development of respirators with highly sophisticated breathing modes utilizing ATC and PSV have proven to reduce WOB in intubated adult patients,23 and may even reduce the potentially increased WOB due to the smaller inner diameter of cuffed ETT.24 The present study demonstrates a relevant reduction of around 34% in WOB during spontaneous breathing with pressure support in the investigated neonatal and pediatric lung models.",
+    "In a very recent and first randomized control study, cuffed ETT were associated with lower leak, higher tidal volumes, more stable ventilation parameters, and less adverse events (sore throat/hoarse voice) in comparison with uncuffed ETT.(4) However, the age‐matched 0.",
+    "This change in paradigm is corroborated by the clinical advantages of cuffed ETT, such as the reduced need for ETT exchange, the reliable sealing of the trachea with improved capnographic and spirometric monitoring, more efficient ventilation, as well as reduced pulmonary aspiration.(4-8) In a very recent and first randomized control study, cuffed ETT were associated with lower leak, higher tidal volumes, more stable ventilation parameters, and less adverse events (sore throat/hoarse voice) in comparison with uncuffed ETT.",
+    "The Y‐piece of the EVITA 4 ventilator breathing circuit was connected directly to the ETT, which itself was inserted into the ASL 5000 inlet through a tight sealing membrane to prevent any air leakage around the ETT.",
+    "Cuffed endotracheal tubes (ETT) are widely accepted in pediatric anesthesia and are increasingly used in neonatal and pediatric intensive care units.1-5 This change in paradigm is corroborated by the clinical advantages of cuffed ETT, such as the reduced need for ETT exchange, the reliable sealing of the trachea with improved capnographic and spirometric monitoring, more efficient ventilation, as well as reduced pulmonary aspiration.4-8 In a very recent and first randomized control study, cuffed ETT were associated with lower leak, higher tidal volumes, more stable ventilation parameters, and less adverse events (sore throat/hoarse voice) in comparison with uncuffed ETT.4 However, the age‐matched 0.5 mm smaller inner diameter (ID) of the cuffed ETT is a matter of concern, since the smaller ID of these cuffed tubes increases airway resistance, thereby increasing work of breathing (WOB) in spontaneously breathing patients or requiring higher inspiratory airway pressures with mechanical ventilation compared to uncuffed ETT.9-12 To the best of our knowledge, difference in WOB between cuffed and uncuffed ETT under different assisted spontaneous ventilation modes and effects on inspiratory airway pressures under pressure control ventilation (PCV) have never been investigated and quantified so far.",
+    "In total, the measured PiP was proximally 2 cmH2O [95% CI 1‐2] and distally 0.4 cmH2O [95% CI 0.26‐0.46] higher in cuffed than in uncuffed ETT.",
+    "These findings clearly indicate that WOB differs most at the upper age margin of a cuffed vs an uncuffed ETT.",
+    "The age cut‐offs for ID 3.0‐3.5 mm and ID 3.5‐4.0 mm cuffed ETT in this study were at 8 and 24 months, which corresponds almost exactly to the Motoyama (ID = [age/4] + 3.5)21 recommendation for using cuffed ETT.",
+    "Cuffed endotracheal tubes (ETT) are widely accepted in pediatric anesthesia and are increasingly used in neonatal and pediatric intensive care units.(1-5) This change in paradigm is corroborated by the clinical advantages of cuffed ETT, such as the reduced need for ETT exchange, the reliable sealing of the trachea with improved capnographic and spirometric monitoring, more efficient ventilation, as well as reduced pulmonary aspiration.",
+    "Secondly, this in vitro study could only investigate differences in WOB between smaller sized cuffed and uncuffed ETT, but not the risk of tube obstruction and difficulties with tracheal suction, which are further key concerns in smaller sized ETT.26 Thirdly, in contrast to our settings, the uncuffed ETT size might have to be chosen bigger in clinical practice due to an air leak around the ETT.",
+    "F) and Pmean revealed higher values in cuffed than in uncuffed ETT and became less at the distal tip of the ETT."
+   ],
+   "isInfluential": true,
+   "intents": [
+    "methodology",
+    "background"
+   ],
+   "citingPaper": {
+    "paperId": "5d4f64d9aee70a5a82a268d5ae2b42920bdc0c4d",
+    "externalIds": {
+     "MAG": "2883449797",
+     "DOI": "10.1111/pan.13430",
+     "CorpusId": 51622950,
+     "PubMed": "30004614"
+    },
+    "title": "Work of breathing for cuffed and uncuffed pediatric endotracheal tubes in an in vitro lung model setting",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [
+    "No comments, however, can be made regarding the design and type of cuffed tracheal tube used, which may have influenced the incidence of severe critical events.(22,23) The strong recommendation that the use of a cuffed tracheal tube necessitates cuff pressure monitoring,(24,25) was not universally followed in this study."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citingPaper": {
+    "paperId": "f6830013a15e8324c615266522eec5f1a2d2a3da",
+    "externalIds": {
+     "MAG": "2804776415",
+     "DOI": "10.1016/j.bja.2018.04.013",
+     "CorpusId": 49411061,
+     "PubMed": "29935596"
+    },
+    "title": "Airway management in paediatric anaesthesia in Europe—insights from APRICOT (Anaesthesia Practice In Children Observational Trial): a prospective multicentre observational study in 261 hospitals in Europe",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "0baac318f61f2353240cc4033c6d18042dfa249e",
+    "externalIds": {
+     "MAG": "2803536809",
+     "DOI": "10.1016/J.ANREA.2018.03.009",
+     "CorpusId": 81253121
+    },
+    "title": "Les voies aériennes en pédiatrie",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "20ede0ce1dddd1fdb35cd3b63463cd44f5e6368e",
+    "externalIds": {
+     "MAG": "2768248832",
+     "DOI": "10.1111/anae.14163",
+     "CorpusId": 33132020,
+     "PubMed": "29168559"
+    },
+    "title": "Time to stop using uncuffed tracheal tubes in children?",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "8f7fa916236ecadc6caf85f81ab9395c905100d8",
+    "externalIds": {
+     "PubMedCentral": "10284523",
+     "DOI": "10.5811/westjem.59560",
+     "CorpusId": 258497250,
+     "PubMed": "37278787"
+    },
+    "title": "Pediatric Application of Cuffed Endotracheal Tube",
+    "year": 2013
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "2b992d0da127f65d0d21359357b85430997617b4",
+    "externalIds": {
+     "MAG": "3138587148",
+     "DOI": "10.36290/AIM.2019.072",
+     "CorpusId": 235006859
+    },
+    "title": "The most significant publications in anaesthesiology in 2019",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "3e9692fc159cf74f473d419319aa30082363dc1a",
+    "externalIds": {
+     "MAG": "2980648211",
+     "DOI": "10.1016/j.ijporl.2019.109732",
+     "CorpusId": 204866045,
+     "PubMed": "31644996"
+    },
+    "title": "A multidisciplinary, video-based, curriculum for management of the intubated and surgical airway patient for a pediatric hospital in El Salvador.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "742f20c06b341dc95516faa8c4d4e64e1c6f2f05",
+    "externalIds": {
+     "MAG": "2902575916",
+     "DOI": "10.1016/j.amj.2018.10.002",
+     "CorpusId": 73438168,
+     "PubMed": "30711087"
+    },
+    "title": "Uncuffed Endotracheal Tubes: Not Appropriate for Pediatric Critical Care Transport.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "56a3a9cb9230626d07b175f755fc139d40e1c5ec",
+    "externalIds": {
+     "DOI": "10.1016/b978-3-437-22834-6.00004-6",
+     "CorpusId": 239178163
+    },
+    "title": "Techniken und Material",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citingPaper": {
+    "paperId": "a6d3e39feb1f21af183aec94b37ea416f4f0be32",
+    "externalIds": {
+     "MAG": "2906228033",
+     "DOI": "10.5935/2238-3182.20180086",
+     "CorpusId": 81672543
+    },
+    "title": "Leading papers in pediatric anesthesia from the last year",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [
+    "…delayed compressions), potential decrease in aspiration risk, and improved administration (and measurement) of pressure and tidal volume during mechanical ventilation—an essential aspect of preventing ventilator-induced lung injury (Chambers et al. 2018; Schweiger et al. 2013; Weiss et al. 2009)."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citingPaper": {
+    "paperId": "6833b5f1642e7dde0ffe7b5cb3b6097de550bce4",
+    "externalIds": {
+     "CorpusId": 268031646
+    },
+    "title": "Seven Myths of Mechanical Ventilation in Paediatric and Neonatal Patients",
+    "year": null
+   }
+  }
+ ]
+}

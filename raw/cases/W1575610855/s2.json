@@ -1,0 +1,175 @@
+{
+ "paper": {
+  "paperId": "73f293d097c8fc911f2376eff77dacedf5fa773c",
+  "title": "Mid‐ and Far‐Infrared Marker Bands of the Metal Coordination Sites of the Histidine Side Chains in the Protein Cu,Zn‐Superoxide Dismutase",
+  "referenceCount": 58,
+  "citationCount": 8,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null,
+   "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/EJIC.201402263?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/EJIC.201402263, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+   "Chemistry"
+  ],
+  "tldr": {
+   "model": "tldr@v2.0.0",
+   "text": "Comparisons of the DFT predictions with the experimental IR modes of the histidine ligands at the Cu,Zn-SOD active site showed that useful mid-IR markers of histidine Nτ and Nπ coordination were predicted with good accuracy."
+  },
+  "authors": [
+   {
+    "authorId": "49856454",
+    "name": "Bertrand Xerri"
+   },
+   {
+    "authorId": "12463610",
+    "name": "H. Petitjean"
+   },
+   {
+    "authorId": "12569738",
+    "name": "François Dupeyrat"
+   },
+   {
+    "authorId": "49728062",
+    "name": "J. Flament"
+   },
+   {
+    "authorId": "4418002",
+    "name": "A. Lorphelin"
+   },
+   {
+    "authorId": "6377674",
+    "name": "C. Vidaud"
+   },
+   {
+    "authorId": "2350834",
+    "name": "C. Berthomieu"
+   },
+   {
+    "authorId": "2368954",
+    "name": "D. Berthomieu"
+   }
+  ]
+ },
+ "references": [],
+ "citations": [
+  {
+   "intents": [],
+   "isInfluential": false,
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "54e0cd3830a209f0954b2be4cd422b9e190f0fbe",
+    "externalIds": {
+     "DOI": "10.1016/j.jelechem.2025.119744",
+     "CorpusId": 283901111
+    },
+    "title": "Peroxidase-mimicking Ce–hemin–MOFs/GO composite for enzyme-free electrochemical detection of H2O2",
+    "year": 2026
+   }
+  },
+  {
+   "intents": [],
+   "isInfluential": false,
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "bbe66e1b6d2b16471e08a75f33cc9e2ec6198a14",
+    "externalIds": {
+     "DOI": "10.25699/tohbipp.2022.22.79.026",
+     "CorpusId": 252894026
+    },
+    "title": "КВАНТОВОХИМИЧЕСКАЯ ОЦЕНКА ВЛИЯНИЯ ИОНА ЦИНКА НА ПЕРЕНОС ЭЛЕКТРОНА В КАТАЛИТИЧЕСКОМ ЦИКЛЕ СУПЕРОКСИДДИСМУТАЗЫ",
+    "year": 2022
+   }
+  },
+  {
+   "intents": [],
+   "isInfluential": false,
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "756fa8056ba8c76561628229129bdc7559eea8c0",
+    "externalIds": {
+     "DOI": "10.14258/izvasu(2022)4-07",
+     "CorpusId": 252796985
+    },
+    "title": "Computer Simulation of Electron Transfer between the Cytochrome Active Center and Reactive Oxygen and Nitrogen Species",
+    "year": 2022
+   }
+  },
+  {
+   "intents": [],
+   "isInfluential": false,
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "521d91f82a3c4d986f92e15934ede6805b4b304d",
+    "externalIds": {
+     "DOI": "10.1021/acsfoodscitech.1c00472",
+     "CorpusId": 246565080
+    },
+    "title": "Edible Acid–Base Complexes of Caffeic Acid with Histidine and Arginine Exhibit Enhanced Antimicrobial and Antioxidant Characteristics",
+    "year": 2022
+   }
+  },
+  {
+   "intents": [],
+   "isInfluential": false,
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "3d70760766f67c651aa46a1695b7752e40c785c3",
+    "externalIds": {
+     "MAG": "2806366164",
+     "DOI": "10.1002/cssc.201800461",
+     "CorpusId": 46945103,
+     "PubMed": "29873890"
+    },
+    "title": "Iridium-Coordinated Histidyl Bolaamphiphile Self-Assemblies as Heterogeneous Catalysts for Water Oxidation.",
+    "year": 2018
+   }
+  },
+  {
+   "intents": [],
+   "isInfluential": false,
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "98fc1154ab9671e82ad41eba15d7fd1f70ec786a",
+    "externalIds": {
+     "CorpusId": 102778626
+    },
+    "title": "Etude des sites métalliques et modélisation de la réactivité des métallo-β-lactamases par des calculs de chimie quantique",
+    "year": 2017
+   }
+  },
+  {
+   "intents": [],
+   "isInfluential": false,
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "f7e8b96cffb61ed262751e9ff2134bbebde3fcfd",
+    "externalIds": {
+     "MAG": "2559472967",
+     "DOI": "10.1007/s00894-016-3167-x",
+     "CorpusId": 43015718,
+     "PubMed": "27913928"
+    },
+    "title": "Coordination complexes of 4-methylimidazole with ZnII and CuII in gas phase and in water: a DFT study",
+    "year": 2016
+   }
+  },
+  {
+   "intents": [],
+   "isInfluential": false,
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "262a2db69fec156e997a5dc5e090fdc863e58523",
+    "externalIds": {
+     "MAG": "3111514431",
+     "DOI": "10.1063/5.0034337",
+     "CorpusId": 235019570
+    },
+    "title": "Computer simulation of SOD interaction with reactive oxygen species in low-sized membrane cell nanostructures",
+    "year": 2020
+   }
+  }
+ ]
+}

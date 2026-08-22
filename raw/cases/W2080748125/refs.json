@@ -1,0 +1,5488 @@
+[
+ {
+  "id": "https://openalex.org/W1995330222",
+  "doi": "https://doi.org/10.1038/nature719",
+  "title": "Identification of a cold receptor reveals a general role for TRP channels in thermosensation",
+  "publication_year": 2002,
+  "type": "article",
+  "cited_by_count": 2735,
+  "primary_topic": {
+   "id": "https://openalex.org/T11204",
+   "display_name": "Ion Channels and Receptors",
+   "score": 0.9995999932289124,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2809",
+    "display_name": "Sensory Systems"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/28",
+    "display_name": "Neuroscience"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/1",
+    "display_name": "Life Sciences"
+   }
+  },
+  "referenced_works_count": 50,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5014749115",
+     "display_name": "David D. McKemy",
+     "orcid": "https://orcid.org/0000-0002-5583-5983"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I180670191",
+      "display_name": "University of California, San Francisco",
+      "ror": "https://ror.org/043mz5j54",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I180670191"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "David D. McKemy",
+    "raw_affiliation_strings": [
+     "Department of Cellular and Molecular Pharmacology, University of California, San Francisco, California 94143-0450, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Cellular and Molecular Pharmacology, University of California, San Francisco, California 94143-0450, USA",
+      "institution_ids": [
+       "https://openalex.org/I180670191"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5071339080",
+     "display_name": "Werner Neuhausser",
+     "orcid": "https://orcid.org/0000-0002-5092-2658"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I180670191",
+      "display_name": "University of California, San Francisco",
+      "ror": "https://ror.org/043mz5j54",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I180670191"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Werner M. Neuhausser",
+    "raw_affiliation_strings": [
+     "Department of Cellular and Molecular Pharmacology, University of California, San Francisco, California, 94143-0450, USA",
+     "Department of Cellular and Molecular Pharmacology University of California, San Francisco (USA)"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Cellular and Molecular Pharmacology, University of California, San Francisco, California, 94143-0450, USA",
+      "institution_ids": [
+       "https://openalex.org/I180670191"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Cellular and Molecular Pharmacology University of California, San Francisco (USA)",
+      "institution_ids": [
+       "https://openalex.org/I180670191"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5014886042",
+     "display_name": "David Julius",
+     "orcid": "https://orcid.org/0000-0002-6365-4867"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I180670191",
+      "display_name": "University of California, San Francisco",
+      "ror": "https://ror.org/043mz5j54",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I180670191"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "David Julius",
+    "raw_affiliation_strings": [
+     "Department of Cellular and Molecular Pharmacology, University of California, San Francisco, California, 94143-0450, USA",
+     "Department of Cellular and Molecular Pharmacology University of California, San Francisco (USA)"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Cellular and Molecular Pharmacology, University of California, San Francisco, California, 94143-0450, USA",
+      "institution_ids": [
+       "https://openalex.org/I180670191"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Cellular and Molecular Pharmacology University of California, San Francisco (USA)",
+      "institution_ids": [
+       "https://openalex.org/I180670191"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 28.216
+ },
+ {
+  "id": "https://openalex.org/W2394084479",
+  "doi": "https://doi.org/10.1056/nejmoa0706728",
+  "title": "Polymorphisms Associated with Cholesterol and Risk of Cardiovascular Events",
+  "publication_year": 2008,
+  "type": "article",
+  "cited_by_count": 718,
+  "primary_topic": {
+   "id": "https://openalex.org/T10027",
+   "display_name": "Diabetes, Cardiovascular Risks, and Lipoproteins",
+   "score": 0.3248000144958496,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2712",
+    "display_name": "Endocrinology, Diabetes and Metabolism"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 38,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5043655881",
+     "display_name": "Sekar Kathiresan",
+     "orcid": "https://orcid.org/0000-0002-6724-032X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107606265",
+      "display_name": "Broad Institute",
+      "ror": "https://ror.org/05a0ya142",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I107606265"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I136199984",
+      "display_name": "Harvard University",
+      "ror": "https://ror.org/03vek6s52",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210087915",
+      "display_name": "Massachusetts General Hospital",
+      "ror": "https://ror.org/002pd6e78",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210087915",
+       "https://openalex.org/I48633490"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I63966007",
+      "display_name": "Massachusetts Institute of Technology",
+      "ror": "https://ror.org/042nb2s44",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63966007"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Sekar Kathiresan",
+    "raw_affiliation_strings": [
+     "Cardiovascular Disease Prevention Center, Cardiology Division, Massachusetts General Hospital, MA 02114, USA. skathiresan@partners.org",
+     "Broad Institute of the Massachusetts Institute of Technology and Harvard University, Cambridge, MA",
+     "Cardiology Division, Massachusetts General Hospital",
+     "Departments of Medicine, Harvard Medical School"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Cardiovascular Disease Prevention Center, Cardiology Division, Massachusetts General Hospital, MA 02114, USA. skathiresan@partners.org",
+      "institution_ids": [
+       "https://openalex.org/I4210087915"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Broad Institute of the Massachusetts Institute of Technology and Harvard University, Cambridge, MA",
+      "institution_ids": [
+       "https://openalex.org/I107606265",
+       "https://openalex.org/I136199984",
+       "https://openalex.org/I63966007"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Cardiology Division, Massachusetts General Hospital",
+      "institution_ids": [
+       "https://openalex.org/I4210087915"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Departments of Medicine, Harvard Medical School",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5086839394",
+     "display_name": "Olle Melander",
+     "orcid": "https://orcid.org/0000-0002-2581-484X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210135551",
+      "display_name": "Hypertension Institute",
+      "ror": "https://ror.org/04azstb81",
+      "country_code": "US",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210135551"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Olle Melander",
+    "raw_affiliation_strings": [
+     "Departments of Clinical Sciences, Hypertension, and Cardiovascular Diseases"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Departments of Clinical Sciences, Hypertension, and Cardiovascular Diseases",
+      "institution_ids": [
+       "https://openalex.org/I4210135551"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5071075743",
+     "display_name": "Dragi Anevski",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I187531555",
+      "display_name": "Lund University",
+      "ror": "https://ror.org/012a77v79",
+      "country_code": "SE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I187531555"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2799803081",
+      "display_name": "Diabetes Australia",
+      "ror": "https://ror.org/008aaf926",
+      "country_code": "AU",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I2799803081"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I66862912",
+      "display_name": "Chalmers University of Technology",
+      "ror": "https://ror.org/040wg7k59",
+      "country_code": "SE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I66862912"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "SE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Dragi Anevski",
+    "raw_affiliation_strings": [
+     "Diabetes and Endocrinology",
+     "University Hospital Malmö, Lund University, Malmö, and Chalmers University of Technology, Göteborg"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Diabetes and Endocrinology",
+      "institution_ids": [
+       "https://openalex.org/I2799803081"
+      ]
+     },
+     {
+      "raw_affiliation_string": "University Hospital Malmö, Lund University, Malmö, and Chalmers University of Technology, Göteborg",
+      "institution_ids": [
+       "https://openalex.org/I187531555",
+       "https://openalex.org/I66862912"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5111905559",
+     "display_name": "Candace Guiducci",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107606265",
+      "display_name": "Broad Institute",
+      "ror": "https://ror.org/05a0ya142",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I107606265"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I136199984",
+      "display_name": "Harvard University",
+      "ror": "https://ror.org/03vek6s52",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I63966007",
+      "display_name": "Massachusetts Institute of Technology",
+      "ror": "https://ror.org/042nb2s44",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63966007"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Candace Guiducci",
+    "raw_affiliation_strings": [
+     "Broad Institute of the Massachusetts Institute of Technology and Harvard University, Cambridge, MA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Broad Institute of the Massachusetts Institute of Technology and Harvard University, Cambridge, MA",
+      "institution_ids": [
+       "https://openalex.org/I107606265",
+       "https://openalex.org/I136199984",
+       "https://openalex.org/I63966007"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5107862545",
+     "display_name": "Noël P. Burtt",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107606265",
+      "display_name": "Broad Institute",
+      "ror": "https://ror.org/05a0ya142",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I107606265"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I136199984",
+      "display_name": "Harvard University",
+      "ror": "https://ror.org/03vek6s52",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I63966007",
+      "display_name": "Massachusetts Institute of Technology",
+      "ror": "https://ror.org/042nb2s44",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63966007"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Noël P. Burtt",
+    "raw_affiliation_strings": [
+     "Broad Institute of the Massachusetts Institute of Technology and Harvard University, Cambridge, MA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Broad Institute of the Massachusetts Institute of Technology and Harvard University, Cambridge, MA",
+      "institution_ids": [
+       "https://openalex.org/I107606265",
+       "https://openalex.org/I136199984",
+       "https://openalex.org/I63966007"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5074610409",
+     "display_name": "Charlotta Roos",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2799803081",
+      "display_name": "Diabetes Australia",
+      "ror": "https://ror.org/008aaf926",
+      "country_code": "AU",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I2799803081"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Charlotta Roos",
+    "raw_affiliation_strings": [
+     "Diabetes and Endocrinology"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Diabetes and Endocrinology",
+      "institution_ids": [
+       "https://openalex.org/I2799803081"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5001552586",
+     "display_name": "Joel N. Hirschhorn",
+     "orcid": "https://orcid.org/0000-0002-1650-7901"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107606265",
+      "display_name": "Broad Institute",
+      "ror": "https://ror.org/05a0ya142",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I107606265"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I136199984",
+      "display_name": "Harvard University",
+      "ror": "https://ror.org/03vek6s52",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210147155",
+      "display_name": "Pediatrics and Genetics",
+      "ror": "https://ror.org/03t432d20",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210147155"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210162629",
+      "display_name": "Children's Hospital",
+      "ror": "https://ror.org/0511k4970",
+      "country_code": "TN",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210162629"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I63966007",
+      "display_name": "Massachusetts Institute of Technology",
+      "ror": "https://ror.org/042nb2s44",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63966007"
+      ]
+     }
+    ],
+    "countries": [
+     "TN",
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Joel N. Hirschhorn",
+    "raw_affiliation_strings": [
+     "Broad Institute of the Massachusetts Institute of Technology and Harvard University, Cambridge, MA",
+     "Division of Endocrinology and Genetics, Children's Hospital",
+     "Genetics, Harvard Medical School",
+     "Pediatrics, Harvard Medical School"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Broad Institute of the Massachusetts Institute of Technology and Harvard University, Cambridge, MA",
+      "institution_ids": [
+       "https://openalex.org/I107606265",
+       "https://openalex.org/I136199984",
+       "https://openalex.org/I63966007"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Endocrinology and Genetics, Children's Hospital",
+      "institution_ids": [
+       "https://openalex.org/I4210147155",
+       "https://openalex.org/I4210162629"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Genetics, Harvard Medical School",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Pediatrics, Harvard Medical School",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5108495483",
+     "display_name": "Göran Berglund",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Göran Berglund",
+    "raw_affiliation_strings": [
+     "Internal Medicine"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Internal Medicine",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5004404785",
+     "display_name": "Bo Hedblad",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Bo Hedblad",
+    "raw_affiliation_strings": [
+     "Epidemiological Research"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Epidemiological Research",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5074771810",
+     "display_name": "Leif Groop",
+     "orcid": "https://orcid.org/0000-0002-0187-3263"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2799803081",
+      "display_name": "Diabetes Australia",
+      "ror": "https://ror.org/008aaf926",
+      "country_code": "AU",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I2799803081"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800394112",
+      "display_name": "Helsinki University Hospital",
+      "ror": "https://ror.org/02e8hzf44",
+      "country_code": "FI",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2800394112",
+       "https://openalex.org/I4210166427"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "FI"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Leif Groop",
+    "raw_affiliation_strings": [
+     "Diabetes and Endocrinology",
+     "Helsinki University Hospital, Helsinki"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Diabetes and Endocrinology",
+      "institution_ids": [
+       "https://openalex.org/I2799803081"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Helsinki University Hospital, Helsinki",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5100340817",
+     "display_name": "David Altshuler",
+     "orcid": "https://orcid.org/0000-0002-7250-4107"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107606265",
+      "display_name": "Broad Institute",
+      "ror": "https://ror.org/05a0ya142",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I107606265"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I136199984",
+      "display_name": "Harvard University",
+      "ror": "https://ror.org/03vek6s52",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210087915",
+      "display_name": "Massachusetts General Hospital",
+      "ror": "https://ror.org/002pd6e78",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210087915",
+       "https://openalex.org/I48633490"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210105714",
+      "display_name": "Center for Human Genetics",
+      "ror": "https://ror.org/01gcrbc43",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210105714"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I63966007",
+      "display_name": "Massachusetts Institute of Technology",
+      "ror": "https://ror.org/042nb2s44",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63966007"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "David M. Altshuler",
+    "raw_affiliation_strings": [
+     "Broad Institute of the Massachusetts Institute of Technology and Harvard University, Cambridge, MA",
+     "Center for Human Genetic Research and Department of Molecular Biology, Massachusetts General Hospital",
+     "Departments of Medicine, Harvard Medical School",
+     "Genetics, Harvard Medical School"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Broad Institute of the Massachusetts Institute of Technology and Harvard University, Cambridge, MA",
+      "institution_ids": [
+       "https://openalex.org/I107606265",
+       "https://openalex.org/I136199984",
+       "https://openalex.org/I63966007"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Center for Human Genetic Research and Department of Molecular Biology, Massachusetts General Hospital",
+      "institution_ids": [
+       "https://openalex.org/I4210087915",
+       "https://openalex.org/I4210105714"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Departments of Medicine, Harvard Medical School",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Genetics, Harvard Medical School",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5011797463",
+     "display_name": "Christopher Newton‐Cheh",
+     "orcid": "https://orcid.org/0000-0002-3001-9111"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107606265",
+      "display_name": "Broad Institute",
+      "ror": "https://ror.org/05a0ya142",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I107606265"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I136199984",
+      "display_name": "Harvard University",
+      "ror": "https://ror.org/03vek6s52",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210087915",
+      "display_name": "Massachusetts General Hospital",
+      "ror": "https://ror.org/002pd6e78",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210087915",
+       "https://openalex.org/I48633490"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I63966007",
+      "display_name": "Massachusetts Institute of Technology",
+      "ror": "https://ror.org/042nb2s44",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63966007"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Christopher Newton-Cheh",
+    "raw_affiliation_strings": [
+     "Broad Institute of the Massachusetts Institute of Technology and Harvard University, Cambridge, MA",
+     "Cardiology Division, Massachusetts General Hospital",
+     "Departments of Medicine, Harvard Medical School"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Broad Institute of the Massachusetts Institute of Technology and Harvard University, Cambridge, MA",
+      "institution_ids": [
+       "https://openalex.org/I107606265",
+       "https://openalex.org/I136199984",
+       "https://openalex.org/I63966007"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Cardiology Division, Massachusetts General Hospital",
+      "institution_ids": [
+       "https://openalex.org/I4210087915"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Departments of Medicine, Harvard Medical School",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5077037910",
+     "display_name": "Marju Orho‐Melander",
+     "orcid": "https://orcid.org/0000-0002-3578-2503"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2799803081",
+      "display_name": "Diabetes Australia",
+      "ror": "https://ror.org/008aaf926",
+      "country_code": "AU",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I2799803081"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Marju Orho-Melander",
+    "raw_affiliation_strings": [
+     "Diabetes and Endocrinology"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Diabetes and Endocrinology",
+      "institution_ids": [
+       "https://openalex.org/I2799803081"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 47.6151
+ },
+ {
+  "id": "https://openalex.org/W2165491366",
+  "doi": null,
+  "title": "Trp-p8, a novel prostate-specific gene, is up-regulated in prostate cancer and other malignancies and shares high homology with transient receptor potential calcium channel proteins.",
+  "publication_year": 2001,
+  "type": "article",
+  "cited_by_count": 601,
+  "primary_topic": {
+   "id": "https://openalex.org/T10493",
+   "display_name": "Ion channel regulation and function",
+   "score": 0.9994000196456909,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1312",
+    "display_name": "Molecular Biology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/13",
+    "display_name": "Biochemistry, Genetics and Molecular Biology"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/1",
+    "display_name": "Life Sciences"
+   }
+  },
+  "referenced_works_count": 38,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5085671964",
+     "display_name": "Larisa Tsavaler",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I264058686",
+      "display_name": "Dendreon (United States)",
+      "ror": "https://ror.org/03fm7r592",
+      "country_code": "US",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I264058686"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "L Tsavaler",
+    "raw_affiliation_strings": [
+     "Dendreon Corporation, Seattle, Washington 98121, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Dendreon Corporation, Seattle, Washington 98121, USA",
+      "institution_ids": [
+       "https://openalex.org/I264058686"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5089131044",
+     "display_name": "Michael H. Shapero",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "M H Shapero",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5083553339",
+     "display_name": "Stan Morkowski",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "S Morkowski",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5090532560",
+     "display_name": "Reiner Laus",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "R Laus",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   }
+  ],
+  "fwci": 7.2305
+ },
+ {
+  "id": "https://openalex.org/W2022525201",
+  "doi": "https://doi.org/10.1161/01.cir.0000131511.50734.44",
+  "title": "Atherogenic Lipoprotein Particles in Atherosclerosis",
+  "publication_year": 2004,
+  "type": "article",
+  "cited_by_count": 499,
+  "primary_topic": {
+   "id": "https://openalex.org/T10445",
+   "display_name": "Antioxidant Activity and Oxidative Stress",
+   "score": 0.9994000196456909,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2704",
+    "display_name": "Biochemistry"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 51,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5111702602",
+     "display_name": "Rafael Carmena",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I154526488",
+      "display_name": "Inserm",
+      "ror": "https://ror.org/02vjkv261",
+      "country_code": "FR",
+      "type": "government",
+      "lineage": [
+       "https://openalex.org/I154526488"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800921988",
+      "display_name": "Institut Pasteur de Lille",
+      "ror": "https://ror.org/05k9skc85",
+      "country_code": "FR",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I2800921988"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Rafael Carmena",
+    "raw_affiliation_strings": [
+     "From the Department of Endocrinology and Nutrition (R.C.), Facultad de Medicina y Hospital Clínico Universitario, Valencia, Spain; Faculté de Pharmacie (P.D., J.-C.F.), Université du Droit et de la Santé de Lille 2, and the Département de Recherche sur les Lipoprotéines et l’Athérosclérose, Inserm U545 (P.D., J.-C.F.), Institut Pasteur de Lille, Lille, France"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Endocrinology and Nutrition (R.C.), Facultad de Medicina y Hospital Clínico Universitario, Valencia, Spain; Faculté de Pharmacie (P.D., J.-C.F.), Université du Droit et de la Santé de Lille 2, and the Département de Recherche sur les Lipoprotéines et l’Athérosclérose, Inserm U545 (P.D., J.-C.F.), Institut Pasteur de Lille, Lille, France",
+      "institution_ids": [
+       "https://openalex.org/I154526488",
+       "https://openalex.org/I2800921988"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5102779379",
+     "display_name": "Patrick Duriez",
+     "orcid": "https://orcid.org/0000-0003-0683-1860"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I154526488",
+      "display_name": "Inserm",
+      "ror": "https://ror.org/02vjkv261",
+      "country_code": "FR",
+      "type": "government",
+      "lineage": [
+       "https://openalex.org/I154526488"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800921988",
+      "display_name": "Institut Pasteur de Lille",
+      "ror": "https://ror.org/05k9skc85",
+      "country_code": "FR",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I2800921988"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Patrick Duriez",
+    "raw_affiliation_strings": [
+     "From the Department of Endocrinology and Nutrition (R.C.), Facultad de Medicina y Hospital Clínico Universitario, Valencia, Spain; Faculté de Pharmacie (P.D., J.-C.F.), Université du Droit et de la Santé de Lille 2, and the Département de Recherche sur les Lipoprotéines et l’Athérosclérose, Inserm U545 (P.D., J.-C.F.), Institut Pasteur de Lille, Lille, France"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Endocrinology and Nutrition (R.C.), Facultad de Medicina y Hospital Clínico Universitario, Valencia, Spain; Faculté de Pharmacie (P.D., J.-C.F.), Université du Droit et de la Santé de Lille 2, and the Département de Recherche sur les Lipoprotéines et l’Athérosclérose, Inserm U545 (P.D., J.-C.F.), Institut Pasteur de Lille, Lille, France",
+      "institution_ids": [
+       "https://openalex.org/I154526488",
+       "https://openalex.org/I2800921988"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5111913611",
+     "display_name": "Jean‐Charles Fruchart",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I154526488",
+      "display_name": "Inserm",
+      "ror": "https://ror.org/02vjkv261",
+      "country_code": "FR",
+      "type": "government",
+      "lineage": [
+       "https://openalex.org/I154526488"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800921988",
+      "display_name": "Institut Pasteur de Lille",
+      "ror": "https://ror.org/05k9skc85",
+      "country_code": "FR",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I2800921988"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Jean-Charles Fruchart",
+    "raw_affiliation_strings": [
+     "From the Department of Endocrinology and Nutrition (R.C.), Facultad de Medicina y Hospital Clínico Universitario, Valencia, Spain; Faculté de Pharmacie (P.D., J.-C.F.), Université du Droit et de la Santé de Lille 2, and the Département de Recherche sur les Lipoprotéines et l’Athérosclérose, Inserm U545 (P.D., J.-C.F.), Institut Pasteur de Lille, Lille, France"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Endocrinology and Nutrition (R.C.), Facultad de Medicina y Hospital Clínico Universitario, Valencia, Spain; Faculté de Pharmacie (P.D., J.-C.F.), Université du Droit et de la Santé de Lille 2, and the Département de Recherche sur les Lipoprotéines et l’Athérosclérose, Inserm U545 (P.D., J.-C.F.), Institut Pasteur de Lille, Lille, France",
+      "institution_ids": [
+       "https://openalex.org/I154526488",
+       "https://openalex.org/I2800921988"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 9.5742
+ },
+ {
+  "id": "https://openalex.org/W2130626257",
+  "doi": "https://doi.org/10.1161/01.atv.0000255311.26383.2f",
+  "title": "A Novel Loss of Function Mutation of PCSK9 Gene in White Subjects With Low-Plasma Low-Density Lipoprotein Cholesterol",
+  "publication_year": 2006,
+  "type": "article",
+  "cited_by_count": 126,
+  "primary_topic": {
+   "id": "https://openalex.org/T10394",
+   "display_name": "Lipoproteins and Cardiovascular Health",
+   "score": 0.9696000218391418,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2746",
+    "display_name": "Surgery"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 28,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5014229607",
+     "display_name": "Tommaso Fasano",
+     "orcid": "https://orcid.org/0000-0003-0816-2162"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I122346577",
+      "display_name": "University of Modena and Reggio Emilia",
+      "ror": "https://ror.org/02d4c4y02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210096532",
+      "display_name": "Fondazione Ricerca Molinette",
+      "ror": "https://ror.org/01mhzrb93",
+      "country_code": "IT",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210096532"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I55143463",
+      "display_name": "University of Turin",
+      "ror": "https://ror.org/048tbm396",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I900890020",
+      "display_name": "University of Palermo",
+      "ror": "https://ror.org/044k9ta02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I900890020"
+      ]
+     }
+    ],
+    "countries": [
+     "IT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Tommaso Fasano",
+    "raw_affiliation_strings": [
+     "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+     "Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+      "institution_ids": [
+       "https://openalex.org/I900890020"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I4210096532"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5038120819",
+     "display_name": "Angelo B. Cefalù",
+     "orcid": "https://orcid.org/0000-0003-1259-8284"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I122346577",
+      "display_name": "University of Modena and Reggio Emilia",
+      "ror": "https://ror.org/02d4c4y02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210096532",
+      "display_name": "Fondazione Ricerca Molinette",
+      "ror": "https://ror.org/01mhzrb93",
+      "country_code": "IT",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210096532"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I55143463",
+      "display_name": "University of Turin",
+      "ror": "https://ror.org/048tbm396",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55143463"
+      ]
+     }
+    ],
+    "countries": [
+     "IT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Angelo B. Cefalù",
+    "raw_affiliation_strings": [
+     "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I4210096532"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5103400534",
+     "display_name": "Enza Di Leo",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I122346577",
+      "display_name": "University of Modena and Reggio Emilia",
+      "ror": "https://ror.org/02d4c4y02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210096532",
+      "display_name": "Fondazione Ricerca Molinette",
+      "ror": "https://ror.org/01mhzrb93",
+      "country_code": "IT",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210096532"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I55143463",
+      "display_name": "University of Turin",
+      "ror": "https://ror.org/048tbm396",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I900890020",
+      "display_name": "University of Palermo",
+      "ror": "https://ror.org/044k9ta02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I900890020"
+      ]
+     }
+    ],
+    "countries": [
+     "IT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Enza Di Leo",
+    "raw_affiliation_strings": [
+     "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+     "Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+      "institution_ids": [
+       "https://openalex.org/I900890020"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I4210096532"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5000781891",
+     "display_name": "Davide Noto",
+     "orcid": "https://orcid.org/0000-0002-5346-2829"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I122346577",
+      "display_name": "University of Modena and Reggio Emilia",
+      "ror": "https://ror.org/02d4c4y02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210096532",
+      "display_name": "Fondazione Ricerca Molinette",
+      "ror": "https://ror.org/01mhzrb93",
+      "country_code": "IT",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210096532"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I55143463",
+      "display_name": "University of Turin",
+      "ror": "https://ror.org/048tbm396",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I900890020",
+      "display_name": "University of Palermo",
+      "ror": "https://ror.org/044k9ta02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I900890020"
+      ]
+     }
+    ],
+    "countries": [
+     "IT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Davide Noto",
+    "raw_affiliation_strings": [
+     "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+     "Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+      "institution_ids": [
+       "https://openalex.org/I900890020"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I4210096532"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5023154238",
+     "display_name": "Daniela Pollaccia",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I122346577",
+      "display_name": "University of Modena and Reggio Emilia",
+      "ror": "https://ror.org/02d4c4y02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210096532",
+      "display_name": "Fondazione Ricerca Molinette",
+      "ror": "https://ror.org/01mhzrb93",
+      "country_code": "IT",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210096532"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I55143463",
+      "display_name": "University of Turin",
+      "ror": "https://ror.org/048tbm396",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I900890020",
+      "display_name": "University of Palermo",
+      "ror": "https://ror.org/044k9ta02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I900890020"
+      ]
+     }
+    ],
+    "countries": [
+     "IT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Daniela Pollaccia",
+    "raw_affiliation_strings": [
+     "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+     "Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+      "institution_ids": [
+       "https://openalex.org/I900890020"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I4210096532"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5101988912",
+     "display_name": "Letizia Bocchi",
+     "orcid": "https://orcid.org/0000-0002-1439-4245"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I122346577",
+      "display_name": "University of Modena and Reggio Emilia",
+      "ror": "https://ror.org/02d4c4y02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210096532",
+      "display_name": "Fondazione Ricerca Molinette",
+      "ror": "https://ror.org/01mhzrb93",
+      "country_code": "IT",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210096532"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I55143463",
+      "display_name": "University of Turin",
+      "ror": "https://ror.org/048tbm396",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I900890020",
+      "display_name": "University of Palermo",
+      "ror": "https://ror.org/044k9ta02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I900890020"
+      ]
+     }
+    ],
+    "countries": [
+     "IT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Letizia Bocchi",
+    "raw_affiliation_strings": [
+     "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+     "Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+      "institution_ids": [
+       "https://openalex.org/I900890020"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I4210096532"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5103768295",
+     "display_name": "Vincenza Valenti",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I122346577",
+      "display_name": "University of Modena and Reggio Emilia",
+      "ror": "https://ror.org/02d4c4y02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210096532",
+      "display_name": "Fondazione Ricerca Molinette",
+      "ror": "https://ror.org/01mhzrb93",
+      "country_code": "IT",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210096532"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I55143463",
+      "display_name": "University of Turin",
+      "ror": "https://ror.org/048tbm396",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I900890020",
+      "display_name": "University of Palermo",
+      "ror": "https://ror.org/044k9ta02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I900890020"
+      ]
+     }
+    ],
+    "countries": [
+     "IT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Vincenza Valenti",
+    "raw_affiliation_strings": [
+     "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+     "Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+      "institution_ids": [
+       "https://openalex.org/I900890020"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I4210096532"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5110238232",
+     "display_name": "R Bonardi",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I122346577",
+      "display_name": "University of Modena and Reggio Emilia",
+      "ror": "https://ror.org/02d4c4y02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210096532",
+      "display_name": "Fondazione Ricerca Molinette",
+      "ror": "https://ror.org/01mhzrb93",
+      "country_code": "IT",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210096532"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I55143463",
+      "display_name": "University of Turin",
+      "ror": "https://ror.org/048tbm396",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I900890020",
+      "display_name": "University of Palermo",
+      "ror": "https://ror.org/044k9ta02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I900890020"
+      ]
+     }
+    ],
+    "countries": [
+     "IT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Renato Bonardi",
+    "raw_affiliation_strings": [
+     "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+     "Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+      "institution_ids": [
+       "https://openalex.org/I900890020"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I4210096532"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5024755308",
+     "display_name": "Ornella Guardamagna",
+     "orcid": "https://orcid.org/0000-0003-3137-5916"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I122346577",
+      "display_name": "University of Modena and Reggio Emilia",
+      "ror": "https://ror.org/02d4c4y02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210096532",
+      "display_name": "Fondazione Ricerca Molinette",
+      "ror": "https://ror.org/01mhzrb93",
+      "country_code": "IT",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210096532"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I55143463",
+      "display_name": "University of Turin",
+      "ror": "https://ror.org/048tbm396",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I900890020",
+      "display_name": "University of Palermo",
+      "ror": "https://ror.org/044k9ta02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I900890020"
+      ]
+     }
+    ],
+    "countries": [
+     "IT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Ornella Guardamagna",
+    "raw_affiliation_strings": [
+     "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+     "Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+      "institution_ids": [
+       "https://openalex.org/I900890020"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I4210096532"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5073159448",
+     "display_name": "Maurizio Averna",
+     "orcid": "https://orcid.org/0000-0003-3558-9209"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I122346577",
+      "display_name": "University of Modena and Reggio Emilia",
+      "ror": "https://ror.org/02d4c4y02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210096532",
+      "display_name": "Fondazione Ricerca Molinette",
+      "ror": "https://ror.org/01mhzrb93",
+      "country_code": "IT",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210096532"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I55143463",
+      "display_name": "University of Turin",
+      "ror": "https://ror.org/048tbm396",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I900890020",
+      "display_name": "University of Palermo",
+      "ror": "https://ror.org/044k9ta02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I900890020"
+      ]
+     }
+    ],
+    "countries": [
+     "IT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Maurizio Averna",
+    "raw_affiliation_strings": [
+     "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+     "Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+      "institution_ids": [
+       "https://openalex.org/I900890020"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I4210096532"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5023815363",
+     "display_name": "Patrizia Tarugi",
+     "orcid": "https://orcid.org/0000-0001-6864-7853"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I122346577",
+      "display_name": "University of Modena and Reggio Emilia",
+      "ror": "https://ror.org/02d4c4y02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210096532",
+      "display_name": "Fondazione Ricerca Molinette",
+      "ror": "https://ror.org/01mhzrb93",
+      "country_code": "IT",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210096532"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I55143463",
+      "display_name": "University of Turin",
+      "ror": "https://ror.org/048tbm396",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I900890020",
+      "display_name": "University of Palermo",
+      "ror": "https://ror.org/044k9ta02",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I900890020"
+      ]
+     }
+    ],
+    "countries": [
+     "IT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Patrizia Tarugi",
+    "raw_affiliation_strings": [
+     "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+     "Department of Pediatrics (O.G.), University of Torino, Italy",
+     "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Biomedical Sciences (T.F., E.D., L.B., P.T.), University of Modena and Reggio Emilia, Italy; Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy; Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy; Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I122346577"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Clinical Medicine and Emerging Diseases (A.B.C., D.N., D.P., V.V., M.A.), University of Palermo, Italy",
+      "institution_ids": [
+       "https://openalex.org/I900890020"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pediatrics (O.G.), University of Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I55143463"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Gastroenterology and Nutrition (R.B.), Molinette Hospital, Torino, Italy",
+      "institution_ids": [
+       "https://openalex.org/I4210096532"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 7.2219
+ },
+ {
+  "id": "https://openalex.org/W1971175832",
+  "doi": "https://doi.org/10.1161/01.cir.0000057982.50167.6e",
+  "title": "Relationships Between Low-Density Lipoprotein Particle Size, Plasma Lipoproteins, and Progression of Coronary Artery Disease",
+  "publication_year": 2003,
+  "type": "article",
+  "cited_by_count": 270,
+  "primary_topic": {
+   "id": "https://openalex.org/T10394",
+   "display_name": "Lipoproteins and Cardiovascular Health",
+   "score": 0.41200000047683716,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2746",
+    "display_name": "Surgery"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 31,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5069482949",
+     "display_name": "Juha Vakkilainen",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1325899441",
+      "display_name": "University Health Network",
+      "ror": "https://ror.org/042xt5161",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1325899441"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800394112",
+      "display_name": "Helsinki University Hospital",
+      "ror": "https://ror.org/02e8hzf44",
+      "country_code": "FI",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2800394112",
+       "https://openalex.org/I4210166427"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210156625",
+      "display_name": "Institut Alfred Fournier",
+      "ror": "https://ror.org/053wdqs10",
+      "country_code": "FR",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210156625"
+      ]
+     }
+    ],
+    "countries": [
+     "CA",
+     "FI",
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Juha Vakkilainen",
+    "raw_affiliation_strings": [
+     "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+     "Juha Vakkilainen From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.)",
+     "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+     "the University Health Network, Toronto, Canada (G.S.)"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Juha Vakkilainen From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.)",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+      "institution_ids": [
+       "https://openalex.org/I4210156625"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the University Health Network, Toronto, Canada (G.S.)",
+      "institution_ids": [
+       "https://openalex.org/I1325899441"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5109176818",
+     "display_name": "George Steiner",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1325899441",
+      "display_name": "University Health Network",
+      "ror": "https://ror.org/042xt5161",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1325899441"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800394112",
+      "display_name": "Helsinki University Hospital",
+      "ror": "https://ror.org/02e8hzf44",
+      "country_code": "FI",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2800394112",
+       "https://openalex.org/I4210166427"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210156625",
+      "display_name": "Institut Alfred Fournier",
+      "ror": "https://ror.org/053wdqs10",
+      "country_code": "FR",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210156625"
+      ]
+     }
+    ],
+    "countries": [
+     "CA",
+     "FI",
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "George Steiner",
+    "raw_affiliation_strings": [
+     "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+     "George Steiner From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.)",
+     "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+     "the University Health Network, Toronto, Canada (G.S.)"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     },
+     {
+      "raw_affiliation_string": "George Steiner From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.)",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+      "institution_ids": [
+       "https://openalex.org/I4210156625"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the University Health Network, Toronto, Canada (G.S.)",
+      "institution_ids": [
+       "https://openalex.org/I1325899441"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5064557050",
+     "display_name": "Jean-Claude Ansquer",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1325899441",
+      "display_name": "University Health Network",
+      "ror": "https://ror.org/042xt5161",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1325899441"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800394112",
+      "display_name": "Helsinki University Hospital",
+      "ror": "https://ror.org/02e8hzf44",
+      "country_code": "FI",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2800394112",
+       "https://openalex.org/I4210166427"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210156625",
+      "display_name": "Institut Alfred Fournier",
+      "ror": "https://ror.org/053wdqs10",
+      "country_code": "FR",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210156625"
+      ]
+     }
+    ],
+    "countries": [
+     "CA",
+     "FI",
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Jean-Claude Ansquer",
+    "raw_affiliation_strings": [
+     "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+     "Jean-Claude Ansquer From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.)",
+     "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+     "the University Health Network, Toronto, Canada (G.S.)"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Jean-Claude Ansquer From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.)",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+      "institution_ids": [
+       "https://openalex.org/I4210156625"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the University Health Network, Toronto, Canada (G.S.)",
+      "institution_ids": [
+       "https://openalex.org/I1325899441"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5044024585",
+     "display_name": "F. Aubin",
+     "orcid": "https://orcid.org/0000-0002-1421-4996"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1325899441",
+      "display_name": "University Health Network",
+      "ror": "https://ror.org/042xt5161",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1325899441"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I1335113835",
+      "display_name": "Karolinska University Hospital",
+      "ror": "https://ror.org/00m8d6786",
+      "country_code": "SE",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1335113835"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800394112",
+      "display_name": "Helsinki University Hospital",
+      "ror": "https://ror.org/02e8hzf44",
+      "country_code": "FI",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2800394112",
+       "https://openalex.org/I4210166427"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210156625",
+      "display_name": "Institut Alfred Fournier",
+      "ror": "https://ror.org/053wdqs10",
+      "country_code": "FR",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210156625"
+      ]
+     }
+    ],
+    "countries": [
+     "CA",
+     "FI",
+     "FR",
+     "SE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Francois Aubin",
+    "raw_affiliation_strings": [
+     "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+     "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+     "the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+     "the University Health Network, Toronto, Canada (G.S.)"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+      "institution_ids": [
+       "https://openalex.org/I4210156625"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+      "institution_ids": [
+       "https://openalex.org/I1335113835"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the University Health Network, Toronto, Canada (G.S.)",
+      "institution_ids": [
+       "https://openalex.org/I1325899441"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5017171423",
+     "display_name": "Stephanie Rattier",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1325899441",
+      "display_name": "University Health Network",
+      "ror": "https://ror.org/042xt5161",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1325899441"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I1335113835",
+      "display_name": "Karolinska University Hospital",
+      "ror": "https://ror.org/00m8d6786",
+      "country_code": "SE",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1335113835"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800394112",
+      "display_name": "Helsinki University Hospital",
+      "ror": "https://ror.org/02e8hzf44",
+      "country_code": "FI",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2800394112",
+       "https://openalex.org/I4210166427"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210156625",
+      "display_name": "Institut Alfred Fournier",
+      "ror": "https://ror.org/053wdqs10",
+      "country_code": "FR",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210156625"
+      ]
+     }
+    ],
+    "countries": [
+     "CA",
+     "FI",
+     "FR",
+     "SE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Stephanie Rattier",
+    "raw_affiliation_strings": [
+     "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+     "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+     "the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+     "the University Health Network, Toronto, Canada (G.S.)"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+      "institution_ids": [
+       "https://openalex.org/I4210156625"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+      "institution_ids": [
+       "https://openalex.org/I1335113835"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the University Health Network, Toronto, Canada (G.S.)",
+      "institution_ids": [
+       "https://openalex.org/I1325899441"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5007228758",
+     "display_name": "Christelle Foucher",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1325899441",
+      "display_name": "University Health Network",
+      "ror": "https://ror.org/042xt5161",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1325899441"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800394112",
+      "display_name": "Helsinki University Hospital",
+      "ror": "https://ror.org/02e8hzf44",
+      "country_code": "FI",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2800394112",
+       "https://openalex.org/I4210166427"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210156625",
+      "display_name": "Institut Alfred Fournier",
+      "ror": "https://ror.org/053wdqs10",
+      "country_code": "FR",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210156625"
+      ]
+     }
+    ],
+    "countries": [
+     "CA",
+     "FI",
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Christelle Foucher",
+    "raw_affiliation_strings": [
+     "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+     "Christelle Foucher From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.)",
+     "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+     "the University Health Network, Toronto, Canada (G.S.)"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Christelle Foucher From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.)",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+      "institution_ids": [
+       "https://openalex.org/I4210156625"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the University Health Network, Toronto, Canada (G.S.)",
+      "institution_ids": [
+       "https://openalex.org/I1325899441"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5113476701",
+     "display_name": "Anders Hamsten",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1325899441",
+      "display_name": "University Health Network",
+      "ror": "https://ror.org/042xt5161",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1325899441"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800394112",
+      "display_name": "Helsinki University Hospital",
+      "ror": "https://ror.org/02e8hzf44",
+      "country_code": "FI",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2800394112",
+       "https://openalex.org/I4210166427"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210156625",
+      "display_name": "Institut Alfred Fournier",
+      "ror": "https://ror.org/053wdqs10",
+      "country_code": "FR",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210156625"
+      ]
+     }
+    ],
+    "countries": [
+     "CA",
+     "FI",
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Anders Hamsten",
+    "raw_affiliation_strings": [
+     "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+     "Anders Hamsten From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.)",
+     "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+     "the University Health Network, Toronto, Canada (G.S.)"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Anders Hamsten From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.)",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+      "institution_ids": [
+       "https://openalex.org/I4210156625"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the University Health Network, Toronto, Canada (G.S.)",
+      "institution_ids": [
+       "https://openalex.org/I1325899441"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5057557099",
+     "display_name": "Marja‐Riitta Taskinen",
+     "orcid": "https://orcid.org/0000-0002-6229-3588"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1325899441",
+      "display_name": "University Health Network",
+      "ror": "https://ror.org/042xt5161",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1325899441"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800394112",
+      "display_name": "Helsinki University Hospital",
+      "ror": "https://ror.org/02e8hzf44",
+      "country_code": "FI",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2800394112",
+       "https://openalex.org/I4210166427"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210156625",
+      "display_name": "Institut Alfred Fournier",
+      "ror": "https://ror.org/053wdqs10",
+      "country_code": "FR",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210156625"
+      ]
+     }
+    ],
+    "countries": [
+     "CA",
+     "FI",
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Marja-Riitta Taskinen",
+    "raw_affiliation_strings": [
+     "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+     "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+     "Marja-Riitta Taskinen From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.)",
+     "the University Health Network, Toronto, Canada (G.S.)"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.); the University Health Network, Toronto, Canada (G.S.); Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.); and the Atherosclerosis Research Unit, King Gustaf V Research Institute, Karolinska Hospital, Stockholm, Sweden (A.H.)",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Laboratories Fournier, Daix, France (J.-C.A., F.A., S.R., C.F.)",
+      "institution_ids": [
+       "https://openalex.org/I4210156625"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Marja-Riitta Taskinen From the Department of Medicine, Helsinki University Central Hospital, Helsinki, Finland (J.V., M.-R.T.)",
+      "institution_ids": [
+       "https://openalex.org/I2800394112"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the University Health Network, Toronto, Canada (G.S.)",
+      "institution_ids": [
+       "https://openalex.org/I1325899441"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 25.1923
+ },
+ {
+  "id": "https://openalex.org/W1965751615",
+  "doi": "https://doi.org/10.1165/rcmb.2007-0440oc",
+  "title": "Human Lung Epithelial Cells Express a Functional Cold-Sensing TRPM8 Variant",
+  "publication_year": 2008,
+  "type": "article",
+  "cited_by_count": 126,
+  "primary_topic": {
+   "id": "https://openalex.org/T11204",
+   "display_name": "Ion Channels and Receptors",
+   "score": 0.9998000264167786,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2809",
+    "display_name": "Sensory Systems"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/28",
+    "display_name": "Neuroscience"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/1",
+    "display_name": "Life Sciences"
+   }
+  },
+  "referenced_works_count": 44,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5090042592",
+     "display_name": "Ashwini S. Sabnis",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I223532165",
+      "display_name": "University of Utah",
+      "ror": "https://ror.org/03r0ha626",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I223532165"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Ashwini S. Sabnis",
+    "raw_affiliation_strings": [
+     "Department of Pharmacology and Toxicology, and",
+     "University of Utah, Department of Pharmacology and Toxicology, Salt Lake City, UT 84112, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Pharmacology and Toxicology, and",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "University of Utah, Department of Pharmacology and Toxicology, Salt Lake City, UT 84112, USA",
+      "institution_ids": [
+       "https://openalex.org/I223532165"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5077041781",
+     "display_name": "Mohammad Shadid",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I223532165",
+      "display_name": "University of Utah",
+      "ror": "https://ror.org/03r0ha626",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I223532165"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Mohammad Shadid",
+    "raw_affiliation_strings": [
+     "Department of Chemistry, University of Utah, Salt Lake City, Utah",
+     "Department of Pharmacology and Toxicology, and",
+     "University of Utah,"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Chemistry, University of Utah, Salt Lake City, Utah",
+      "institution_ids": [
+       "https://openalex.org/I223532165"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pharmacology and Toxicology, and",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "University of Utah,",
+      "institution_ids": [
+       "https://openalex.org/I223532165"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5066694016",
+     "display_name": "Garold S. Yost",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Garold S. Yost",
+    "raw_affiliation_strings": [
+     "Department of Pharmacology and Toxicology, and",
+     "PHARMACOLOGY & TOXICOLOGY"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Pharmacology and Toxicology, and",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "PHARMACOLOGY & TOXICOLOGY",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5001492458",
+     "display_name": "Christopher A. Reilly",
+     "orcid": "https://orcid.org/0000-0002-5006-1982"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Christopher A. Reilly",
+    "raw_affiliation_strings": [
+     "Department of Pharmacology and Toxicology, and",
+     "PHARMACOLOGY & TOXICOLOGY"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Pharmacology and Toxicology, and",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "PHARMACOLOGY & TOXICOLOGY",
+      "institution_ids": []
+     }
+    ]
+   }
+  ],
+  "fwci": 2.7953
+ },
+ {
+  "id": "https://openalex.org/W2121983865",
+  "doi": "https://doi.org/10.1371/journal.pgen.1000342",
+  "title": "Genetic Differences between the Determinants of Lipid Profile Phenotypes in African and European Americans: The Jackson Heart Study",
+  "publication_year": 2009,
+  "type": "article",
+  "cited_by_count": 112,
+  "primary_topic": {
+   "id": "https://openalex.org/T10261",
+   "display_name": "Genetic Associations and Epidemiology",
+   "score": 0.9998000264167786,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1311",
+    "display_name": "Genetics"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/13",
+    "display_name": "Biochemistry, Genetics and Molecular Biology"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/1",
+    "display_name": "Life Sciences"
+   }
+  },
+  "referenced_works_count": 44,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5026141445",
+     "display_name": "Rahul C. Deo",
+     "orcid": "https://orcid.org/0000-0002-2791-9434"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I136199984",
+      "display_name": "Harvard University",
+      "ror": "https://ror.org/03vek6s52",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210087915",
+      "display_name": "Massachusetts General Hospital",
+      "ror": "https://ror.org/002pd6e78",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210087915",
+       "https://openalex.org/I48633490"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Rahul C. Deo",
+    "raw_affiliation_strings": [
+     "Department of Genetics, Harvard Medical School, Boston, MA, USA. rdeo@partners.org",
+     "Cardiology Division, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, United States of America",
+     "Department of Genetics, Harvard Medical School, Boston, Massachusetts, United States of America",
+     "Department of Medicine, Harvard Medical School, Boston, Massachusetts, United States of America"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Genetics, Harvard Medical School, Boston, MA, USA. rdeo@partners.org",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Cardiology Division, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I136199984",
+       "https://openalex.org/I4210087915"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Genetics, Harvard Medical School, Boston, Massachusetts, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Medicine, Harvard Medical School, Boston, Massachusetts, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5110220135",
+     "display_name": "David Reich",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107606265",
+      "display_name": "Broad Institute",
+      "ror": "https://ror.org/05a0ya142",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I107606265"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I136199984",
+      "display_name": "Harvard University",
+      "ror": "https://ror.org/03vek6s52",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I136199984"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "David Reich",
+    "raw_affiliation_strings": [
+     "Department of Genetics, Harvard Medical School, Boston, Massachusetts, United States of America",
+     "Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Genetics, Harvard Medical School, Boston, Massachusetts, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I107606265"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5005047785",
+     "display_name": "Arti Tandon",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I136199984",
+      "display_name": "Harvard University",
+      "ror": "https://ror.org/03vek6s52",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I136199984"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Arti Tandon",
+    "raw_affiliation_strings": [
+     "Department of Genetics, Harvard Medical School, Boston, Massachusetts, United States of America"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Genetics, Harvard Medical School, Boston, Massachusetts, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5022280221",
+     "display_name": "Ermeg L. Akylbekova",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I29606459",
+      "display_name": "University of Mississippi Medical Center",
+      "ror": "https://ror.org/044pcn091",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I29606459",
+       "https://openalex.org/I4210141039"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I61937129",
+      "display_name": "Jackson State University",
+      "ror": "https://ror.org/01ecnnp60",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I4210141039",
+       "https://openalex.org/I61937129"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Ermeg Akylbekova",
+    "raw_affiliation_strings": [
+     "Department of Medicine, University of Mississippi Medical Center, Jackson, Mississippi, United States of America",
+     "Jackson State University, Jackson, Mississippi, United States of America"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Medicine, University of Mississippi Medical Center, Jackson, Mississippi, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I29606459"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Jackson State University, Jackson, Mississippi, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I61937129"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5091212930",
+     "display_name": "Nick Patterson",
+     "orcid": "https://orcid.org/0000-0002-2220-3648"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107606265",
+      "display_name": "Broad Institute",
+      "ror": "https://ror.org/05a0ya142",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I107606265"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I136199984",
+      "display_name": "Harvard University",
+      "ror": "https://ror.org/03vek6s52",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I136199984"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Nick Patterson",
+    "raw_affiliation_strings": [
+     "Department of Genetics, Harvard Medical School, Boston, Massachusetts, United States of America",
+     "Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Genetics, Harvard Medical School, Boston, Massachusetts, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I107606265"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5051677650",
+     "display_name": "Alicja Waliszewska",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107606265",
+      "display_name": "Broad Institute",
+      "ror": "https://ror.org/05a0ya142",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I107606265"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Alicja Waliszewska",
+    "raw_affiliation_strings": [
+     "Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I107606265"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5043655881",
+     "display_name": "Sekar Kathiresan",
+     "orcid": "https://orcid.org/0000-0002-6724-032X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107606265",
+      "display_name": "Broad Institute",
+      "ror": "https://ror.org/05a0ya142",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I107606265"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I136199984",
+      "display_name": "Harvard University",
+      "ror": "https://ror.org/03vek6s52",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210087915",
+      "display_name": "Massachusetts General Hospital",
+      "ror": "https://ror.org/002pd6e78",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210087915",
+       "https://openalex.org/I48633490"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Sekar Kathiresan",
+    "raw_affiliation_strings": [
+     "Cardiology Division, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, United States of America",
+     "Department of Medicine, Harvard Medical School, Boston, Massachusetts, United States of America",
+     "Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Cardiology Division, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I136199984",
+       "https://openalex.org/I4210087915"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Medicine, Harvard Medical School, Boston, Massachusetts, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I107606265"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5001177657",
+     "display_name": "Daniel F. Sarpong",
+     "orcid": "https://orcid.org/0000-0003-2094-3041"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I61937129",
+      "display_name": "Jackson State University",
+      "ror": "https://ror.org/01ecnnp60",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I4210141039",
+       "https://openalex.org/I61937129"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Daniel Sarpong",
+    "raw_affiliation_strings": [
+     "Jackson State University, Jackson, Mississippi, United States of America"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Jackson State University, Jackson, Mississippi, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I61937129"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5078482348",
+     "display_name": "Herman A. Taylor",
+     "orcid": "https://orcid.org/0000-0003-3623-7264"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I115648763",
+      "display_name": "Tougaloo College",
+      "ror": "https://ror.org/03feyt230",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I115648763"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I29606459",
+      "display_name": "University of Mississippi Medical Center",
+      "ror": "https://ror.org/044pcn091",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I29606459",
+       "https://openalex.org/I4210141039"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I61937129",
+      "display_name": "Jackson State University",
+      "ror": "https://ror.org/01ecnnp60",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I4210141039",
+       "https://openalex.org/I61937129"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Herman A. Taylor",
+    "raw_affiliation_strings": [
+     "Department of Medicine, University of Mississippi Medical Center, Jackson, Mississippi, United States of America",
+     "Jackson State University, Jackson, Mississippi, United States of America",
+     "Tougaloo College, Tougaloo, Mississippi, United States of America"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Medicine, University of Mississippi Medical Center, Jackson, Mississippi, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I29606459"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Jackson State University, Jackson, Mississippi, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I61937129"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Tougaloo College, Tougaloo, Mississippi, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I115648763"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5101867740",
+     "display_name": "James G. Wilson",
+     "orcid": "https://orcid.org/0000-0002-2676-8793"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I29606459",
+      "display_name": "University of Mississippi Medical Center",
+      "ror": "https://ror.org/044pcn091",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I29606459",
+       "https://openalex.org/I4210141039"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210144720",
+      "display_name": "G.V. (Sonny) Montgomery VA Medical Center",
+      "ror": "https://ror.org/040qrra89",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1322918889",
+       "https://openalex.org/I2799886695",
+       "https://openalex.org/I4210138636",
+       "https://openalex.org/I4210144720"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "James G. Wilson",
+    "raw_affiliation_strings": [
+     "Department of Medicine, University of Mississippi Medical Center, Jackson, Mississippi, United States of America",
+     "G. V. (Sonny) Montgomery Veterans Affairs Medical Center, Jackson, Mississippi, United States of America"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Medicine, University of Mississippi Medical Center, Jackson, Mississippi, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I29606459"
+      ]
+     },
+     {
+      "raw_affiliation_string": "G. V. (Sonny) Montgomery Veterans Affairs Medical Center, Jackson, Mississippi, United States of America",
+      "institution_ids": [
+       "https://openalex.org/I4210144720"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 6.8358
+ },
+ {
+  "id": "https://openalex.org/W1966555281",
+  "doi": "https://doi.org/10.1161/atvbaha.109.185355",
+  "title": "A Common Variant in Low-Density Lipoprotein Receptor–Related Protein 6 Gene (LRP6) Is Associated With LDL-Cholesterol",
+  "publication_year": 2009,
+  "type": "article",
+  "cited_by_count": 45,
+  "primary_topic": {
+   "id": "https://openalex.org/T10620",
+   "display_name": "Protease and Inhibitor Mechanisms",
+   "score": 0.2915000021457672,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1306",
+    "display_name": "Cancer Research"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/13",
+    "display_name": "Biochemistry, Genetics and Molecular Biology"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/1",
+    "display_name": "Life Sciences"
+   }
+  },
+  "referenced_works_count": 35,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5043214820",
+     "display_name": "Maciej Tomaszewski",
+     "orcid": "https://orcid.org/0000-0001-8215-6567"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I149672521",
+      "display_name": "Federation University",
+      "ror": "https://ror.org/05qbzwv83",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I149672521"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I153648349",
+      "display_name": "University of Leicester",
+      "ror": "https://ror.org/04h699437",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I166182418",
+      "display_name": "Medical University of Silesia",
+      "ror": "https://ror.org/005k7hp45",
+      "country_code": "PL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I166182418"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "GB",
+     "PL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Maciej Tomaszewski",
+    "raw_affiliation_strings": [
+     "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+     "Maciej Tomaszewski From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+     "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+      "institution_ids": [
+       "https://openalex.org/I166182418"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Maciej Tomaszewski From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+      "institution_ids": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia",
+      "institution_ids": [
+       "https://openalex.org/I149672521"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5054306612",
+     "display_name": "Fadi J. Charchar",
+     "orcid": "https://orcid.org/0000-0002-6164-9941"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I149672521",
+      "display_name": "Federation University",
+      "ror": "https://ror.org/05qbzwv83",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I149672521"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I153648349",
+      "display_name": "University of Leicester",
+      "ror": "https://ror.org/04h699437",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I166182418",
+      "display_name": "Medical University of Silesia",
+      "ror": "https://ror.org/005k7hp45",
+      "country_code": "PL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I166182418"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "GB",
+     "PL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Fadi J. Charchar",
+    "raw_affiliation_strings": [
+     "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+     "Fadi J. Charchar From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+     "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+      "institution_ids": [
+       "https://openalex.org/I166182418"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Fadi J. Charchar From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+      "institution_ids": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia",
+      "institution_ids": [
+       "https://openalex.org/I149672521"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5023021288",
+     "display_name": "Timothy Barnes",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I149672521",
+      "display_name": "Federation University",
+      "ror": "https://ror.org/05qbzwv83",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I149672521"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I153648349",
+      "display_name": "University of Leicester",
+      "ror": "https://ror.org/04h699437",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I166182418",
+      "display_name": "Medical University of Silesia",
+      "ror": "https://ror.org/005k7hp45",
+      "country_code": "PL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I166182418"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "GB",
+     "PL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Timothy Barnes",
+    "raw_affiliation_strings": [
+     "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+     "Timothy Barnes From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+     "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+      "institution_ids": [
+       "https://openalex.org/I166182418"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Timothy Barnes From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+      "institution_ids": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia",
+      "institution_ids": [
+       "https://openalex.org/I149672521"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5080660074",
+     "display_name": "Magdalena Gawron-Kiszka",
+     "orcid": "https://orcid.org/0000-0002-0885-6351"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I149672521",
+      "display_name": "Federation University",
+      "ror": "https://ror.org/05qbzwv83",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I149672521"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I153648349",
+      "display_name": "University of Leicester",
+      "ror": "https://ror.org/04h699437",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I166182418",
+      "display_name": "Medical University of Silesia",
+      "ror": "https://ror.org/005k7hp45",
+      "country_code": "PL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I166182418"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "GB",
+     "PL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Magdalena Gawron-Kiszka",
+    "raw_affiliation_strings": [
+     "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+     "Magdalena Gawron-Kiszka From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+     "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+      "institution_ids": [
+       "https://openalex.org/I166182418"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Magdalena Gawron-Kiszka From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+      "institution_ids": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia",
+      "institution_ids": [
+       "https://openalex.org/I149672521"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5066983593",
+     "display_name": "Agnieszka Sędkowska",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I149672521",
+      "display_name": "Federation University",
+      "ror": "https://ror.org/05qbzwv83",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I149672521"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I153648349",
+      "display_name": "University of Leicester",
+      "ror": "https://ror.org/04h699437",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I166182418",
+      "display_name": "Medical University of Silesia",
+      "ror": "https://ror.org/005k7hp45",
+      "country_code": "PL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I166182418"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "GB",
+     "PL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Agnieszka Sedkowska",
+    "raw_affiliation_strings": [
+     "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+     "Agnieszka Sedkowska From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+     "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+      "institution_ids": [
+       "https://openalex.org/I166182418"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Agnieszka Sedkowska From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+      "institution_ids": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia",
+      "institution_ids": [
+       "https://openalex.org/I149672521"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5049596887",
+     "display_name": "Ewa Podolecka",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I149672521",
+      "display_name": "Federation University",
+      "ror": "https://ror.org/05qbzwv83",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I149672521"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I153648349",
+      "display_name": "University of Leicester",
+      "ror": "https://ror.org/04h699437",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I166182418",
+      "display_name": "Medical University of Silesia",
+      "ror": "https://ror.org/005k7hp45",
+      "country_code": "PL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I166182418"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "GB",
+     "PL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Ewa Podolecka",
+    "raw_affiliation_strings": [
+     "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+     "Ewa Podolecka From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+     "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+      "institution_ids": [
+       "https://openalex.org/I166182418"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Ewa Podolecka From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+      "institution_ids": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia",
+      "institution_ids": [
+       "https://openalex.org/I149672521"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5075596525",
+     "display_name": "Jacek Kowalczyk",
+     "orcid": "https://orcid.org/0000-0003-3836-9041"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I149672521",
+      "display_name": "Federation University",
+      "ror": "https://ror.org/05qbzwv83",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I149672521"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I153648349",
+      "display_name": "University of Leicester",
+      "ror": "https://ror.org/04h699437",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I166182418",
+      "display_name": "Medical University of Silesia",
+      "ror": "https://ror.org/005k7hp45",
+      "country_code": "PL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I166182418"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "GB",
+     "PL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Jacek Kowalczyk",
+    "raw_affiliation_strings": [
+     "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+     "Jacek Kowalczyk From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+     "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+      "institution_ids": [
+       "https://openalex.org/I166182418"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Jacek Kowalczyk From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+      "institution_ids": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia",
+      "institution_ids": [
+       "https://openalex.org/I149672521"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5064782484",
+     "display_name": "Wendy E. Rathbone",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I149672521",
+      "display_name": "Federation University",
+      "ror": "https://ror.org/05qbzwv83",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I149672521"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I153648349",
+      "display_name": "University of Leicester",
+      "ror": "https://ror.org/04h699437",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I166182418",
+      "display_name": "Medical University of Silesia",
+      "ror": "https://ror.org/005k7hp45",
+      "country_code": "PL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I166182418"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "GB",
+     "PL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Wendy Rathbone",
+    "raw_affiliation_strings": [
+     "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+     "Wendy Rathbone From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+     "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+      "institution_ids": [
+       "https://openalex.org/I166182418"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Wendy Rathbone From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+      "institution_ids": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia",
+      "institution_ids": [
+       "https://openalex.org/I149672521"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5076713156",
+     "display_name": "Zbigniew Kalarus",
+     "orcid": "https://orcid.org/0000-0003-3921-7234"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I149672521",
+      "display_name": "Federation University",
+      "ror": "https://ror.org/05qbzwv83",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I149672521"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I153648349",
+      "display_name": "University of Leicester",
+      "ror": "https://ror.org/04h699437",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I166182418",
+      "display_name": "Medical University of Silesia",
+      "ror": "https://ror.org/005k7hp45",
+      "country_code": "PL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I166182418"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "GB",
+     "PL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Zbigniew Kalarus",
+    "raw_affiliation_strings": [
+     "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+     "Zbigniew Kalarus From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+     "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+      "institution_ids": [
+       "https://openalex.org/I166182418"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Zbigniew Kalarus From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+      "institution_ids": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia",
+      "institution_ids": [
+       "https://openalex.org/I149672521"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5046723130",
+     "display_name": "W Grzeszczak",
+     "orcid": "https://orcid.org/0000-0003-1947-3783"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I149672521",
+      "display_name": "Federation University",
+      "ror": "https://ror.org/05qbzwv83",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I149672521"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I153648349",
+      "display_name": "University of Leicester",
+      "ror": "https://ror.org/04h699437",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I166182418",
+      "display_name": "Medical University of Silesia",
+      "ror": "https://ror.org/005k7hp45",
+      "country_code": "PL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I166182418"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "GB",
+     "PL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Wladyslaw Grzeszczak",
+    "raw_affiliation_strings": [
+     "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+     "Wladyslaw Grzeszczak From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+     "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+      "institution_ids": [
+       "https://openalex.org/I166182418"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Wladyslaw Grzeszczak From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+      "institution_ids": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia",
+      "institution_ids": [
+       "https://openalex.org/I149672521"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5082610028",
+     "display_name": "Alison H. Goodall",
+     "orcid": "https://orcid.org/0000-0002-7883-9645"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I149672521",
+      "display_name": "Federation University",
+      "ror": "https://ror.org/05qbzwv83",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I149672521"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I153648349",
+      "display_name": "University of Leicester",
+      "ror": "https://ror.org/04h699437",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I166182418",
+      "display_name": "Medical University of Silesia",
+      "ror": "https://ror.org/005k7hp45",
+      "country_code": "PL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I166182418"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "GB",
+     "PL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Alison H. Goodall",
+    "raw_affiliation_strings": [
+     "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+     "Alison H. Goodall From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+     "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+      "institution_ids": [
+       "https://openalex.org/I166182418"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Alison H. Goodall From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+      "institution_ids": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia",
+      "institution_ids": [
+       "https://openalex.org/I149672521"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5100614941",
+     "display_name": "Nilesh J. Samani",
+     "orcid": "https://orcid.org/0000-0002-3286-8133"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I149672521",
+      "display_name": "Federation University",
+      "ror": "https://ror.org/05qbzwv83",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I149672521"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I153648349",
+      "display_name": "University of Leicester",
+      "ror": "https://ror.org/04h699437",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I166182418",
+      "display_name": "Medical University of Silesia",
+      "ror": "https://ror.org/005k7hp45",
+      "country_code": "PL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I166182418"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "GB",
+     "PL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Nilesh J. Samani",
+    "raw_affiliation_strings": [
+     "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+     "Nilesh J. Samani From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+     "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+      "institution_ids": [
+       "https://openalex.org/I166182418"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Nilesh J. Samani From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+      "institution_ids": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia",
+      "institution_ids": [
+       "https://openalex.org/I149672521"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5082430320",
+     "display_name": "E Zukowska-Szczechowska",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I149672521",
+      "display_name": "Federation University",
+      "ror": "https://ror.org/05qbzwv83",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I149672521"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I153648349",
+      "display_name": "University of Leicester",
+      "ror": "https://ror.org/04h699437",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I166182418",
+      "display_name": "Medical University of Silesia",
+      "ror": "https://ror.org/005k7hp45",
+      "country_code": "PL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I166182418"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "GB",
+     "PL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Ewa Zukowska-Szczechowska",
+    "raw_affiliation_strings": [
+     "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+     "Ewa Zukowska-Szczechowska From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+     "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK; the School of Science and Engineering (F.J.C.), University of Ballarat, Australia; and the Department of Internal Medicine, Diabetology, and Nephrology (M.G.-K., E.P., W.G., E.Z.-S.) and the First Department of Cardiology (A.S., J.K., Z.K.), Medical University of Silesia, Zabrze, Poland",
+      "institution_ids": [
+       "https://openalex.org/I166182418"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Ewa Zukowska-Szczechowska From the Department of Cardiovascular Sciences (M.T., T.B., W.R., A.H.G., N.J.S.), University of Leicester, UK",
+      "institution_ids": [
+       "https://openalex.org/I153648349"
+      ]
+     },
+     {
+      "raw_affiliation_string": "the School of Science and Engineering (F.J.C.), University of Ballarat, Australia",
+      "institution_ids": [
+       "https://openalex.org/I149672521"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 1.1572
+ },
+ {
+  "id": "https://openalex.org/W2041943596",
+  "doi": "https://doi.org/10.1016/j.amjcard.2008.08.033",
+  "title": "Relation of Clinical Benefit of Raising High-Density Lipoprotein Cholesterol to Serum Levels of Low-Density Lipoprotein Cholesterol in Patients With Coronary Heart Disease (from the Bezafibrate Infarction Prevention Trial)",
+  "publication_year": 2008,
+  "type": "article",
+  "cited_by_count": 42,
+  "primary_topic": {
+   "id": "https://openalex.org/T10394",
+   "display_name": "Lipoproteins and Cardiovascular Health",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2746",
+    "display_name": "Surgery"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 11,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5059052503",
+     "display_name": "Ilan Goldenberg",
+     "orcid": "https://orcid.org/0000-0002-5806-3325"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2799810450",
+      "display_name": "Sheba Medical Center",
+      "ror": "https://ror.org/020rzx487",
+      "country_code": "IL",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799810450"
+      ]
+     }
+    ],
+    "countries": [
+     "IL"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Ilan Goldenberg",
+    "raw_affiliation_strings": [
+     "Heart Institute, Sheba Medical Center, Tel Hashomer, Israel. ilan.goldenberg@heart.rochester.edu",
+     "Heart Institute, Sheba Medical Center, Tel Hashomer, Israel",
+     "Neufeld Cardiac Research Institute, Sheba Medical Center, Tel Hashomer, Israel"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Heart Institute, Sheba Medical Center, Tel Hashomer, Israel. ilan.goldenberg@heart.rochester.edu",
+      "institution_ids": [
+       "https://openalex.org/I2799810450"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Heart Institute, Sheba Medical Center, Tel Hashomer, Israel",
+      "institution_ids": [
+       "https://openalex.org/I2799810450"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Neufeld Cardiac Research Institute, Sheba Medical Center, Tel Hashomer, Israel",
+      "institution_ids": [
+       "https://openalex.org/I2799810450"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5012270561",
+     "display_name": "Michal Benderly",
+     "orcid": "https://orcid.org/0000-0001-6174-6322"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2799810450",
+      "display_name": "Sheba Medical Center",
+      "ror": "https://ror.org/020rzx487",
+      "country_code": "IL",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799810450"
+      ]
+     }
+    ],
+    "countries": [
+     "IL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Michal Benderly",
+    "raw_affiliation_strings": [
+     "Neufeld Cardiac Research Institute, Sheba Medical Center, Tel Hashomer, Israel"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Neufeld Cardiac Research Institute, Sheba Medical Center, Tel Hashomer, Israel",
+      "institution_ids": [
+       "https://openalex.org/I2799810450"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5016355134",
+     "display_name": "Roy Sidi",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2799810450",
+      "display_name": "Sheba Medical Center",
+      "ror": "https://ror.org/020rzx487",
+      "country_code": "IL",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799810450"
+      ]
+     }
+    ],
+    "countries": [
+     "IL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Roy Sidi",
+    "raw_affiliation_strings": [
+     "Neufeld Cardiac Research Institute, Sheba Medical Center, Tel Hashomer, Israel"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Neufeld Cardiac Research Institute, Sheba Medical Center, Tel Hashomer, Israel",
+      "institution_ids": [
+       "https://openalex.org/I2799810450"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5103643737",
+     "display_name": "Valentina Boyko",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2799810450",
+      "display_name": "Sheba Medical Center",
+      "ror": "https://ror.org/020rzx487",
+      "country_code": "IL",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799810450"
+      ]
+     }
+    ],
+    "countries": [
+     "IL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Valentina Boyko",
+    "raw_affiliation_strings": [
+     "Neufeld Cardiac Research Institute, Sheba Medical Center, Tel Hashomer, Israel"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Neufeld Cardiac Research Institute, Sheba Medical Center, Tel Hashomer, Israel",
+      "institution_ids": [
+       "https://openalex.org/I2799810450"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5046330272",
+     "display_name": "Alexander Tenenbaum",
+     "orcid": "https://orcid.org/0000-0003-0838-3651"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2799810450",
+      "display_name": "Sheba Medical Center",
+      "ror": "https://ror.org/020rzx487",
+      "country_code": "IL",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799810450"
+      ]
+     }
+    ],
+    "countries": [
+     "IL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Alexander Tenenbaum",
+    "raw_affiliation_strings": [
+     "Cardiac Rehabilitation Institute, Sheba Medical Center, Tel Hashomer, Israel"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Cardiac Rehabilitation Institute, Sheba Medical Center, Tel Hashomer, Israel",
+      "institution_ids": [
+       "https://openalex.org/I2799810450"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5024658913",
+     "display_name": "David Tanné",
+     "orcid": "https://orcid.org/0000-0002-6699-2220"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2799810450",
+      "display_name": "Sheba Medical Center",
+      "ror": "https://ror.org/020rzx487",
+      "country_code": "IL",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799810450"
+      ]
+     }
+    ],
+    "countries": [
+     "IL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "David Tanne",
+    "raw_affiliation_strings": [
+     "Department of Neurology Stroke Unit, Sheba Medical Center, Tel Hashomer, Israel"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Neurology Stroke Unit, Sheba Medical Center, Tel Hashomer, Israel",
+      "institution_ids": [
+       "https://openalex.org/I2799810450"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5109077039",
+     "display_name": "Shlomo Behar",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2799810450",
+      "display_name": "Sheba Medical Center",
+      "ror": "https://ror.org/020rzx487",
+      "country_code": "IL",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799810450"
+      ]
+     }
+    ],
+    "countries": [
+     "IL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Shlomo Behar",
+    "raw_affiliation_strings": [
+     "Neufeld Cardiac Research Institute, Sheba Medical Center, Tel Hashomer, Israel"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Neufeld Cardiac Research Institute, Sheba Medical Center, Tel Hashomer, Israel",
+      "institution_ids": [
+       "https://openalex.org/I2799810450"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 5.9677
+ },
+ {
+  "id": "https://openalex.org/W2097587917",
+  "doi": "https://doi.org/10.1210/jc.2005-0974",
+  "title": "Polymorphism inAPOBAssociated with Increased Low-Density Lipoprotein Levels in Both Genders in the General Population",
+  "publication_year": 2005,
+  "type": "article",
+  "cited_by_count": 39,
+  "primary_topic": {
+   "id": "https://openalex.org/T10027",
+   "display_name": "Diabetes, Cardiovascular Risks, and Lipoproteins",
+   "score": 0.24619999527931213,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2712",
+    "display_name": "Endocrinology, Diabetes and Metabolism"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 33,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5007666581",
+     "display_name": "Marianne Benn",
+     "orcid": "https://orcid.org/0000-0002-1701-595X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2802567020",
+      "display_name": "Copenhagen University Hospital",
+      "ror": "https://ror.org/05bpbnx46",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2802567020"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2802709434",
+      "display_name": "Rigshospitalet",
+      "ror": "https://ror.org/03mchdq19",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2802567020",
+       "https://openalex.org/I2802709434",
+       "https://openalex.org/I4210145385"
+      ]
+     }
+    ],
+    "countries": [
+     "DK"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Marianne Benn",
+    "raw_affiliation_strings": [
+     "Department of Clinical Biochemistry, KB3011, Rigshospitalet, Copenhagen University Hospital, Blegdamsvej 9, DK-2100 Copenhagen Ø, Denmark",
+     "Departments of Clinical Biochemistry (M.B., A.T.-H.), DK-2100 Copenhagen, Denmark"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Clinical Biochemistry, KB3011, Rigshospitalet, Copenhagen University Hospital, Blegdamsvej 9, DK-2100 Copenhagen Ø, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I2802567020",
+       "https://openalex.org/I2802709434"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Departments of Clinical Biochemistry (M.B., A.T.-H.), DK-2100 Copenhagen, Denmark",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5079728437",
+     "display_name": "Børge G. Nordestgaard",
+     "orcid": "https://orcid.org/0000-0002-1954-7220"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801827564",
+      "display_name": "Herlev Hospital",
+      "ror": "https://ror.org/00wys9y90",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801827564"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2801941904",
+      "display_name": "Bispebjerg Hospital",
+      "ror": "https://ror.org/00td68a17",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801941904"
+      ]
+     }
+    ],
+    "countries": [
+     "DK"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Børge G. Nordestgaard",
+    "raw_affiliation_strings": [
+     "Copenhagen City Heart Study, Bispebjerg University Hospital (B.G.N., J.S.J., A.T.-H.), DK-2400 Copenhagen, Denmark",
+     "Department of Clinical Biochemistry, Herlev University Hospital (B.G.N.), DK-2730 Herlev, Denmark"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Copenhagen City Heart Study, Bispebjerg University Hospital (B.G.N., J.S.J., A.T.-H.), DK-2400 Copenhagen, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I2801941904"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Clinical Biochemistry, Herlev University Hospital (B.G.N.), DK-2730 Herlev, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I2801827564"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5103429961",
+     "display_name": "Jan Skov Jensen",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801941904",
+      "display_name": "Bispebjerg Hospital",
+      "ror": "https://ror.org/00td68a17",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801941904"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2802582725",
+      "display_name": "Gentofte Hospital",
+      "ror": "https://ror.org/051dzw862",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2802582725"
+      ]
+     }
+    ],
+    "countries": [
+     "DK"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Jan S. Jensen",
+    "raw_affiliation_strings": [
+     "Copenhagen City Heart Study, Bispebjerg University Hospital (B.G.N., J.S.J., A.T.-H.), DK-2400 Copenhagen, Denmark",
+     "Department of Cardiology, Gentofte University Hospital (J.S.J.), 2900 Hellerup, Denmark"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Copenhagen City Heart Study, Bispebjerg University Hospital (B.G.N., J.S.J., A.T.-H.), DK-2400 Copenhagen, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I2801941904"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Cardiology, Gentofte University Hospital (J.S.J.), 2900 Hellerup, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I2802582725"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5112162824",
+     "display_name": "Peer Grande",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Peer Grande",
+    "raw_affiliation_strings": [
+     "Medicine B (P.G.), DK-2100 Copenhagen, Denmark"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Medicine B (P.G.), DK-2100 Copenhagen, Denmark",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5001628967",
+     "display_name": "Henrik Sillesen",
+     "orcid": "https://orcid.org/0000-0002-3302-6288"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2802567020",
+      "display_name": "Copenhagen University Hospital",
+      "ror": "https://ror.org/05bpbnx46",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2802567020"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2802709434",
+      "display_name": "Rigshospitalet",
+      "ror": "https://ror.org/03mchdq19",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2802567020",
+       "https://openalex.org/I2802709434",
+       "https://openalex.org/I4210145385"
+      ]
+     }
+    ],
+    "countries": [
+     "DK"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Henrik Sillesen",
+    "raw_affiliation_strings": [
+     "Vascular Surgery (H.S.), Rigshospitalet, Copenhagen University Hospital, DK-2100 Copenhagen, Denmark"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Vascular Surgery (H.S.), Rigshospitalet, Copenhagen University Hospital, DK-2100 Copenhagen, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I2802567020",
+       "https://openalex.org/I2802709434"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5111623837",
+     "display_name": "Anne Tybjærg‐Hansen",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801941904",
+      "display_name": "Bispebjerg Hospital",
+      "ror": "https://ror.org/00td68a17",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801941904"
+      ]
+     }
+    ],
+    "countries": [
+     "DK"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Anne Tybjærg-Hansen",
+    "raw_affiliation_strings": [
+     "Copenhagen City Heart Study, Bispebjerg University Hospital (B.G.N., J.S.J., A.T.-H.), DK-2400 Copenhagen, Denmark",
+     "Departments of Clinical Biochemistry (M.B., A.T.-H.), DK-2100 Copenhagen, Denmark"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Copenhagen City Heart Study, Bispebjerg University Hospital (B.G.N., J.S.J., A.T.-H.), DK-2400 Copenhagen, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I2801941904"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Departments of Clinical Biochemistry (M.B., A.T.-H.), DK-2100 Copenhagen, Denmark",
+      "institution_ids": []
+     }
+    ]
+   }
+  ],
+  "fwci": 0.8979
+ },
+ {
+  "id": "https://openalex.org/W2090568158",
+  "doi": "https://doi.org/10.1210/jc.2005-1725",
+  "title": "Combined Analysis of SixLipoprotein LipaseGenetic Variants on Triglycerides, High-Density Lipoprotein, and Ischemic Heart Disease: Cross-Sectional, Prospective, and Case-Control Studies from the Copenhagen City Heart Study",
+  "publication_year": 2006,
+  "type": "article",
+  "cited_by_count": 36,
+  "primary_topic": {
+   "id": "https://openalex.org/T13430",
+   "display_name": "Lipid metabolism and disorders",
+   "score": 0.832099974155426,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2705",
+    "display_name": "Cardiology and Cardiovascular Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 22,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5075672833",
+     "display_name": "Hans H. Wittrup",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801827564",
+      "display_name": "Herlev Hospital",
+      "ror": "https://ror.org/00wys9y90",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801827564"
+      ]
+     }
+    ],
+    "countries": [
+     "DK"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Hans H. Wittrup",
+    "raw_affiliation_strings": [
+     "Department of Clinical Biochemistry, Herlev University Hospital, Herlev Ringvej 75, DK-2730 Herlev, Denmark"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Clinical Biochemistry, Herlev University Hospital, Herlev Ringvej 75, DK-2730 Herlev, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I2801827564"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5079856620",
+     "display_name": "Rolf V. Andersen",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801827564",
+      "display_name": "Herlev Hospital",
+      "ror": "https://ror.org/00wys9y90",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801827564"
+      ]
+     }
+    ],
+    "countries": [
+     "DK"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Rolf V. Andersen",
+    "raw_affiliation_strings": [
+     "Department of Clinical Biochemistry, Herlev University Hospital (H.H.W., R.V.A., B.G.N.), DK-2730 Herlev, Denmark"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Clinical Biochemistry, Herlev University Hospital (H.H.W., R.V.A., B.G.N.), DK-2730 Herlev, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I2801827564"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5107845078",
+     "display_name": "Anne Tybjærg-Hansen",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2802567020",
+      "display_name": "Copenhagen University Hospital",
+      "ror": "https://ror.org/05bpbnx46",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2802567020"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2802709434",
+      "display_name": "Rigshospitalet",
+      "ror": "https://ror.org/03mchdq19",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2802567020",
+       "https://openalex.org/I2802709434",
+       "https://openalex.org/I4210145385"
+      ]
+     }
+    ],
+    "countries": [
+     "DK"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Anne Tybjærg-Hansen",
+    "raw_affiliation_strings": [
+     "Department of Clinical Biochemistry, Rigshospitalet, Copenhagen University Hospital (A.T.-H.), DK-2100 Copenhagen, Denmark"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Clinical Biochemistry, Rigshospitalet, Copenhagen University Hospital (A.T.-H.), DK-2100 Copenhagen, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I2802567020",
+       "https://openalex.org/I2802709434"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5077057000",
+     "display_name": "Gorm Boje Jensen",
+     "orcid": "https://orcid.org/0000-0002-8925-663X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801941904",
+      "display_name": "Bispebjerg Hospital",
+      "ror": "https://ror.org/00td68a17",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801941904"
+      ]
+     }
+    ],
+    "countries": [
+     "DK"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Gorm B. Jensen",
+    "raw_affiliation_strings": [
+     "Copenhagen City Heart Study, Bispebjerg University Hospital (A.T.-H., G.B.J., B.G.N.), DK-2400 Copenhagen, Denmark"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Copenhagen City Heart Study, Bispebjerg University Hospital (A.T.-H., G.B.J., B.G.N.), DK-2400 Copenhagen, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I2801941904"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5079728437",
+     "display_name": "Børge G. Nordestgaard",
+     "orcid": "https://orcid.org/0000-0002-1954-7220"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801827564",
+      "display_name": "Herlev Hospital",
+      "ror": "https://ror.org/00wys9y90",
+      "country_code": "DK",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801827564"
+      ]
+     }
+    ],
+    "countries": [
+     "DK"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Børge G. Nordestgaard",
+    "raw_affiliation_strings": [
+     "Department of Clinical Biochemistry, Herlev University Hospital (H.H.W., R.V.A., B.G.N.), DK-2730 Herlev, Denmark"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Clinical Biochemistry, Herlev University Hospital (H.H.W., R.V.A., B.G.N.), DK-2730 Herlev, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I2801827564"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 2.4735
+ }
+]

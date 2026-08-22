@@ -1,0 +1,702 @@
+{
+ "id": "https://openalex.org/W2625640744",
+ "doi": "https://doi.org/10.5811/westjem.2017.3.32078",
+ "title": "Altitude-Related Change in Endotracheal Tube Cuff Pressures in Helicopter EMS",
+ "display_name": "Altitude-Related Change in Endotracheal Tube Cuff Pressures in Helicopter EMS",
+ "publication_year": 2017,
+ "publication_date": "2017-06-01",
+ "type": "article",
+ "cited_by_count": 10,
+ "citation_normalized_percentile": {
+  "value": 0.59151079,
+  "is_in_top_1_percent": false,
+  "is_in_top_10_percent": false
+ },
+ "cited_by_percentile_year": {
+  "min": 90,
+  "max": 98
+ },
+ "referenced_works": [
+  "https://openalex.org/W101081755",
+  "https://openalex.org/W1921089931",
+  "https://openalex.org/W1977474817",
+  "https://openalex.org/W1986990628",
+  "https://openalex.org/W1994240218",
+  "https://openalex.org/W1996822821",
+  "https://openalex.org/W1999960402",
+  "https://openalex.org/W2007737063",
+  "https://openalex.org/W2016143533",
+  "https://openalex.org/W2023190855",
+  "https://openalex.org/W2028027594",
+  "https://openalex.org/W2036837938",
+  "https://openalex.org/W2042887382",
+  "https://openalex.org/W2044578991",
+  "https://openalex.org/W2077667105",
+  "https://openalex.org/W2082504977",
+  "https://openalex.org/W2089426876",
+  "https://openalex.org/W2326274628"
+ ],
+ "referenced_works_count": 18,
+ "related_works": [
+  "https://openalex.org/W2625640744",
+  "https://openalex.org/W2071320627",
+  "https://openalex.org/W2355999728",
+  "https://openalex.org/W2945563562",
+  "https://openalex.org/W4389482761",
+  "https://openalex.org/W2328452946",
+  "https://openalex.org/W2064897698",
+  "https://openalex.org/W2089822011",
+  "https://openalex.org/W2365078270",
+  "https://openalex.org/W2114337266"
+ ],
+ "primary_topic": {
+  "id": "https://openalex.org/T10830",
+  "display_name": "Airway Management and Intubation Techniques",
+  "score": 0.7549999952316284,
+  "subfield": {
+   "id": "https://openalex.org/subfields/2703",
+   "display_name": "Anesthesiology and Pain Medicine"
+  },
+  "field": {
+   "id": "https://openalex.org/fields/27",
+   "display_name": "Medicine"
+  },
+  "domain": {
+   "id": "https://openalex.org/domains/4",
+   "display_name": "Health Sciences"
+  }
+ },
+ "topics": [
+  {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.7549999952316284,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T11681",
+   "display_name": "Nosocomial Infections in ICU",
+   "score": 0.06469999998807907,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2706",
+    "display_name": "Critical Care and Intensive Care Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T11260",
+   "display_name": "Tracheal and airway disorders",
+   "score": 0.05290000140666962,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  }
+ ],
+ "keywords": [
+  {
+   "id": "https://openalex.org/keywords/cuff",
+   "display_name": "Cuff",
+   "score": 0.9159677028656006
+  },
+  {
+   "id": "https://openalex.org/keywords/altitude",
+   "display_name": "Altitude (triangle)",
+   "score": 0.9028722047805786
+  },
+  {
+   "id": "https://openalex.org/keywords/sea-level",
+   "display_name": "Sea level",
+   "score": 0.6350818872451782
+  },
+  {
+   "id": "https://openalex.org/keywords/medicine",
+   "display_name": "Medicine",
+   "score": 0.6087517142295837
+  },
+  {
+   "id": "https://openalex.org/keywords/effects-of-high-altitude-on-humans",
+   "display_name": "Effects of high altitude on humans",
+   "score": 0.5755822062492371
+  },
+  {
+   "id": "https://openalex.org/keywords/surgery",
+   "display_name": "Surgery",
+   "score": 0.24460911750793457
+  },
+  {
+   "id": "https://openalex.org/keywords/geology",
+   "display_name": "Geology",
+   "score": 0.10909146070480347
+  },
+  {
+   "id": "https://openalex.org/keywords/mathematics",
+   "display_name": "Mathematics",
+   "score": 0.08720698952674866
+  }
+ ],
+ "concepts": [
+  {
+   "id": "https://openalex.org/C2780017030",
+   "wikidata": "https://www.wikidata.org/wiki/Q368366",
+   "display_name": "Cuff",
+   "level": 2,
+   "score": 0.9159677028656006
+  },
+  {
+   "id": "https://openalex.org/C6350597",
+   "wikidata": "https://www.wikidata.org/wiki/Q339495",
+   "display_name": "Altitude (triangle)",
+   "level": 2,
+   "score": 0.9028722047805786
+  },
+  {
+   "id": "https://openalex.org/C74501621",
+   "wikidata": "https://www.wikidata.org/wiki/Q125465",
+   "display_name": "Sea level",
+   "level": 2,
+   "score": 0.6350818872451782
+  },
+  {
+   "id": "https://openalex.org/C71924100",
+   "wikidata": "https://www.wikidata.org/wiki/Q11190",
+   "display_name": "Medicine",
+   "level": 0,
+   "score": 0.6087517142295837
+  },
+  {
+   "id": "https://openalex.org/C8240015",
+   "wikidata": "https://www.wikidata.org/wiki/Q918226",
+   "display_name": "Effects of high altitude on humans",
+   "level": 2,
+   "score": 0.5755822062492371
+  },
+  {
+   "id": "https://openalex.org/C141071460",
+   "wikidata": "https://www.wikidata.org/wiki/Q40821",
+   "display_name": "Surgery",
+   "level": 1,
+   "score": 0.24460911750793457
+  },
+  {
+   "id": "https://openalex.org/C127313418",
+   "wikidata": "https://www.wikidata.org/wiki/Q1069",
+   "display_name": "Geology",
+   "level": 0,
+   "score": 0.10909146070480347
+  },
+  {
+   "id": "https://openalex.org/C33923547",
+   "wikidata": "https://www.wikidata.org/wiki/Q395",
+   "display_name": "Mathematics",
+   "level": 0,
+   "score": 0.08720698952674866
+  },
+  {
+   "id": "https://openalex.org/C105702510",
+   "wikidata": "https://www.wikidata.org/wiki/Q514",
+   "display_name": "Anatomy",
+   "level": 1,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C2524010",
+   "wikidata": "https://www.wikidata.org/wiki/Q8087",
+   "display_name": "Geometry",
+   "level": 1,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C111368507",
+   "wikidata": "https://www.wikidata.org/wiki/Q43518",
+   "display_name": "Oceanography",
+   "level": 1,
+   "score": 0.0
+  }
+ ],
+ "open_access": {
+  "is_oa": true,
+  "oa_status": "gold",
+  "oa_url": "https://escholarship.org/content/qt835648w2/qt835648w2.pdf?t=p7dmke",
+  "any_repository_has_fulltext": true
+ },
+ "locations": [
+  {
+   "id": "doi:10.5811/westjem.2017.3.32078",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5811/westjem.2017.3.32078",
+   "pdf_url": "https://escholarship.org/content/qt835648w2/qt835648w2.pdf?t=p7dmke",
+   "source": {
+    "id": "https://openalex.org/S2738799989",
+    "display_name": "Western Journal of Emergency Medicine",
+    "issn_l": "1936-900X",
+    "issn": [
+     "1936-900X",
+     "1936-9018"
+    ],
+    "is_oa": true,
+    "is_in_doaj": true,
+    "is_core": true,
+    "host_organization": "https://openalex.org/P4310320339",
+    "host_organization_name": "eScholarship Publishing, University of California",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320339"
+    ],
+    "host_organization_lineage_names": [
+     "eScholarship Publishing, University of California"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Western Journal of Emergency Medicine",
+   "raw_type": "journal-article"
+  },
+  {
+   "id": "pmid:28611883",
+   "is_oa": false,
+   "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/28611883",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306525036",
+    "display_name": "PubMed",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I1299303238",
+    "host_organization_name": "National Institutes of Health",
+    "host_organization_lineage": [
+     "https://openalex.org/I1299303238"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "The western journal of emergency medicine",
+   "raw_type": "Journal Article"
+  },
+  {
+   "id": "pmh:oai:europepmc.org:4318205",
+   "is_oa": true,
+   "landing_page_url": "http://europepmc.org/articles/PMC5468068",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400806",
+    "display_name": "Europe PMC (PubMed Central)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I1303153112",
+    "host_organization_name": "European Bioinformatics Institute",
+    "host_organization_lineage": [
+     "https://openalex.org/I1303153112"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "",
+   "raw_type": "Text"
+  },
+  {
+   "id": "pmh:oai:pubmedcentral.nih.gov:5468068",
+   "is_oa": true,
+   "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5468068",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S2764455111",
+    "display_name": "PubMed Central",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I1299303238",
+    "host_organization_name": "National Institutes of Health",
+    "host_organization_lineage": [
+     "https://openalex.org/I1299303238"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "West J Emerg Med",
+   "raw_type": "Text"
+  },
+  {
+   "id": "pmh:oai:escholarship.umassmed.edu:oapubs-4157",
+   "is_oa": true,
+   "landing_page_url": "https://escholarship.umassmed.edu/oapubs/3149",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400883",
+    "display_name": "The Journal of the American Medical Association (JAMA) Network (American Medical Association)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I173654999",
+    "host_organization_name": "American Medical Association",
+    "host_organization_lineage": [
+     "https://openalex.org/I173654999"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "Open Access Articles",
+   "raw_type": "text"
+  },
+  {
+   "id": "pmh:oai:doaj.org/article:c837227214474711a1d8cc8ed1358411",
+   "is_oa": true,
+   "landing_page_url": "https://doaj.org/article/c837227214474711a1d8cc8ed1358411",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306401280",
+    "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by-sa",
+   "license_id": "https://openalex.org/licenses/cc-by-sa",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "Western Journal of Emergency Medicine, Vol 18, Iss 4 (2017)",
+   "raw_type": "article"
+  },
+  {
+   "id": "pmh:oai:escholarship.org/ark:/13030/qt835648w2",
+   "is_oa": true,
+   "landing_page_url": "https://escholarship.org/uc/item/835648w2",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400115",
+    "display_name": "eScholarship (California Digital Library)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I2801248553",
+    "host_organization_name": "California Digital Library",
+    "host_organization_lineage": [
+     "https://openalex.org/I2801248553"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by-nc",
+   "license_id": "https://openalex.org/licenses/cc-by-nc",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "Western Journal of Emergency Medicine: Integrating Emergency Care with Population Health, vol 18, iss 4",
+   "raw_type": "article"
+  },
+  {
+   "id": "pmh:qt835648w2",
+   "is_oa": true,
+   "landing_page_url": "http://www.escholarship.org/uc/item/835648w2",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400115",
+    "display_name": "eScholarship (California Digital Library)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I2801248553",
+    "host_organization_name": "California Digital Library",
+    "host_organization_lineage": [
+     "https://openalex.org/I2801248553"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by-nc",
+   "license_id": "https://openalex.org/licenses/cc-by-nc",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "Weisberg, Stacy N.; McCall, Jonathan C.; &amp; Tennyson, Joseph. (2017). Altitude-Related Change in Endotracheal Tube Cuff Pressures in Helicopter EMS. Western Journal of Emergency Medicine, 18(4). doi: 10.5811/westjem.2017.3.32078. Retrieved from: http://www.escholarship.org/uc/item/835648w2",
+   "raw_type": "article"
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.5811/westjem.2017.3.32078",
+  "is_oa": true,
+  "landing_page_url": "https://doi.org/10.5811/westjem.2017.3.32078",
+  "pdf_url": "https://escholarship.org/content/qt835648w2/qt835648w2.pdf?t=p7dmke",
+  "source": {
+   "id": "https://openalex.org/S2738799989",
+   "display_name": "Western Journal of Emergency Medicine",
+   "issn_l": "1936-900X",
+   "issn": [
+    "1936-900X",
+    "1936-9018"
+   ],
+   "is_oa": true,
+   "is_in_doaj": true,
+   "is_core": true,
+   "host_organization": "https://openalex.org/P4310320339",
+   "host_organization_name": "eScholarship Publishing, University of California",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310320339"
+   ],
+   "host_organization_lineage_names": [
+    "eScholarship Publishing, University of California"
+   ],
+   "type": "journal"
+  },
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "version": "publishedVersion",
+  "is_accepted": true,
+  "is_published": true,
+  "raw_source_name": "Western Journal of Emergency Medicine",
+  "raw_type": "journal-article"
+ },
+ "authorships": [
+  {
+   "author_position": "first",
+   "author": {
+    "id": "https://openalex.org/A5076484351",
+    "display_name": "Stacy N. Weisberg",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I166722992",
+     "display_name": "University of Massachusetts Chan Medical School",
+     "ror": "https://ror.org/0464eyp60",
+     "country_code": "US",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I166722992"
+     ]
+    }
+   ],
+   "countries": [
+    "US"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Stacy Weisberg",
+   "raw_affiliation_strings": [
+    "University of Massachusetts Medical School, Department of Emergency Medicine, Worcester, Massachusetts"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "University of Massachusetts Medical School, Department of Emergency Medicine, Worcester, Massachusetts",
+     "institution_ids": [
+      "https://openalex.org/I166722992"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5066632838",
+    "display_name": "Jonathan C McCall",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I2799767083",
+     "display_name": "Ochsner Medical Center",
+     "ror": "https://ror.org/0290qyp66",
+     "country_code": "US",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I1336053918",
+      "https://openalex.org/I2799767083"
+     ]
+    }
+   ],
+   "countries": [
+    "US"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Jonathan McCall",
+   "raw_affiliation_strings": [
+    "Ochsner West Bank Hospital, Department of Emergency Medicine, Gretna, Louisiana"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Ochsner West Bank Hospital, Department of Emergency Medicine, Gretna, Louisiana",
+     "institution_ids": [
+      "https://openalex.org/I2799767083"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "last",
+   "author": {
+    "id": "https://openalex.org/A5039521171",
+    "display_name": "Joseph Tennyson",
+    "orcid": "https://orcid.org/0000-0001-7862-1008"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I166722992",
+     "display_name": "University of Massachusetts Chan Medical School",
+     "ror": "https://ror.org/0464eyp60",
+     "country_code": "US",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I166722992"
+     ]
+    }
+   ],
+   "countries": [
+    "US"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Joseph Tennyson",
+   "raw_affiliation_strings": [
+    "University of Massachusetts Medical School, Department of Emergency Medicine, Worcester, Massachusetts"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "University of Massachusetts Medical School, Department of Emergency Medicine, Worcester, Massachusetts",
+     "institution_ids": [
+      "https://openalex.org/I166722992"
+     ]
+    }
+   ]
+  }
+ ],
+ "biblio": {
+  "volume": "18",
+  "issue": "4",
+  "first_page": "624",
+  "last_page": "629"
+ },
+ "ids": {
+  "openalex": "https://openalex.org/W2625640744",
+  "doi": "https://doi.org/10.5811/westjem.2017.3.32078",
+  "mag": "2625640744",
+  "pmid": "https://pubmed.ncbi.nlm.nih.gov/28611883"
+ },
+ "is_retracted": false,
+ "counts_by_year": [
+  {
+   "year": 2025,
+   "cited_by_count": 5
+  },
+  {
+   "year": 2024,
+   "cited_by_count": 1
+  },
+  {
+   "year": 2021,
+   "cited_by_count": 3
+  },
+  {
+   "year": 2019,
+   "cited_by_count": 1
+  }
+ ],
+ "primary_location": {
+  "id": "doi:10.5811/westjem.2017.3.32078",
+  "is_oa": true,
+  "landing_page_url": "https://doi.org/10.5811/westjem.2017.3.32078",
+  "pdf_url": "https://escholarship.org/content/qt835648w2/qt835648w2.pdf?t=p7dmke",
+  "source": {
+   "id": "https://openalex.org/S2738799989",
+   "display_name": "Western Journal of Emergency Medicine",
+   "issn_l": "1936-900X",
+   "issn": [
+    "1936-900X",
+    "1936-9018"
+   ],
+   "is_oa": true,
+   "is_in_doaj": true,
+   "is_core": true,
+   "host_organization": "https://openalex.org/P4310320339",
+   "host_organization_name": "eScholarship Publishing, University of California",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310320339"
+   ],
+   "host_organization_lineage_names": [
+    "eScholarship Publishing, University of California"
+   ],
+   "type": "journal"
+  },
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "version": "publishedVersion",
+  "is_accepted": true,
+  "is_published": true,
+  "raw_source_name": "Western Journal of Emergency Medicine",
+  "raw_type": "journal-article"
+ },
+ "language": "en",
+ "fwci": 0.2827,
+ "abstract": "Introduction: Over-inflation of endotracheal tube (ETT) cuffs has the potential to lead to scarring and stenosis of the trachea.1, 2,3, 4 The air inside an ETT cuff is subject to expansion as atmospheric pressure decreases, as happens with an increase in altitude. Emergency medical services helicopters are not pressurized, thereby providing a good environment for studying the effects of altitude changes ETT cuff pressures. This study aims to explore the relationship between altitude and ETT cuff pressures in a helicopter air-medical transport program.Methods: ETT cuffs were initially inflated in a nonstandardized manner and then adjusted to a pressure of 25 cmH2O. The pressure was again measured when the helicopter reached maximum altitude. A final pressure was recorded when the helicopter landed at the receiving facility.Results: We enrolled 60 subjects in the study. The mean for initial tube cuff pressures was 70 cmH2O. Maximum altitude for the program ranged from 1,000-3,000 feet above sea level, with a change in altitude from 800-2,480 feet. Mean cuff pressure at altitude was 36.52 ± 8.56 cmH2O. Despite the significant change in cuff pressure at maximum altitude, there was no relationship found between the maximum altitude and the cuff pressures measured.Conclusion: Our study failed to demonstrate the expected linear relationship between ETT cuff pressures and the maximum altitude achieved during typical air-medical transportation in our system. At altitudes less than 3,000 feet above sea level, the effect of altitude change on ETT pressure is minimal and does not require a change in practice to saline-filled cuffs."
+}

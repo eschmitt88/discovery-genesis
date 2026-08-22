@@ -5,9 +5,10 @@
 Topic draw: the `xpol` sampler from llm-cross-pollination (OpenAlex topic
 frame, stratified by domain, OS-entropy or logged seed), filtered to the
 STEM domains. Per topic: a random year in YEARS; one impactful paper
-(field-normalised citation percentile >= CASE_PCT) and one twin (same
-topic/year/type, percentile in TWIN_BAND), each drawn uniformly by
-OpenAlex's server-side `sample=` with a logged seed. Everything needed to
+(top 1 % by citation rank within the topic-year pool of articles) and one
+twin (same pool, rank in the TWIN_BAND fraction), each drawn uniformly by a
+seeded RNG over ranks. Pools under MIN_POOL articles are skipped — OpenAlex's
+own percentile and topic tags are noisy in small topic-years. Everything needed to
 reproduce a draw is in the output record.
 """
 from __future__ import annotations
@@ -67,6 +68,7 @@ def slim(w: dict) -> dict:
         "n_authors": len(w.get("authorships") or []),
         "topic_id": (pt.get("id") or "").rsplit("/", 1)[-1],
         "topic": pt.get("display_name"),
+        "topic_score": pt.get("score"),
         "field": (pt.get("field") or {}).get("display_name"),
         "domain": (pt.get("domain") or {}).get("display_name"),
         "oa_url": (w.get("open_access") or {}).get("oa_url"),
@@ -74,16 +76,44 @@ def slim(w: dict) -> dict:
     }
 
 
-def draw_work(topic_id: str, year: int, pct_filter: str, seed: int) -> tuple[dict | None, int]:
-    """One uniformly-sampled work from the filtered pool, plus the pool size."""
-    flt = (f"primary_topic.id:{topic_id},publication_year:{year},type:article,"
-           f"is_retracted:false,referenced_works_count:>{MIN_REFS - 1},"
-           f"citation_normalized_percentile.value:{pct_filter}")
-    pool = openalex({"filter": flt, "per-page": 1, "select": "id"})["meta"]["count"]
-    if pool == 0:
-        return None, 0
-    d = openalex({"filter": flt, "sample": 1, "seed": seed, "per-page": 1, "select": SELECT})
-    return (slim(d["results"][0]) if d["results"] else None), pool
+MIN_POOL = 500                    # articles in the topic-year; below this the tail is noise
+CASE_MIN_CITES = 20               # sanity floor: a "top 1%" paper with fewer is a data artefact
+
+
+def pool_filter(topic_id: str, year: int) -> str:
+    return (f"primary_topic.id:{topic_id},publication_year:{year},type:article,"
+            f"is_retracted:false,referenced_works_count:>{MIN_REFS - 1}")
+
+
+def ranked_page(flt: str, rank: int) -> list[dict]:
+    """Works sorted by citations desc; returns the 200-work page containing `rank` (0-based)."""
+    d = openalex({"filter": flt, "sort": "cited_by_count:desc", "per-page": 200,
+                  "page": rank // 200 + 1, "select": SELECT})
+    return d["results"]
+
+
+def draw_by_rank(topic_id: str, year: int, band: tuple[float, float], rng: random.Random
+                 ) -> tuple[dict | None, dict]:
+    """Uniform draw among works whose citation rank (within the topic-year pool of
+    articles) falls in `band` (fractions of the pool, 0 = most cited). Own ranking —
+    OpenAlex's citation_normalized_percentile is unreliable in the tail of small
+    topic-years. Basic paging caps at 10k results, so bands must sit below that."""
+    flt = pool_filter(topic_id, year)
+    n = openalex({"filter": flt, "per-page": 1, "select": "id"})["meta"]["count"]
+    info = {"pool": n}
+    if n < MIN_POOL:
+        return None, info
+    lo, hi = int(band[0] * n), max(int(band[1] * n) - 1, int(band[0] * n))
+    hi = min(hi, 9999)
+    rank = rng.randint(lo, hi)
+    page = ranked_page(flt, rank)
+    idx = rank % 200
+    if idx >= len(page):
+        return None, info
+    info.update({"rank": rank, "band_ranks": [lo, hi]})
+    w = slim(page[idx]); w["rank"] = rank; w["pool"] = n
+    w["topic_score"] = None
+    return w, info
 
 
 def xpol_topics(k: int, seed: int | None) -> tuple[list[dict], dict]:
@@ -120,23 +150,28 @@ def sample_pairs(n_pairs: int, seed: int | None, years=YEARS, verbose=True) -> d
         rng.shuffle(yrs)
         done = False
         for year in yrs[:3]:                       # three tries per topic, then give up
-            s_case, s_twin = rng.randrange(1 << 30), rng.randrange(1 << 30)
-            case, n_case = draw_work(tid, year, f">{CASE_PCT - 1e-9:.4f}", s_case)
-            if not case:
+            case, ci = draw_by_rank(tid, year, (0.0, 1 - CASE_PCT), rng)
+            if not case or (case["cited_by_count"] or 0) < CASE_MIN_CITES:
                 continue
-            twin, n_twin = draw_work(tid, year, f"{TWIN_BAND[0]}-{TWIN_BAND[1]}", s_twin)
+            twin, ti = draw_by_rank(tid, year, TWIN_BAND, rng)
             if not twin:
                 continue
+            flags = []
+            if (case.get("topic_score") or 1) < 0.7:
+                flags.append("case_topic_score<0.7")
+            if (twin.get("topic_score") or 1) < 0.7:
+                flags.append("twin_topic_score<0.7")
             pairs.append({"topic": t["name"], "topic_id": tid, "path": t["path"],
-                          "domain": t["stratum"], "year": year,
-                          "pools": {"case": n_case, "twin": n_twin},
-                          "draw_seeds": {"case": s_case, "twin": s_twin},
-                          "case": case, "twin": twin})
+                          "domain": t["stratum"], "year": year, "pool": ci["pool"],
+                          "ranks": {"case": ci.get("rank"), "twin": ti.get("rank"),
+                                    "case_band": ci.get("band_ranks"), "twin_band": ti.get("band_ranks")},
+                          "flags": flags, "case": case, "twin": twin})
             done = True
             if verbose:
-                print(f"[{len(pairs):2d}] {t['name']} ({year})  case={case['id']} p{case['pct']:.4f} "
-                      f"c={case['cited_by_count']}  twin={twin['id']} p{twin['pct']:.3f} "
-                      f"c={twin['cited_by_count']}  pools={n_case}/{n_twin}", file=sys.stderr)
+                print(f"[{len(pairs):2d}] {t['name']} ({year}) pool={ci['pool']}  "
+                      f"case={case['id']} r{ci['rank']} c={case['cited_by_count']} oa={case['is_oa']}  "
+                      f"twin={twin['id']} r{ti['rank']} c={twin['cited_by_count']}  {' '.join(flags)}",
+                      file=sys.stderr)
             break
         if not done:
             skipped.append(t["name"])
@@ -145,8 +180,10 @@ def sample_pairs(n_pairs: int, seed: int | None, years=YEARS, verbose=True) -> d
         "date": date.today().isoformat(),
         "seed": seed,
         "xpol_record": xrec,
-        "params": {"years": list(years), "case_pct": CASE_PCT, "twin_band": list(TWIN_BAND),
-                   "min_refs": MIN_REFS, "domains": list(STEM_DOMAINS), "type": "article"},
+        "params": {"years": list(years), "case_band": [0.0, 1 - CASE_PCT], "twin_band": list(TWIN_BAND),
+                   "min_refs": MIN_REFS, "min_pool": MIN_POOL, "case_min_cites": CASE_MIN_CITES,
+                   "ranking": "own cited_by_count rank within primary_topic × year × type:article",
+                   "domains": list(STEM_DOMAINS), "type": "article"},
         "n_pairs": len(pairs),
         "skipped_topics": skipped,
         "pairs": pairs,
@@ -158,15 +195,22 @@ def main(argv=None):
     ap.add_argument("--pairs", type=int, default=5)
     ap.add_argument("--seed", type=int, default=None, help="RNG seed (default: OS entropy, logged)")
     ap.add_argument("--out", default=None, help="JSON output path (default: stdout)")
+    ap.add_argument("--holdout", type=int, default=0,
+                    help="move the LAST N pairs to test/samples/<name>-heldout.json (HCE split, never read during search)")
     a = ap.parse_args(argv)
     seed = a.seed if a.seed is not None else random.SystemRandom().randrange(1 << 62)
     rec = sample_pairs(a.pairs, seed)
-    txt = json.dumps(rec, indent=1, ensure_ascii=False)
-    if a.out:
-        p = Path(a.out); p.parent.mkdir(parents=True, exist_ok=True); p.write_text(txt)
-        print(f"{rec['n_pairs']} pairs, seed {seed} -> {p}", file=sys.stderr)
-    else:
-        print(txt)
+    if not a.out:
+        print(json.dumps(rec, indent=1, ensure_ascii=False)); return
+    p = Path(a.out); p.parent.mkdir(parents=True, exist_ok=True)
+    if a.holdout:
+        held = dict(rec, pairs=rec["pairs"][-a.holdout:], n_pairs=a.holdout, split="test")
+        rec = dict(rec, pairs=rec["pairs"][:-a.holdout], n_pairs=len(rec["pairs"]) - a.holdout, split="dev")
+        hp = Path("test/samples") / (p.stem + "-heldout.json"); hp.parent.mkdir(parents=True, exist_ok=True)
+        hp.write_text(json.dumps(held, indent=1, ensure_ascii=False))
+        print(f"{a.holdout} pairs held out -> {hp}", file=sys.stderr)
+    p.write_text(json.dumps(rec, indent=1, ensure_ascii=False))
+    print(f"{rec['n_pairs']} pairs, seed {seed} -> {p}", file=sys.stderr)
 
 
 if __name__ == "__main__":

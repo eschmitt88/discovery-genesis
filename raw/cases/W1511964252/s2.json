@@ -1,0 +1,330 @@
+{
+ "paper": {
+  "paperId": "31f3f48893a538aabf322e0689b20e710db4f854",
+  "title": "Estradiol limits viral replication following intravaginal immunization leading to diminished mucosal IgG response and non-sterile protection against genital herpes challenge.",
+  "referenceCount": 0,
+  "citationCount": 16,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null,
+   "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/j.1600-0897.2009.00796.x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/j.1600-0897.2009.00796.x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+   "Medicine"
+  ],
+  "tldr": {
+   "model": "tldr@v2.0.0",
+   "text": "The results show that estradiol leads to limited viral replication and diminished mucosal IgG response, resulting in non-sterile immune protection against genital herpes infection."
+  },
+  "authors": [
+   {
+    "authorId": "6699452",
+    "name": "A. Gillgrass"
+   },
+   {
+    "authorId": "6806025",
+    "name": "D. Chege"
+   },
+   {
+    "authorId": "40297499",
+    "name": "Sudha Bhavanam"
+   },
+   {
+    "authorId": "3726268",
+    "name": "C. Kaushic"
+   }
+  ]
+ },
+ "references": null,
+ "citations": [
+  {
+   "isInfluential": false,
+   "intents": [],
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "a03aedb604cafc7602e5b8dd1c6d650bc01fd4eb",
+    "externalIds": {
+     "PubMedCentral": "12702753",
+     "DOI": "10.3389/fimmu.2025.1691163",
+     "CorpusId": 283496151,
+     "PubMed": "41403947"
+    },
+    "title": "Estradiol enhances B cell humoral immune responses against genital herpes simplex virus type 2 in mice through an IL-17 dependant pathway",
+    "year": 2025
+   }
+  },
+  {
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "contexts": [
+    "E2 is considered to be generally protective against sexually transmitted viral infections, while P4 and progestin-based hormonal contraceptives have been shown to increase susceptibility [5,18–23].",
+    "The presence of female sex hormones and MPA further enhanced the physiological relevance of the infection model as circulating hormones can alter the immune responses of the vaginal cells against the virus [17–24]."
+   ],
+   "citingPaper": {
+    "paperId": "7e55b2936a32373aeb9fd4633eb869d11f6a6cce",
+    "externalIds": {
+     "MAG": "2507534980",
+     "PubMedCentral": "5035955",
+     "DOI": "10.3390/v8090241",
+     "CorpusId": 17413865,
+     "PubMed": "27589787"
+    },
+    "title": "Effects of Female Sex Hormones on Susceptibility to HSV-2 in Vaginal Cells Grown in Air-Liquid Interface",
+    "year": 2016
+   }
+  },
+  {
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "contexts": [
+    "While others and we have previously reported that the presence of E2 during immunization can improve anti-viral protection in HSV-2 vaccine models [10, 12, 14, 15], the underlying mechanism has remained largely unknown."
+   ],
+   "citingPaper": {
+    "paperId": "927208ceef5fd35eff6368b25aeef33cb0a21978",
+    "externalIds": {
+     "MAG": "2345468153",
+     "PubMedCentral": "4858291",
+     "DOI": "10.1371/journal.ppat.1005589",
+     "CorpusId": 8855872,
+     "PubMed": "27148737"
+    },
+    "title": "Estradiol Enhances CD4+ T-Cell Anti-Viral Immunity by Priming Vaginal DCs to Induce Th17 Responses via an IL-1-Dependent Pathway",
+    "year": 2016
+   }
+  },
+  {
+   "isInfluential": false,
+   "intents": [],
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "3c2ef631407bcebf2c079be828d1462d53129f5d",
+    "externalIds": {
+     "PubMedCentral": "4716657",
+     "MAG": "2044087049",
+     "DOI": "10.1038/nri3819",
+     "CorpusId": 7059128,
+     "PubMed": "25743222"
+    },
+    "title": "The role of sex hormones in immune protection of the female reproductive tract",
+    "year": 2015
+   }
+  },
+  {
+   "isInfluential": true,
+   "intents": [
+    "background"
+   ],
+   "contexts": [
+    "ERα represses the replication of a number of viruses, including HCV, HBV, HSV, and rubella (Gillgrass et al., 2010; Hayashida et al., 2010; Murakami et al., 2013; Roehrig et al., 1979; Vicetti Miguel et al., 2010; Wang et al., 2012).",
+    "It also inhibits hepatitis B virus (HBV) transcription (Wang et al., 2012), limits herpes simplex virus (HSV) primary infection and reactivation (Gillgrass et al., 2010; Vicetti Miguel et al., 2010), and inhibits rubella virus replication (Roehrig et al., 1979).",
+    "Interestingly, many of the reported 17β-estradiol reported anti-viral effects are mediated by ERα and not ERβ (Hayashida et al., 2010; Murakami et al., 2013; Wang et al., 2012; Gillgrass et al., 2010; Vicetti Miguel et al., 2010; Roehrig et al., 1979).",
+    "…reported 17β-estradiol reported anti-viral effects are mediated by ERα and not ERβ (Hayashida et al., 2010; Murakami et al., 2013; Wang et al., 2012; Gillgrass et al., 2010; Vicetti Miguel et al., 2010; Roehrig et al., 1979).\nβ-Catenin signaling represses HIV replication in multiple targets,…",
+    "Most importantly, these studies add to a growing list of viruses (HCV, HBV,HSV, rubella) that are inhibited by ER through ERα engagment (Gillgrass et al., 2010; Hayashida et al., 2010; Murakami et al., 2013; Roehrig et al., 1979; Vicetti Miguel et al., 2010; Wang et al., 2012).",
+    ", 2012), limits herpes simplex virus (HSV) primary infection and reactivation (Gillgrass et al., 2010; Vicetti Miguel et al., 2010), and inhibits rubella virus replication (Roehrig et al."
+   ],
+   "citingPaper": {
+    "paperId": "079ec84cec2536cba0d4a1693166e4cc6205e229",
+    "externalIds": {
+     "MAG": "2016822435",
+     "PubMedCentral": "3722310",
+     "DOI": "10.1016/j.virol.2013.05.027",
+     "CorpusId": 205648505,
+     "PubMed": "23769242"
+    },
+    "title": "17β-estradiol inhibits HIV-1 by inducing a complex formation between β-catenin and estrogen receptor on the HIV promoter to suppress HIV transcription",
+    "year": 2013
+   }
+  },
+  {
+   "isInfluential": false,
+   "intents": [],
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "ec91d0ce1381b68b27749fce5902e049d91c2397",
+    "externalIds": {
+     "PubMedCentral": "3616973",
+     "MAG": "1974275338",
+     "DOI": "10.1371/journal.ppat.1003292",
+     "CorpusId": 18545378,
+     "PubMed": "23593002"
+    },
+    "title": "Illumination of Murine Gammaherpesvirus-68 Cycle Reveals a Sexual Transmission Route from Females to Males in Laboratory Mice",
+    "year": 2013
+   }
+  },
+  {
+   "isInfluential": false,
+   "intents": [],
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "683c4a88bf8e4c3c562867dae02520f4b1d317b3",
+    "externalIds": {
+     "MAG": "1965264464",
+     "DOI": "10.1016/j.molimm.2012.08.002",
+     "CorpusId": 25572775,
+     "PubMed": "22960553"
+    },
+    "title": "Specific and non-overlapping functions of testosterone and 11-ketotestosterone in the regulation of professional phagocyte responses in the teleost fish gilthead seabream.",
+    "year": 2013
+   }
+  },
+  {
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "contexts": [
+    "Moreover, E2 stimulates the innate immune response [50,51], increasing macrophage reactivity against aggressive bacteria [52]."
+   ],
+   "citingPaper": {
+    "paperId": "4d18ad5ce73051aa2412d4704891d703a97d6e05",
+    "externalIds": {
+     "PubMedCentral": "3487901",
+     "MAG": "2123652320",
+     "DOI": "10.1371/journal.pone.0048220",
+     "CorpusId": 17897614,
+     "PubMed": "23133617"
+    },
+    "title": "High-Fat Diet Induces Periodontitis in Mice through Lipopolysaccharides (LPS) Receptor Signaling: Protective Action of Estrogens",
+    "year": 2012
+   }
+  },
+  {
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "contexts": [
+    "Cessation of E2 treatment for 5 days, but not 1–3 days, prior to challenge with HSV-2 can increase protection in ovariectomized mice suggesting that the effects of E2 can be reversed and are dependent on E2 clearance [58]."
+   ],
+   "citingPaper": {
+    "paperId": "40e8adbd0627c11cd22daaebaf6bebab829e8e10",
+    "externalIds": {
+     "PubMedCentral": "4120666",
+     "MAG": "2124775637",
+     "DOI": "10.1002/bies.201200099",
+     "CorpusId": 5867229,
+     "PubMed": "23012250"
+    },
+    "title": "Sex influences immune responses to viruses, and efficacy of prophylaxis and therapeutic treatments for viral diseases",
+    "year": 2012
+   }
+  },
+  {
+   "isInfluential": false,
+   "intents": [],
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "855bc1abfc983eebe077ffdf39da86e5fe966fed",
+    "externalIds": {
+     "MAG": "2023752136",
+     "DOI": "10.1038/mi.2012.48",
+     "CorpusId": 23425631,
+     "PubMed": "22718264"
+    },
+    "title": "Delayed but effective induction of mucosal memory immune responses against genital HSV-2 in the absence of secondary lymphoid organs",
+    "year": 2012
+   }
+  },
+  {
+   "isInfluential": false,
+   "intents": [],
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "f9dd4b3b268521a6b102a41484ee23dbb7bac6b1",
+    "externalIds": {
+     "MAG": "2081038501",
+     "DOI": "10.1002/eji.201041297",
+     "CorpusId": 205787571,
+     "PubMed": "21681740"
+    },
+    "title": "CD4+ T‐cell immunity in the female genital tract is critically dependent on local mucosal immunization",
+    "year": 2011
+   }
+  },
+  {
+   "isInfluential": false,
+   "intents": [],
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "15140ccc539dc02e003ab3c5902329150340abf4",
+    "externalIds": {
+     "MAG": "2003898346",
+     "DOI": "10.1016/j.jri.2010.12.004",
+     "CorpusId": 9751076,
+     "PubMed": "21296427"
+    },
+    "title": "Increased prevalence of sexually transmitted viral infections in women: the role of female sex hormones in regulating susceptibility and immune responses.",
+    "year": 2011
+   }
+  },
+  {
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "contexts": [
+    "E2 is also protective against Herpes simplex virus (HSV)-2 infection in mice models and immortalized vaginal Vk2/E6E7 cells (Gillgrass et al. 2005, Gillgrass et al. 2010, Kaushic et al. 2011, Anipindi et al. 2016, Lee et al. 2016)."
+   ],
+   "citingPaper": {
+    "paperId": "5f76656fcd45de338db7636aef55c69b6e4e3eee",
+    "externalIds": {
+     "MAG": "2911772731",
+     "CorpusId": 86848139
+    },
+    "title": "Cross talk between the glucocorticoid receptor and the progesterone receptor in modulation of progestin responses and HIV-1 infection",
+    "year": 2018
+   }
+  },
+  {
+   "isInfluential": false,
+   "intents": [],
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "8ac57abf14468c875c4ca3d1536bc243d405e545",
+    "externalIds": {
+     "MAG": "2210007133",
+     "CorpusId": 86105499
+    },
+    "title": "Investigating the roles of local mucosal immunity and estradiol in the generation of protective T cell responses against secondary HSV-2 infections in the female genital tract",
+    "year": 2015
+   }
+  },
+  {
+   "isInfluential": false,
+   "intents": [],
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "b4bc2dc30faa8b688053c72cbfbe85347fa72a3d",
+    "externalIds": {
+     "MAG": "629562088",
+     "DOI": "10.1007/978-3-642-30726-3_22",
+     "CorpusId": 25976063,
+     "PubMed": "23027464"
+    },
+    "title": "Sex differences in prophylaxis and therapeutic treatments for viral diseases.",
+    "year": 2012
+   }
+  },
+  {
+   "isInfluential": false,
+   "intents": [],
+   "contexts": [],
+   "citingPaper": {
+    "paperId": "dfb90d3465c6ab1eb523c25b140cf42f525e1e24",
+    "externalIds": {
+     "MAG": "2184950777",
+     "CorpusId": 86079584
+    },
+    "title": "Estradiol Limits Viral Replication Following Intravaginal Immunization Leading to Diminished Mucosal IgG Response and Non-sterile Protection Against Genital Herpes Challenge (p 299-309)",
+    "year": 2010
+   }
+  }
+ ]
+}

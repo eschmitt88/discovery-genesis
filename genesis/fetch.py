@@ -1,0 +1,260 @@
+"""Stage 2: build the raw bundle for every work in a sample file.
+
+    uv run python -m genesis.fetch data/samples/pilot.json [--max-citers 3000] [--no-text]
+
+For each case and twin writes raw/cases/<W-id>/ :
+    work.json       full OpenAlex record (+ reconstructed abstract)
+    refs.json       OpenAlex records of the referenced works (topic, year, citations)
+    citers.json     works citing it: id, year, referenced_works (for the disruption index)
+    s2.json         Semantic Scholar: references with intents/contexts, citation contexts,
+                    influential-citation count  (best effort; skipped on 404)
+    fulltext.pdf / fulltext.txt   open-access text if any location yields a real PDF
+    status.json     what was fetched, when, from where
+
+raw/ is immutable: an existing file is never overwritten — re-running only
+fills gaps. Delete the folder to refetch.
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import re
+import sys
+import time
+import urllib.error
+import urllib.parse
+import urllib.request
+from datetime import datetime, timezone
+from pathlib import Path
+
+from .sample import UA, openalex
+
+ROOT = Path(__file__).resolve().parents[1]
+RAW = ROOT / "raw" / "cases"
+S2 = "https://api.semanticscholar.org/graph/v1/paper"
+UNPAYWALL = "https://api.unpaywall.org/v2/"
+MAILTO = "eschmitt88@gmail.com"
+WORK_SELECT = ",".join([
+    "id", "doi", "title", "display_name", "publication_year", "publication_date", "type",
+    "cited_by_count", "citation_normalized_percentile", "cited_by_percentile_year",
+    "referenced_works", "referenced_works_count", "related_works", "primary_topic", "topics",
+    "keywords", "concepts", "open_access", "locations", "best_oa_location", "authorships",
+    "abstract_inverted_index", "biblio", "ids", "is_retracted", "counts_by_year",
+    "primary_location", "language", "fwci",
+])
+REF_SELECT = ",".join([
+    "id", "doi", "title", "publication_year", "type", "cited_by_count", "primary_topic",
+    "referenced_works_count", "authorships", "fwci",
+])
+CITER_SELECT = "id,publication_year,referenced_works,primary_topic,cited_by_count"
+
+
+# ----------------------------------------------------------------- helpers
+def get(url: str, headers: dict | None = None, timeout=60, retries=4, binary=False):
+    req = urllib.request.Request(url, headers={"User-Agent": UA, **(headers or {})})
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read() if binary else json.load(r)
+        except urllib.error.HTTPError as e:
+            if e.code in (404, 403, 400):
+                return None
+            if e.code == 429:
+                time.sleep(5 * (attempt + 1)); continue
+            if attempt == retries - 1:
+                raise
+            time.sleep(2 ** attempt)
+        except Exception:                      # noqa: BLE001
+            if attempt == retries - 1:
+                raise
+            time.sleep(2 ** attempt)
+    return None
+
+
+def abstract_from_index(inv: dict | None) -> str | None:
+    if not inv:
+        return None
+    pos = {}
+    for w, ps in inv.items():
+        for p in ps:
+            pos[p] = w
+    return " ".join(pos[i] for i in sorted(pos))
+
+
+def wid(x: str) -> str:
+    return x.rsplit("/", 1)[-1]
+
+
+def write_once(path: Path, obj, binary=False) -> bool:
+    if path.exists():
+        return False
+    path.parent.mkdir(parents=True, exist_ok=True)
+    if binary:
+        path.write_bytes(obj)
+    else:
+        path.write_text(json.dumps(obj, indent=1, ensure_ascii=False) if not isinstance(obj, str) else obj)
+    return True
+
+
+# ------------------------------------------------------------------ stages
+def fetch_work(w: str) -> dict:
+    d = openalex_one(w, WORK_SELECT)
+    d["abstract"] = abstract_from_index(d.pop("abstract_inverted_index", None))
+    return d
+
+
+def openalex_one(w: str, select: str) -> dict:
+    return get(f"https://api.openalex.org/works/{w}?select={select}&mailto={MAILTO}")
+
+
+def fetch_batch(ids: list[str], select: str) -> list[dict]:
+    out = []
+    for i in range(0, len(ids), 50):
+        chunk = "|".join(ids[i:i + 50])
+        d = openalex({"filter": f"openalex_id:{chunk}", "select": select, "per-page": 50,
+                      "mailto": MAILTO})
+        out.extend(d["results"])
+    return out
+
+
+def fetch_citers(w: str, max_citers: int) -> list[dict]:
+    out, cursor = [], "*"
+    while cursor and len(out) < max_citers:
+        d = openalex({"filter": f"cites:{w}", "select": CITER_SELECT, "per-page": 200,
+                      "cursor": cursor, "mailto": MAILTO})
+        out.extend(d["results"])
+        cursor = d["meta"].get("next_cursor")
+    return out[:max_citers]
+
+
+def fetch_s2(doi: str | None, w: str) -> dict | None:
+    key = f"DOI:{doi.replace('https://doi.org/', '')}" if doi else None
+    if not key:
+        return None
+    base = get(f"{S2}/{urllib.parse.quote(key)}?fields=paperId,title,citationCount,"
+               "influentialCitationCount,referenceCount,tldr,fieldsOfStudy,openAccessPdf")
+    if not base:
+        return None
+    time.sleep(1.2)
+    refs = get(f"{S2}/{base['paperId']}/references?fields=intents,contexts,isInfluential,"
+               "title,year,externalIds,citationCount&limit=1000") or {}
+    time.sleep(1.2)
+    cits = get(f"{S2}/{base['paperId']}/citations?fields=intents,contexts,isInfluential,"
+               "title,year,externalIds&limit=500") or {}
+    time.sleep(1.2)
+    return {"paper": base, "references": refs.get("data", []), "citations": cits.get("data", [])}
+
+
+def pdf_candidates(work: dict) -> list[str]:
+    urls = []
+    for loc in ([work.get("best_oa_location")] + (work.get("locations") or [])):
+        if not loc:
+            continue
+        for k in ("pdf_url", "landing_page_url"):
+            u = loc.get(k)
+            if u and u not in urls:
+                urls.append(u)
+    arx = (work.get("ids") or {}).get("arxiv") or next(
+        (u for u in urls if "arxiv.org" in u), None)
+    if arx:
+        m = re.search(r"(\d{4}\.\d{4,5}|[a-z\-]+/\d{7})", arx)
+        if m:
+            urls.insert(0, f"https://arxiv.org/pdf/{m.group(1)}")
+    doi = work.get("doi")
+    if doi:
+        up = get(UNPAYWALL + urllib.parse.quote(doi.replace("https://doi.org/", "")) + f"?email={MAILTO}")
+        if up:
+            for loc in [up.get("best_oa_location")] + (up.get("oa_locations") or []):
+                if loc and loc.get("url_for_pdf") and loc["url_for_pdf"] not in urls:
+                    urls.append(loc["url_for_pdf"])
+    return urls
+
+
+def fetch_pdf(urls: list[str]) -> tuple[bytes | None, str | None]:
+    for u in urls:
+        try:
+            b = get(u, headers={"Accept": "application/pdf,*/*"}, timeout=90, retries=1, binary=True)
+        except Exception:                      # noqa: BLE001
+            b = None
+        if b and b[:5] == b"%PDF-" and len(b) > 10_000:
+            return b, u
+        time.sleep(0.5)
+    return None, None
+
+
+def pdf_text(pdf: Path) -> str:
+    from pypdf import PdfReader
+    return "\n\n".join((p.extract_text() or "") for p in PdfReader(str(pdf)).pages)
+
+
+def bundle(w: str, max_citers: int, want_text: bool, log=print) -> dict:
+    d = RAW / w
+    status_p = d / "status.json"
+    status = json.load(status_p.open()) if status_p.exists() else {"id": w}
+    t0 = time.time()
+
+    if not (d / "work.json").exists():
+        work = fetch_work(w); write_once(d / "work.json", work)
+    else:
+        work = json.load((d / "work.json").open())
+
+    if not (d / "refs.json").exists():
+        refs = fetch_batch([wid(r) for r in work.get("referenced_works", [])], REF_SELECT)
+        write_once(d / "refs.json", refs); status["n_refs_fetched"] = len(refs)
+
+    if not (d / "citers.json").exists():
+        citers = fetch_citers(w, max_citers)
+        write_once(d / "citers.json", citers)
+        status["n_citers_fetched"] = len(citers)
+        status["citers_capped"] = len(citers) >= max_citers
+
+    if not (d / "s2.json").exists() and "s2" not in status:
+        s2 = fetch_s2(work.get("doi"), w)
+        status["s2"] = "ok" if s2 else "missing"
+        if s2:
+            write_once(d / "s2.json", s2)
+
+    if want_text and not (d / "fulltext.pdf").exists() and "fulltext" not in status:
+        urls = pdf_candidates(work)
+        pdf, src = fetch_pdf(urls)
+        if pdf:
+            write_once(d / "fulltext.pdf", pdf, binary=True)
+            try:
+                txt = pdf_text(d / "fulltext.pdf")
+                write_once(d / "fulltext.txt", txt)
+                status["fulltext"] = {"source": src, "chars": len(txt)}
+            except Exception as e:             # noqa: BLE001
+                status["fulltext"] = {"source": src, "error": str(e)[:200]}
+        else:
+            status["fulltext"] = {"source": None, "tried": len(urls)}
+
+    status["fetched_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    status["seconds"] = round(time.time() - t0, 1)
+    status_p.write_text(json.dumps(status, indent=1))
+    ft = status.get("fulltext") or {}
+    log(f"  {w}  refs={work.get('referenced_works_count')}  citers={status.get('n_citers_fetched')}"
+        f"  s2={status.get('s2')}  text={'yes' if ft.get('chars') else 'no'}  {status['seconds']}s")
+    return status
+
+
+def main(argv=None):
+    ap = argparse.ArgumentParser(prog="genesis.fetch")
+    ap.add_argument("sample", help="sample JSON from genesis.sample")
+    ap.add_argument("--max-citers", type=int, default=3000)
+    ap.add_argument("--no-text", action="store_true")
+    ap.add_argument("--only", nargs="*", help="restrict to these W-ids")
+    a = ap.parse_args(argv)
+    rec = json.load(open(a.sample))
+    ids = []
+    for p in rec["pairs"]:
+        ids += [p["case"]["id"], p["twin"]["id"]]
+    if a.only:
+        ids = [i for i in ids if i in set(a.only)]
+    print(f"{len(ids)} works -> {RAW}", file=sys.stderr)
+    for i, w in enumerate(ids, 1):
+        print(f"[{i}/{len(ids)}]", file=sys.stderr, end="")
+        bundle(w, a.max_citers, not a.no_text, log=lambda s: print(s, file=sys.stderr))
+
+
+if __name__ == "__main__":
+    main()

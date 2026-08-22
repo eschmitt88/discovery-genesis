@@ -1,0 +1,975 @@
+{
+ "kind": "sample",
+ "date": "2026-08-22",
+ "seed": 1124470055840796258,
+ "xpol_record": {
+  "seed": 1124470055840796258,
+  "level": "topic",
+  "k": 60,
+  "stratify": "domain",
+  "population": 4516,
+  "band": null,
+  "exclude_home": true,
+  "eligible": 4516
+ },
+ "params": {
+  "years": [
+   2010,
+   2019
+  ],
+  "case_band": [
+   0.0,
+   0.010000000000000009
+  ],
+  "twin_band": [
+   0.4,
+   0.6
+  ],
+  "min_refs": 5,
+  "min_pool": 500,
+  "case_min_cites": 20,
+  "ranking": "own cited_by_count rank within primary_topic × year × type:article",
+  "domains": [
+   "Physical Sciences",
+   "Life Sciences",
+   "Health Sciences"
+  ],
+  "type": "article"
+ },
+ "n_pairs": 15,
+ "skipped_topics": [
+  "Food Security and Socioeconomic Dynamics",
+  "Conservation, Ecology, Wildlife Education",
+  "Infectious Encephalopathies and Encephalitis",
+  "Seed and Plant Biochemistry",
+  "Hydrogen's biological and therapeutic effects",
+  "Advanced Scientific Techniques and Applications",
+  "Oral and Craniofacial Lesions",
+  "Photovoltaic Systems and Sustainability",
+  "Agricultural Practices and Plant Genetics",
+  "Mathematics Education and Programs",
+  "Advanced Theoretical and Applied Studies in Material Sciences and Geometry",
+  "Ziziphus Jujuba Studies and Applications",
+  "Medical Coding and Health Information",
+  "Statistical Mechanics and Entropy",
+  "Free Will and Agency"
+ ],
+ "pairs": [
+  {
+   "topic": "Herpesvirus Infections and Treatments",
+   "topic_id": "T10625",
+   "path": "Health Sciences > Medicine > Epidemiology > Herpesvirus Infections and Treatments",
+   "domain": "Health Sciences",
+   "year": 2010,
+   "pool": 1166,
+   "ranks": {
+    "case": 0,
+    "twin": 637,
+    "case_band": [
+     0,
+     10
+    ],
+    "twin_band": [
+     466,
+     698
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2092406095",
+    "doi": "https://doi.org/10.1016/s1473-3099(10)70222-x",
+    "title": "Causes of encephalitis and differences in their clinical presentations in England: a multicentre, population-based prospective study",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 1369,
+    "pct": 0.99863986,
+    "n_refs": 35,
+    "n_authors": 16,
+    "topic_id": "T10625",
+    "topic": "Herpesvirus Infections and Treatments",
+    "topic_score": null,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://doi.org/10.1016/s1473-3099(10)70222-x",
+    "is_oa": true,
+    "rank": 0,
+    "pool": 1166
+   },
+   "twin": {
+    "id": "W1511964252",
+    "doi": "https://doi.org/10.1111/j.1600-0897.2009.00796.x",
+    "title": "ORIGINAL ARTICLE: Estradiol Limits Viral Replication Following Intravaginal Immunization Leading to Diminished Mucosal IgG Response and Non‐sterile Protection Against Genital Herpes Challenge",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 14,
+    "pct": 0.82778058,
+    "n_refs": 27,
+    "n_authors": 4,
+    "topic_id": "T10625",
+    "topic": "Herpesvirus Infections and Treatments",
+    "topic_score": null,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 637,
+    "pool": 1166
+   }
+  },
+  {
+   "topic": "Fluorine in Organic Chemistry",
+   "topic_id": "T10947",
+   "path": "Life Sciences > Pharmacology, Toxicology and Pharmaceutics > Pharmaceutical Science > Fluorine in Organic Chemistry",
+   "domain": "Life Sciences",
+   "year": 2015,
+   "pool": 1006,
+   "ranks": {
+    "case": 1,
+    "twin": 540,
+    "case_band": [
+     0,
+     9
+    ],
+    "twin_band": [
+     402,
+     602
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2316766720",
+    "doi": "https://doi.org/10.1021/cr500368h",
+    "title": "Carbon Trifluoromethylation Reactions of Hydrocarbon Derivatives and Heteroarenes",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 1067,
+    "pct": 0.99987976,
+    "n_refs": 488,
+    "n_authors": 4,
+    "topic_id": "T10947",
+    "topic": "Fluorine in Organic Chemistry",
+    "topic_score": null,
+    "field": "Pharmacology, Toxicology and Pharmaceutics",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 1,
+    "pool": 1006
+   },
+   "twin": {
+    "id": "W4230051646",
+    "doi": "https://doi.org/10.1002/ange.201500908",
+    "title": "Assembly of Fluorinated Quaternary Stereogenic Centers through Catalytic Enantioselective Detrifluoroacetylative Aldol Reactions",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 25,
+    "pct": 0.85343273,
+    "n_refs": 83,
+    "n_authors": 5,
+    "topic_id": "T10947",
+    "topic": "Fluorine in Organic Chemistry",
+    "topic_score": null,
+    "field": "Pharmacology, Toxicology and Pharmaceutics",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 540,
+    "pool": 1006
+   }
+  },
+  {
+   "topic": "Pharmaceutical and Antibiotic Environmental Impacts",
+   "topic_id": "T10419",
+   "path": "Physical Sciences > Environmental Science > Pollution > Pharmaceutical and Antibiotic Environmental Impacts",
+   "domain": "Physical Sciences",
+   "year": 2013,
+   "pool": 1454,
+   "ranks": {
+    "case": 3,
+    "twin": 780,
+    "case_band": [
+     0,
+     13
+    ],
+    "twin_band": [
+     581,
+     871
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2009989575",
+    "doi": "https://doi.org/10.1016/j.chemosphere.2013.07.059",
+    "title": "Pharmaceuticals as emerging contaminants and their removal from water. A review",
+    "year": 2013,
+    "type": "article",
+    "cited_by_count": 1475,
+    "pct": 0.99940554,
+    "n_refs": 209,
+    "n_authors": 5,
+    "topic_id": "T10419",
+    "topic": "Pharmaceutical and Antibiotic Environmental Impacts",
+    "topic_score": null,
+    "field": "Environmental Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 3,
+    "pool": 1454
+   },
+   "twin": {
+    "id": "W2109039561",
+    "doi": "https://doi.org/10.1080/19443994.2013.817507",
+    "title": "Kinetics and degradation mechanism of clofibric acid and diclofenac in UV photolysis and UV/H2O2 reaction",
+    "year": 2013,
+    "type": "article",
+    "cited_by_count": 33,
+    "pct": 0.74170729,
+    "n_refs": 35,
+    "n_authors": 5,
+    "topic_id": "T10419",
+    "topic": "Pharmaceutical and Antibiotic Environmental Impacts",
+    "topic_score": null,
+    "field": "Environmental Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 780,
+    "pool": 1454
+   }
+  },
+  {
+   "topic": "Enzyme-mediated dye degradation",
+   "topic_id": "T11136",
+   "path": "Life Sciences > Agricultural and Biological Sciences > Plant Science > Enzyme-mediated dye degradation",
+   "domain": "Life Sciences",
+   "year": 2010,
+   "pool": 618,
+   "ranks": {
+    "case": 0,
+    "twin": 296,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     247,
+     369
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2040841239",
+    "doi": "https://doi.org/10.1016/j.jtice.2010.06.006",
+    "title": "Bacterial decolorization and degradation of azo dyes: A review",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 1541,
+    "pct": 0.99932545,
+    "n_refs": 220,
+    "n_authors": 4,
+    "topic_id": "T11136",
+    "topic": "Enzyme-mediated dye degradation",
+    "topic_score": null,
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 0,
+    "pool": 618
+   },
+   "twin": {
+    "id": "W2000587171",
+    "doi": "https://doi.org/10.2166/wst.2010.021",
+    "title": "Characteristics of developed granules containing selected decolourising bacteria for the degradation of textile wastewater",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 31,
+    "pct": 0.78543158,
+    "n_refs": 16,
+    "n_authors": 5,
+    "topic_id": "T11136",
+    "topic": "Enzyme-mediated dye degradation",
+    "topic_score": null,
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 296,
+    "pool": 618
+   }
+  },
+  {
+   "topic": "Ethnobotanical and Medicinal Plants Studies",
+   "topic_id": "T10431",
+   "path": "Life Sciences > Agricultural and Biological Sciences > Plant Science > Ethnobotanical and Medicinal Plants Studies",
+   "domain": "Life Sciences",
+   "year": 2019,
+   "pool": 722,
+   "ranks": {
+    "case": 3,
+    "twin": 299,
+    "case_band": [
+     0,
+     6
+    ],
+    "twin_band": [
+     288,
+     432
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2986932602",
+    "doi": "https://doi.org/10.32859/era.18.35.1-30",
+    "title": "A quantitative medico-botanical expedition of Fairy Meadows National Park, Diamir, Gilgit Baltistan, Pakistan",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 326,
+    "pct": 0.99842208,
+    "n_refs": 52,
+    "n_authors": 6,
+    "topic_id": "T10431",
+    "topic": "Ethnobotanical and Medicinal Plants Studies",
+    "topic_score": null,
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences",
+    "oa_url": "http://ethnobotanyjournal.org/index.php/era/article/download/1517/891",
+    "is_oa": true,
+    "rank": 3,
+    "pool": 722
+   },
+   "twin": {
+    "id": "W2967132151",
+    "doi": "https://doi.org/10.1155/2019/8486214",
+    "title": "Chemical Constituents of Root Barks of Gnidia involucrata and Evaluation for Antibacterial and Antioxidant Activities",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 12,
+    "pct": 0.82214811,
+    "n_refs": 26,
+    "n_authors": 6,
+    "topic_id": "T10431",
+    "topic": "Ethnobotanical and Medicinal Plants Studies",
+    "topic_score": null,
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences",
+    "oa_url": "https://downloads.hindawi.com/journals/jtm/2019/8486214.pdf",
+    "is_oa": true,
+    "rank": 299,
+    "pool": 722
+   }
+  },
+  {
+   "topic": "Liver physiology and pathology",
+   "topic_id": "T10966",
+   "path": "Health Sciences > Medicine > Hepatology > Liver physiology and pathology",
+   "domain": "Health Sciences",
+   "year": 2011,
+   "pool": 726,
+   "ranks": {
+    "case": 0,
+    "twin": 424,
+    "case_band": [
+     0,
+     6
+    ],
+    "twin_band": [
+     290,
+     434
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2142988890",
+    "doi": "https://doi.org/10.1146/annurev-pathol-011110-130246",
+    "title": "Pathogenesis of Liver Fibrosis",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 1804,
+    "pct": 0.99928304,
+    "n_refs": 225,
+    "n_authors": 2,
+    "topic_id": "T10966",
+    "topic": "Liver physiology and pathology",
+    "topic_score": null,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 0,
+    "pool": 726
+   },
+   "twin": {
+    "id": "W2166015942",
+    "doi": "https://doi.org/10.1158/2159-8290.cd-11-0289",
+    "title": "Anti-MET Targeted Therapy Has Come of Age: The First Durable Complete Response with MetMAb in Metastatic Gastric Cancer",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 21,
+    "pct": 0.76188959,
+    "n_refs": 18,
+    "n_authors": 2,
+    "topic_id": "T10966",
+    "topic": "Liver physiology and pathology",
+    "topic_score": null,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 424,
+    "pool": 726
+   }
+  },
+  {
+   "topic": "Polymer Surface Interaction Studies",
+   "topic_id": "T10859",
+   "path": "Physical Sciences > Materials Science > Surfaces, Coatings and Films > Polymer Surface Interaction Studies",
+   "domain": "Physical Sciences",
+   "year": 2017,
+   "pool": 1024,
+   "ranks": {
+    "case": 4,
+    "twin": 544,
+    "case_band": [
+     0,
+     9
+    ],
+    "twin_band": [
+     409,
+     613
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2611274699",
+    "doi": "https://doi.org/10.1021/acs.macromol.7b00450",
+    "title": "50th Anniversary Perspective : Polymer Brushes: Novel Surfaces for Future Materials",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 509,
+    "pct": 0.99841622,
+    "n_refs": 283,
+    "n_authors": 4,
+    "topic_id": "T10859",
+    "topic": "Polymer Surface Interaction Studies",
+    "topic_score": null,
+    "field": "Materials Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 4,
+    "pool": 1024
+   },
+   "twin": {
+    "id": "W2619190098",
+    "doi": "https://doi.org/10.1016/j.toxicon.2017.05.021",
+    "title": "Salamanders on the bench – A biocompatibility study of salamander skin secretions in cell cultures",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 20,
+    "pct": 0.62692003,
+    "n_refs": 87,
+    "n_authors": 12,
+    "topic_id": "T10859",
+    "topic": "Polymer Surface Interaction Studies",
+    "topic_score": null,
+    "field": "Materials Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 544,
+    "pool": 1024
+   }
+  },
+  {
+   "topic": "Anorectal Disease Treatments and Outcomes",
+   "topic_id": "T11865",
+   "path": "Health Sciences > Medicine > Surgery > Anorectal Disease Treatments and Outcomes",
+   "domain": "Health Sciences",
+   "year": 2018,
+   "pool": 512,
+   "ranks": {
+    "case": 0,
+    "twin": 260,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     204,
+     306
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2789794824",
+    "doi": "https://doi.org/10.1097/dcr.0000000000001030",
+    "title": "The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Hemorrhoids",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 349,
+    "pct": 0.9984018,
+    "n_refs": 70,
+    "n_authors": 5,
+    "topic_id": "T11865",
+    "topic": "Anorectal Disease Treatments and Outcomes",
+    "topic_score": null,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 0,
+    "pool": 512
+   },
+   "twin": {
+    "id": "W2890145591",
+    "doi": "https://doi.org/10.1080/00015458.2018.1515337",
+    "title": "Fistula-tract Laser Closure (FiLaC™) for complex urethroperineal fistula",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 4,
+    "pct": 0.65328831,
+    "n_refs": 15,
+    "n_authors": 5,
+    "topic_id": "T11865",
+    "topic": "Anorectal Disease Treatments and Outcomes",
+    "topic_score": null,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 260,
+    "pool": 512
+   }
+  },
+  {
+   "topic": "Epoxy Resin Curing Processes",
+   "topic_id": "T11145",
+   "path": "Physical Sciences > Engineering > Mechanical Engineering > Epoxy Resin Curing Processes",
+   "domain": "Physical Sciences",
+   "year": 2018,
+   "pool": 599,
+   "ranks": {
+    "case": 3,
+    "twin": 304,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     239,
+     358
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2787363066",
+    "doi": "https://doi.org/10.1021/acs.iecr.7b04495",
+    "title": "Toughening of Petroleum Based (DGEBA) Epoxy Resins with Various Renewable Resources Based Flexible Chains for High Performance Applications: A Review",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 185,
+    "pct": 0.98609642,
+    "n_refs": 117,
+    "n_authors": 5,
+    "topic_id": "T11145",
+    "topic": "Epoxy Resin Curing Processes",
+    "topic_score": null,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 3,
+    "pool": 599
+   },
+   "twin": {
+    "id": "W2886777590",
+    "doi": "https://doi.org/10.1108/prt-08-2017-0071",
+    "title": "Phenalkamine curing agents for epoxy resin: characterization and structure property relationship",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 17,
+    "pct": 0.45045626,
+    "n_refs": 25,
+    "n_authors": 2,
+    "topic_id": "T11145",
+    "topic": "Epoxy Resin Curing Processes",
+    "topic_score": null,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 304,
+    "pool": 599
+   }
+  },
+  {
+   "topic": "Inflammatory Bowel Disease",
+   "topic_id": "T10134",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Genetics > Inflammatory Bowel Disease",
+   "domain": "Life Sciences",
+   "year": 2012,
+   "pool": 1253,
+   "ranks": {
+    "case": 11,
+    "twin": 644,
+    "case_band": [
+     0,
+     11
+    ],
+    "twin_band": [
+     501,
+     750
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2111362292",
+    "doi": "https://doi.org/10.1016/s0140-6736(12)61084-8",
+    "title": "Ciclosporin versus infliximab in patients with severe ulcerative colitis refractory to intravenous steroids: a parallel, open-label randomised controlled trial",
+    "year": 2012,
+    "type": "article",
+    "cited_by_count": 648,
+    "pct": 0.99822727,
+    "n_refs": 43,
+    "n_authors": 31,
+    "topic_id": "T10134",
+    "topic": "Inflammatory Bowel Disease",
+    "topic_score": null,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 11,
+    "pool": 1253
+   },
+   "twin": {
+    "id": "W1993242327",
+    "doi": "https://doi.org/10.1007/s00384-011-1398-y",
+    "title": "The use of infliximab in the prevention of postsurgical recurrence in polysurgery Crohn's disease patients: a pilot open-labeled prospective study",
+    "year": 2012,
+    "type": "article",
+    "cited_by_count": 22,
+    "pct": 0.88960713,
+    "n_refs": 17,
+    "n_authors": 8,
+    "topic_id": "T10134",
+    "topic": "Inflammatory Bowel Disease",
+    "topic_score": null,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 644,
+    "pool": 1253
+   }
+  },
+  {
+   "topic": "Mycobacterium research and diagnosis",
+   "topic_id": "T11316",
+   "path": "Health Sciences > Medicine > Epidemiology > Mycobacterium research and diagnosis",
+   "domain": "Health Sciences",
+   "year": 2018,
+   "pool": 1183,
+   "ranks": {
+    "case": 4,
+    "twin": 545,
+    "case_band": [
+     0,
+     10
+    ],
+    "twin_band": [
+     473,
+     708
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2796455598",
+    "doi": "https://doi.org/10.1016/j.drudis.2018.04.001",
+    "title": "NTM drug discovery: status, gaps and the way forward",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 280,
+    "pct": 0.99538265,
+    "n_refs": 209,
+    "n_authors": 4,
+    "topic_id": "T11316",
+    "topic": "Mycobacterium research and diagnosis",
+    "topic_score": null,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S135964461830045X/pdf",
+    "is_oa": true,
+    "rank": 4,
+    "pool": 1183
+   },
+   "twin": {
+    "id": "W2896467100",
+    "doi": "https://doi.org/10.1016/j.pulmoe.2018.09.001",
+    "title": "Portuguese in vitro antibiotic susceptibilities favor current nontuberculous mycobacteria treatment guidelines",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 11,
+    "pct": 0.65163175,
+    "n_refs": 28,
+    "n_authors": 6,
+    "topic_id": "T11316",
+    "topic": "Mycobacterium research and diagnosis",
+    "topic_score": null,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S2531043718301296/pdf",
+    "is_oa": true,
+    "rank": 545,
+    "pool": 1183
+   }
+  },
+  {
+   "topic": "Photoreceptor and optogenetics research",
+   "topic_id": "T12236",
+   "path": "Life Sciences > Neuroscience > Cellular and Molecular Neuroscience > Photoreceptor and optogenetics research",
+   "domain": "Life Sciences",
+   "year": 2016,
+   "pool": 719,
+   "ranks": {
+    "case": 1,
+    "twin": 330,
+    "case_band": [
+     0,
+     6
+    ],
+    "twin_band": [
+     287,
+     430
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2561980828",
+    "doi": "https://doi.org/10.1016/j.neuron.2016.11.045",
+    "title": "AAV-Mediated Anterograde Transsynaptic Tagging: Mapping Corticocollicular Input-Defined Neural Pathways for Defense Behaviors",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 822,
+    "pct": 0.9972947,
+    "n_refs": 58,
+    "n_authors": 7,
+    "topic_id": "T12236",
+    "topic": "Photoreceptor and optogenetics research",
+    "topic_score": null,
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": "http://www.cell.com/article/S0896627316309138/pdf",
+    "is_oa": true,
+    "rank": 1,
+    "pool": 719
+   },
+   "twin": {
+    "id": "W2558766392",
+    "doi": "https://doi.org/10.1016/j.chembiol.2016.10.013",
+    "title": "Fluorescent Visualization of Cellular Proton Fluxes",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 24,
+    "pct": 0.69766123,
+    "n_refs": 39,
+    "n_authors": 4,
+    "topic_id": "T12236",
+    "topic": "Photoreceptor and optogenetics research",
+    "topic_score": null,
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": "http://www.cell.com/article/S2451945616303919/pdf",
+    "is_oa": true,
+    "rank": 330,
+    "pool": 719
+   }
+  },
+  {
+   "topic": "Cannabis and Cannabinoid Research",
+   "topic_id": "T10414",
+   "path": "Health Sciences > Medicine > Pharmacology > Cannabis and Cannabinoid Research",
+   "domain": "Health Sciences",
+   "year": 2011,
+   "pool": 1103,
+   "ranks": {
+    "case": 7,
+    "twin": 566,
+    "case_band": [
+     0,
+     10
+    ],
+    "twin_band": [
+     441,
+     660
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2128076336",
+    "doi": "https://doi.org/10.2174/157488611798280924",
+    "title": "Safety and Side Effects of Cannabidiol, a Cannabis sativa Constituent",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 561,
+    "pct": 0.98152756,
+    "n_refs": 122,
+    "n_authors": 4,
+    "topic_id": "T10414",
+    "topic": "Cannabis and Cannabinoid Research",
+    "topic_score": null,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 7,
+    "pool": 1103
+   },
+   "twin": {
+    "id": "W1578852322",
+    "doi": "https://doi.org/10.1111/j.1465-3362.2011.00327.x",
+    "title": "Marijuana‐induced recurrent acute coronary syndrome with normal coronary angiograms",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 35,
+    "pct": 0.83388433,
+    "n_refs": 6,
+    "n_authors": 3,
+    "topic_id": "T10414",
+    "topic": "Cannabis and Cannabinoid Research",
+    "topic_score": null,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 566,
+    "pool": 1103
+   }
+  },
+  {
+   "topic": "Mitochondrial Function and Pathology",
+   "topic_id": "T10301",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Molecular Biology > Mitochondrial Function and Pathology",
+   "domain": "Life Sciences",
+   "year": 2012,
+   "pool": 1811,
+   "ranks": {
+    "case": 8,
+    "twin": 866,
+    "case_band": [
+     0,
+     17
+    ],
+    "twin_band": [
+     724,
+     1085
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2051476652",
+    "doi": "https://doi.org/10.1038/nprot.2012.058",
+    "title": "Assessment of mitochondrial respiratory chain enzymatic activities on tissues and cultured cells",
+    "year": 2012,
+    "type": "article",
+    "cited_by_count": 1021,
+    "pct": 0.98434828,
+    "n_refs": 38,
+    "n_authors": 5,
+    "topic_id": "T10301",
+    "topic": "Mitochondrial Function and Pathology",
+    "topic_score": null,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 8,
+    "pool": 1811
+   },
+   "twin": {
+    "id": "W2108283807",
+    "doi": "https://doi.org/10.1016/j.bbadis.2012.03.007",
+    "title": "Adaptation of respiratory chain biogenesis to cytochrome c oxidase deficiency caused by SURF1 gene mutations",
+    "year": 2012,
+    "type": "article",
+    "cited_by_count": 37,
+    "pct": 0.86340422,
+    "n_refs": 59,
+    "n_authors": 7,
+    "topic_id": "T10301",
+    "topic": "Mitochondrial Function and Pathology",
+    "topic_score": null,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 866,
+    "pool": 1811
+   }
+  },
+  {
+   "topic": "Radioactivity and Radon Measurements",
+   "topic_id": "T10946",
+   "path": "Health Sciences > Health Professions > Radiological and Ultrasound Technology > Radioactivity and Radon Measurements",
+   "domain": "Health Sciences",
+   "year": 2013,
+   "pool": 852,
+   "ranks": {
+    "case": 7,
+    "twin": 465,
+    "case_band": [
+     0,
+     7
+    ],
+    "twin_band": [
+     340,
+     510
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W1965361443",
+    "doi": "https://doi.org/10.1016/j.jrras.2013.11.001",
+    "title": "Measurements of natural gamma radiation in beach sediments of north east coast of Tamilnadu, India by gamma ray spectrometry with multivariate statistical approach",
+    "year": 2013,
+    "type": "article",
+    "cited_by_count": 114,
+    "pct": 0.94599505,
+    "n_refs": 22,
+    "n_authors": 6,
+    "topic_id": "T10946",
+    "topic": "Radioactivity and Radon Measurements",
+    "topic_score": null,
+    "field": "Health Professions",
+    "domain": "Health Sciences",
+    "oa_url": "https://doi.org/10.1016/j.jrras.2013.11.001",
+    "is_oa": true,
+    "rank": 7,
+    "pool": 852
+   },
+   "twin": {
+    "id": "W2023417992",
+    "doi": "https://doi.org/10.1016/j.apradiso.2013.03.027",
+    "title": "Development of standard methods for activity measurement of natural radionuclides in waterworks as basis for dose and risk assessment—First results of an Austrian study",
+    "year": 2013,
+    "type": "article",
+    "cited_by_count": 9,
+    "pct": 0.68125516,
+    "n_refs": 5,
+    "n_authors": 4,
+    "topic_id": "T10946",
+    "topic": "Radioactivity and Radon Measurements",
+    "topic_score": null,
+    "field": "Health Professions",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 465,
+    "pool": 852
+   }
+  }
+ ],
+ "split": "dev"
+}

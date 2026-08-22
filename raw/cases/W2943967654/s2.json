@@ -1,0 +1,2265 @@
+{
+ "paper": {
+  "paperId": "44ee79ea1e329a9c65507d4bfee89294793d3002",
+  "title": "Randomized blinded controlled clinical trial to assess the effect of oral cannabidiol administration in addition to conventional antiepileptic treatment on seizure frequency in dogs with intractable idiopathic epilepsy.",
+  "referenceCount": 45,
+  "citationCount": 130,
+  "influentialCitationCount": 7,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null,
+   "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2460/javma.254.11.1301?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2460/javma.254.11.1301, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+   "Medicine"
+  ],
+  "tldr": {
+   "model": "tldr@v2.0.0",
+   "text": "Although a significant reduction in seizure frequency was achieved for dogs in the CBD group, the proportion of responders was similar between groups and additional research is warranted to determine whether a higher dosage of CBD would be effective in reducing seizure activity."
+  },
+  "authors": [
+   {
+    "authorId": "3752209",
+    "name": "S. McGrath"
+   },
+   {
+    "authorId": "14843211",
+    "name": "L. Bartner"
+   },
+   {
+    "authorId": "2714110",
+    "name": "Sangeeta Rao"
+   },
+   {
+    "authorId": "9716522",
+    "name": "R. Packer"
+   },
+   {
+    "authorId": "2037488",
+    "name": "D. Gustafson"
+   }
+  ]
+ },
+ "references": null,
+ "citations": [
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2adc67b9ab9aa00b2def644cacdd63ae765220cf",
+    "externalIds": {
+     "DOI": "10.54751/revistafoco.v19n5-064",
+     "CorpusId": 288597611
+    },
+    "title": "O USO DE CANABIDIOL NO TRATAMENTO DA EPILEPSIA IDIOPÁTICA CANINA: REVISÃO DE LITERATURA",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3c055615813a90aaa3a9d820e43c85b2b56f3273",
+    "externalIds": {
+     "DOI": "10.22289/sg.v7n1a62",
+     "CorpusId": 288619278
+    },
+    "title": "CANNABIS E DERIVADOS EM MEDICINA VETERINÁRIA: Uma revisão de escopo de revisões da literatura",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ff402ef70ce6e0ac567fc0d9354cdbf1f80a8317",
+    "externalIds": {
+     "DOI": "10.1111/jpn.70059",
+     "CorpusId": 286768695,
+     "PubMed": "41871285"
+    },
+    "title": "Assessment of Cannabidiol Supplements Use in Small Animals Practice in Portugal.",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [
+    "The lack of an increase in ALP in the current study for the full spectrum hemp extract suggests a lesser impact on the liver compared to CBD isolates at similar dosing to this extract, or a difference in healthy younger dog treatment versus treatment of dogs with comorbidities (1, 36)."
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "464264934a95a5abf9afbeaf66c0cbf7ff25f5c2",
+    "externalIds": {
+     "PubMedCentral": "12975459",
+     "DOI": "10.3389/fvets.2026.1779760",
+     "CorpusId": 286112271,
+     "PubMed": "41822224"
+    },
+    "title": "Physiological effect and pharmacokinetic evaluation of combined oral administration of cannabidiolic acid and cannabigerolic acid in dogs",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7907b73782d6823bf87852c40104456366b139de",
+    "externalIds": {
+     "PubMedCentral": "12862949",
+     "DOI": "10.3389/fvets.2025.1746266",
+     "CorpusId": 284908436,
+     "PubMed": "41635790"
+    },
+    "title": "Efficacy, pharmacokinetics and safety of liposomal synthetic cannabidiol injected subcutaneously in dogs: a randomized, blinded, placebo-controlled, crossover clinical trial",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c34efe14c3dae066714de4c64587b505bc8936e9",
+    "externalIds": {
+     "PubMedCentral": "12904473",
+     "DOI": "10.1021/acsmedchemlett.5c00588",
+     "CorpusId": 284515423,
+     "PubMed": "41696650"
+    },
+    "title": "Characterization of the Formation of the Acyl Glucuronide Metabolite of 7-Carboxy-Cannabidiol in Human Liver, Kidney, and Intestinal Microsomes and in Vivo in Mice",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2efbfc7571eb189965151fd11cc6fe953e9707a4",
+    "externalIds": {
+     "DOI": "10.1016/j.tvjl.2025.106536",
+     "CorpusId": 283778104,
+     "PubMed": "41389569"
+    },
+    "title": "Perception and use of cannabidiol (CBD) by French pet owners.",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [
+    "In this regard, variable systemic drug exposure, driven by factors such as dosage, treatment duration, formulation, and interactions with concurrent medications, can significantly influence adverse event profiles observed with CBD [13,17].",
+    "Hematological and renal parameters remained stable throughout the study, consistent with CBD’s established safety profile in dogs [13,14,18,24].",
+    "The relatively small cohort size, comparable to that of prior canine CBD trials [13,14], reduces statistical power to detect subgroup differences.",
+    "These findings suggest that CBD may counteract pharmacoresistance through multiple mechanisms [13,20].",
+    "While some studies have reported reduced seizure frequency [12], others have found no significant benefit [13,14].",
+    "This aligns with previous studies conducted on dogs [13–15].",
+    "Still, it did not demonstrate a significant difference in the proportion of dogs achieving ≥ 50% seizure reduction compared with placebo [13]."
+   ],
+   "intents": [],
+   "isInfluential": true,
+   "citingPaper": {
+    "paperId": "f32357599346e877fe9e56d201f6be5b2654d64d",
+    "externalIds": {
+     "PubMedCentral": "12729276",
+     "DOI": "10.3390/ani15243614",
+     "CorpusId": 283967209,
+     "PubMed": "41463899"
+    },
+    "title": "An Exploratory Study of Cannabidiol as an Adjunctive Treatment for Refractory Epilepsy in Dogs",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [
+    "[6,15,17,28] A therapeutic plasma CBD range of 200–800 ng/ml, effective for managing epilepsy in dogs, corresponded to doses of 8 and 16 mg/kg in this study.",
+    "[28] Plasma cannabinoid concentrations varied considerably among dogs receiving the same treatment, consistent with previous research and likely reflecting individual differences in absorption and metabolism."
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "07aad432811253ac4af6c2cdc111d16f11dc9ba3",
+    "externalIds": {
+     "PubMedCentral": "13080719",
+     "DOI": "10.4103/IJVSM.IJVSM_3_25",
+     "CorpusId": 288436419,
+     "PubMed": "42131827"
+    },
+    "title": "Cumulative Effects of Cannabis Oils on Body Temperature, Electrocardiography, Heart Rate Variability, Blood Pressure, and Respiratory Function in Telemetered Dogs",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "bd8cb5878cc55bcd4781f2be83520ce4ea72b9de",
+    "externalIds": {
+     "PubMedCentral": "12983173",
+     "DOI": "10.1016/j.ncl.2025.08.010",
+     "CorpusId": 281357161,
+     "PubMed": "41232998"
+    },
+    "title": "Epilepsy and Placebo: A Literature Review",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c1b16d9f62bdb06eba77ea87fd06a346320ca2ae",
+    "externalIds": {
+     "DOI": "10.32712/2446-4775.2025.1848",
+     "CorpusId": 281932497
+    },
+    "title": "Produtos à base de Cannabis Sativa para uso veterinário: usos, regulamentação, desafios e perspectivas",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "cb11bd879d65a1bad6ac464e242068bdaff12f9e",
+    "externalIds": {
+     "PubMedCentral": "12379728",
+     "DOI": "10.3389/fvets.2025.1639846",
+     "CorpusId": 280776597,
+     "PubMed": "40874201"
+    },
+    "title": "Limited 12-hour pharmacokinetic assessment of CBD and CBDA isolates compared to their full-spectrum extracts in healthy adult beagles",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1e6b5f5dedf1699e4ce3dbf035b37812b4f6059c",
+    "externalIds": {
+     "DOI": "10.1016/j.prevetmed.2025.106649",
+     "CorpusId": 280690775,
+     "PubMed": "40829476"
+    },
+    "title": "Cannabidiol treatment for refractory idiopathic epilepsy in dogs: A systematic review with risk of bias assessment.",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "639ab1c4cc5bdb81e5e039c27bc556f269e81f83",
+    "externalIds": {
+     "PubMedCentral": "12339541",
+     "DOI": "10.3389/fvets.2025.1632868",
+     "CorpusId": 280480446,
+     "PubMed": "40800226"
+    },
+    "title": "Treats containing cannabidiol, L-tryptophan and α-casozepine have a mild stress-reducing effect in dogs",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "10b8e3392df599612ba589b62c6985a86eb46bb0",
+    "externalIds": {
+     "DOI": "10.1111/jsap.13913",
+     "CorpusId": 280231634
+    },
+    "title": "Cannabis‐based products for medicinal use in dogs and cats: a systematic review",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [
+    "Além disso, a administração de canabinoides tem sido explorada como terapia auxiliar para epilepsia idiopática, reduzindo a frequência e intensidade das crises convulsivas, especialmente quando combinada a anticonvulsivantes convencionais (Hazzah et al., 2020; McGrath et al., 2019a, 2019b).",
+    "…dor associada a condições como mastite e lesões traumáticas, colaborando para o bem-estar animal e potencialmente melhorando a produtividade (Rocha, 2022). refratária, especialmente quando associado a tratamentos anticonvulsivantes convencionais (Hazzah et al., 2020; McGrath et al., 2019a, 2019b)."
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f5498e50bbb5f07bf2cd86ded709f111da4ebc81",
+    "externalIds": {
+     "DOI": "10.31533/pubvet.v19n06e1782",
+     "CorpusId": 279192931
+    },
+    "title": "Histórico, evolução e aplicações dos canabinoides na medicina veterinária: da tradição ao uso terapêutico moderno",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [
+    "Some studies in dogs have suggested that CBD may reduce seizure frequency in idiopathic epilepsy [4], alleviate pain and improve the quality of life in osteoarthritic (OA) patients [5–7], mitigate stress associated with caregiver separation [8], and have anti-inflammatory and immuno-modulating…"
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "fdd5a57a827962e49f95e6e5fdd415fe2d7371cb",
+    "externalIds": {
+     "PubMedCentral": "12108486",
+     "DOI": "10.3390/ani15101393",
+     "CorpusId": 278556547,
+     "PubMed": "40427271"
+    },
+    "title": "Effects of Cannabidiol Oil on Anesthetic Requirements in Cats: MAC Determination and Serum Profiling via Nanoscale Liquid Chromatography–Tandem Mass Spectrometry",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [
+    "Typically, it is characterized by low oral bioavailability [15,17] and moderate distribution [6,25]."
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "b411784c4289b51b4ddcfb4f5a44dd4f8d0f9938",
+    "externalIds": {
+     "PubMedCentral": "12108255",
+     "DOI": "10.3390/ani15101470",
+     "CorpusId": 278766450,
+     "PubMed": "40427347"
+    },
+    "title": "Pharmacokinetic Characteristics of a Single Cannabidiol Dose in Oil and Treat Forms and Health Impacts After 30 Days of Administration in Dogs",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a0a6e55c38251f2caeabb2f587c8907535759d74",
+    "externalIds": {
+     "DOI": "10.35633/inmateh-75-88",
+     "CorpusId": 278247821
+    },
+    "title": "THE MULTIPLE APPLICATIONS OF INDUSTRIAL HEMP (CANNABIS SATIVA L.) IN THE CONTEXT OF SUSTAINABLE DEVELOPMENT",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4b0d1092bd92b7f6625d04f679d6e168f684a4cd",
+    "externalIds": {
+     "PubMedCentral": "12013723",
+     "DOI": "10.3389/fvets.2025.1556975",
+     "CorpusId": 277640807,
+     "PubMed": "40264990"
+    },
+    "title": "Pharmacokinetics of cannabidiol, (-)-trans-Δ9-tetrahydrocannabinol, and their oxidative metabolites after intravenous and oral administration of a cannabidiol-dominant full-spectrum hemp product to beagle dogs",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [
+    "Moreover, CBD at higher doses may interact with alternative molecular targets, leading to metabolic outcomes that counteract its glucose-lowering effects [47]."
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "73c8911f7a147b17c679d1213925c9ef082b815f",
+    "externalIds": {
+     "PubMedCentral": "12030168",
+     "DOI": "10.3390/ph18040446",
+     "CorpusId": 277282155,
+     "PubMed": "40283884"
+    },
+    "title": "Unlocking the Antidiabetic Potential of CBD: In Vivo Preclinical Studies",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [
+    "Nevertheless, in a pilot study involving client-owned idiopathic epileptic dogs, no significant changes in serum phenobarbital concentrations were found in the seven dogs receiving phenobarbital after 12 weeks of CBD administration [91]."
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "31238ce27b374d56737bf20f663df3cb382962ca",
+    "externalIds": {
+     "PubMedCentral": "11861043",
+     "DOI": "10.3390/vetsci12020159",
+     "CorpusId": 276329447,
+     "PubMed": "40005919"
+    },
+    "title": "The Potential of Cannabidiol for Treating Canine Atopic Dermatitis",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "fce66656a50330af41e2bab4ed1456646da408c6",
+    "externalIds": {
+     "PubMedCentral": "11755934",
+     "DOI": "10.1186/s42238-024-00257-5",
+     "CorpusId": 275850369,
+     "PubMed": "39849662"
+    },
+    "title": "CBD for pets: navigating quality assurance, safety standards, and marketing strategies",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [
+    "16,22,23"
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f4033afbc4a8428f958f099e758690cabfe0b6a0",
+    "externalIds": {
+     "DOI": "10.2460/ajvr.24.08.0235",
+     "CorpusId": 275443971,
+     "PubMed": "39787699"
+    },
+    "title": "Chronic oral dosing of cannabidiol and cannabidiolic acid full-spectrum hemp oil extracts has no adverse effects in horses: a pharmacokinetic and safety study.",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "71cdfbbea55698a026896fa2b0c8029c0768f096",
+    "externalIds": {
+     "PubMedCentral": "11668182",
+     "DOI": "10.3389/fvets.2024.1496473",
+     "CorpusId": 274647905,
+     "PubMed": "39720409"
+    },
+    "title": "Role of cannabidiolic acid or the combination of cannabigerol/cannabidiol in pain modulation and welfare improvement in horses with chronic osteoarthritis",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "8d384a50c119ef3a7559527f6fabbfd377f13835",
+    "externalIds": {
+     "PubMedCentral": "11672443",
+     "DOI": "10.3390/ani14243683",
+     "CorpusId": 274942358,
+     "PubMed": "39765588"
+    },
+    "title": "Cytotoxicity and Immunomodulatory Effects of Cannabidiol on Canine PBMCs: A Study in LPS-Stimulated and Epileptic Dogs",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "181726b6dbb44cbff626030f79096b7ffb985b94",
+    "externalIds": {
+     "DOI": "10.1016/j.rvsc.2024.105483",
+     "CorpusId": 274403708,
+     "PubMed": "39616944"
+    },
+    "title": "Investigation of the in vitro effects of cannabidiol, cannabidiolic acid, and the terpene β-caryophyllene on lymphocytes harvested from atopic and healthy dogs: A preliminary study.",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "e2ea81466bef6a4ed448356dfa733531dc0bf995",
+    "externalIds": {
+     "DOI": "10.1111/vec.13428",
+     "CorpusId": 274127712,
+     "PubMed": "39556185"
+    },
+    "title": "Analysis of cannabinoids in plasma from 38 cases of suspected cannabinoid intoxication in dogs.",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "8e2d512a372773412d695b7a65321b9ef309cd0c",
+    "externalIds": {
+     "DOI": "10.1016/j.tvjl.2024.106227",
+     "CorpusId": 271946130,
+     "PubMed": "39179145"
+    },
+    "title": "Cannabidiol plus krill oil supplementation improves chronic stifle osteoarthritis in dogs: A double-blind randomized controlled trial.",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [
+    "The first study (a systematic review of randomized clinical trials) included six trials meeting the inclusion criteria (i.e., Gamble et al. 2018; McGrath et al. 2019 ; Brioschi et al. 2020 ; Verrico et al. 2020 ; Corsetti et al. 2021; Mejia et al. 2021) and found that all of them presented a…",
+    "The three randomized controlled clinical trials (Garcia et al. 2022; McGrath et al. 2019; Rozental et al. 2023b) produced promising results, as all studies showed a reduction in seizures frequency (total seizures or seizure days) in the CBD treated dogs compared to placebo."
+   ],
+   "intents": [
+    "background",
+    "result"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3a349e0c5841da225757c55734ead4ff63fcfd6e",
+    "externalIds": {
+     "PubMedCentral": "11442603",
+     "DOI": "10.1007/s11259-024-10509-7",
+     "CorpusId": 271906661,
+     "PubMed": "39162768"
+    },
+    "title": "Endocannabinoid system and phytocannabinoids in the main species of veterinary interest: a comparative review",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [
+    "Further evaluation utilizing board-certified behaviorists and possibly higher concentrations of cannabinoid could further define the necessary dose for anxiolytic effect."
+   ],
+   "intents": [
+    "methodology"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7017b027bcd306e925b1eb2bc3a8d7fe7e1aa47c",
+    "externalIds": {
+     "PubMedCentral": "11240743",
+     "DOI": "10.3390/ani14131863",
+     "CorpusId": 270733157,
+     "PubMed": "38997975"
+    },
+    "title": "Tolerability of 2 and 4 mg/kg Dosing Every 12 Hour of a Cannabidiol- and Cannabidiolic Acid-Rich Hemp Extract on Mixed-Breed Dogs Utilized for Teaching in a Closed Colony",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1431a0faa3a2960efaa8d834f9383554ee0649b2",
+    "externalIds": {
+     "PubMedCentral": "11080651",
+     "DOI": "10.3389/fvets.2024.1389810",
+     "CorpusId": 269398562,
+     "PubMed": "38725584"
+    },
+    "title": "Pharmacokinetics behavior of four cannabidiol preparations following single oral administration in dogs",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "49c0a551aa4b2f4e2850ee478e12dd00eea05d68",
+    "externalIds": {
+     "PubMedCentral": "11047043",
+     "DOI": "10.3389/fvets.2024.1356463",
+     "CorpusId": 269114872,
+     "PubMed": "38681854"
+    },
+    "title": "Pharmacokinetics and tolerability of single-dose enteral cannabidiol and cannabidiolic acid rich hemp in horses (Equus caballus)",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "5aef0cd5348e1900d68605993c8bffec5940aa26",
+    "externalIds": {
+     "PubMedCentral": "10940325",
+     "DOI": "10.3389/fvets.2024.1349590",
+     "CorpusId": 268172964,
+     "PubMed": "38496308"
+    },
+    "title": "Safety study of cannabidiol products in healthy dogs",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "d5fb89940da45bcdea356839d186c2d02f459dc6",
+    "externalIds": {
+     "PubMedCentral": "10884172",
+     "DOI": "10.3389/fvets.2024.1309167",
+     "CorpusId": 267592897,
+     "PubMed": "38406630"
+    },
+    "title": "Case report: Cannabinoid therapy for discoid lupus erythematosus in a dog",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "fa57b8b3c374bd6cda979f4ec4196572691b9a39",
+    "externalIds": {
+     "PubMedCentral": "10876772",
+     "DOI": "10.3389/fvets.2024.1341396",
+     "CorpusId": 267539966,
+     "PubMed": "38379920"
+    },
+    "title": "Improved quality of life and pain relief in mature horses with osteoarthritis after oral transmucosal cannabidiol oil administration as part of an analgesic regimen",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0fc28b36302ff722ee56ba3db89434b35edd3d70",
+    "externalIds": {
+     "PubMedCentral": "10830036",
+     "DOI": "10.1371/journal.pone.0296698",
+     "CorpusId": 267361597,
+     "PubMed": "38295012"
+    },
+    "title": "Danish dog owners’ use and the perceived effect of unlicensed cannabis products in dogs",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [
+    "Health benefits of CBD in dogs include reduced scratching behavior (Morris et al., 2021), seizure activity (McGrath et al., 2019), and pain associated with osteoarthritis (Gamble et al., 2018; Brioschi et al., 2020; Kogan et al., 2020; Verrico et al., 2020).",
+    "Finally, as CBD absorption has previously been reported to vary by individual (McGrath et al., 2019; Vaughn et al., 2020), the levels of CBD in plasma collected following the test session (~2 h after first treatment administration) were analyzed.",
+    "Similar variation has been previously reported and is hypothesized to be related to individual or breed differences in how CBD is metabolized and/or absorbed (McGrath et al., 2019; Vaughn et al., 2020; Bradley et al., 2022)."
+   ],
+   "intents": [
+    "background",
+    "result"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "59b3130457a8752b02395130bfb6cc7bfab122e2",
+    "externalIds": {
+     "PubMedCentral": "10810271",
+     "DOI": "10.1093/jas/skad414",
+     "CorpusId": 267059475,
+     "PubMed": "38244994"
+    },
+    "title": "Daily dosing of cannabidiol (CBD) demonstrates a positive effect on measures of stress in dogs during repeated exposure to car travel",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "14a1cad1505dc208d2784805eb336ee20b184f0d",
+    "externalIds": {
+     "PubMedCentral": "10755904",
+     "DOI": "10.3389/fvets.2023.1304180",
+     "CorpusId": 266258860,
+     "PubMed": "38162477"
+    },
+    "title": "Thai veterinarians' perceptions of cannabidiol products for dogs with osteoarthritis: a qualitative interview study",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "dca1319323dfcbb67963931ed11da9d2ee3220d6",
+    "externalIds": {
+     "PubMedCentral": "10750369",
+     "DOI": "10.3389/fvets.2023.1305868",
+     "CorpusId": 266285751,
+     "PubMed": "38149295"
+    },
+    "title": "Behavioral observations, heart rate and heart rate variability in horses following oral administration of a cannabidiol containing paste in three escalating doses (part 1/2)",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1cdf9939870986103b014c39ff733fef54968311",
+    "externalIds": {
+     "DOI": "10.1111/vop.13164",
+     "CorpusId": 265504294,
+     "PubMed": "38032014"
+    },
+    "title": "Long-term effect of oral cannabidiol administration to healthy adult dogs on tear production, intraocular pressure, and tear concentrations.",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "040a4900d9945fc7234af957fad1f2ef800c5bb8",
+    "externalIds": {
+     "PubMedCentral": "10716325",
+     "DOI": "10.3389/fvets.2023.1286158",
+     "CorpusId": 265655217,
+     "PubMed": "38094499"
+    },
+    "title": "Pharmacokinetics of cannabidiol-/cannabidiolic acid-rich hemp oil in juvenile cynomolgus macaques (Macaca fascicularis)",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "927986574f423b86713116c9b81366bcd3a5f956",
+    "externalIds": {
+     "PubMedCentral": "10800185",
+     "DOI": "10.1111/jvim.16949",
+     "CorpusId": 265464289,
+     "PubMed": "38009749"
+    },
+    "title": "Tolerability of long‐term cannabidiol supplementation to healthy adult dogs",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [
+    "24 A study investigating the use of CBD for epilepsy in humans also found more decrease in seizures with increasing plasma concentrations.",
+    "24,25 Both studies identified a larger decrease in seizure frequency in dogs that received CBD compared with dogs that received placebo.",
+    "24 Our aim was to further explore the role of CBD in the management of IE in a larger population of dogs with drug-resistant IE."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f75c29578bc25b99ad0c6fe94a0afe647d679528",
+    "externalIds": {
+     "PubMedCentral": "10658598",
+     "DOI": "10.1111/jvim.16912",
+     "CorpusId": 264516031,
+     "PubMed": "37889215"
+    },
+    "title": "The efficacy and safety of cannabidiol as adjunct treatment for drug‐resistant idiopathic epilepsy in 51 dogs: A double‐blinded crossover study",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [
+    "In the last decade, it has been used as an antiseizure drug in rodents [94,95], humans [96], and dogs [97]."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a907b0ac84f0f96ce8499797acd668322f30776b",
+    "externalIds": {
+     "PubMedCentral": "10571926",
+     "DOI": "10.3390/ani13193056",
+     "CorpusId": 263287874,
+     "PubMed": "37835662"
+    },
+    "title": "Investigating Owner Use of Dietary Supplements in Dogs with Canine Cognitive Dysfunction",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c5bbc03fb55be840ad9f3578a00ba606c3b4f5d7",
+    "externalIds": {
+     "PubMedCentral": "10571049",
+     "DOI": "10.3389/fvets.2023.1279926",
+     "CorpusId": 263690251,
+     "PubMed": "37841465"
+    },
+    "title": "Cannabidiol plasma determination and pharmacokinetics conducted at beginning, middle and end of long-term supplementation of a broad-spectrum hemp oil to healthy adult dogs",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a7e709c146116b5ca10952c1409a9d4afe3c7501",
+    "externalIds": {
+     "PubMedCentral": "10540436",
+     "DOI": "10.3389/fvets.2023.1248417",
+     "CorpusId": 262067596,
+     "PubMed": "37781283"
+    },
+    "title": "Efficacy and safety of cannabidiol for the treatment of canine osteoarthritis: a systematic review and meta-analysis of animal intervention studies",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [
+    "ALP was reported to significantly increase from baseline following long-term (weeks to months) administration of oral CBD in dogs, which was thought to result from induction of liver CYP isoenzymes (22, 24).",
+    "Another concern with oral oil-based CBD preparations is the palatability of the preparation, which may decrease dog compliance to the treatment (24).",
+    "On the other hand, in many studies of oral CBD in dogs, Cmax among individuals was extremely variable, with some dogs reaching only 10th of CBD plasma concentrations of other dogs in the same study using the same formulation (20, 24, 35, 37)."
+   ],
+   "intents": [
+    "methodology",
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "fc1a20d9faca375b9c622b2a186a1bc5234cb82e",
+    "externalIds": {
+     "PubMedCentral": "10481162",
+     "DOI": "10.3389/fvets.2023.1224452",
+     "CorpusId": 261111853,
+     "PubMed": "37680386"
+    },
+    "title": "Therapeutic efficacy and pharmacokinetics of liposomal-cannabidiol injection: a pilot clinical study in dogs with naturally-occurring osteoarthritis",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a2d12b671da53865ee064f159be7a22c3abecc7e",
+    "externalIds": {
+     "PubMedCentral": "10445762",
+     "DOI": "10.3389/fvets.2023.1234551",
+     "CorpusId": 260800935,
+     "PubMed": "37621871"
+    },
+    "title": "Pharmacokinetic modelling of orally administered cannabidiol and implications for medication control in horses",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "023437518bd6f2191fdf947b2df1cfebbeffd509",
+    "externalIds": {
+     "DOI": "10.1111/jvp.13403",
+     "CorpusId": 259995016,
+     "PubMed": "37469115"
+    },
+    "title": "Cannabidiol and cannabidiolic acid: Preliminary in vitro evaluation of metabolism and drug-drug interactions involving canine cytochrome P-450, UDP-glucuronosyltransferase, and P-glycoprotein.",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4c4c31ee4d3d0b4ce943e04106e264b091379edf",
+    "externalIds": {
+     "PubMedCentral": "10347378",
+     "DOI": "10.3389/fvets.2023.1204526",
+     "CorpusId": 259288739,
+     "PubMed": "37456953"
+    },
+    "title": "Pharmacokinetics, efficacy, and safety of cannabidiol in dogs: an update of current knowledge",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [
+    "In a veterinary trial of CBD for the add-on treatment of epilepsy, two dogs in the CBD group demonstrated at least a 50% reduction in seizure frequency and had plasma drug concentrations >400 ng/mL (32)."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "dce86eb60e9c9a9362b5d26eebdd6760e20f100c",
+    "externalIds": {
+     "PubMedCentral": "10251743",
+     "DOI": "10.3389/fvets.2023.1181517",
+     "CorpusId": 258891781,
+     "PubMed": "37303724"
+    },
+    "title": "Disposition of a single oral dose of a cannabidiol medication in healthy cats",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a7dc0481a2c887c0ab88dd90f0b2e546c75b2810",
+    "externalIds": {
+     "DOI": "10.1111/jsap.13619",
+     "CorpusId": 258785417,
+     "PubMed": "37203420"
+    },
+    "title": "Assessment of cannabidiol use in pets according to a national survey in the USA.",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0338d27996b059df194820029e9cdac3d821d29f",
+    "externalIds": {
+     "DOI": "10.1016/j.tvjl.2023.105990",
+     "CorpusId": 258553304,
+     "PubMed": "37150317"
+    },
+    "title": "Pathophysiology of drug-resistant canine epilepsy.",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "435bc09e098d5b9731e41367f86ec7e9e92edec5",
+    "externalIds": {
+     "DOI": "10.30704/http-www-jivs-net.1243160",
+     "CorpusId": 258857014
+    },
+    "title": "Alternative clinical approaches to the treatment of pruritus related with canine atopic dermatitis",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0f682f3abf849385acb42fb67ed6a92459821c29",
+    "externalIds": {
+     "DOI": "10.2460/ajvr.23.02.0031",
+     "CorpusId": 257773084,
+     "PubMed": "36972696"
+    },
+    "title": "A One Health perspective on comparative cannabidiol and cannabidiolic acid pharmacokinetics and biotransformation in humans and domestic animals.",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "5ed5f68d5fb7a363a1ce964a2eb6356c055b8a16",
+    "externalIds": {
+     "DOI": "10.2460/javma.23.02.0064",
+     "CorpusId": 257732731,
+     "PubMed": "36965472"
+    },
+    "title": "The clinical use of cannabidiol and cannabidiolic acid-rich hemp in veterinary medicine and lessons from human medicine.",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [
+    "18,19 Other adverse effects in humans are diarrhea, pyrexia, somnolence, decreased appetite, sedation, vomiting, ataxia, and elevated transaminases.",
+    "In a different study, 19 looking at the anticonvulsive effects of CBD, a dose of 2.5 mg/kg twice a day showed a reduction in the frequency of seizures in dogs with idiopathic epilepsy; however there was a negative Unauthenticated | Downloaded 01/16/25 03:46 PM UTC association with the 450.1 ng/mL…",
+    "The reported adverse effects of long-term administration of hemp extract in mammals include elevation of liver enzymes, specifically ALP after 4 to 12 weeks of administration in dogs 18,19, 21 and AST, 42 which have been associated with cytochrome p450 mediated oxidative hepatic metabolism."
+   ],
+   "intents": [],
+   "isInfluential": true,
+   "citingPaper": {
+    "paperId": "acae83b4ae112c7153e48ef10544a0362e4d86fd",
+    "externalIds": {
+     "DOI": "10.2460/ajvr.22.11.0197",
+     "CorpusId": 256898709,
+     "PubMed": "36795552"
+    },
+    "title": "Twice-daily oral administration of a cannabidiol and cannabidiolic acid-rich hemp extract was well tolerated in orange-winged Amazon parrots (Amazona amazonica) and has a favorable pharmacokinetic profile.",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "aeea546f58e69161a79ca1cd0ddd9e88e520c444",
+    "externalIds": {
+     "DOI": "10.1146/annurev-animal-081122-070236",
+     "CorpusId": 256870041,
+     "PubMed": "36790884"
+    },
+    "title": "Scientific Validation of Cannabidiol for Management of Dog and Cat Diseases.",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4443476cab34790468ec0fa96665c8e67c74dabf",
+    "externalIds": {
+     "DOI": "10.12968/coan.2022.0039",
+     "CorpusId": 256776041
+    },
+    "title": "Cannabidiol and naturalistic fallacy: it's natural so it's safe?",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [
+    "Disagreement exists among reports regarding the efficacy of CBD for use in veterinary patients, with multiple studies reporting benefits in chronic osteoarthritis pain and epilepsy (6, 9, 24, 25) and a single report suggesting no significant improvement in pain (26)."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6d510d2061a099b9d51a05fffa9d11417aef391c",
+    "externalIds": {
+     "PubMedCentral": "9846637",
+     "DOI": "10.3389/fvets.2022.1036056",
+     "CorpusId": 255497865,
+     "PubMed": "36686184"
+    },
+    "title": "Evaluation of the efficacy of a cannabidiol and cannabidiolic acid rich hemp extract for pain in dogs following a tibial plateau leveling osteotomy",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "48fefcdf4429f351f83dd6e0e9580e9a1ca3a62e",
+    "externalIds": {
+     "PubMedCentral": "9848446",
+     "DOI": "10.3389/fvets.2022.1050884",
+     "CorpusId": 255498302,
+     "PubMed": "36686189"
+    },
+    "title": "The role of cannabinoids in pain modulation in companion animals",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "27b8ee05de426eb7124ba2aa401b1bfc8f26547d",
+    "externalIds": {
+     "PubMedCentral": "9854761",
+     "DOI": "10.3390/ani13020245",
+     "CorpusId": 255797771,
+     "PubMed": "36670785"
+    },
+    "title": "Evaluation of an Oral Supplemental Cannabidiol Product for Acceptability and Performance in Mature Horses",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "42e666ec8aed94069f91c6c02602404977297134",
+    "externalIds": {
+     "PubMedCentral": "9855787",
+     "DOI": "10.3390/biom13010162",
+     "CorpusId": 255919777,
+     "PubMed": "36671547"
+    },
+    "title": "Effect of Cannabis on Memory Consolidation, Learning and Retrieval and Its Current Legal Status in India: A Review",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [
+    "Two of the most studied canine diseases, treated with CBD-basd products, are osteoarthritis (17 - 21), and epilepsy (22, 23).",
+    "Cannabidiol oil formulations are the most popular among CBD products and already proven to be well tolerated and effective in dogs (8, 17 - 19, 22, 26, 27, 31).",
+    "In recent years, new clinical studies aimed to elucidate the role of CBD in the treatment of various diseases in dogs, such as osteoarthritis (17 - 21), seizures (22, 23), atopic dermatitis (24) and anxiety (25).",
+    "In addition, clinical data on the use of CBD to treat epilepsy have shown promising results (22, 23).",
+    "pet owners to relieve pain, reduce inflammation, control anxiety (32 - 34), and improve other medical conditions such as epilepsy (22), gastrointestinal problems, and cancer (32 - 34)."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": true,
+   "citingPaper": {
+    "paperId": "daecee30ef28d3dd71382f5ef74b12e7cfefb393",
+    "externalIds": {
+     "DOI": "10.26873/svr-1294-2022",
+     "CorpusId": 253332180
+    },
+    "title": "USE OF CANNABIDIOL PRODUCTS BY PET OWNERS IN SLOVENIA: A SURVEY-BASED STUDY",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "702498e85f59c7161c0613c63d3139f64a34b5a8",
+    "externalIds": {
+     "PubMedCentral": "10092881",
+     "DOI": "10.1111/jvp.13100",
+     "CorpusId": 253160074,
+     "PubMed": "36300854"
+    },
+    "title": "Pharmacokinetics of escalating single‐dose administration of cannabidiol to cats",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "dde1bec2db29435ae7ed14018b4f02350ce76c31",
+    "externalIds": {
+     "DOI": "10.1016/j.tvjl.2022.105913",
+     "CorpusId": 252779749,
+     "PubMed": "36209995"
+    },
+    "title": "Cannabidiol in canine epilepsy.",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "025ddaadd4e9549dc9d2ee8099a264b851284844",
+    "externalIds": {
+     "DOI": "10.1016/j.tvjl.2022.105917",
+     "CorpusId": 253214685,
+     "PubMed": "36341888"
+    },
+    "title": "The role of nutrition in canine idiopathic epilepsy management: Fact or fiction?",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "db2c4c3a1a5b19654745b5b1d7f0676cb450fafa",
+    "externalIds": {
+     "PubMedCentral": "9559627",
+     "DOI": "10.3390/ani12192541",
+     "CorpusId": 252502135,
+     "PubMed": "36230282"
+    },
+    "title": "Hemp in Animal Diets—Cannabidiol",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [
+    "This may reflect differences in CBD bioavailability or in the blood sampling schedule, though the latter study involved dogs with idiopathic epilepsy that were also provided anti-convulsant drugs (52)."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "5d61061aee3b19832381a1b1134652358fdae7d5",
+    "externalIds": {
+     "PubMedCentral": "9533147",
+     "DOI": "10.3389/fvets.2022.977457",
+     "CorpusId": 252385370,
+     "PubMed": "36213402"
+    },
+    "title": "Long-term daily feeding of cannabidiol is well-tolerated by healthy dogs",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c78c0a960941e2fc78caaa1b87c1353d5daa01f8",
+    "externalIds": {
+     "DOI": "10.2460/ajvr.22.01.0006",
+     "CorpusId": 251494435,
+     "PubMed": "35947680"
+    },
+    "title": "Feeding decreases the oral bioavailability of cannabidiol and cannabidiolic acid in hemp oil in New Zealand White rabbits (Oryctolagus cuniculus).",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [
+    "found no evidence of increased sedation in their canine study cohort; however there were 2 dogs that discontinued the study due to ataxia in the CBD-rich hemp group (11).",
+    "The use of CBD or CBD-rich hemp extracts can both lead to physiological changes; most notably an alteration in hepatic metabolism and increases in either ALT or ALP activity in dogs (7, 11).",
+    "Two of nine dogs in the treatment group showed a fifty percent or greater reduction in epileptic seizure events (11).",
+    "3 seizures per month resulted in a presumed population of 16 dogs necessary to establish significance (11).",
+    "In addition, success of treatment as a reduction of 50% in seizure activity was also examined as an outcome that is considered clinically significant (11).",
+    "found no significant difference in serum phenobarbital or bromide concentration with concurrent CBD administration, during their study period (11).",
+    "administration of CBD alongside commonly prescribed ASM (10, 11).",
+    "5 mg/kg of CBD oil orally every 12 h (11), while our study used a similar hemp extract dosing at ∼1 mg/kg of CBD and 1 mg/kg of CBDA as an equal mix orally every 12 h.",
+    "Another measure of partial success in the treatment of seizures is a 50% or greater reduction in seizure activity which is often reported in human literature and some veterinary literature (11, 16, 17).",
+    "For each diary the total number of seizure events were tallied over the 3 month period and considering some dogs displayed cluster seizures as separate epileptic events over a period of time in a single day we also recorded seizure days similar to a prior study examining CBD-rich hemp use in dogs with idiopathic epilepsy (11)."
+   ],
+   "intents": [
+    "methodology",
+    "background",
+    "result"
+   ],
+   "isInfluential": true,
+   "citingPaper": {
+    "paperId": "cf2ac9e4294745cc7f34ad9314b90785ce84309b",
+    "externalIds": {
+     "PubMedCentral": "9372618",
+     "DOI": "10.3389/fvets.2022.939966",
+     "CorpusId": 251139405,
+     "PubMed": "35967998"
+    },
+    "title": "Safety and efficacy of cannabidiol-cannabidiolic acid rich hemp extract in the treatment of refractory epileptic seizures in dogs",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [
+    "Therefore, CBD and THC have been the primary cannabinoids of interest in human medicine research with few investigations into the absorption and retention of CBDA or THCA, both of which are nonpsychotropic, unlike THC (9, 10).",
+    "The interest in cannabinoids for companion animals has expanded to include consideration of their potential benefits including modifying behavioral problems (15), alleviating seizure frequency for idiopathic epilepsy (10), and relieving osteoarthritic pain thus improving life quality for dogs (11).",
+    "In dogs with idiopathic epilepsy, CBD appears to alleviate seizure frequency (10)."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "b692e74a4248ced34de4839f63ec57dbaebafe3b",
+    "externalIds": {
+     "PubMedCentral": "9355628",
+     "DOI": "10.3389/fvets.2022.895368",
+     "CorpusId": 251022347,
+     "PubMed": "35937287"
+    },
+    "title": "Serum Cannabinoid 24 h and 1 Week Steady State Pharmacokinetic Assessment in Cats Using a CBD/CBDA Rich Hemp Paste",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6ac1c8f8fa80efd3d56a4c0e05b4b13afab63e44",
+    "externalIds": {
+     "PubMedCentral": "9298511",
+     "DOI": "10.3389/fvets.2022.910038",
+     "CorpusId": 250329644,
+     "PubMed": "35873699"
+    },
+    "title": "Pregabalin Add-On vs. Dose Increase in Levetiracetam Add-On Treatment: A Real-Life Trial in Dogs With Drug-Resistant Epilepsy",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3fac1bd8b8703f42da3fb0e76365eb9562cc9c71",
+    "externalIds": {
+     "DOI": "10.1016/j.jevs.2022.104085",
+     "CorpusId": 249170805,
+     "PubMed": "35882292"
+    },
+    "title": "Effects of a supplement containing Cannabidiol (CBD) on sedation and ataxia scores and health: Effects of Cannabidiol on Sedation and Ataxia.",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [
+    "In an RCT to assess the effect of oral cannabidiol administration in addition to conventional ASMs treatment on seizure frequency in dogs with intractable epilepsy, the proportion of responders was similar between the cannabidiol and placebo groups (115)."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "756fabc5ac84a11203757af4052d517b19887bb7",
+    "externalIds": {
+     "PubMedCentral": "9257283",
+     "DOI": "10.3389/fvets.2022.928009",
+     "CorpusId": 249969810,
+     "PubMed": "35812852"
+    },
+    "title": "Dogs as a Natural Animal Model of Epilepsy",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [
+    "While the first two approaches are relatively easy to implement in veterinary practice (9, 10), surgery and neurostimulation remain problematic because of their cost, time, and high level of skills required."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "fab5b9278a0487c70988d3cfed4072951482530d",
+    "externalIds": {
+     "PubMedCentral": "9244381",
+     "DOI": "10.3389/fvets.2022.889561",
+     "CorpusId": 249804956,
+     "PubMed": "35782557"
+    },
+    "title": "Neurostimulation as a Method of Treatment and a Preventive Measure in Canine Drug-Resistant Epilepsy: Current State and Future Prospects",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [
+    "In general, CBD in oil suspensions designed for oral and oromucosal administration are currently favored and appears to be the preferred method of delivery for absorption (7, 40, 50).",
+    "In the veterinary medicine, therapeutic applications of CBD in dogs include osteoarthritis-associated pain (6, 25, 26), aggressive behavior (27), and epilepsy (7, 28)."
+   ],
+   "intents": [
+    "background",
+    "methodology"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "28f6e7cbaff0a1caf0ea847cdaa26f0c499d5080",
+    "externalIds": {
+     "PubMedCentral": "9215213",
+     "DOI": "10.3389/fvets.2022.899940",
+     "CorpusId": 249476706,
+     "PubMed": "35754531"
+    },
+    "title": "Pharmacokinetics of Cannabidiol Following Intranasal, Intrarectal, and Oral Administration in Healthy Dogs",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [
+    ", 2021) or in combination with other drugs (such as nonsteroidal anti-inflammatory drugs, glucocorticoids, analgesics, antiepileptic drugs) (n = 4) (Gamble et al., 2018; McGrath et al., 2019; Brioschi et al., 2020; Mejia et al., 2021).",
+    "The total number of dogs in the studies was variable but generally small, ranging from 16 (Gamble et al., 2018; McGrath et al., 2019) to 24 dogs (Corsetti et al.",
+    "5 mg kg twice daily (n = 2) (McGrath et al., 2019; Mejia et al., 2021), or 1 drop of oil per 2 kg of weight every 24 h (n = 1) (Corsetti et al.",
+    "RCTs had parallel (n = 4) (McGrath et al., 2019; Brioschi et al., 2020; Verrico et al., 2020; Corsetti et al., 2021) or cross-over design (n = 2) (Gamble et al.",
+    "CBD was given orally (n = 5) (Gamble et al., 2018; McGrath et al., 2019; Verrico et al., 2020; Corsetti et al., 2021; Mejia et al., 2021) or via oral transmucosal (n = 1) (Brioschi et al.",
+    "Safety outcomes included blood counts and/or serum biochemistry analysis (n = 5) (Gamble et al., 2018; McGrath et al., 2019; Brioschi et al., 2020; Verrico et al., 2020; Mejia et al., 2021) and adverse events observed (n = 4) (McGrath et al.",
+    "Most of these studies compared CBD with placebo (n = 5) (Gamble et al., 2018; McGrath et al., 2019; Verrico et al., 2020; Corsetti et al., 2021; Mejia et al., 2021), but one study compared dogs taking CBD in combination with a multimodal analgesic protocol with dogs receiving Fig.",
+    ", 2021), one studied dogs with epilepsy (McGrath et al., 2019), and one studied dogs with behavioral disorders (e.",
+    ", 2020) for osteoarthritis; seizure frequency and response to treatment for epilepsy treatment efficacy (McGrath et al., 2019); and observations for behavioral disorders (Corsetti et al.",
+    "Studies were conducted in the USA (n = 4) (Gamble et al., 2018; McGrath et al., 2019; Verrico et al., 2020; Mejia et al., 2021) and Italy (n = 2) (Brioschi et al."
+   ],
+   "intents": [
+    "methodology",
+    "background",
+    "result"
+   ],
+   "isInfluential": true,
+   "citingPaper": {
+    "paperId": "8e29960ab18c5d6359cc4b0e1c5df7d772203107",
+    "externalIds": {
+     "DOI": "10.1017/S1466252321000189",
+     "CorpusId": 249676230,
+     "PubMed": "35703023"
+    },
+    "title": "Use of cannabis in the treatment of animals: a systematic review of randomized clinical trials",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "07e6956f48ca292bc10a34393cca225a04458ad6",
+    "externalIds": {
+     "PubMedCentral": "9543248",
+     "DOI": "10.1111/vde.13077",
+     "CorpusId": 249222080,
+     "PubMed": "35644533"
+    },
+    "title": "The effect of a mixed cannabidiol and cannabidiolic acid based oil on client‐owned dogs with atopic dermatitis",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [
+    "18 The evaluated formulation reduced the frequency of seizures in treated animals compared with the placebo group.",
+    "18 Similarly, Vaughn et al. observed increased serum alkaline phosphatase concentration in animals treated with CBD at doses of 2, 4, or 12 mg/kg of body weight, once a day, in the ﬁrst 2 weeks of the study."
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "affe0f0a81c760a50dcda199b2234990dc684966",
+    "externalIds": {
+     "DOI": "10.1089/can.2021.0172",
+     "CorpusId": 248543961,
+     "PubMed": "35512739"
+    },
+    "title": "Safety and Efficacy of the Therapeutic Use of Cannabis-Based Products in the Treatment of Dogs: An Integrative Review",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c2ace1a71dc2afb2e2abc28beb5a69d08f17d8b8",
+    "externalIds": {
+     "DOI": "10.1016/j.cvsm.2022.02.003",
+     "CorpusId": 248729538,
+     "PubMed": "35562224"
+    },
+    "title": "Evidence-Based Complementary and Alternative Orthopedic Veterinary Medicine.",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [
+    "Palatability of oral oil-based CBD preparations is also a downside of oral treatment (23).",
+    "In this report, subcutaneous liposomal CBD administration provided long-term CBD plasma concentration, although lower than what has been reported during steady-state following repeated daily oral administration (22, 23), and it seemed to improve dog’s pain and owner perceived function up to 3 weeks from injection.",
+    "Oral CBD administration for several weeks in dogs resulted in increased serum alkaline phosphatase (ALP), likely due to induction of CYP isoenzymes in the liver (20, 23)."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f118c20f857789e29b39bef2824ddcc40e543b34",
+    "externalIds": {
+     "PubMedCentral": "9097221",
+     "DOI": "10.3389/fvets.2022.892306",
+     "CorpusId": 248425068,
+     "PubMed": "35573415"
+    },
+    "title": "A Case Report of Subcutaneously Injected Liposomal Cannabidiol Formulation Used as a Compassion Therapy for Pain Management in a Dog",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [
+    "A clinical trial evaluating CBD oil at 2 mg/kg twice daily for osteoarthritis pain management led to 9 dogs having elevations in ALP that were outside of the reference range (Gamble et al., 2018), while similar observations were seen in a 3-month refractory seizure study (McGrath et al., 2019)."
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9b22707ea27d710910620b6e83bc7f1127ad684b",
+    "externalIds": {
+     "DOI": "10.1111/jvp.13048",
+     "CorpusId": 247236496,
+     "PubMed": "35246858"
+    },
+    "title": "Single dose and chronic oral administration of cannabigerol and cannabigerolic acid-rich hemp extract in fed and fasted dogs: Physiological effect and pharmacokinetic evaluation.",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4d4c040c0bda14d5bea9bee5054cf25f9feeafce",
+    "externalIds": {
+     "DOI": "10.59565/001c.83388",
+     "CorpusId": 259577407
+    },
+    "title": "Effectiveness of Integrated Medical Treatment for Thunderstorm Aversion: A Case Series of 23 Dogs",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "825b585463f1e3505d5db665153ead46eac28997",
+    "externalIds": {
+     "PubMedCentral": "8767012",
+     "DOI": "10.3389/fvets.2021.796673",
+     "CorpusId": 245672167,
+     "PubMed": "35071387"
+    },
+    "title": "Slovenian Pet Owners' Experience, Attitudes, and Predictors Regarding Cannabinoid Use in Dogs and Cats",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "86b3a67608e8b9f409dfa44d9987b11e128906b7",
+    "externalIds": {
+     "DOI": "10.2460/ajvr.21.08.0120",
+     "CorpusId": 241108238,
+     "PubMed": "34727050"
+    },
+    "title": "Drug-drug interaction between cannabidiol and phenobarbital in healthy dogs.",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6f1681e9c193be21573373dc6782b7e86bdf82dc",
+    "externalIds": {
+     "DOI": "10.1016/j.jevs.2021.103842",
+     "CorpusId": 245296194,
+     "PubMed": "34923070"
+    },
+    "title": "Pharmacokinetic Evaluation of a Cannabidiol Supplement in Horses.",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f1d3dd7d7cba802a5f380463bba85355563ba1e3",
+    "externalIds": {
+     "PubMedCentral": "11114070",
+     "DOI": "10.1111/jvp.13026",
+     "CorpusId": 239019375,
+     "PubMed": "34658021"
+    },
+    "title": "Plasma and joint tissue pharmacokinetics of two doses of oral cannabidiol oil in guinea pigs (Cavia porcellus)",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "34b5807bf9b486429956f4259dd48d470cd7a2bf",
+    "externalIds": {
+     "DOI": "10.1111/jvp.13016",
+     "CorpusId": 238256397,
+     "PubMed": "34605042"
+    },
+    "title": "Current review of hemp-based medicines in dogs.",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "b0ed603400799d223fe1590755cf3714d4a4ac29",
+    "externalIds": {
+     "DOI": "10.1055/a-1482-5904",
+     "CorpusId": 242095651
+    },
+    "title": "CBD bei Hunden und Katzen",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [
+    "CBD has been seen to be efficacious in reducing pain and joint inflammation signs in dogs with osteoarthritis [23], and in dogs with epilepsy [24]."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4d69ae08dafb1a65a743a8313a252d57a8394503",
+    "externalIds": {
+     "PubMedCentral": "8473042",
+     "DOI": "10.3390/vetsci8090185",
+     "CorpusId": 237942794,
+     "PubMed": "34564578"
+    },
+    "title": "Effect of Cannabidiol (CBD) on Canine Inflammatory Response: An Ex Vivo Study on LPS Stimulated Whole Blood",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "009b580137db901ab5cb220abf1cd64cc5b5f600",
+    "externalIds": {
+     "MAG": "3201778467",
+     "DOI": "10.1016/j.jveb.2021.09.003",
+     "CorpusId": 244180792
+    },
+    "title": "The Effects of Pelleted CBD Supplementation on Heart Rate and Reaction Scores in Horses",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [
+    "Several studies have evaluated its effectiveness in dogs with osteoarthritis (23, 103, 104) noise phobias (105), and epilepsy (106) with mixed results."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4c9c1f7a9f8bf680f4838c548a139edbf3974e2f",
+    "externalIds": {
+     "PubMedCentral": "8322615",
+     "DOI": "10.3389/fvets.2021.685606",
+     "CorpusId": 235915966,
+     "PubMed": "34336977"
+    },
+    "title": "Alteration of the Canine Metabolome After a 3-Week Supplementation of Cannabidiol (CBD) Containing Treats: An Exploratory Study of Healthy Animals",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c2e363609eadd7f2e46c411c3bc49a8febc9bbc9",
+    "externalIds": {
+     "MAG": "3159718844",
+     "DOI": "10.12968/COAN.2020.0076",
+     "CorpusId": 235533554
+    },
+    "title": "Alternative drugs to phenobarbital in canine epileptic patients",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [
+    "Evidence for CBD oil supplementation in dogs with IE is in its relative infancy, with a preliminary randomized control study indicating that although the CBD-treated group had a 33% decrease in the group median for mean monthly seizure frequency compared with the placebo-treated group, the proportion of dogs considered treatment “responders” (ie, ≥50% decrease in seizure activity) was similar between the 2 groups.(62) Given the popularity of its use with owners even without strong efficacy data,(55) this is an area where further research is urgently needed, ideally from larger-scale studies over a longer time frame."
+   ],
+   "intents": [
+    "result"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "d560d8f98804028330d0f2eb4bee79ed0714261f",
+    "externalIds": {
+     "PubMedCentral": "8162594",
+     "DOI": "10.1111/jvim.16144",
+     "CorpusId": 233984884,
+     "PubMed": "33960544"
+    },
+    "title": "Research priorities for idiopathic epilepsy in dogs: Viewpoints of owners, general practice veterinarians, and neurology specialists",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "94f4128974725f17f595e5117a3ccceab8f3d9c7",
+    "externalIds": {
+     "DOI": "10.2460/ajvr.82.5.405",
+     "CorpusId": 233410932,
+     "PubMed": "33904801"
+    },
+    "title": "Randomized, placebo-controlled, 28-day safety and pharmacokinetics evaluation of repeated oral cannabidiol administration in healthy dogs.",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "11d28133da4ca7d1e5ac3c83f2fcef360e2ab838",
+    "externalIds": {
+     "PubMedCentral": "8637357",
+     "DOI": "10.1177/1098612X211004215",
+     "CorpusId": 232366855,
+     "PubMed": "33769105"
+    },
+    "title": "Safety and tolerability of escalating cannabinoid doses in healthy cats",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [
+    "Areas of interest include use for osteoarthritis pain [88,96–98], other types of pain (oncologic, neuropathic) [99], immune-mediated and inflammatory allergic disorders [100], cardio-vascular and respiratory conditions [101], and epilepsy [102,103].",
+    "The dogs showed no detectable analytical plasma CBD concentrations at any assessment point [103]."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "8c7de71f539a7da8672f8516d52ed783c487d878",
+    "externalIds": {
+     "PubMedCentral": "8003882",
+     "DOI": "10.3390/ani11030892",
+     "CorpusId": 232383961,
+     "PubMed": "33804793"
+    },
+    "title": "Cannabis, Cannabidiol Oils and Tetrahydrocannabinol—What Do Veterinarians Need to Know?",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "60b9344fc161616609e799698cdb51a754c6cefa",
+    "externalIds": {
+     "PubMedCentral": "7854708",
+     "DOI": "10.1038/s41598-021-82439-2",
+     "CorpusId": 231787313,
+     "PubMed": "33531559"
+    },
+    "title": "Cannabis sativa L. may reduce aggressive behaviour towards humans in shelter dogs",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "980226f2fb13c06ed5cd4d9c81c3bffaacb40edc",
+    "externalIds": {
+     "PubMedCentral": "7819300",
+     "MAG": "3092867621",
+     "DOI": "10.1186/s42238-020-00045-x",
+     "CorpusId": 222318428,
+     "PubMed": "33526100"
+    },
+    "title": "Motivations and expectations for using cannabis products to treat pain in humans and dogs: a mixed methods study",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [
+    "There is significant interest in evaluating CHE products for a variety of applications in both human and animal health, including chronic osteoarthritis (1, 2), epilepsy (3, 4), neuropathic pain (5), and nausea/emesis (6)."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "29a0816dbd3063f30b6ae8ab71131ee0c64766ac",
+    "externalIds": {
+     "MAG": "3090015241",
+     "PubMedCentral": "7550466",
+     "DOI": "10.3389/fvets.2020.583404",
+     "CorpusId": 221979108,
+     "PubMed": "33134364"
+    },
+    "title": "Pharmacokinetic and Safety Evaluation of Various Oral Doses of a Novel 1:20 THC:CBD Cannabis Herbal Extract in Dogs",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "736383ee53ef404bcc569a8d251ec61b5aba8314",
+    "externalIds": {
+     "PubMedCentral": "7498943",
+     "MAG": "3083451971",
+     "DOI": "10.3389/fvets.2020.00505",
+     "CorpusId": 221479853,
+     "PubMed": "33102539"
+    },
+    "title": "Pharmacokinetics of Cannabidiol, Cannabidiolic Acid, Δ9-Tetrahydrocannabinol, Tetrahydrocannabinolic Acid and Related Metabolites in Canine Serum After Dosing With Three Oral Forms of Hemp Extract",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "43d478247af2e8aa77b82daca4fa14e0c69712d1",
+    "externalIds": {
+     "DOI": "10.59565/001c.125497",
+     "CorpusId": 273862866
+    },
+    "title": "Evaluation of the Chinese Herbal Formula Di Tan Tang as an Oral Add-On Therapy for Dogs with Presumptive Refractory Idiopathic Epilepsy: An Open-Label Investigation in 8 Dogs",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "290bd81b8d88e1887ca08baa840020600f1f3098",
+    "externalIds": {
+     "MAG": "3046633741",
+     "DOI": "10.1111/vde.12876",
+     "CorpusId": 220887293,
+     "PubMed": "32735064"
+    },
+    "title": "Probable cutaneous adverse drug reaction due to a cannabidiol-containing hemp oil product in a dog.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "35d5e9b75b358be3235c83f165857961182002f5",
+    "externalIds": {
+     "MAG": "3046918013",
+     "DOI": "10.1111/jvp.12896",
+     "CorpusId": 220889224,
+     "PubMed": "32735381"
+    },
+    "title": "Serum cannabidiol, tetrahydrocannabinol (THC), and their native acid derivatives after transdermal application of a low-THC Cannabis sativa extract in beagles.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [
+    "(74) evaluated 26 client-owned dogs with intractable idiopathic epilepsy in a randomized blinded controlled clinical trial."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6e3938c6cfe00ebf7ff0ffed49c8a2538809c663",
+    "externalIds": {
+     "PubMedCentral": "7399642",
+     "DOI": "10.3389/fvets.2020.00387",
+     "CorpusId": 220795219,
+     "PubMed": "32850997"
+    },
+    "title": "Hemp in Veterinary Medicine: From Feed to Drug",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6d8b2b4170fc98363cf3d443ad7a6ea22e1ac7e4",
+    "externalIds": {
+     "MAG": "3045838295",
+     "DOI": "10.3389/FVETS.2020.00387",
+     "CorpusId": 225510810
+    },
+    "title": "HEMP IN VETERINARY MEDICINE: FROM FEED TO DRUG",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [
+    "These authors also studied the effect of administering the same three CBD products (CBD in a topical cream, a capsule form, or in an oil) in addition to conventional antiepileptic treatment on the frequency of seizures in dogs with idiopathic epilepsy for 12 weeks.(14) As was the case in healthy dogs,(13) the primary adverse finding was a significant elevation in serum ALP."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ff1107fdd2948087804d1b8b051de03d02f79f3f",
+    "externalIds": {
+     "MAG": "3024676240",
+     "DOI": "10.1177/2397847320922944",
+     "CorpusId": 219424504
+    },
+    "title": "Is cannabidiol hepatotoxic or hepatoprotective: A review",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [
+    "5 mg/kg CBD dose as used in published efficacy studies) (3,4).",
+    "A recent preliminary study demonstrated potential efficacy for CBD treatment of canine osteoarthritis (3), and CBD use for control of seizures in epileptic dogs may demonstrate dose-dependent effects (4)."
+   ],
+   "intents": [
+    "background",
+    "methodology"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ca0c66cf3b2c4effbca337b0049f040acfd267b2",
+    "externalIds": {
+     "MAG": "3023979383",
+     "CorpusId": 218474731,
+     "PubMed": "32355346"
+    },
+    "title": "Composition of unapproved cannabinoid products directly marketed to Canadian pet owners.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c62acf1492a3372ffdfb5ca505e06fcf9a26fa61",
+    "externalIds": {
+     "MAG": "3021604409",
+     "DOI": "10.1136/vr.m1593",
+     "CorpusId": 218480220,
+     "PubMed": "32358117"
+    },
+    "title": "Does the addition of cannabidiol to conventional antiepileptic drug treatment reduce seizure frequency in dogs with epilepsy?",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "b0de6ca08d58156cdc8aeecab5485c5f50f7097d",
+    "externalIds": {
+     "MAG": "3016815068",
+     "DOI": "10.1111/vco.12599",
+     "CorpusId": 215810206,
+     "PubMed": "32304175"
+    },
+    "title": "Unconventional diets and nutritional supplements are more common in dogs with cancer compared to healthy dogs: An online global survey of 345 dog owners.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f284a89bd25fbc7f53f1a3d6f98621bc3ada629e",
+    "externalIds": {
+     "PubMedCentral": "7169471",
+     "MAG": "3017251805",
+     "DOI": "10.2147/VMRR.S248712",
+     "CorpusId": 216637678,
+     "PubMed": "32346530"
+    },
+    "title": "Cannabinoid, Terpene, and Heavy Metal Analysis of 29 Over-the-Counter Commercial Veterinary Hemp Supplements",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [
+    "5 mg/kg twice daily) for 12 weeks (21).",
+    "Others have also observed high variability in cannabinoid (CBD, THC) blood concentrations across dogs in single dose pharmacokinetic studies (16, 19) and repeated administration studies (21), which may be explained by differences in absorption rates or cannabinoid metabolism across subjects.",
+    "Previous studies have reported increases in liver enzymes, specifically ALP, in dogs receiving CBD orally at doses ranging from 2 mg/kg (twice daily) to 10 mg/kg (twice daily) for 4, 6, or 12 weeks (17, 20, 21) with increases observed as early as 2 weeks following treatment initiation (20).",
+    "5 mg/kg) (16–19) and on the safety and/or efficacy of orally administered CBD (17, 20, 21) or cannabis extracts (11) for 4–56 weeks.",
+    "Existing studies show its potential as a single therapy for pain reduction in osteoarthritic dogs (17) or as an adjunct therapy for the reduction in seizure frequency in dogs with idiopathic epilepsy (21).",
+    "5 mg/kg twice daily for 4 or 12 weeks (17, 21) to 5 or 10 mg/kg twice daily for 6 weeks (20)."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": true,
+   "citingPaper": {
+    "paperId": "57b86286ec57698acda8947b6989b03432a9585c",
+    "externalIds": {
+     "PubMedCentral": "7029731",
+     "MAG": "3006465472",
+     "DOI": "10.3389/fvets.2020.00051",
+     "CorpusId": 211076519,
+     "PubMed": "32118071"
+    },
+    "title": "Preliminary Investigation of the Safety of Escalating Cannabinoid Doses in Healthy Dogs",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "84f18913acc8a2637974bee82acafbfcf6a6c340",
+    "externalIds": {
+     "PubMedCentral": "7000163",
+     "MAG": "3010544945",
+     "DOI": "10.5041/RMMJ.10388",
+     "CorpusId": 211036139,
+     "PubMed": "32017686"
+    },
+    "title": "Cannabis, One Health, and Veterinary Medicine: Cannabinoids’ Role in Public Health, Food Safety, and Translational Medicine",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "033aa3add521cb97f12b41a169891097fc06c166",
+    "externalIds": {
+     "MAG": "3004173635",
+     "CorpusId": 212889251
+    },
+    "title": "Nutritional Management of Canine Cancers and the Role of Nutritional Supplements",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [
+    "5 mg/kg whole plant-derived CBD twice daily for 12 weeks; with both of these studies showing elevations in alkaline phosphatase enzyme and large inter-individual variability in serum CBD concentrations [11,13].",
+    "When looking more closely at serum concentrations in the canine seizure study the effective serum concentrations of CBD are likely between 200–800 ng/mL, [11] however the methods for administering the product (i.",
+    "It is entirely possible that we missed the peak Cmax since a 2 h time point was not collected in this cohort due to blood collection times being limited by the physical size of cats, but if absorption is similar to dogs the serum concentrations would have been similar at 2 h [11,13].",
+    "Recent studies in dogs have shown that delivery of between 2–20 mg/kg of CBD in an oil base appears to be the preferred method of delivery for absorption, whereby oil beadlets and transdermal approaches are also effective, but not as effective as infused oils [11].",
+    "There is limited evidence for treating these same disease processes in animals with recent pilot studies investigating seizure management and osteoarthritis pain, showing promising results [11,12].",
+    "The serum pharmacokinetics of oral CBD-rich hemp nutraceuticals in dogs has been limited, with no data available in cats [11,12].",
+    "beadlets and transdermal approaches are also effective, but not as effective as infused oils [11].",
+    "5 mg/kg there were significant rises in ALP in many of the dogs’ undergoing seizure management [11]."
+   ],
+   "intents": [
+    "methodology",
+    "background"
+   ],
+   "isInfluential": true,
+   "citingPaper": {
+    "paperId": "b1d801ec8ac56b2a403fdb947ca8206ca37f0f6c",
+    "externalIds": {
+     "MAG": "2981299512",
+     "PubMedCentral": "6826847",
+     "DOI": "10.3390/ani9100832",
+     "CorpusId": 204832902,
+     "PubMed": "31635105"
+    },
+    "title": "Single-Dose Pharmacokinetics and Preliminary Safety Assessment with Use of CBD-Rich Hemp Nutraceutical in Healthy Dogs and Cats",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "87df5f2afff7926bab9df2ee94520296e6664514",
+    "externalIds": {
+     "DOI": "10.1080/17415349.2019.1632558",
+     "CorpusId": 219317253
+    },
+    "title": "Science in Shorts",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [
+    "Clinical studies have further confirmed the anticonvulsant action of CBD in epilepsy, although there is a lack of data gained from well-organized double-blind, randomized, controlled studies (Devinsky et al., 2016; McGrath et al., 2019).",
+    "…and ethosuximide, suggesting drug-drug interactions of CBD.\nClinical studies have further confirmed the anticonvulsant action of CBD in epilepsy, although there is a lack of data gained from well-organized double-blind, randomized, controlled studies (Devinsky et al., 2016; McGrath et al., 2019)."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "bda7cb3417941c1e42abce037360d3bb79d5e808",
+    "externalIds": {
+     "DOI": "10.6703/ijase.202212_19(4).006",
+     "CorpusId": 253956048
+    },
+    "title": "Cannabidiol (CBD) for relief from pain, anxiety, and epilepsy: A review",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0c01e4fd5463a08de7d348b6d1cfc39a4d85c4ed",
+    "externalIds": {
+     "MAG": "3160038861",
+     "DOI": "10.1007/978-3-030-68317-7_10",
+     "CorpusId": 236673351
+    },
+    "title": "Cannabinoids in Oncology and Immune Response",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "e4ec3a5dcae0ed00bcff94201c6bf307bda83a98",
+    "externalIds": {
+     "MAG": "3161940770",
+     "DOI": "10.1007/978-3-030-68317-7_13",
+     "CorpusId": 236700591
+    },
+    "title": "Product Selection and Dosing Considerations",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "d1ef2e9e630dae3eb3e35b21ff15afaa2f42a3e5",
+    "externalIds": {
+     "MAG": "3163127050",
+     "DOI": "10.1007/978-3-030-68317-7_6",
+     "CorpusId": 236748450
+    },
+    "title": "Cannabinoids for Neurological Conditions",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2ec6d26e18a03522ce3a305fca6998b453e77e0b",
+    "externalIds": {
+     "MAG": "3112325348",
+     "DOI": "10.1016/b978-0-323-69611-1.00018-9",
+     "CorpusId": 230550166
+    },
+    "title": "Seizure Disorders and Narcolepsy",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c1a746ae36696db98215bb9fcd796d5e21a915e1",
+    "externalIds": {
+     "CorpusId": 262088811
+    },
+    "title": "dos-Randomized, placebo-controlled, 28-day safety and pharmacokinetics evaluation of repeated oral cannabidiol administration in healthy dogs",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "5a3c6fcaec3cf7d7ebc245cfb4bf78f0b72cf12c",
+    "externalIds": {
+     "CorpusId": 263174008
+    },
+    "title": "dos-Randomized, placebo-controlled, 28-day safety and pharmacokinetics evaluation of repeated oral cannabidiol administration in healthy dogs",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [
+    "A randomized, blinded, controlled clinical trial in clientowned dogs with naturally occurring intractable idiopathic epilepsy compared the effect of adjunctive administration of a CBD-dominant hemp oil with conventional treatment alone on seizure frequency (84).",
+    "The most common and scientifically justified clinical applications of cannabis in veterinary medicine to date are analgesia for osteoarthritis (OA) and anticonvulsant activity for epilepsy (83, 84).",
+    "For example, “CBD-dominant” formulations with relatively little or no THC have been shown to have efficacy in treating seizures, mild pain, and anxiety (83, 84, 100).",
+    "In addition, given the effects of CBD on common biological targets associated in drug metabolism (eg, cytochrome P450 family 2, subfamily C, member 19 [CYP2C19], CYP2D6, and CYP2C9) and excretion, clinicians should be aware of the potential for drug-drug interactions (DDIs) and adverse drug events (ADEs) (84)."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": true,
+   "citingPaper": {
+    "paperId": "86ed4f13438100777fe7ecccee32d521305739d5",
+    "externalIds": {
+     "CorpusId": 232238952
+    },
+    "title": "Cannabis in Veterinary Medicine: A Critical Review",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "31d022696d3564b04eb41606109fc2f2028b61b5",
+    "externalIds": {
+     "CorpusId": 232288143
+    },
+    "title": "WHY PAY RETAIL ? Buy the Concentrate",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [
+    "Oil (18) No Yes Yes 66 66 50 132 100 $ 0."
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "13638108bf2c469f20fb788326cca0170fb7c669",
+    "externalIds": {
+     "CorpusId": 249679329
+    },
+    "title": "VMRR_A_248712 45..55",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "d63f99c73fac54d6a8f83e88d456cb9062ff6db9",
+    "externalIds": {
+     "CorpusId": 272465848
+    },
+    "title": "Pharmacokinetics, safety and efficacy of cannabidiol in dogs and cats",
+    "year": null
+   }
+  },
+  {
+   "contexts": [
+    "62,64,65 Therefore, the current dosing recommendations observed in many studies are unlikely to heavily influence CYP metabolism; however, further studies are necessary with commonly used veterinary pharmaceuticals to fully understand compatibility, particularly those heavily metabolized by CYP1A,…",
+    "61,62 Another recent study suggests that potassium bromide and zonesimide serum concentrations were not affected by doses of 2 mg/kg of CBD/CBDA equal mix provided twice a day for 12 weeks."
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "51cd511dd586f1f8fb0c7e7864cc815d92be7fa4",
+    "externalIds": {
+     "CorpusId": 275995529
+    },
+    "title": "Currents in One Health",
+    "year": null
+   }
+  }
+ ]
+}

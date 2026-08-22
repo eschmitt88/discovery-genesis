@@ -1,0 +1,504 @@
+{
+ "paper": {
+  "paperId": "357990468b287703742735f1573260e51ef67413",
+  "title": "Altitude-Related Change in Endotracheal Tube Cuff Pressures in Helicopter EMS",
+  "referenceCount": 17,
+  "citationCount": 8,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+   "url": "https://escholarship.org/content/qt835648w2/qt835648w2.pdf?t=p7dmke",
+   "status": "GOLD",
+   "license": "CCBY",
+   "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5468068, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+   "Medicine"
+  ],
+  "tldr": {
+   "model": "tldr@v2.0.0",
+   "text": "This study failed to demonstrate the expected linear relationship between ETT cuff pressures and the maximum altitude achieved during typical air-medical transportation in this system, and at altitudes less than 3,000 feet above sea level the effect of altitude change on ETT pressure is minimal and does not require a change in practice to saline-filled cuffs."
+  },
+  "authors": [
+   {
+    "authorId": "4158059",
+    "name": "Stacy N. Weisberg"
+   },
+   {
+    "authorId": "17657966",
+    "name": "J. McCall"
+   },
+   {
+    "authorId": "39721381",
+    "name": "J. Tennyson"
+   }
+  ]
+ },
+ "references": [
+  {
+   "contexts": [
+    "The median change was 10 cmH2O (IQR [3-18])."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citedPaper": {
+    "paperId": "5321d8129492ec423a35753d7615bbeb8306daff",
+    "externalIds": {
+     "MAG": "1921089931",
+     "DOI": "10.1002/lary.23997",
+     "CorpusId": 9467666,
+     "PubMed": "23404544"
+    },
+    "title": "Determination of Legal Responsibility in Iatrogenic Tracheal and Laryngeal Stenosis",
+    "year": 2013,
+    "citationCount": 43
+   }
+  },
+  {
+   "contexts": [
+    "The median change was 10 cmH2O (IQR [3-18])."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citedPaper": {
+    "paperId": "5119ea182f7c669fffbb862e9ecfb3f2737bb67b",
+    "externalIds": {
+     "MAG": "1986990628",
+     "DOI": "10.1007/s00134-012-2750-6",
+     "CorpusId": 21934966,
+     "PubMed": "23160770"
+    },
+    "title": "Intubation-related tracheal ischemic lesions: incidence, risk factors, and outcome",
+    "year": 2013,
+    "citationCount": 80
+   }
+  },
+  {
+   "contexts": [
+    "The median change was 10 cmH2O (IQR [3-18])."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citedPaper": {
+    "paperId": "2d6b4def9681025deac8770aa17564329f3f1163",
+    "externalIds": {
+     "MAG": "2042887382",
+     "DOI": "10.3109/10903127.2012.744787",
+     "CorpusId": 207521795,
+     "PubMed": "23252881"
+    },
+    "title": "Endotracheal Tube Cuff Pressure before, during, and after Fixed-Wing Air Medical Retrieval",
+    "year": 2013,
+    "citationCount": 16
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citedPaper": {
+    "paperId": "d38305b53c40916a6f0315621f3ef64189d11b92",
+    "externalIds": {
+     "MAG": "2007737063",
+     "DOI": "10.1016/j.annemergmed.2010.01.025",
+     "CorpusId": 8397820,
+     "PubMed": "20188442"
+    },
+    "title": "Endotracheal tube intracuff pressure during helicopter transport.",
+    "year": 2010,
+    "citationCount": 51
+   }
+  },
+  {
+   "contexts": [
+    "The median change was 10 cmH2O (IQR [3-18])."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citedPaper": {
+    "paperId": "a37076dd5618b0a2529d2a4193e1ec661b193640",
+    "externalIds": {
+     "MAG": "2023190855",
+     "DOI": "10.1097/PEC.0b013e3181db224d",
+     "CorpusId": 43804376,
+     "PubMed": "20404779"
+    },
+    "title": "Endotracheal Tube Cuff Pressures in Pediatric Patients Intubated Before Aeromedical Transport",
+    "year": 2010,
+    "citationCount": 16
+   }
+  },
+  {
+   "contexts": [
+    "The median change was 10 cmH2O (IQR [3-18])."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citedPaper": {
+    "paperId": "7ff53d0cee59e602f6f81e4c8efe306bcb378b86",
+    "externalIds": {
+     "DOI": "10.1136/emj.2007.049478",
+     "CorpusId": 219217843,
+     "PubMed": "17652703"
+    },
+    "title": "Debriefing",
+    "year": 2007,
+    "citationCount": 27
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citedPaper": {
+    "paperId": "c94f6e3f922989fcb11e07595384b8c67e492ab0",
+    "externalIds": {
+     "MAG": "2089426876",
+     "DOI": "10.1016/J.AJEM.2004.04.012",
+     "CorpusId": 21002967,
+     "PubMed": "15258871"
+    },
+    "title": "Tracheal rupture complicating emergent endotracheal intubation.",
+    "year": 2004,
+    "citationCount": 126
+   }
+  },
+  {
+   "contexts": [
+    "The median change was 10 cmH2O (IQR [3-18])."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citedPaper": {
+    "paperId": "1a4bb907226396b35d2dc4aa08d5c5ff911a1f13",
+    "externalIds": {
+     "MAG": "1977474817",
+     "DOI": "10.1111/j.1365-2044.2004.03609.x",
+     "CorpusId": 44263731,
+     "PubMed": "14984523"
+    },
+    "title": "Pressures within air‐filled tracheal cuffs at altitude – an in vivo study",
+    "year": 2004,
+    "citationCount": 22
+   }
+  },
+  {
+   "contexts": [],
+   "isInfluential": false,
+   "intents": [],
+   "citedPaper": {
+    "paperId": "2807fda2e9262c15d40082b64285e6a1d2387cb7",
+    "externalIds": {
+     "MAG": "2028027594",
+     "DOI": "10.1213/00000539-199305000-00030",
+     "CorpusId": 35967756,
+     "PubMed": "8484512"
+    },
+    "title": "Canine Tracheal Blood Flow After Endotracheal Tube Cuff Inflation During Normotension and Hypotension",
+    "year": 1993,
+    "citationCount": 56
+   }
+  },
+  {
+   "contexts": [
+    "The median change was 10 cmH2O (IQR [3-18])."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citedPaper": {
+    "paperId": "449b0c5a0fcd40c5012486117d649531dc9b2abf",
+    "externalIds": {
+     "MAG": "2089659777",
+     "DOI": "10.1136/bmj.288.6422.965",
+     "CorpusId": 16392166,
+     "PubMed": "6423162"
+    },
+    "title": "Endotracheal cuff pressure and tracheal mucosal blood flow: endoscopic study of effects of four large volume cuffs.",
+    "year": 1984,
+    "citationCount": 551
+   }
+  },
+  {
+   "contexts": [
+    "The median change was 10 cmH2O (IQR [3-18])."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citedPaper": {
+    "paperId": "c6f1f5c239238b85dfa2ae6a885235a94f77a14f",
+    "externalIds": {
+     "MAG": "1996822821",
+     "DOI": "10.1097/00003246-198305000-00009",
+     "CorpusId": 31803648,
+     "PubMed": "6839788"
+    },
+    "title": "Laryngotracheal injury due to endotracheal intubation: Incidence, evolution, and predisposing factors. A prospective long‐term study",
+    "year": 1983,
+    "citationCount": 294
+   }
+  },
+  {
+   "contexts": [
+    "The median change was 10 cmH2O (IQR [3-18])."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citedPaper": {
+    "paperId": "7ab8671902126da273c35002deeee4cec8bb5642",
+    "externalIds": {
+     "MAG": "2016143533",
+     "DOI": "10.1111/j.1399-6576.1977.tb01198.x",
+     "CorpusId": 22509825,
+     "PubMed": "848257"
+    },
+    "title": "Blood Flow in the Rabbit Tracheal Mucosa under Normal Conditions and under the Influence of Tracheal Intubation",
+    "year": 1977,
+    "citationCount": 153
+   }
+  },
+  {
+   "contexts": [
+    "The median change was 10 cmH2O (IQR [3-18])."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citedPaper": {
+    "paperId": null,
+    "externalIds": null,
+    "title": "Clinical Practice of Emergency Medicine (5th Edition)",
+    "year": 2010,
+    "citationCount": null
+   }
+  },
+  {
+   "contexts": [
+    "The median change was 10 cmH2O (IQR [3-18])."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citedPaper": {
+    "paperId": "ab08b251d2a133c966651b9a0a7a20f3c9e8c7b7",
+    "externalIds": {
+     "MAG": "1994240218",
+     "DOI": "10.1016/J.AJEM.2006.09.001",
+     "CorpusId": 23812262,
+     "PubMed": "17157683"
+    },
+    "title": "Endotracheal intracuff pressures in the ED and prehospital setting: is there a problem?",
+    "year": 2007,
+    "citationCount": 62
+   }
+  },
+  {
+   "contexts": [
+    "The median change was 10 cmH2O (IQR [3-18])."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citedPaper": {
+    "paperId": "0c06b915784446da0399dae0ace7d97c5a915f4c",
+    "externalIds": {
+     "MAG": "101081755",
+     "DOI": "10.1007/s00134-002-1563-4",
+     "CorpusId": 25146538,
+     "PubMed": "12528025"
+    },
+    "title": "Post-extubation stridor in intensive care unit patients",
+    "year": 2002,
+    "citationCount": 204
+   }
+  },
+  {
+   "contexts": [
+    "The median change was 10 cmH2O (IQR [3-18])."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citedPaper": {
+    "paperId": null,
+    "externalIds": null,
+    "title": "Measurement of tracheal tube cuff pressure in critical care",
+    "year": 2002,
+    "citationCount": null
+   }
+  },
+  {
+   "contexts": [
+    "The median change was 10 cmH2O (IQR [3-18])."
+   ],
+   "isInfluential": false,
+   "intents": [
+    "background"
+   ],
+   "citedPaper": {
+    "paperId": "c879619b739b26bd81dce31ecf6366ad921b4604",
+    "externalIds": {
+     "MAG": "2036837938",
+     "DOI": "10.1016/S0736-4679(99)00159-6",
+     "CorpusId": 32703790,
+     "PubMed": "10645834"
+    },
+    "title": "Acute tracheal rupture related to endotracheal intubation: case report.",
+    "year": 2000,
+    "citationCount": 68
+   }
+  }
+ ],
+ "citations": [
+  {
+   "isInfluential": false,
+   "contexts": [
+    "Interestingly, less clinically relevant changes have been reported at similar altitudes changes of 305 to 914 m where mean ETTCP was approximately 36 cmH 2 O [21].",
+    "Furthermore, other studies have found that a saline-filled ETTC is not needed under altitudes of 914 m [21] whereas others recommend against using saline for inflation completely [32]."
+   ],
+   "intents": [],
+   "citingPaper": {
+    "paperId": "c2e307bda429ce833720d55a3e96950bb4fcea40",
+    "externalIds": {
+     "PubMedCentral": "12706879",
+     "DOI": "10.1186/s12917-025-05146-4",
+     "CorpusId": 283907839,
+     "PubMed": "41398268"
+    },
+    "title": "In-vitro endotracheal tube cuff pressure decreases following transport via helicopter: implications for medical evacuation of military working dogs",
+    "year": 2025
+   }
+  },
+  {
+   "isInfluential": false,
+   "contexts": [],
+   "intents": [],
+   "citingPaper": {
+    "paperId": "4411311c3c3fd5f907c85056d4f3f0e6fa3a170e",
+    "externalIds": {
+     "DOI": "10.1089/respcare.13184",
+     "CorpusId": 279091595,
+     "PubMed": "40455608"
+    },
+    "title": "Fluid-Filled Tracheal Tube Cuffs: Implications for Speech, Sealing, and Safety",
+    "year": 2025
+   }
+  },
+  {
+   "isInfluential": true,
+   "contexts": [
+    "Two helicopter retrieval studies involving air-filled cuffs (and mostly adults) found similar results [19, 21].",
+    "While in vitro studies have shown a clear and linear cuff pressure increase with altitude for adults and children, the literature gives a somewhat erratic correlation between altitude and cuff pressure change in clinical studies, with significant variation between individuals [19, 21, 24].",
+    "Cuff pressure increases approximately linearly with altitude when studied in vitro, with greater variation found in the limited human studies that have been carried out [18, 19].",
+    "…or water preferable [34] Recognizes the minimal cuff pressure variation if a non-compressible liquid is used but provides flexibility Use saline [19] Gives standardization but requires changing all cuffs to saline to meet protocol Reduce cuff air by a given volume per thousand feet of ascent…"
+   ],
+   "intents": [],
+   "citingPaper": {
+    "paperId": "94546850fbb482c0d311b442fb3fa7400b78ed4d",
+    "externalIds": {
+     "PubMedCentral": "12149494",
+     "DOI": "10.1111/pan.15123",
+     "CorpusId": 278235220,
+     "PubMed": "40309924"
+    },
+    "title": "Pediatric Endotracheal Tube Cuff Management at Altitude: Implications for Aeromedical Retrieval and Other Austere Environments",
+    "year": 2025
+   }
+  },
+  {
+   "isInfluential": false,
+   "contexts": [],
+   "intents": [],
+   "citingPaper": {
+    "paperId": "6f0ddc07d64c95e0e0afc1fe8e90b20c6d9e39c4",
+    "externalIds": {
+     "PubMedCentral": "11625575",
+     "DOI": "10.3389/fmed.2024.1468310",
+     "CorpusId": 274287588,
+     "PubMed": "39655233"
+    },
+    "title": "Reevaluating 30 cmH2O endotracheal tube cuff pressure: risks of airway mucosal damage during prolonged mechanical ventilation",
+    "year": 2024
+   }
+  },
+  {
+   "isInfluential": false,
+   "contexts": [],
+   "intents": [],
+   "citingPaper": {
+    "paperId": "8e7cb765f5de472d3f476438533dc443f9d5b0bd",
+    "externalIds": {
+     "MAG": "3126832651",
+     "DOI": "10.35975/APIC.V25I1.1445",
+     "CorpusId": 233581157
+    },
+    "title": "Endotracheal tube cuff pressure: An overlooked risk",
+    "year": 2021
+   }
+  },
+  {
+   "isInfluential": false,
+   "contexts": [],
+   "intents": [],
+   "citingPaper": {
+    "paperId": "b1b04a36507373ad478ba01f423122ee038aa3e1",
+    "externalIds": {
+     "DOI": "10.4236/jbm.2025.1310004",
+     "CorpusId": 281761136
+    },
+    "title": "Research Progress on the Use and Management of Perioperative Endotracheal Tube Cuffs",
+    "year": 2025
+   }
+  },
+  {
+   "isInfluential": false,
+   "contexts": [],
+   "intents": [],
+   "citingPaper": {
+    "paperId": "254c9a5cf4f7443df6c34c5d9d836468c1ffc494",
+    "externalIds": {
+     "DOI": "10.1016/j.amj.2021.04.002",
+     "CorpusId": 235646924,
+     "PubMed": "34172227"
+    },
+    "title": "Endotracheal Tube Intracuff Pressure Changes in Patients Transported by a Helicopter Emergency Medical Service: A Prospective Observational Study.",
+    "year": 2021
+   }
+  },
+  {
+   "isInfluential": false,
+   "contexts": [],
+   "intents": [],
+   "citingPaper": {
+    "paperId": "650e801a1d15144fd4a037ad4982a7af97ac54ab",
+    "externalIds": {
+     "MAG": "3192876706",
+     "DOI": "10.1007/978-3-030-72047-6_2",
+     "CorpusId": 238925290
+    },
+    "title": "Coffee, Popcorn, and Oxygen Cylinders: The Ideal Gas Law",
+    "year": 2021
+   }
+  }
+ ]
+}

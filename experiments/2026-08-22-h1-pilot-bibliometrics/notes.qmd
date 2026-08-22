@@ -1,0 +1,8 @@
+---
+title: "H1 pilot — bibliometric case/twin differences"
+format: html
+---
+
+```{python}
+# see analyze.py; this notebook re-renders its tables and plots
+```

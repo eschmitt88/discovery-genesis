@@ -1,0 +1,158 @@
+{
+ "paper": {
+  "paperId": "26e0fe18c36e1cd6e33a1f8e751f0c9cefed6811",
+  "title": "Association of Cold Receptor TRPM8 Gene Polymorphism with Blood Lipid Indices and Anthropometric Parameters in Shorians",
+  "referenceCount": 13,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null,
+   "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10517-011-1294-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10517-011-1294-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+   "Biology",
+   "Medicine"
+  ],
+  "tldr": {
+   "model": "tldr@v2.0.0",
+   "text": "The TRPM8 gene is likely to be involved in the regulation of lipid metabolism and was associated with anthropometric parameters characterizing lipid metabolism (hip and waist circumferences) in Shorians."
+  },
+  "authors": [
+   {
+    "authorId": "40665443",
+    "name": "T. Potapova"
+   },
+   {
+    "authorId": "35068654",
+    "name": "N. S. Yudin"
+   },
+   {
+    "authorId": "79390328",
+    "name": "I. V. Pilipenko"
+   },
+   {
+    "authorId": "21614911",
+    "name": "V. F. Kobsev"
+   },
+   {
+    "authorId": "1979646",
+    "name": "A. G. Romashchenko"
+   },
+   {
+    "authorId": "5380295",
+    "name": "E. Shakhtshneider"
+   },
+   {
+    "authorId": "21563061",
+    "name": "M. Ogarkov"
+   },
+   {
+    "authorId": "6297765",
+    "name": "M. Voevoda"
+   }
+  ]
+ },
+ "references": null,
+ "citations": [
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4b73474d9ec870bf4d671a97676c7312ca8cb36f",
+    "externalIds": {
+     "PubMedCentral": "10137111",
+     "DOI": "10.3390/cimb45040228",
+     "CorpusId": 258231172,
+     "PubMed": "37185752"
+    },
+    "title": "Cannabis Pharmacogenomics: A Path to Personalized Medicine",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "daf9cfac8121c61ff292a5c585f2aa208a809954",
+    "externalIds": {
+     "DOI": "10.1096/fj.202101905RR",
+     "CorpusId": 246813526,
+     "PubMed": "35157333"
+    },
+    "title": "Topical application of the pharmacological cold mimetic menthol stimulates brown adipose tissue thermogenesis through a TRPM8, UCP1, and norepinephrine dependent mechanism in mice housed at thermoneutrality",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "16494e8aa2e040532c1275a9403b3ad30e8350d0",
+    "externalIds": {
+     "PubMedCentral": "5591244",
+     "MAG": "2751150280",
+     "DOI": "10.1038/s41598-017-11194-0",
+     "CorpusId": 205599439,
+     "PubMed": "28887460"
+    },
+    "title": "Novel selective, potent naphthyl TRPM8 antagonists identified through a combined ligand- and structure-based virtual screening approach",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [
+    "…to thermal sensing, is involved in the regulation of other physiological processes (Sabnis et al., 2008; Johnson et al., 2009), which was confirmed by the association between lipid metabolism indices and gene polymorphisms found in the Russian and Shor populations (Potapova et al., 2011, 2014)."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4051a1ece026031e14445221b88dc22c3c02ff14",
+    "externalIds": {
+     "MAG": "2505145265",
+     "DOI": "10.1134/S2079059716050038",
+     "CorpusId": 18047831
+    },
+    "title": "Polymorphism in the TRP8 gene in Kyrgyz population: Putative association with highland adaptation",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "146d852378f0bc0533e516f47af02c35c51e4832",
+    "externalIds": {
+     "MAG": "2024214083",
+     "DOI": "10.1007/s10517-014-2660-4",
+     "CorpusId": 16299111,
+     "PubMed": "25348565"
+    },
+    "title": "Associations of Cold Receptor TRPM8 Gene Single Nucleotide Polymorphism with Blood Lipids and Anthropometric Parameters in Russian Population",
+    "year": 2014
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "00a5e7809af4d0bec42de420de6671dc2e51cd5d",
+    "externalIds": {
+     "MAG": "2505326378",
+     "DOI": "10.1016/B978-0-12-420024-1.00004-7",
+     "CorpusId": 56607078
+    },
+    "title": "TRP Gene Polymorphism and Disease Risk",
+    "year": 2015
+   }
+  }
+ ]
+}

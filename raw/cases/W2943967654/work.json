@@ -1,0 +1,645 @@
+{
+ "id": "https://openalex.org/W2943967654",
+ "doi": "https://doi.org/10.2460/javma.254.11.1301",
+ "title": "Randomized blinded controlled clinical trial to assess the effect of oral cannabidiol administration in addition to conventional antiepileptic treatment on seizure frequency in dogs with intractable idiopathic epilepsy",
+ "display_name": "Randomized blinded controlled clinical trial to assess the effect of oral cannabidiol administration in addition to conventional antiepileptic treatment on seizure frequency in dogs with intractable idiopathic epilepsy",
+ "publication_year": 2019,
+ "publication_date": "2019-05-08",
+ "type": "article",
+ "cited_by_count": 172,
+ "citation_normalized_percentile": {
+  "value": 0.9938921,
+  "is_in_top_1_percent": true,
+  "is_in_top_10_percent": true
+ },
+ "cited_by_percentile_year": {
+  "min": 96,
+  "max": 100
+ },
+ "referenced_works": [
+  "https://openalex.org/W1860822802",
+  "https://openalex.org/W1873975405",
+  "https://openalex.org/W1964906165",
+  "https://openalex.org/W1970923864",
+  "https://openalex.org/W1995284583",
+  "https://openalex.org/W2000646446",
+  "https://openalex.org/W2025784392",
+  "https://openalex.org/W2029669156",
+  "https://openalex.org/W2040265255",
+  "https://openalex.org/W2041103585",
+  "https://openalex.org/W2055879442",
+  "https://openalex.org/W2067881763",
+  "https://openalex.org/W2067960394",
+  "https://openalex.org/W2072767191",
+  "https://openalex.org/W2099625177",
+  "https://openalex.org/W2103280401",
+  "https://openalex.org/W2115370747",
+  "https://openalex.org/W2115440397",
+  "https://openalex.org/W2119071913",
+  "https://openalex.org/W2122465097",
+  "https://openalex.org/W2129286287",
+  "https://openalex.org/W2148059993",
+  "https://openalex.org/W2151546922",
+  "https://openalex.org/W2151896870",
+  "https://openalex.org/W2211460847",
+  "https://openalex.org/W2258876093",
+  "https://openalex.org/W2290466312",
+  "https://openalex.org/W2327607040",
+  "https://openalex.org/W2605266778",
+  "https://openalex.org/W2620218661",
+  "https://openalex.org/W2744115661",
+  "https://openalex.org/W2785059893",
+  "https://openalex.org/W2791384105",
+  "https://openalex.org/W2804921146",
+  "https://openalex.org/W2846779511",
+  "https://openalex.org/W6600008009",
+  "https://openalex.org/W6600830883",
+  "https://openalex.org/W6626996875",
+  "https://openalex.org/W6639042196",
+  "https://openalex.org/W6703909177",
+  "https://openalex.org/W6753326106"
+ ],
+ "referenced_works_count": 41,
+ "related_works": [
+  "https://openalex.org/W2131720213",
+  "https://openalex.org/W4386154528",
+  "https://openalex.org/W3195619110",
+  "https://openalex.org/W2525028860",
+  "https://openalex.org/W3095936866",
+  "https://openalex.org/W3193401886",
+  "https://openalex.org/W3114065534",
+  "https://openalex.org/W4386968025",
+  "https://openalex.org/W4283380117",
+  "https://openalex.org/W3038799159"
+ ],
+ "primary_topic": {
+  "id": "https://openalex.org/T10414",
+  "display_name": "Cannabis and Cannabinoid Research",
+  "score": 0.9412000179290771,
+  "subfield": {
+   "id": "https://openalex.org/subfields/2736",
+   "display_name": "Pharmacology"
+  },
+  "field": {
+   "id": "https://openalex.org/fields/27",
+   "display_name": "Medicine"
+  },
+  "domain": {
+   "id": "https://openalex.org/domains/4",
+   "display_name": "Health Sciences"
+  }
+ },
+ "topics": [
+  {
+   "id": "https://openalex.org/T10414",
+   "display_name": "Cannabis and Cannabinoid Research",
+   "score": 0.9412000179290771,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2736",
+    "display_name": "Pharmacology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T10094",
+   "display_name": "Epilepsy research and treatment",
+   "score": 0.02019999921321869,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2738",
+    "display_name": "Psychiatry and Mental health"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T11149",
+   "display_name": "Veterinary Oncology Research",
+   "score": 0.0035000001080334187,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  }
+ ],
+ "keywords": [
+  {
+   "id": "https://openalex.org/keywords/cannabidiol",
+   "display_name": "Cannabidiol",
+   "score": 0.9164745807647705
+  },
+  {
+   "id": "https://openalex.org/keywords/placebo",
+   "display_name": "Placebo",
+   "score": 0.745197057723999
+  },
+  {
+   "id": "https://openalex.org/keywords/medicine",
+   "display_name": "Medicine",
+   "score": 0.7191712260246277
+  },
+  {
+   "id": "https://openalex.org/keywords/epilepsy",
+   "display_name": "Epilepsy",
+   "score": 0.7165313363075256
+  },
+  {
+   "id": "https://openalex.org/keywords/adverse-effect",
+   "display_name": "Adverse effect",
+   "score": 0.6697498559951782
+  },
+  {
+   "id": "https://openalex.org/keywords/anesthesia",
+   "display_name": "Anesthesia",
+   "score": 0.6531243324279785
+  },
+  {
+   "id": "https://openalex.org/keywords/randomized-controlled-trial",
+   "display_name": "Randomized controlled trial",
+   "score": 0.6260645389556885
+  },
+  {
+   "id": "https://openalex.org/keywords/clinical-trial",
+   "display_name": "Clinical trial",
+   "score": 0.46376726031303406
+  },
+  {
+   "id": "https://openalex.org/keywords/anticonvulsant",
+   "display_name": "Anticonvulsant",
+   "score": 0.4531361162662506
+  },
+  {
+   "id": "https://openalex.org/keywords/internal-medicine",
+   "display_name": "Internal medicine",
+   "score": 0.34148108959198
+  },
+  {
+   "id": "https://openalex.org/keywords/cannabis",
+   "display_name": "Cannabis",
+   "score": 0.060666054487228394
+  }
+ ],
+ "concepts": [
+  {
+   "id": "https://openalex.org/C2776895053",
+   "wikidata": "https://www.wikidata.org/wiki/Q422917",
+   "display_name": "Cannabidiol",
+   "level": 3,
+   "score": 0.9164745807647705
+  },
+  {
+   "id": "https://openalex.org/C27081682",
+   "wikidata": "https://www.wikidata.org/wiki/Q269829",
+   "display_name": "Placebo",
+   "level": 3,
+   "score": 0.745197057723999
+  },
+  {
+   "id": "https://openalex.org/C71924100",
+   "wikidata": "https://www.wikidata.org/wiki/Q11190",
+   "display_name": "Medicine",
+   "level": 0,
+   "score": 0.7191712260246277
+  },
+  {
+   "id": "https://openalex.org/C2778186239",
+   "wikidata": "https://www.wikidata.org/wiki/Q41571",
+   "display_name": "Epilepsy",
+   "level": 2,
+   "score": 0.7165313363075256
+  },
+  {
+   "id": "https://openalex.org/C197934379",
+   "wikidata": "https://www.wikidata.org/wiki/Q2047938",
+   "display_name": "Adverse effect",
+   "level": 2,
+   "score": 0.6697498559951782
+  },
+  {
+   "id": "https://openalex.org/C42219234",
+   "wikidata": "https://www.wikidata.org/wiki/Q131130",
+   "display_name": "Anesthesia",
+   "level": 1,
+   "score": 0.6531243324279785
+  },
+  {
+   "id": "https://openalex.org/C168563851",
+   "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+   "display_name": "Randomized controlled trial",
+   "level": 2,
+   "score": 0.6260645389556885
+  },
+  {
+   "id": "https://openalex.org/C535046627",
+   "wikidata": "https://www.wikidata.org/wiki/Q30612",
+   "display_name": "Clinical trial",
+   "level": 2,
+   "score": 0.46376726031303406
+  },
+  {
+   "id": "https://openalex.org/C2775858608",
+   "wikidata": "https://www.wikidata.org/wiki/Q576618",
+   "display_name": "Anticonvulsant",
+   "level": 3,
+   "score": 0.4531361162662506
+  },
+  {
+   "id": "https://openalex.org/C126322002",
+   "wikidata": "https://www.wikidata.org/wiki/Q11180",
+   "display_name": "Internal medicine",
+   "level": 1,
+   "score": 0.34148108959198
+  },
+  {
+   "id": "https://openalex.org/C2777056318",
+   "wikidata": "https://www.wikidata.org/wiki/Q79817",
+   "display_name": "Cannabis",
+   "level": 2,
+   "score": 0.060666054487228394
+  },
+  {
+   "id": "https://openalex.org/C204787440",
+   "wikidata": "https://www.wikidata.org/wiki/Q188504",
+   "display_name": "Alternative medicine",
+   "level": 2,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C118552586",
+   "wikidata": "https://www.wikidata.org/wiki/Q7867",
+   "display_name": "Psychiatry",
+   "level": 1,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C142724271",
+   "wikidata": "https://www.wikidata.org/wiki/Q7208",
+   "display_name": "Pathology",
+   "level": 1,
+   "score": 0.0
+  }
+ ],
+ "open_access": {
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null,
+  "any_repository_has_fulltext": false
+ },
+ "locations": [
+  {
+   "id": "doi:10.2460/javma.254.11.1301",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.2460/javma.254.11.1301",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S161638509",
+    "display_name": "Journal of the American Veterinary Medical Association",
+    "issn_l": "0003-1488",
+    "issn": [
+     "0003-1488",
+     "1943-569X"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "host_organization": "https://openalex.org/P4322545313",
+    "host_organization_name": "American Veterinary Medical Association",
+    "host_organization_lineage": [
+     "https://openalex.org/P4322545313"
+    ],
+    "host_organization_lineage_names": [
+     "American Veterinary Medical Association"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of the American Veterinary Medical Association",
+   "raw_type": "journal-article"
+  },
+  {
+   "id": "pmid:31067185",
+   "is_oa": false,
+   "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/31067185",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306525036",
+    "display_name": "PubMed",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I1299303238",
+    "host_organization_name": "National Institutes of Health",
+    "host_organization_lineage": [
+     "https://openalex.org/I1299303238"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of the American Veterinary Medical Association",
+   "raw_type": "Journal Article"
+  }
+ ],
+ "best_oa_location": null,
+ "authorships": [
+  {
+   "author_position": "first",
+   "author": {
+    "id": "https://openalex.org/A5032632156",
+    "display_name": "Stephanie McGrath",
+    "orcid": "https://orcid.org/0000-0001-7610-9297"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I92446798",
+     "display_name": "Colorado State University",
+     "ror": "https://ror.org/03k1gpj17",
+     "country_code": "US",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I92446798"
+     ]
+    }
+   ],
+   "countries": [
+    "US"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Stephanie McGrath",
+   "raw_affiliation_strings": [
+    "1Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO 80523"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "1Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO 80523",
+     "institution_ids": [
+      "https://openalex.org/I92446798"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5016934978",
+    "display_name": "Lisa R. Bartner",
+    "orcid": "https://orcid.org/0000-0002-7713-9321"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I92446798",
+     "display_name": "Colorado State University",
+     "ror": "https://ror.org/03k1gpj17",
+     "country_code": "US",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I92446798"
+     ]
+    }
+   ],
+   "countries": [
+    "US"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Lisa R. Bartner",
+   "raw_affiliation_strings": [
+    "1Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO 80523"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "1Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO 80523",
+     "institution_ids": [
+      "https://openalex.org/I92446798"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5016795218",
+    "display_name": "Sangeeta Rao",
+    "orcid": "https://orcid.org/0000-0002-9234-0082"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I92446798",
+     "display_name": "Colorado State University",
+     "ror": "https://ror.org/03k1gpj17",
+     "country_code": "US",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I92446798"
+     ]
+    }
+   ],
+   "countries": [
+    "US"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Sangeeta Rao",
+   "raw_affiliation_strings": [
+    "1Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO 80523"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "1Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO 80523",
+     "institution_ids": [
+      "https://openalex.org/I92446798"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5011853029",
+    "display_name": "Rebecca A. Packer",
+    "orcid": "https://orcid.org/0000-0002-0227-4131"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I92446798",
+     "display_name": "Colorado State University",
+     "ror": "https://ror.org/03k1gpj17",
+     "country_code": "US",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I92446798"
+     ]
+    }
+   ],
+   "countries": [
+    "US"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Rebecca A. Packer",
+   "raw_affiliation_strings": [
+    "1Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO 80523"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "1Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO 80523",
+     "institution_ids": [
+      "https://openalex.org/I92446798"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "last",
+   "author": {
+    "id": "https://openalex.org/A5072152051",
+    "display_name": "Daniel L. Gustafson",
+    "orcid": "https://orcid.org/0000-0002-3063-1669"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I92446798",
+     "display_name": "Colorado State University",
+     "ror": "https://ror.org/03k1gpj17",
+     "country_code": "US",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I92446798"
+     ]
+    }
+   ],
+   "countries": [
+    "US"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Daniel L. Gustafson",
+   "raw_affiliation_strings": [
+    "1Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO 80523"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "1Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO 80523",
+     "institution_ids": [
+      "https://openalex.org/I92446798"
+     ]
+    }
+   ]
+  }
+ ],
+ "biblio": {
+  "volume": "254",
+  "issue": "11",
+  "first_page": "1301",
+  "last_page": "1308"
+ },
+ "ids": {
+  "openalex": "https://openalex.org/W2943967654",
+  "doi": "https://doi.org/10.2460/javma.254.11.1301",
+  "mag": "2943967654",
+  "pmid": "https://pubmed.ncbi.nlm.nih.gov/31067185"
+ },
+ "is_retracted": false,
+ "counts_by_year": [
+  {
+   "year": 2026,
+   "cited_by_count": 7
+  },
+  {
+   "year": 2025,
+   "cited_by_count": 21
+  },
+  {
+   "year": 2024,
+   "cited_by_count": 27
+  },
+  {
+   "year": 2023,
+   "cited_by_count": 34
+  },
+  {
+   "year": 2022,
+   "cited_by_count": 46
+  },
+  {
+   "year": 2021,
+   "cited_by_count": 20
+  },
+  {
+   "year": 2020,
+   "cited_by_count": 14
+  },
+  {
+   "year": 2019,
+   "cited_by_count": 3
+  }
+ ],
+ "primary_location": {
+  "id": "doi:10.2460/javma.254.11.1301",
+  "is_oa": false,
+  "landing_page_url": "https://doi.org/10.2460/javma.254.11.1301",
+  "pdf_url": null,
+  "source": {
+   "id": "https://openalex.org/S161638509",
+   "display_name": "Journal of the American Veterinary Medical Association",
+   "issn_l": "0003-1488",
+   "issn": [
+    "0003-1488",
+    "1943-569X"
+   ],
+   "is_oa": false,
+   "is_in_doaj": false,
+   "is_core": true,
+   "host_organization": "https://openalex.org/P4322545313",
+   "host_organization_name": "American Veterinary Medical Association",
+   "host_organization_lineage": [
+    "https://openalex.org/P4322545313"
+   ],
+   "host_organization_lineage_names": [
+    "American Veterinary Medical Association"
+   ],
+   "type": "journal"
+  },
+  "license": null,
+  "license_id": null,
+  "version": "publishedVersion",
+  "is_accepted": true,
+  "is_published": true,
+  "raw_source_name": "Journal of the American Veterinary Medical Association",
+  "raw_type": "journal-article"
+ },
+ "language": "en",
+ "fwci": 13.4255,
+ "abstract": "OBJECTIVE: To assess the effect of oral cannabidiol (CBD) administration in addition to conventional antiepileptic treatment on seizure frequency in dogs with idiopathic epilepsy. DESIGN: Randomized blinded controlled clinical trial. ANIMALS: 26 client-owned dogs with intractable idiopathic epilepsy. PROCEDURES: Dogs were randomly assigned to a CBD (n = 12) or placebo (14) group. The CBD group received CBD-infused oil (2.5 mg/kg [1.1 mg/lb], PO) twice daily for 12 weeks in addition to existing antiepileptic treatments, and the placebo group received noninfused oil under the same conditions. Seizure activity, adverse effects, and plasma CBD concentrations were compared between groups. RESULTS: 2 dogs in the CBD group developed ataxia and were withdrawn from the study. After other exclusions, 9 dogs in the CBD group and 7 in the placebo group were included in the analysis. Dogs in the CBD group had a significant (median change, 33%) reduction in seizure frequency, compared with the placebo group. However, the proportion of dogs considered responders to treatment (≥ 50% decrease in seizure activity) was similar between groups. Plasma CBD concentrations were correlated with reduction in seizure frequency. Dogs in the CBD group had a significant increase in serum alkaline phosphatase activity. No adverse behavioral effects were reported by owners. CONCLUSIONS AND CLINICAL RELEVANCE: Although a significant reduction in seizure frequency was achieved for dogs in the CBD group, the proportion of responders was similar between groups. Given the correlation between plasma CBD concentration and seizure frequency, additional research is warranted to determine whether a higher dosage of CBD would be effective in reducing seizure activity by ≥ 50%."
+}

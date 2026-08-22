@@ -1,0 +1,92 @@
+[
+ {
+  "id": "https://openalex.org/W2520434533",
+  "publication_year": 2016,
+  "referenced_works": [
+   "https://openalex.org/W178630581",
+   "https://openalex.org/W1996215314",
+   "https://openalex.org/W2012014667",
+   "https://openalex.org/W2043769961",
+   "https://openalex.org/W2050874614",
+   "https://openalex.org/W2064634381",
+   "https://openalex.org/W2068787860",
+   "https://openalex.org/W2079366178",
+   "https://openalex.org/W2080693943",
+   "https://openalex.org/W2082431481",
+   "https://openalex.org/W2091307460",
+   "https://openalex.org/W2102580724",
+   "https://openalex.org/W2107561590",
+   "https://openalex.org/W2109394932",
+   "https://openalex.org/W2117059442",
+   "https://openalex.org/W2128153585",
+   "https://openalex.org/W2130324471",
+   "https://openalex.org/W2133406100",
+   "https://openalex.org/W2134841917",
+   "https://openalex.org/W2142102521",
+   "https://openalex.org/W2143927285",
+   "https://openalex.org/W2147021066",
+   "https://openalex.org/W2151795416",
+   "https://openalex.org/W2154069827",
+   "https://openalex.org/W2161194461",
+   "https://openalex.org/W2162678712",
+   "https://openalex.org/W2168595116",
+   "https://openalex.org/W2171006634",
+   "https://openalex.org/W3008609509",
+   "https://openalex.org/W3100343705",
+   "https://openalex.org/W3148198191",
+   "https://openalex.org/W4232438839",
+   "https://openalex.org/W4250589301"
+  ],
+  "primary_topic": {
+   "id": "https://openalex.org/T10964",
+   "display_name": "Wireless Communication Security Techniques",
+   "score": 0.9998000264167786,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "cited_by_count": 12
+ },
+ {
+  "id": "https://openalex.org/W2064634381",
+  "publication_year": 2013,
+  "referenced_works": [
+   "https://openalex.org/W178630581",
+   "https://openalex.org/W1568096262",
+   "https://openalex.org/W2025488327",
+   "https://openalex.org/W2104478100",
+   "https://openalex.org/W2124071994",
+   "https://openalex.org/W2129457795",
+   "https://openalex.org/W2148124193",
+   "https://openalex.org/W2171006634",
+   "https://openalex.org/W6607300253"
+  ],
+  "primary_topic": {
+   "id": "https://openalex.org/T10964",
+   "display_name": "Wireless Communication Security Techniques",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "cited_by_count": 7
+ }
+]

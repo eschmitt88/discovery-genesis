@@ -2,4 +2,6 @@
 name = "discovery-genesis"
 version = "0.1.0"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "pypdf>=6.16.1",
+]

@@ -1,0 +1,1180 @@
+{
+ "id": "https://openalex.org/W1575610855",
+ "doi": "https://doi.org/10.1002/ejic.201402263",
+ "title": "Mid‐ and Far‐Infrared Marker Bands of the Metal Coordination Sites of the Histidine Side Chains in the Protein Cu,Zn‐Superoxide Dismutase",
+ "display_name": "Mid‐ and Far‐Infrared Marker Bands of the Metal Coordination Sites of the Histidine Side Chains in the Protein Cu,Zn‐Superoxide Dismutase",
+ "publication_year": 2014,
+ "publication_date": "2014-08-21",
+ "type": "article",
+ "cited_by_count": 11,
+ "citation_normalized_percentile": {
+  "value": 0.50569046,
+  "is_in_top_1_percent": false,
+  "is_in_top_10_percent": false
+ },
+ "cited_by_percentile_year": {
+  "min": 89,
+  "max": 98
+ },
+ "referenced_works": [
+  "https://openalex.org/W37580485",
+  "https://openalex.org/W1965970392",
+  "https://openalex.org/W1968221321",
+  "https://openalex.org/W1968485070",
+  "https://openalex.org/W1970026005",
+  "https://openalex.org/W1977543102",
+  "https://openalex.org/W1980632627",
+  "https://openalex.org/W1981093255",
+  "https://openalex.org/W1983308927",
+  "https://openalex.org/W1983755158",
+  "https://openalex.org/W1984603608",
+  "https://openalex.org/W1989858520",
+  "https://openalex.org/W1990544606",
+  "https://openalex.org/W1991098611",
+  "https://openalex.org/W1992542566",
+  "https://openalex.org/W1998081073",
+  "https://openalex.org/W2001467311",
+  "https://openalex.org/W2008213939",
+  "https://openalex.org/W2009531762",
+  "https://openalex.org/W2010896039",
+  "https://openalex.org/W2012261812",
+  "https://openalex.org/W2018614637",
+  "https://openalex.org/W2023271753",
+  "https://openalex.org/W2026444546",
+  "https://openalex.org/W2029529806",
+  "https://openalex.org/W2032881767",
+  "https://openalex.org/W2040182517",
+  "https://openalex.org/W2042037260",
+  "https://openalex.org/W2042261553",
+  "https://openalex.org/W2045295684",
+  "https://openalex.org/W2049455850",
+  "https://openalex.org/W2051533595",
+  "https://openalex.org/W2052979701",
+  "https://openalex.org/W2056661888",
+  "https://openalex.org/W2056846412",
+  "https://openalex.org/W2057199226",
+  "https://openalex.org/W2063222925",
+  "https://openalex.org/W2064128549",
+  "https://openalex.org/W2065752964",
+  "https://openalex.org/W2066623781",
+  "https://openalex.org/W2070370855",
+  "https://openalex.org/W2071713207",
+  "https://openalex.org/W2080442657",
+  "https://openalex.org/W2080652299",
+  "https://openalex.org/W2081373204",
+  "https://openalex.org/W2085150103",
+  "https://openalex.org/W2086957099",
+  "https://openalex.org/W2090990712",
+  "https://openalex.org/W2092360704",
+  "https://openalex.org/W2093894707",
+  "https://openalex.org/W2102187825",
+  "https://openalex.org/W2129942401",
+  "https://openalex.org/W2142350884",
+  "https://openalex.org/W2143981217",
+  "https://openalex.org/W2151364238",
+  "https://openalex.org/W2163984014",
+  "https://openalex.org/W2319006650",
+  "https://openalex.org/W4231524173"
+ ],
+ "referenced_works_count": 58,
+ "related_works": [
+  "https://openalex.org/W945805037",
+  "https://openalex.org/W2021989727",
+  "https://openalex.org/W2081371352",
+  "https://openalex.org/W2070272790",
+  "https://openalex.org/W2021444944",
+  "https://openalex.org/W1993510903",
+  "https://openalex.org/W1571167194",
+  "https://openalex.org/W1978802871",
+  "https://openalex.org/W2044747892",
+  "https://openalex.org/W3082361077"
+ ],
+ "primary_topic": {
+  "id": "https://openalex.org/T11747",
+  "display_name": "Metal-Catalyzed Oxygenation Mechanisms",
+  "score": 0.9998000264167786,
+  "subfield": {
+   "id": "https://openalex.org/subfields/1604",
+   "display_name": "Inorganic Chemistry"
+  },
+  "field": {
+   "id": "https://openalex.org/fields/16",
+   "display_name": "Chemistry"
+  },
+  "domain": {
+   "id": "https://openalex.org/domains/3",
+   "display_name": "Physical Sciences"
+  }
+ },
+ "topics": [
+  {
+   "id": "https://openalex.org/T11747",
+   "display_name": "Metal-Catalyzed Oxygenation Mechanisms",
+   "score": 0.9998000264167786,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1604",
+    "display_name": "Inorganic Chemistry"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/16",
+    "display_name": "Chemistry"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T11434",
+   "display_name": "Electrochemical Analysis and Applications",
+   "score": 0.9980999827384949,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1603",
+    "display_name": "Electrochemistry"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/16",
+    "display_name": "Chemistry"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T10163",
+   "display_name": "Metal complexes synthesis and properties",
+   "score": 0.996999979019165,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2730",
+    "display_name": "Oncology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  }
+ ],
+ "keywords": [
+  {
+   "id": "https://openalex.org/keywords/histidine",
+   "display_name": "Histidine",
+   "score": 0.7885552048683167
+  },
+  {
+   "id": "https://openalex.org/keywords/chemistry",
+   "display_name": "Chemistry",
+   "score": 0.7344220876693726
+  },
+  {
+   "id": "https://openalex.org/keywords/infrared-spectroscopy",
+   "display_name": "Infrared spectroscopy",
+   "score": 0.6352089643478394
+  },
+  {
+   "id": "https://openalex.org/keywords/oxidation-state",
+   "display_name": "Oxidation state",
+   "score": 0.5817447304725647
+  },
+  {
+   "id": "https://openalex.org/keywords/ligand",
+   "display_name": "Ligand (biochemistry)",
+   "score": 0.5713258981704712
+  },
+  {
+   "id": "https://openalex.org/keywords/copper",
+   "display_name": "Copper",
+   "score": 0.533328652381897
+  },
+  {
+   "id": "https://openalex.org/keywords/protonation",
+   "display_name": "Protonation",
+   "score": 0.5251338481903076
+  },
+  {
+   "id": "https://openalex.org/keywords/metal",
+   "display_name": "Metal",
+   "score": 0.5094354748725891
+  },
+  {
+   "id": "https://openalex.org/keywords/raman-spectroscopy",
+   "display_name": "Raman spectroscopy",
+   "score": 0.5022799968719482
+  },
+  {
+   "id": "https://openalex.org/keywords/spectroscopy",
+   "display_name": "Spectroscopy",
+   "score": 0.49065127968788147
+  },
+  {
+   "id": "https://openalex.org/keywords/coordination-complex",
+   "display_name": "Coordination complex",
+   "score": 0.47300559282302856
+  },
+  {
+   "id": "https://openalex.org/keywords/crystallography",
+   "display_name": "Crystallography",
+   "score": 0.47256937623023987
+  },
+  {
+   "id": "https://openalex.org/keywords/resonance-raman-spectroscopy",
+   "display_name": "Resonance Raman spectroscopy",
+   "score": 0.4568822979927063
+  },
+  {
+   "id": "https://openalex.org/keywords/zinc",
+   "display_name": "Zinc",
+   "score": 0.44465166330337524
+  },
+  {
+   "id": "https://openalex.org/keywords/redox",
+   "display_name": "Redox",
+   "score": 0.41067713499069214
+  },
+  {
+   "id": "https://openalex.org/keywords/inorganic-chemistry",
+   "display_name": "Inorganic chemistry",
+   "score": 0.3466724157333374
+  },
+  {
+   "id": "https://openalex.org/keywords/amino-acid",
+   "display_name": "Amino acid",
+   "score": 0.16356894373893738
+  },
+  {
+   "id": "https://openalex.org/keywords/organic-chemistry",
+   "display_name": "Organic chemistry",
+   "score": 0.08495929837226868
+  }
+ ],
+ "concepts": [
+  {
+   "id": "https://openalex.org/C2778460671",
+   "wikidata": "https://www.wikidata.org/wiki/Q485277",
+   "display_name": "Histidine",
+   "level": 3,
+   "score": 0.7885552048683167
+  },
+  {
+   "id": "https://openalex.org/C185592680",
+   "wikidata": "https://www.wikidata.org/wiki/Q2329",
+   "display_name": "Chemistry",
+   "level": 0,
+   "score": 0.7344220876693726
+  },
+  {
+   "id": "https://openalex.org/C153642686",
+   "wikidata": "https://www.wikidata.org/wiki/Q70906",
+   "display_name": "Infrared spectroscopy",
+   "level": 2,
+   "score": 0.6352089643478394
+  },
+  {
+   "id": "https://openalex.org/C2778591166",
+   "wikidata": "https://www.wikidata.org/wiki/Q484152",
+   "display_name": "Oxidation state",
+   "level": 3,
+   "score": 0.5817447304725647
+  },
+  {
+   "id": "https://openalex.org/C116569031",
+   "wikidata": "https://www.wikidata.org/wiki/Q899107",
+   "display_name": "Ligand (biochemistry)",
+   "level": 3,
+   "score": 0.5713258981704712
+  },
+  {
+   "id": "https://openalex.org/C544778455",
+   "wikidata": "https://www.wikidata.org/wiki/Q753",
+   "display_name": "Copper",
+   "level": 2,
+   "score": 0.533328652381897
+  },
+  {
+   "id": "https://openalex.org/C30095370",
+   "wikidata": "https://www.wikidata.org/wiki/Q899488",
+   "display_name": "Protonation",
+   "level": 3,
+   "score": 0.5251338481903076
+  },
+  {
+   "id": "https://openalex.org/C544153396",
+   "wikidata": "https://www.wikidata.org/wiki/Q11426",
+   "display_name": "Metal",
+   "level": 2,
+   "score": 0.5094354748725891
+  },
+  {
+   "id": "https://openalex.org/C40003534",
+   "wikidata": "https://www.wikidata.org/wiki/Q862228",
+   "display_name": "Raman spectroscopy",
+   "level": 2,
+   "score": 0.5022799968719482
+  },
+  {
+   "id": "https://openalex.org/C32891209",
+   "wikidata": "https://www.wikidata.org/wiki/Q483666",
+   "display_name": "Spectroscopy",
+   "level": 2,
+   "score": 0.49065127968788147
+  },
+  {
+   "id": "https://openalex.org/C68913812",
+   "wikidata": "https://www.wikidata.org/wiki/Q238156",
+   "display_name": "Coordination complex",
+   "level": 3,
+   "score": 0.47300559282302856
+  },
+  {
+   "id": "https://openalex.org/C8010536",
+   "wikidata": "https://www.wikidata.org/wiki/Q160398",
+   "display_name": "Crystallography",
+   "level": 1,
+   "score": 0.47256937623023987
+  },
+  {
+   "id": "https://openalex.org/C2781340169",
+   "wikidata": "https://www.wikidata.org/wiki/Q7315737",
+   "display_name": "Resonance Raman spectroscopy",
+   "level": 3,
+   "score": 0.4568822979927063
+  },
+  {
+   "id": "https://openalex.org/C535196362",
+   "wikidata": "https://www.wikidata.org/wiki/Q758",
+   "display_name": "Zinc",
+   "level": 2,
+   "score": 0.44465166330337524
+  },
+  {
+   "id": "https://openalex.org/C55904794",
+   "wikidata": "https://www.wikidata.org/wiki/Q82682",
+   "display_name": "Redox",
+   "level": 2,
+   "score": 0.41067713499069214
+  },
+  {
+   "id": "https://openalex.org/C179104552",
+   "wikidata": "https://www.wikidata.org/wiki/Q11165",
+   "display_name": "Inorganic chemistry",
+   "level": 1,
+   "score": 0.3466724157333374
+  },
+  {
+   "id": "https://openalex.org/C515207424",
+   "wikidata": "https://www.wikidata.org/wiki/Q8066",
+   "display_name": "Amino acid",
+   "level": 2,
+   "score": 0.16356894373893738
+  },
+  {
+   "id": "https://openalex.org/C178790620",
+   "wikidata": "https://www.wikidata.org/wiki/Q11351",
+   "display_name": "Organic chemistry",
+   "level": 1,
+   "score": 0.08495929837226868
+  },
+  {
+   "id": "https://openalex.org/C55493867",
+   "wikidata": "https://www.wikidata.org/wiki/Q7094",
+   "display_name": "Biochemistry",
+   "level": 1,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C170493617",
+   "wikidata": "https://www.wikidata.org/wiki/Q208467",
+   "display_name": "Receptor",
+   "level": 2,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C120665830",
+   "wikidata": "https://www.wikidata.org/wiki/Q14620",
+   "display_name": "Optics",
+   "level": 1,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C121332964",
+   "wikidata": "https://www.wikidata.org/wiki/Q413",
+   "display_name": "Physics",
+   "level": 0,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C145148216",
+   "wikidata": "https://www.wikidata.org/wiki/Q36496",
+   "display_name": "Ion",
+   "level": 2,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C62520636",
+   "wikidata": "https://www.wikidata.org/wiki/Q944",
+   "display_name": "Quantum mechanics",
+   "level": 1,
+   "score": 0.0
+  }
+ ],
+ "open_access": {
+  "is_oa": true,
+  "oa_status": "green",
+  "oa_url": "http://hdl.handle.net/20.500.12210/36206",
+  "any_repository_has_fulltext": true
+ },
+ "locations": [
+  {
+   "id": "doi:10.1002/ejic.201402263",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1002/ejic.201402263",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S16435181",
+    "display_name": "European Journal of Inorganic Chemistry",
+    "issn_l": "1099-0682",
+    "issn": [
+     "1099-0682",
+     "1434-1948"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "host_organization": "https://openalex.org/P4310320595",
+    "host_organization_name": "Wiley",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320595"
+    ],
+    "host_organization_lineage_names": [
+     "Wiley"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "European Journal of Inorganic Chemistry",
+   "raw_type": "journal-article"
+  },
+  {
+   "id": "pmh:oai:HAL:hal-01078308v1",
+   "is_oa": false,
+   "landing_page_url": "https://hal.science/hal-01078308",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306402512",
+    "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I1294671590",
+    "host_organization_name": "Centre National de la Recherche Scientifique",
+    "host_organization_lineage": [
+     "https://openalex.org/I1294671590"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "http://onlinelibrary.wiley.com/doi/10.1002/ejic.201402263/abstract",
+   "raw_type": "info:eu-repo/semantics/article"
+  },
+  {
+   "id": "pmh:oai:lilloa.univ-lille.fr:20.500.12210/36206",
+   "is_oa": true,
+   "landing_page_url": "http://hdl.handle.net/20.500.12210/36206",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306402203",
+    "display_name": "LillOA (Université de Lille (University Of Lille))",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I4210123514",
+    "host_organization_name": "Centre d'Etudes en Civilisations, Langues et Littératures Etrangères",
+    "host_organization_lineage": [
+     "https://openalex.org/I4210123514"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "other-oa",
+   "license_id": "https://openalex.org/licenses/other-oa",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "",
+   "raw_type": "info:eu-repo/semantics/article"
+  }
+ ],
+ "best_oa_location": {
+  "id": "pmh:oai:lilloa.univ-lille.fr:20.500.12210/36206",
+  "is_oa": true,
+  "landing_page_url": "http://hdl.handle.net/20.500.12210/36206",
+  "pdf_url": null,
+  "source": {
+   "id": "https://openalex.org/S4306402203",
+   "display_name": "LillOA (Université de Lille (University Of Lille))",
+   "issn_l": null,
+   "issn": null,
+   "is_oa": false,
+   "is_in_doaj": false,
+   "is_core": false,
+   "host_organization": "https://openalex.org/I4210123514",
+   "host_organization_name": "Centre d'Etudes en Civilisations, Langues et Littératures Etrangères",
+   "host_organization_lineage": [
+    "https://openalex.org/I4210123514"
+   ],
+   "host_organization_lineage_names": [],
+   "type": "repository"
+  },
+  "license": "other-oa",
+  "license_id": "https://openalex.org/licenses/other-oa",
+  "version": "submittedVersion",
+  "is_accepted": false,
+  "is_published": false,
+  "raw_source_name": "",
+  "raw_type": "info:eu-repo/semantics/article"
+ },
+ "authorships": [
+  {
+   "author_position": "first",
+   "author": {
+    "id": "https://openalex.org/A5025027848",
+    "display_name": "Bertrand Xerri",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I11935315",
+     "display_name": "École Nationale Supérieure de Chimie de Montpellier",
+     "ror": "https://ror.org/03sgyqj04",
+     "country_code": "FR",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I11935315"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I1294671590",
+     "display_name": "Centre National de la Recherche Scientifique",
+     "ror": "https://ror.org/02feahw73",
+     "country_code": "FR",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I1294671590"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210115639",
+     "display_name": "Institut Charles Gerhardt Montpellier",
+     "ror": "https://ror.org/028wq3277",
+     "country_code": "FR",
+     "type": "facility",
+     "lineage": [
+      "https://openalex.org/I11935315",
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I19894307",
+      "https://openalex.org/I4210115639",
+      "https://openalex.org/I4210128300"
+     ]
+    }
+   ],
+   "countries": [
+    "FR"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Bertrand Xerri",
+   "raw_affiliation_strings": [
+    "Institut Charles Gerhardt, MACS, UMR 5253 CNRS-ENSCM-UM1-UM2, 8, rue de l'Ecole Normale, 34296 Montpellier cedex 5, France, http://www.boromat.com/dorotheeberthomieu.php"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Institut Charles Gerhardt, MACS, UMR 5253 CNRS-ENSCM-UM1-UM2, 8, rue de l'Ecole Normale, 34296 Montpellier cedex 5, France, http://www.boromat.com/dorotheeberthomieu.php",
+     "institution_ids": [
+      "https://openalex.org/I11935315",
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I4210115639"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5088198626",
+    "display_name": "Hugo Petitjean",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I11935315",
+     "display_name": "École Nationale Supérieure de Chimie de Montpellier",
+     "ror": "https://ror.org/03sgyqj04",
+     "country_code": "FR",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I11935315"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I1294671590",
+     "display_name": "Centre National de la Recherche Scientifique",
+     "ror": "https://ror.org/02feahw73",
+     "country_code": "FR",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I1294671590"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210115639",
+     "display_name": "Institut Charles Gerhardt Montpellier",
+     "ror": "https://ror.org/028wq3277",
+     "country_code": "FR",
+     "type": "facility",
+     "lineage": [
+      "https://openalex.org/I11935315",
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I19894307",
+      "https://openalex.org/I4210115639",
+      "https://openalex.org/I4210128300"
+     ]
+    }
+   ],
+   "countries": [
+    "FR"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Hugo Petitjean",
+   "raw_affiliation_strings": [
+    "Institut Charles Gerhardt, MACS, UMR 5253 CNRS-ENSCM-UM1-UM2, 8, rue de l'Ecole Normale, 34296 Montpellier cedex 5, France, http://www.boromat.com/dorotheeberthomieu.php"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Institut Charles Gerhardt, MACS, UMR 5253 CNRS-ENSCM-UM1-UM2, 8, rue de l'Ecole Normale, 34296 Montpellier cedex 5, France, http://www.boromat.com/dorotheeberthomieu.php",
+     "institution_ids": [
+      "https://openalex.org/I11935315",
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I4210115639"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5062801990",
+    "display_name": "François Dupeyrat",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I21491767",
+     "display_name": "Aix-Marseille Université",
+     "ror": "https://ror.org/035xkbk20",
+     "country_code": "FR",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I21491767"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I2738703131",
+     "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+     "ror": "https://ror.org/00jjx8s55",
+     "country_code": "FR",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I2738703131"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210110641",
+     "display_name": "CEA Cadarache",
+     "ror": "https://ror.org/01rs1gy10",
+     "country_code": "FR",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I2738703131",
+      "https://openalex.org/I4210110641"
+     ]
+    }
+   ],
+   "countries": [
+    "FR"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "François Dupeyrat",
+   "raw_affiliation_strings": [
+    "Aix-Marseille Université, 13108 Saint-Paul-lez-Durance, France",
+    "CEA, DSV, IBEB, SBVME, Laboratoire des Interactions Protéine Métal, CEA-Cadarache, 13108 Saint-Paul-lez-Durance, France, http://www-dsv.cea.fr/lipm",
+    "Centre National de la Recherche Scientifique, UMR 7265, Biologie Végétale et Microbiologie Environnementale, 13108 Saint-Paul-lez-Durance, France"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Aix-Marseille Université, 13108 Saint-Paul-lez-Durance, France",
+     "institution_ids": [
+      "https://openalex.org/I21491767"
+     ]
+    },
+    {
+     "raw_affiliation_string": "CEA, DSV, IBEB, SBVME, Laboratoire des Interactions Protéine Métal, CEA-Cadarache, 13108 Saint-Paul-lez-Durance, France, http://www-dsv.cea.fr/lipm",
+     "institution_ids": [
+      "https://openalex.org/I2738703131",
+      "https://openalex.org/I4210110641"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Centre National de la Recherche Scientifique, UMR 7265, Biologie Végétale et Microbiologie Environnementale, 13108 Saint-Paul-lez-Durance, France",
+     "institution_ids": []
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5082009226",
+    "display_name": "Jean‐Pierre Flament",
+    "orcid": "https://orcid.org/0000-0002-4935-3849"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I1294671590",
+     "display_name": "Centre National de la Recherche Scientifique",
+     "ror": "https://ror.org/02feahw73",
+     "country_code": "FR",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I1294671590"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210160651",
+     "display_name": "Laboratoire de Physique des Lasers, Atomes et Molécules",
+     "ror": "https://ror.org/04e89s906",
+     "country_code": "FR",
+     "type": "facility",
+     "lineage": [
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I2279609970",
+      "https://openalex.org/I4210098836",
+      "https://openalex.org/I4210160651"
+     ]
+    }
+   ],
+   "countries": [
+    "FR"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Jean‐Pierre Flament",
+   "raw_affiliation_strings": [
+    "Université Lille1, Laboratoire de Physique des Lasers, Atomes et Molécules (UMR, CNRS 8523) and CERLA (FR 2416 CNRS), 59655 Villeneuve d'Ascq Cedex, France"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Université Lille1, Laboratoire de Physique des Lasers, Atomes et Molécules (UMR, CNRS 8523) and CERLA (FR 2416 CNRS), 59655 Villeneuve d'Ascq Cedex, France",
+     "institution_ids": [
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I4210160651"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5028640943",
+    "display_name": "Alain Lorphelin",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I2738703131",
+     "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+     "ror": "https://ror.org/00jjx8s55",
+     "country_code": "FR",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I2738703131"
+     ]
+    }
+   ],
+   "countries": [
+    "FR"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Alain Lorphelin",
+   "raw_affiliation_strings": [
+    "CEA, DSV, iBEB, SBTN, Laboratoire d'Etude des Protéines Cibles, BP 17171, 30207 Bagnols sur Cèze Cédex, France"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "CEA, DSV, iBEB, SBTN, Laboratoire d'Etude des Protéines Cibles, BP 17171, 30207 Bagnols sur Cèze Cédex, France",
+     "institution_ids": [
+      "https://openalex.org/I2738703131"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5069038713",
+    "display_name": "Claude Vidaud",
+    "orcid": "https://orcid.org/0000-0003-0165-2732"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I2738703131",
+     "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+     "ror": "https://ror.org/00jjx8s55",
+     "country_code": "FR",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I2738703131"
+     ]
+    }
+   ],
+   "countries": [
+    "FR"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Claude Vidaud",
+   "raw_affiliation_strings": [
+    "CEA, DSV, iBEB, SBTN, Laboratoire d'Etude des Protéines Cibles, BP 17171, 30207 Bagnols sur Cèze Cédex, France"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "CEA, DSV, iBEB, SBTN, Laboratoire d'Etude des Protéines Cibles, BP 17171, 30207 Bagnols sur Cèze Cédex, France",
+     "institution_ids": [
+      "https://openalex.org/I2738703131"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5076517704",
+    "display_name": "Catherine Berthomieu",
+    "orcid": "https://orcid.org/0000-0001-8784-5396"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I11935315",
+     "display_name": "École Nationale Supérieure de Chimie de Montpellier",
+     "ror": "https://ror.org/03sgyqj04",
+     "country_code": "FR",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I11935315"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I1294671590",
+     "display_name": "Centre National de la Recherche Scientifique",
+     "ror": "https://ror.org/02feahw73",
+     "country_code": "FR",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I1294671590"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I21491767",
+     "display_name": "Aix-Marseille Université",
+     "ror": "https://ror.org/035xkbk20",
+     "country_code": "FR",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I21491767"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I2738703131",
+     "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+     "ror": "https://ror.org/00jjx8s55",
+     "country_code": "FR",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I2738703131"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210110641",
+     "display_name": "CEA Cadarache",
+     "ror": "https://ror.org/01rs1gy10",
+     "country_code": "FR",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I2738703131",
+      "https://openalex.org/I4210110641"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210115639",
+     "display_name": "Institut Charles Gerhardt Montpellier",
+     "ror": "https://ror.org/028wq3277",
+     "country_code": "FR",
+     "type": "facility",
+     "lineage": [
+      "https://openalex.org/I11935315",
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I19894307",
+      "https://openalex.org/I4210115639",
+      "https://openalex.org/I4210128300"
+     ]
+    }
+   ],
+   "countries": [
+    "FR"
+   ],
+   "is_corresponding": true,
+   "raw_author_name": "Catherine Berthomieu",
+   "raw_affiliation_strings": [
+    "Aix-Marseille Université, 13108 Saint-Paul-lez-Durance, France",
+    "CEA, DSV, IBEB, SBVME, Laboratoire des Interactions Protéine Métal, CEA-Cadarache, 13108 Saint-Paul-lez-Durance, France, http://www-dsv.cea.fr/lipm",
+    "Catherine Berthomieu, CEA, DSV, IBEB, SBVME, Laboratoire des Interactions Protéine Métal, CEA-Cadarache, 13108 Saint-Paul-lez-Durance, France",
+    "Centre National de la Recherche Scientifique, UMR 7265, Biologie Végétale et Microbiologie Environnementale, 13108 Saint-Paul-lez-Durance, France",
+    "Dorothée Berthomieu, Institut Charles Gerhardt, MACS, UMR 5253 CNRS-ENSCM-UM1-UM2, 8, rue de l'Ecole Normale, 34296 Montpellier cedex 5, France"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Aix-Marseille Université, 13108 Saint-Paul-lez-Durance, France",
+     "institution_ids": [
+      "https://openalex.org/I21491767"
+     ]
+    },
+    {
+     "raw_affiliation_string": "CEA, DSV, IBEB, SBVME, Laboratoire des Interactions Protéine Métal, CEA-Cadarache, 13108 Saint-Paul-lez-Durance, France, http://www-dsv.cea.fr/lipm",
+     "institution_ids": [
+      "https://openalex.org/I2738703131",
+      "https://openalex.org/I4210110641"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Catherine Berthomieu, CEA, DSV, IBEB, SBVME, Laboratoire des Interactions Protéine Métal, CEA-Cadarache, 13108 Saint-Paul-lez-Durance, France",
+     "institution_ids": [
+      "https://openalex.org/I2738703131",
+      "https://openalex.org/I4210110641"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Centre National de la Recherche Scientifique, UMR 7265, Biologie Végétale et Microbiologie Environnementale, 13108 Saint-Paul-lez-Durance, France",
+     "institution_ids": []
+    },
+    {
+     "raw_affiliation_string": "Dorothée Berthomieu, Institut Charles Gerhardt, MACS, UMR 5253 CNRS-ENSCM-UM1-UM2, 8, rue de l'Ecole Normale, 34296 Montpellier cedex 5, France",
+     "institution_ids": [
+      "https://openalex.org/I11935315",
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I4210115639"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "last",
+   "author": {
+    "id": "https://openalex.org/A5041485767",
+    "display_name": "Dorothée Berthomieu",
+    "orcid": "https://orcid.org/0000-0002-3818-105X"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I11935315",
+     "display_name": "École Nationale Supérieure de Chimie de Montpellier",
+     "ror": "https://ror.org/03sgyqj04",
+     "country_code": "FR",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I11935315"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I1294671590",
+     "display_name": "Centre National de la Recherche Scientifique",
+     "ror": "https://ror.org/02feahw73",
+     "country_code": "FR",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I1294671590"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I2738703131",
+     "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+     "ror": "https://ror.org/00jjx8s55",
+     "country_code": "FR",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I2738703131"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210110641",
+     "display_name": "CEA Cadarache",
+     "ror": "https://ror.org/01rs1gy10",
+     "country_code": "FR",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I2738703131",
+      "https://openalex.org/I4210110641"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210115639",
+     "display_name": "Institut Charles Gerhardt Montpellier",
+     "ror": "https://ror.org/028wq3277",
+     "country_code": "FR",
+     "type": "facility",
+     "lineage": [
+      "https://openalex.org/I11935315",
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I19894307",
+      "https://openalex.org/I4210115639",
+      "https://openalex.org/I4210128300"
+     ]
+    }
+   ],
+   "countries": [
+    "FR"
+   ],
+   "is_corresponding": true,
+   "raw_author_name": "Dorothée Berthomieu",
+   "raw_affiliation_strings": [
+    "Catherine Berthomieu, CEA, DSV, IBEB, SBVME, Laboratoire des Interactions Protéine Métal, CEA-Cadarache, 13108 Saint-Paul-lez-Durance, France",
+    "Dorothée Berthomieu, Institut Charles Gerhardt, MACS, UMR 5253 CNRS-ENSCM-UM1-UM2, 8, rue de l'Ecole Normale, 34296 Montpellier cedex 5, France",
+    "Institut Charles Gerhardt, MACS, UMR 5253 CNRS-ENSCM-UM1-UM2, 8, rue de l'Ecole Normale, 34296 Montpellier cedex 5, France, http://www.boromat.com/dorotheeberthomieu.php"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Catherine Berthomieu, CEA, DSV, IBEB, SBVME, Laboratoire des Interactions Protéine Métal, CEA-Cadarache, 13108 Saint-Paul-lez-Durance, France",
+     "institution_ids": [
+      "https://openalex.org/I2738703131",
+      "https://openalex.org/I4210110641"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Dorothée Berthomieu, Institut Charles Gerhardt, MACS, UMR 5253 CNRS-ENSCM-UM1-UM2, 8, rue de l'Ecole Normale, 34296 Montpellier cedex 5, France",
+     "institution_ids": [
+      "https://openalex.org/I11935315",
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I4210115639"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Institut Charles Gerhardt, MACS, UMR 5253 CNRS-ENSCM-UM1-UM2, 8, rue de l'Ecole Normale, 34296 Montpellier cedex 5, France, http://www.boromat.com/dorotheeberthomieu.php",
+     "institution_ids": [
+      "https://openalex.org/I11935315",
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I4210115639"
+     ]
+    }
+   ]
+  }
+ ],
+ "biblio": {
+  "volume": "2014",
+  "issue": "27",
+  "first_page": "4650",
+  "last_page": "4659"
+ },
+ "ids": {
+  "openalex": "https://openalex.org/W1575610855",
+  "doi": "https://doi.org/10.1002/ejic.201402263",
+  "mag": "1575610855"
+ },
+ "is_retracted": false,
+ "counts_by_year": [
+  {
+   "year": 2025,
+   "cited_by_count": 1
+  },
+  {
+   "year": 2023,
+   "cited_by_count": 2
+  },
+  {
+   "year": 2022,
+   "cited_by_count": 5
+  },
+  {
+   "year": 2020,
+   "cited_by_count": 1
+  },
+  {
+   "year": 2018,
+   "cited_by_count": 1
+  },
+  {
+   "year": 2016,
+   "cited_by_count": 1
+  }
+ ],
+ "primary_location": {
+  "id": "doi:10.1002/ejic.201402263",
+  "is_oa": false,
+  "landing_page_url": "https://doi.org/10.1002/ejic.201402263",
+  "pdf_url": null,
+  "source": {
+   "id": "https://openalex.org/S16435181",
+   "display_name": "European Journal of Inorganic Chemistry",
+   "issn_l": "1099-0682",
+   "issn": [
+    "1099-0682",
+    "1434-1948"
+   ],
+   "is_oa": false,
+   "is_in_doaj": false,
+   "is_core": true,
+   "host_organization": "https://openalex.org/P4310320595",
+   "host_organization_name": "Wiley",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310320595"
+   ],
+   "host_organization_lineage_names": [
+    "Wiley"
+   ],
+   "type": "journal"
+  },
+  "license": null,
+  "license_id": null,
+  "version": "publishedVersion",
+  "is_accepted": true,
+  "is_published": true,
+  "raw_source_name": "European Journal of Inorganic Chemistry",
+  "raw_type": "journal-article"
+ },
+ "language": "en",
+ "fwci": 0.1311,
+ "abstract": "Abstract Vibrational spectroscopy gives important information on the properties of ligand and metal–ligand bonds in metalloenzymes. Infrared spectroscopy is appealing for the study of metal active sites that are not amenable to Raman spectroscopy. We present a combined experimental and theoretical approach to analyze the mid‐ and far‐IR spectra of Cu,Zn‐superoxide dismutase (Cu,Zn‐SOD) as a probe of the histidine ligands. This metalloenzyme provides a unique model to identify specific IR signatures of metal–histidine coordination and to study their alterations as a function of the metal (copper/zinc), the copper valence state (+I/+II), the histidine coordination mode (Nτ and Nπ) and the histidine protonation state. DFT calculations combined with normal mode descriptions from potential energy distribution calculations were performed on two slightly different cluster models. Differences in the constraints at the side chain of one histidine Cu ligand sensibly modify the geometric parameters and vibrational properties. Electrochemically induced FTIR difference spectroscopy provided mid‐ and far‐IR fingerprint spectra of the Cu protein in aqueous media that are sensitive to the redox state of the Cu centre at the active site. Comparisons of the DFT predictions with the experimental IR modes of the histidine ligands at the Cu,Zn‐SOD active site showed that useful mid‐IR markers of histidine Nτ and Nπ coordination were predicted with good accuracy. The DFT analysis further demonstrated a link between the ν(C4–C5) mode frequency of His46 and the specific properties of the His46–Cu bond in Cu,Zn‐SOD. A combined theoretical and experimental approach on samples in H2O and 2H2O or 15N‐labelled samples identified the contributions from the histidine side chain modes in the 669–629 cm–1 region."
+}

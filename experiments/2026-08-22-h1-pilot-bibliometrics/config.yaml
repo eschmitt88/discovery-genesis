@@ -1,0 +1,14 @@
+# Inputs, hyperparameters, seeds for this experiment.
+sample_file: data/samples/pilot.json
+sample_seed: 1124470055840796258
+n_pairs_dev: 15
+n_pairs_heldout: 5          # test/samples/pilot-heldout.json — not read here
+years: [2010, 2019]
+case_band: [0.0, 0.01]      # citation rank fraction within topic-year pool
+twin_band: [0.40, 0.60]
+min_pool: 500
+case_min_cites: 20
+min_refs: 5
+domains: [Physical Sciences, Life Sciences, Health Sciences]
+max_citers: 3000
+test: wilcoxon signed-rank on paired differences (case - twin), two-sided
