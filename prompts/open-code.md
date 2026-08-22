@@ -18,7 +18,7 @@ id: <OpenAlex id>
 codebook: v0-open
 coder: <your model name>
 recognised: <no | yes — what you recall, one line>
-evidence: <full-text | abstract-only | abstract+contexts>
+evidence: <full-text | abstract+contexts | abstract-only | title+refs-only | tldr-only>
 is_primary: <yes | no — review / guideline / perspective / survey | partial — e.g. methods paper, dataset, framework>
 problem: "<one sentence: what was open or unsatisfactory before this paper>"
 problem_age: "<new (<3 y) | established (3–15 y) | old (>15 y) | n/a>"
@@ -54,6 +54,17 @@ ambiguity between two labels, a field-specific pattern.
 
 Rules
 - Code from the dossier only. No web search, no recall of the paper's later reception.
+- Some dossiers have no authors' abstract. If the Abstract section is labelled a
+  machine-generated summary, set `evidence: tldr-only` and lower
+  `genesis_confidence` accordingly; if there is no abstract at all, use
+  `title+refs-only`. A reference list plus citation intents still supports a
+  defensible `problem` and `ingredients`; it rarely supports a confident
+  `genesis_model` — say so rather than guessing.
+- `is_primary`: institutional surveillance or trend reports (MMWR, ESPAD) and
+  essays/commentaries are `no — <kind>`; code them as accretion unless the
+  dossier shows otherwise.
+- `move_candidates`: list up to 3, **most central first**. Co-listing
+  "transfer, gap-filling" is expected and fine.
 - Code the *contribution*, not the topic: "applied X to Y" is a move only if
   the paper does it; a paper that cites foreign-field work decoratively has not transferred.
 - `genesis_model` decision guide:

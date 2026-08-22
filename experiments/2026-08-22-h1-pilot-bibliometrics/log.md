@@ -45,3 +45,20 @@
   full text now resolves PMCID via Europe PMC search (OpenAlex often lacks it)
   and falls back to a browser-UA PDF fetch. Publisher PDF hosts (Hindawi, Cell,
   Elsevier) return 403 regardless, so Europe PMC is the main text route.
+- 2026-08-22 20:20 coder A finished 14 pilot-B cards (blind). Reported defect:
+  6/14 dossiers had **no abstract at all** — OpenAlex omits abstracts for ~28 %
+  of works (18/65 bundles here), which is a publisher-policy gap, not a bug in
+  the fetch. Fix: `genesis.fetch` now resolves a missing abstract through
+  Semantic Scholar → Europe PMC → Crossref, and only as a last resort stores
+  Semantic Scholar's machine-written TLDR, flagged `generated: true`; the
+  dossier labels it explicitly so a coder never sees a model summary presented
+  as the authors' words. `evidence` gains `title+refs-only` and `tldr-only`
+  tiers.
+- Coder A's first read (14 papers, blind, v0 codebook): idea-first 2, means-first
+  4, problem-first 3, accretion 5. Unused v0 move labels: scale, simplification,
+  inversion, and `resource` (used only as an *enabler*, never as a move) —
+  candidate cuts for v1. No label had to be invented.
+- Schema friction reported: `problem_age` is single-valued but papers often have
+  an old broad problem and a recent narrow one; `role` has no slot for a
+  formalism/substrate (RDF); problem-first's "≤3 y ingredient" rule fits
+  resource-repurposing (secondary analysis of a 5-year-old trial) badly.

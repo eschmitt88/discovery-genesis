@@ -42,7 +42,16 @@ def build(w: str, with_citers: bool, max_chars: int) -> str:
          f"- primary topic: {pt.get('display_name')}  [{(pt.get('subfield') or {}).get('display_name')} / {(pt.get('field') or {}).get('display_name')}]",
          f"- all topics: {', '.join(t.get('display_name') for t in (work.get('topics') or []))}",
          f"- references: {work.get('referenced_works_count')}", ""]
-    L += ["## Abstract", "", work.get("abstract") or "(no abstract in OpenAlex)", ""]
+    ab, ab_note = work.get("abstract"), ""
+    ab_p = d / "abstract.json"
+    if not ab and ab_p.exists():
+        rec = json.load(ab_p.open())
+        ab = rec["text"]
+        ab_note = (" — **machine-generated summary (Semantic Scholar TLDR), not the authors' abstract**"
+                   if rec.get("generated") else f" (via {rec['source']})")
+    L += [f"## Abstract{ab_note}", "",
+          ab or "(no abstract available from OpenAlex, Semantic Scholar, Europe PMC or Crossref — "
+                "code from the title, reference list and citation contexts)", ""]
 
     # S2 intents keyed by DOI or title
     intents = {}

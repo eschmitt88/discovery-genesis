@@ -194,6 +194,44 @@ def pdf_candidates(work: dict) -> list[str]:
     return urls
 
 
+CROSSREF = "https://api.crossref.org/works/"
+
+
+def fetch_abstract(work: dict) -> dict | None:
+    """OpenAlex lacks an abstract for ~28 % of works (publisher policy). Try, in
+    order: Semantic Scholar, Europe PMC, Crossref, and finally Semantic Scholar's
+    machine-written TLDR — which is recorded with `generated: true` so a coder is
+    never shown a model summary as if it were the authors' own words."""
+    doi = (work.get("doi") or "").replace("https://doi.org/", "")
+    if not doi:
+        return None
+    r = s2_get(f"{S2}/DOI:{urllib.parse.quote(doi)}?fields=abstract,tldr")
+    if r and r.get("abstract"):
+        return {"text": r["abstract"], "source": "semanticscholar", "generated": False}
+    tldr = ((r or {}).get("tldr") or {}).get("text")
+    for q in (f"DOI:{doi}", f"EXT_ID:{((work.get('ids') or {}).get('pmid') or '').rsplit('/', 1)[-1]} AND SRC:MED"):
+        if q.startswith("EXT_ID: "):
+            continue
+        try:
+            e = get(f"{EPMC}search?query={urllib.parse.quote(q)}&format=json&resultType=core", timeout=40, retries=2)
+        except Exception:                      # noqa: BLE001
+            e = None
+        for hit in ((e or {}).get("resultList") or {}).get("result") or []:
+            if hit.get("abstractText"):
+                return {"text": hit["abstractText"], "source": "europepmc", "generated": False}
+    try:
+        c = get(CROSSREF + urllib.parse.quote(doi), timeout=40, retries=2)
+    except Exception:                          # noqa: BLE001
+        c = None
+    ab = ((c or {}).get("message") or {}).get("abstract")
+    if ab:
+        ab = re.sub(r"<[^>]+>", " ", ab)
+        return {"text": " ".join(ab.split()), "source": "crossref", "generated": False}
+    if tldr:
+        return {"text": tldr, "source": "semanticscholar-tldr", "generated": True}
+    return None
+
+
 BROWSER_UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
               "Chrome/126.0 Safari/537.36")
 EPMC = "https://www.ebi.ac.uk/europepmc/webservices/rest/"
@@ -277,6 +315,13 @@ def bundle(w: str, max_citers: int, want_text: bool, log=print, retry_text: bool
         status["n_citers_fetched"] = len(citers)
         status["citers_capped"] = len(citers) >= max_citers
         status["citer_window_years"] = CITER_WINDOW
+
+    ab_p = d / "abstract.json"
+    if not work.get("abstract") and not ab_p.exists() and "abstract" not in status:
+        ab = fetch_abstract(work)
+        status["abstract"] = ab["source"] if ab else "missing"
+        if ab:
+            write_once(ab_p, ab)
 
     s2_p = d / "s2.json"
     s2_thin = s2_p.exists() and not (json.load(s2_p.open()).get("references") or [])
