@@ -213,6 +213,13 @@ in H6. Human rating on a subset calibrates the judge.
   Hindsight contaminates coding as much as it contaminates introductions.
   Mitigation: code from the paper's text and *prior* references only; the
   card's `evidence` field is audited.
+- H4 may fail for a reason the reference list cannot show: Tahamtan &
+  Bornmann (2018) interviewed authors of landmark papers and found ideas
+  traced more often to practical problems and colleague conversations
+  than to cited literature. If so, "ingredients" must admit an
+  *uncited-social* category, and the twin contrast may live outside the
+  bibliographic record entirely. The `external_story` field is the only
+  window onto this; its hit rate is itself a pilot outcome.
 - The CD/disruption index is contested as of 2026 (Holst/Ginis et al. vs
   Park/Leahey/Funk in *Nature*: much of the reported decline may be a
   zero-reference-works and plotting artefact). Decide and document raw
