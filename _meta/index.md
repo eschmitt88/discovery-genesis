@@ -18,4 +18,9 @@ and `/new-experiment`.
 
 ## Open questions
 
-(anything you want to return to)
+- Is the paper the right unit, or the paper-plus-lineage? (pilot check)
+- Do consolidating papers dominate the p99 impact sample? If so, add
+  disruption as a second sampling axis.
+- How much full text is reachable? Smoke draw: 1/5 cases OA.
+- Memorisation control for the retrodiction test: recall-probe exclusion vs
+  post-cutoff papers (MOOSE-Chem style).

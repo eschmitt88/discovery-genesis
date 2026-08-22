@@ -1,9 +1,10 @@
 # discovery-genesis
 
-**One-line description of what this project investigates.** _(Fill in when the
-project stops being exploratory — this line is the repo's tagline on GitHub.)_
+**How discoveries are made: what impactful papers did to their prior art, coded
+from random field-stratified samples with matched controls, distilled into a
+Claude Code skill.**
 
-📂 **[Browse this repo →](https://<owner>.github.io/discovery-genesis/)** —
+📂 **[Browse this repo →](https://eschmitt88.github.io/discovery-genesis/)** —
 interactive, always-live view of experiments, concepts, literature, and maps of
 content. Served via GitHub Pages from `docs/index.html`; reads the live file
 tree, no build step. _(Link is live once the repo is public and Pages is enabled
@@ -11,8 +12,19 @@ tree, no build step. _(Link is live once the repo is public and Pages is enabled
 
 ## What this is
 
-A paragraph on the question, the data, and what success looks like. Keep it
-oriented at a visitor who has never seen the repo.
+Take an impactful paper. Behind it is a set of things that already existed —
+its references, the state of its subfield, the tools available that year.
+The paper did *something* to that prior art. What, and is it learnable as a
+procedure? This project samples top-1 %-in-their-subfield STEM papers at
+random across fields (OpenAlex, via the
+[`llm-cross-pollination`](https://github.com/eschmitt88/llm-cross-pollination)
+sampler), pairs each with a median-impact twin from the same topic and year,
+and codes each pair: the **move** made on the prior art, the **enabler**, and
+which **genesis model** fits — idea-first, means-first, problem-first, or
+accretion. The "novel idea" step is a hypothesis under test, not an
+assumption. Success is a `SKILL.md` that, shown only a paper's prior art,
+proposes contributions closer to the real one than a no-skill baseline.
+Plan and hypotheses: `docs/research-plan.md`.
 
 ## How it's organized
 
