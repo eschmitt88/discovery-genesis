@@ -104,3 +104,20 @@
   rather than 0 when citers are absent. H1's primary signals (reference recency,
   hotness, cross-field share) do not depend on citers, so the analysis is not
   blocked by the cooldown.
+- 2026-08-22 21:45 **H4 first look**, from the 28 blind cards (117 ingredients
+  parsed, all 28 cards usable):
+  - `cited` 105 · `uncited-existing` 11 · `new-here` **1**.
+  - 90 % of the components a contribution depends on were already in its own
+    reference list; **19 of 28 cards have *every* ingredient cited**.
+  - Case vs twin: 52/60 cited vs 53/57 cited. Ingredient provenance is
+    **identical across roles** — H4 looks broadly true and is *not* a
+    discriminator between impactful and ordinary work.
+  - Ingredient roles: theory 48, method 40, data 11, instrument 8, result 7.
+  **Caveat that limits this**: coders were handed the reference list and asked
+  to name ingredients, which anchors hard toward citing what is visible. The v0
+  prompt also lacked the `uncited-social` status (added in codebook v1 after
+  Tahamtan & Bornmann), so a conversation- or practice-derived ingredient had no
+  slot to be recorded in. Read this as "the reference list is *sufficient* to
+  reconstruct a plausible ingredient set in 90 % of cases", not as "the ideas
+  came from the references". Distinguishing those needs the `external_story`
+  field and full text, which this batch mostly lacked.
