@@ -1,6 +1,11 @@
 # Inputs, hyperparameters, seeds for this experiment.
-sample_file: data/samples/pilot.json
-sample_seed: 1124470055840796258
+# pilot A (all article types) — kept as the measurement of the raw top 1 %
+sample_file_A: data/samples/pilot.json
+sample_seed_A: 1124470055840796258
+# pilot B (primary research only) — the H1 test proper
+sample_file: data/samples/pilotB.json
+sample_seed: 2419655738578421181
+primary_only: true
 n_pairs_dev: 15
 n_pairs_heldout: 5          # test/samples/pilot-heldout.json — not read here
 years: [2010, 2019]

@@ -39,8 +39,9 @@ not yet built).
 
 - Config: `config.yaml` (sample seed, bands, pool floor)
 - Code: `genesis/sample.py` → `genesis/fetch.py` → `genesis/features.py` → `analyze.py` (this folder)
-- Data: `data/samples/pilot.json` (15 dev pairs) → `raw/cases/<W-id>/` (DVC) →
-  `data/features/pilot.csv`. The 5 held-out pairs in `test/samples/` are
+- Data: pilot A `data/samples/pilot.json` (all article types; 15 dev pairs) and
+  pilot B `data/samples/pilotB.json` (primary research only; 15 dev pairs) →
+  `raw/cases/<W-id>/` (DVC) → `data/features/pilot{,B}.csv`. The 5 held-out pairs in `test/samples/` are
   fetched by the same mechanical stage but **never** featurised or read here.
 
 ## Result

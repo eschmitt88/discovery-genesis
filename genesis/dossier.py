@@ -47,7 +47,7 @@ def build(w: str, with_citers: bool, max_chars: int) -> str:
     # S2 intents keyed by DOI or title
     intents = {}
     if s2:
-        for r in s2.get("references", []):
+        for r in (s2.get("references") or []):
             cp = r.get("citedPaper") or {}
             key = ((cp.get("externalIds") or {}).get("DOI") or "").lower() or (cp.get("title") or "").lower()
             if key:
@@ -66,7 +66,7 @@ def build(w: str, with_citers: bool, max_chars: int) -> str:
         for c in it.get("contexts", [])[:2]:
             L.append(f"    > {c.strip()[:300]}")
     L.append("")
-    if with_citers and s2 and s2.get("citations"):
+    if with_citers and s2 and (s2.get("citations") or []):
         L += ["## How later papers cite this one (Semantic Scholar contexts; sample)", ""]
         n = 0
         for c in s2["citations"]:

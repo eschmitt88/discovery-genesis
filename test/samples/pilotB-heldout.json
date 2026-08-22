@@ -1,0 +1,526 @@
+{
+ "kind": "sample",
+ "date": "2026-08-22",
+ "seed": 2419655738578421181,
+ "xpol_record": {
+  "seed": 2419655738578421181,
+  "level": "topic",
+  "k": 60,
+  "stratify": "domain",
+  "population": 4516,
+  "band": null,
+  "exclude_home": true,
+  "eligible": 4516
+ },
+ "params": {
+  "years": [
+   2010,
+   2019
+  ],
+  "case_band": [
+   0.0,
+   0.010000000000000009
+  ],
+  "twin_band": [
+   0.4,
+   0.6
+  ],
+  "min_refs": 5,
+  "min_pool": 500,
+  "case_min_cites": 20,
+  "ranking": "own cited_by_count rank within primary_topic × year × type:article",
+  "primary_only": true,
+  "review_filter": "title/abstract/venue regex + openalex type (genesis.sample.classify)",
+  "domains": [
+   "Physical Sciences",
+   "Life Sciences",
+   "Health Sciences"
+  ],
+  "type": "article"
+ },
+ "n_pairs": 5,
+ "skipped_topics": [
+  "Adolescent and Pediatric Healthcare",
+  "Advanced Scientific Techniques and Applications",
+  "Cognitive Science and Education Research",
+  "Medical Coding and Health Information",
+  "Sesame and Sesamin Research",
+  "Electrical and Thermal Properties of Materials",
+  "Medicinal Plants and Bioactive Compounds",
+  "Forest Ecology and Biodiversity Studies",
+  "Surface Treatment and Coatings",
+  "Point processes and geometric inequalities",
+  "Agricultural Practices and Plant Genetics",
+  "Nanotechnology research and applications",
+  "Otitis Media and Relapsing Polychondritis",
+  "Polymer Nanocomposite Synthesis and Irradiation"
+ ],
+ "pairs": [
+  {
+   "topic": "Turtle Biology and Conservation",
+   "topic_id": "T11656",
+   "path": "Physical Sciences > Environmental Science > Nature and Landscape Conservation > Turtle Biology and Conservation",
+   "domain": "Physical Sciences",
+   "year": 2019,
+   "pool": 604,
+   "ranks": {
+    "case": 0,
+    "twin": 280,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     241,
+     361
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 6,
+     "n_review": 2,
+     "review_share": 0.333,
+     "reviews": [
+      {
+       "rank": 1,
+       "title": "Drones for research on sea turtles and other marine vertebrates – A review",
+       "why": "title:review"
+      },
+      {
+       "rank": 2,
+       "title": "Conservation implications of sea turtle nesting trends: elusive recovery of a gl",
+       "why": "title:trends"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 121,
+     "n_review": 4,
+     "review_share": 0.033
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2921203145",
+    "doi": "https://doi.org/10.1038/s41598-019-40597-4",
+    "title": "Extreme thermal fluctuations from climate change unexpectedly accelerate demographic collapse of vertebrates with temperature-dependent sex determination",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 122,
+    "pct": 0.99566991,
+    "n_refs": 50,
+    "n_authors": 7,
+    "topic_id": "T11656",
+    "topic": "Turtle Biology and Conservation",
+    "topic_score": 0.9994999766349792,
+    "field": "Environmental Science",
+    "domain": "Physical Sciences",
+    "oa_url": "https://www.nature.com/articles/s41598-019-40597-4.pdf",
+    "is_oa": true,
+    "venue": "Scientific Reports",
+    "rank": 0,
+    "pool": 604
+   },
+   "twin": {
+    "id": "W2916666759",
+    "doi": "https://doi.org/10.1371/journal.pone.0210790",
+    "title": "The role of Virus \"X\" (Tortoise Picornavirus) in kidney disease and shell weakness syndrome in European tortoise species determined by experimental infection",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 12,
+    "pct": 0.80801099,
+    "n_refs": 18,
+    "n_authors": 5,
+    "topic_id": "T11656",
+    "topic": "Turtle Biology and Conservation",
+    "topic_score": 0.9993000030517578,
+    "field": "Environmental Science",
+    "domain": "Physical Sciences",
+    "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0210790&type=printable",
+    "is_oa": true,
+    "venue": "PLoS ONE",
+    "rank": 280,
+    "pool": 604
+   }
+  },
+  {
+   "topic": "Gastroesophageal reflux and treatments",
+   "topic_id": "T10671",
+   "path": "Health Sciences > Medicine > Gastroenterology > Gastroesophageal reflux and treatments",
+   "domain": "Health Sciences",
+   "year": 2017,
+   "pool": 1125,
+   "ranks": {
+    "case": 3,
+    "twin": 602,
+    "case_band": [
+     0,
+     10
+    ],
+    "twin_band": [
+     450,
+     674
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 11,
+     "n_review": 5,
+     "review_share": 0.455,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "The Risks and Benefits of Long-term Use of Proton Pump Inhibitors: Expert Review",
+       "why": "title:Review"
+      },
+      {
+       "rank": 5,
+       "title": "Deprescribing proton pump inhibitors: Evidence-based clinical practice guideline",
+       "why": "title:guideline"
+      },
+      {
+       "rank": 6,
+       "title": "Ambulatory reflux monitoring for diagnosis of gastro‐esophageal reflux disease: ",
+       "why": "title:Update"
+      },
+      {
+       "rank": 8,
+       "title": "World Gastroenterology Organisation Global Guidelines",
+       "why": "title:Guidelines"
+      },
+      {
+       "rank": 10,
+       "title": "Adverse effects of proton-pump inhibitor use in older adults: a review of the ev",
+       "why": "title:review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 225,
+     "n_review": 27,
+     "review_share": 0.12
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2763032770",
+    "doi": "https://doi.org/10.1053/j.gastro.2017.09.047",
+    "title": "Pathophysiology of Gastroesophageal Reflux Disease",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 420,
+    "pct": 0.99197333,
+    "n_refs": 287,
+    "n_authors": 2,
+    "topic_id": "T10671",
+    "topic": "Gastroesophageal reflux and treatments",
+    "topic_score": 1.0,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Gastroenterology",
+    "rank": 3,
+    "pool": 1125
+   },
+   "twin": {
+    "id": "W2756183321",
+    "doi": "https://doi.org/10.1007/s10620-017-4743-3",
+    "title": "Dexlansoprazole for Heartburn Relief in Adolescents with Symptomatic, Nonerosive Gastro-esophageal Reflux Disease",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 9,
+    "pct": 0.62188195,
+    "n_refs": 53,
+    "n_authors": 6,
+    "topic_id": "T10671",
+    "topic": "Gastroesophageal reflux and treatments",
+    "topic_score": 0.9940000176429749,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10620-017-4743-3.pdf",
+    "is_oa": true,
+    "venue": "Digestive Diseases and Sciences",
+    "rank": 602,
+    "pool": 1125
+   }
+  },
+  {
+   "topic": "Bee Products Chemical Analysis",
+   "topic_id": "T11386",
+   "path": "Life Sciences > Agricultural and Biological Sciences > Insect Science > Bee Products Chemical Analysis",
+   "domain": "Life Sciences",
+   "year": 2014,
+   "pool": 947,
+   "ranks": {
+    "case": 7,
+    "twin": 469,
+    "case_band": [
+     0,
+     8
+    ],
+    "twin_band": [
+     378,
+     567
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 9,
+     "n_review": 5,
+     "review_share": 0.556,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Recent Advances in the Chemical Composition of Propolis",
+       "why": "title:Advances"
+      },
+      {
+       "rank": 1,
+       "title": "Traditional Therapies for Skin Wound Healing",
+       "why": "abstract:recent advances in"
+      },
+      {
+       "rank": 3,
+       "title": "Caffeic acid: a review of its potential use in medications and cosmetics",
+       "why": "title:review"
+      },
+      {
+       "rank": 4,
+       "title": "Review of natural products with hepatoprotective effects",
+       "why": "title:Review"
+      },
+      {
+       "rank": 5,
+       "title": "Propolis volatile compounds: chemical diversity and biological activity: a revie",
+       "why": "title:review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 190,
+     "n_review": 10,
+     "review_share": 0.053
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2074719502",
+    "doi": "https://doi.org/10.1016/j.arabjc.2014.08.011",
+    "title": "Physicochemical and bioactive properties of six honey samples from various floral origins from Tunisia",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 259,
+    "pct": 0.9534052,
+    "n_refs": 47,
+    "n_authors": 7,
+    "topic_id": "T11386",
+    "topic": "Bee Products Chemical Analysis",
+    "topic_score": 1.0,
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences",
+    "oa_url": "https://doi.org/10.1016/j.arabjc.2014.08.011",
+    "is_oa": true,
+    "venue": "Arabian Journal of Chemistry",
+    "rank": 7,
+    "pool": 947
+   },
+   "twin": {
+    "id": "W1976552375",
+    "doi": "https://doi.org/10.1515/chem-2015-0019",
+    "title": "Chemical profile and antimicrobial activity of extractable compounds of Betula litwinowii (Betulaceae) buds",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 15,
+    "pct": 0.80929909,
+    "n_refs": 18,
+    "n_authors": 4,
+    "topic_id": "T11386",
+    "topic": "Bee Products Chemical Analysis",
+    "topic_score": 0.9991000294685364,
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.degruyter.com/document/doi/10.1515/chem-2015-0019/pdf",
+    "is_oa": true,
+    "venue": "Open Chemistry",
+    "rank": 469,
+    "pool": 947
+   }
+  },
+  {
+   "topic": "Medicinal Plants and Neuroprotection",
+   "topic_id": "T12891",
+   "path": "Health Sciences > Medicine > Complementary and alternative medicine > Medicinal Plants and Neuroprotection",
+   "domain": "Health Sciences",
+   "year": 2019,
+   "pool": 516,
+   "ranks": {
+    "case": 0,
+    "twin": 243,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     206,
+     308
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 2,
+     "review_share": 0.4,
+     "reviews": [
+      {
+       "rank": 1,
+       "title": "The Roles of Flavonols/Flavonoids in Neurodegeneration and Neuroinflammation",
+       "why": "abstract:In this review"
+      },
+      {
+       "rank": 3,
+       "title": "Advances in nanomaterials as novel elicitors of pharmacologically active plant s",
+       "why": "title:Advances"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 103,
+     "n_review": 11,
+     "review_share": 0.107
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2945354756",
+    "doi": "https://doi.org/10.1039/c9ra01659g",
+    "title": "Biogenesis of ZnO nanoparticles using Pandanus odorifer leaf extract: anticancer and antimicrobial activities",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 245,
+    "pct": 0.99893054,
+    "n_refs": 71,
+    "n_authors": 9,
+    "topic_id": "T12891",
+    "topic": "Medicinal Plants and Neuroprotection",
+    "topic_score": 0.9941999912261963,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://doi.org/10.1039/c9ra01659g",
+    "is_oa": true,
+    "venue": "RSC Advances",
+    "rank": 0,
+    "pool": 516
+   },
+   "twin": {
+    "id": "W2969293515",
+    "doi": "https://doi.org/10.22438/jeb/40/4(si)/jeb_11",
+    "title": "Phytoremediation potential of Bacopa monnieri in the removal of heavy metals",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 10,
+    "pct": 0.80365044,
+    "n_refs": 20,
+    "n_authors": 3,
+    "topic_id": "T12891",
+    "topic": "Medicinal Plants and Neuroprotection",
+    "topic_score": 0.9988999962806702,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://doi.org/10.22438/jeb/40/4(si)/jeb_11",
+    "is_oa": true,
+    "venue": "Journal of Environmental Biology",
+    "rank": 243,
+    "pool": 516
+   }
+  },
+  {
+   "topic": "Bioenergy crop production and management",
+   "topic_id": "T12003",
+   "path": "Life Sciences > Agricultural and Biological Sciences > Agronomy and Crop Science > Bioenergy crop production and management",
+   "domain": "Life Sciences",
+   "year": 2018,
+   "pool": 545,
+   "ranks": {
+    "case": 2,
+    "twin": 258,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     218,
+     326
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 2,
+     "review_share": 0.4,
+     "reviews": [
+      {
+       "rank": 1,
+       "title": "Crop residue harvest for bioenergy production and its implications on soil funct",
+       "why": "title:review"
+      },
+      {
+       "rank": 3,
+       "title": "Breeding progress and preparedness for mass‐scale deployment of perennial lignoc",
+       "why": "title:progress"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 109,
+     "n_review": 3,
+     "review_share": 0.028
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2896618349",
+    "doi": "https://doi.org/10.1038/s41564-018-0225-4",
+    "title": "Interspecies cross-feeding orchestrates carbon degradation in the rumen ecosystem",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 218,
+    "pct": 0.99891293,
+    "n_refs": 72,
+    "n_authors": 17,
+    "topic_id": "T12003",
+    "topic": "Bioenergy crop production and management",
+    "topic_score": 0.9864000082015991,
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.nature.com/articles/s41564-018-0225-4.pdf",
+    "is_oa": true,
+    "venue": "Nature Microbiology",
+    "rank": 2,
+    "pool": 545
+   },
+   "twin": {
+    "id": "W2903628075",
+    "doi": "https://doi.org/10.1371/journal.pone.0208591",
+    "title": "Transgenerational effects in asexually reproduced offspring of Populus",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 14,
+    "pct": 0.89150016,
+    "n_refs": 65,
+    "n_authors": 6,
+    "topic_id": "T12003",
+    "topic": "Bioenergy crop production and management",
+    "topic_score": 0.9930999875068665,
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences",
+    "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0208591&type=printable",
+    "is_oa": true,
+    "venue": "PLoS ONE",
+    "rank": 258,
+    "pool": 545
+   }
+  }
+ ],
+ "split": "test"
+}

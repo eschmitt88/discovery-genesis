@@ -19,6 +19,7 @@ codebook: v0-open
 coder: <your model name>
 recognised: <no | yes — what you recall, one line>
 evidence: <full-text | abstract-only | abstract+contexts>
+is_primary: <yes | no — review / guideline / perspective / survey | partial — e.g. methods paper, dataset, framework>
 problem: "<one sentence: what was open or unsatisfactory before this paper>"
 problem_age: "<new (<3 y) | established (3–15 y) | old (>15 y) | n/a>"
 ingredients:
