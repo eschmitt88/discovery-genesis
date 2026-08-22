@@ -1,2 +1,51 @@
 30 works -> /mnt/projects/research/discovery-genesis/raw/cases
 [1/30]  W2597760097  refs=69  citers=318  s2_refs=75  text=no  0.0s
+[2/30]  W2624619100  refs=49  citers=16  s2_refs=-  text=no  13.9s
+[3/30]  W2852434548  refs=105  citers=141  s2_refs=-  text=no  18.1s
+[4/30]  W2790837578  refs=42  citers=6  s2_refs=-  text=no  12.3s
+[5/30]  W2149161770  refs=36  citers=1075  s2_refs=38  text=no  12.7s
+[6/30]  W2030763722  refs=20  citers=40  s2_refs=-  text=no  25.7s
+[7/30]  W2806550153  refs=5  citers=385  s2_refs=5  text=no  0.0s
+[8/30]  W2803000566  refs=22  citers=16  s2_refs=28  text=no  0.0s
+[9/30]  W2318832362  refs=60  citers=624  s2_refs=-  text=no  19.2s
+[10/30]  W2162382108  refs=46  citers=22  s2_refs=-  text=yes  12.1s
+[11/30]  W2600578302  refs=24  citers=185  s2_refs=-  text=no  28.0s
+[12/30]  W2744174631  refs=65  citers=6  s2_refs=-  text=no  104.1s
+[13/30]  W2078338131  refs=26  citers=3000  s2_refs=-  text=no  19.9s
+[14/30]  W2022565558  refs=19  citers=25  s2_refs=-  text=no  35.4s
+[15/30]  W2134599653  refs=25  citers=None  s2_refs=-  text=no  29.3s
+[16/30]Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/mnt/projects/research/discovery-genesis/genesis/fetch.py", line 425, in <module>
+    main()
+  File "/mnt/projects/research/discovery-genesis/genesis/fetch.py", line 420, in main
+    bundle(w, a.max_citers, not a.no_text, log=lambda s: print(s, file=sys.stderr),
+  File "/mnt/projects/research/discovery-genesis/genesis/fetch.py", line 309, in bundle
+    refs = fetch_batch([wid(r) for r in work.get("referenced_works", [])], REF_SELECT)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/projects/research/discovery-genesis/genesis/fetch.py", line 117, in fetch_batch
+    d = openalex({"filter": f"openalex_id:{chunk}", "select": select, "per-page": 50,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/projects/research/discovery-genesis/genesis/sample.py", line 103, in openalex
+    with urllib.request.urlopen(req, timeout=60) as r:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+exit 1

@@ -110,13 +110,35 @@ def openalex_one(w: str, select: str) -> dict:
     return get(f"https://api.openalex.org/works/{w}?select={select}&mailto={MAILTO}")
 
 
-def fetch_batch(ids: list[str], select: str) -> list[dict]:
-    out = []
-    for i in range(0, len(ids), 50):
-        chunk = "|".join(ids[i:i + 50])
-        d = openalex({"filter": f"openalex_id:{chunk}", "select": select, "per-page": 50,
-                      "mailto": MAILTO})
-        out.extend(d["results"])
+ENTITY_DELAY = 0.2
+
+
+def fetch_batch(ids: list[str], select: str, log=None) -> list[dict]:
+    """Reference records, 50 at a time. OpenAlex throttles *list* queries
+    (`?filter=…`) independently of single-entity GETs (`/works/W…`) and can 429
+    every list query for hours while entity lookups stay at 200 — so fall back to
+    one GET per id rather than losing the bundle. Slower, but it always finishes."""
+    out, i = [], 0
+    while i < len(ids):
+        chunk = ids[i:i + 50]
+        try:
+            d = openalex({"filter": f"openalex_id:{'|'.join(chunk)}", "select": select,
+                          "per-page": 50})
+            out.extend(d["results"])
+            i += 50
+            continue
+        except Exception as e:                 # noqa: BLE001
+            if log:
+                log(f"    batch list query failed ({str(e)[:40]}); falling back to entity GETs")
+        for w in chunk:
+            try:
+                r = openalex_one(w, select)
+            except Exception:                  # noqa: BLE001
+                r = None
+            if r:
+                out.append(r)
+            time.sleep(ENTITY_DELAY)
+        i += 50
     return out
 
 
@@ -306,7 +328,7 @@ def bundle(w: str, max_citers: int, want_text: bool, log=print, retry_text: bool
         work = json.load((d / "work.json").open())
 
     if not (d / "refs.json").exists():
-        refs = fetch_batch([wid(r) for r in work.get("referenced_works", [])], REF_SELECT)
+        refs = fetch_batch([wid(r) for r in work.get("referenced_works", [])], REF_SELECT, log=log)
         write_once(d / "refs.json", refs); status["n_refs_fetched"] = len(refs)
 
     # Citers are fetched separately: OpenAlex throttles the `cites:` filter far more
