@@ -100,6 +100,24 @@ def main():
         star = "**" if (pval is not None and pval < 0.05) else ""
         lines.append(f"| {feat} | {'+' if sign > 0 else '−' if sign < 0 else '·'} | {rec['case_median']:.3g} | {rec['twin_median']:.3g} "
                      f"| {star}{rec['median_diff']:+.3g}{star} | {rec['n_pos']} | {rec['n_neg']} | {star}{ps}{star} | {rec['cliffs_delta']:+.2f} |")
+    # Benjamini-Hochberg FDR across the features tested in this run. 15 correlated
+    # features on 15 pairs: without it, one or two "significant" cells are expected
+    # by chance alone.
+    tested = [(f, r["wilcoxon_p"]) for f, r in out["features"].items() if r["wilcoxon_p"] is not None]
+    tested.sort(key=lambda x: x[1])
+    m = len(tested)
+    prev = 1.0
+    for i in range(m - 1, -1, -1):
+        f, pv = tested[i]
+        q = min(prev, pv * m / (i + 1))
+        out["features"][f]["bh_q"] = round(q, 4)
+        prev = q
+    lines.append("")
+    lines.append(f"Benjamini-Hochberg FDR over the {m} features tested "
+                 f"(q < 0.05 survives): " +
+                 ", ".join(f"{f} q={out['features'][f]['bh_q']:.3f}"
+                           for f, _ in tested if out["features"][f]["bh_q"] < 0.05) or "none")
+    lines.append("")
     # text availability, for the coding-protocol decision
     has = [p["case"]["has_text"] == "True" for p in pairs.values()], [p["twin"]["has_text"] == "True" for p in pairs.values()]
     out["fulltext_cases"] = sum(has[0]); out["fulltext_twins"] = sum(has[1])

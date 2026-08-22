@@ -2,9 +2,9 @@
 kind: experiment
 slug: "h1-pilot-bibliometrics"
 date: "2026-08-22"
-status: running     # running | done | abandoned
+status: done     # running | done | abandoned
 hypothesis: "Impactful papers differ from matched topic-year twins in reference structure: more recent references, a conventional (within-topic) core, more cross-field tail, hotter references (H1)."
-result: ""
+result: "H1 partly confirmed on 15 pairs: impactful primary papers cite markedly more RECENT and more HIGHLY-CITED work, with larger multi-institution teams — but they cite LESS across topic/subfield/domain, not more. Five features survive BH-FDR."
 related_concepts: ["matched-control-twin", "atypical-combination", "disruption-index", "field-normalized-impact", "novelty-vs-impact"]
 related_literature: []
 tags: ["h1", "pilot", "bibliometrics"]
@@ -46,15 +46,61 @@ not yet built).
 
 ## Result
 
-Fill in after the run. Point at `metrics.json` (validation split — this
-is the search signal and the file every other skill reads). A separate
-`final_metrics.json` holds held-out test-split numbers and is written
-only by the `dvc repro final_eval` pass at chain end. See
-`~/claude-system/claude/rules/evaluation.md`.
+Two runs. **Pilot A** (`results/paired-pilotA-alltypes.md`, all `type:article`)
+is a measurement of what the raw top 1 % contains, not a test of H1: its only
+strong effect is reference count (117 vs 26, p < 0.001) because ≥ 9 of 15
+"impactful articles" are reviews, guidelines or perspectives.
+
+**Pilot B** (`results/paired-pilotB.md`, primary research only, n = 15 pairs)
+is the H1 test. Surviving Benjamini-Hochberg FDR across the 15 features:
+
+| feature | case median | twin median | median Δ | pairs | p | BH q | Cliff δ |
+|---|---|---|---|---|---|---|---|
+| `ref_hot_median` | 309 | 124 | **+162** | 12/14 | 0.002 | 0.025 | +0.68 |
+| `ref_share_le3` | 0.35 | 0.20 | **+0.15** | 13/15 | 0.003 | 0.025 | +0.62 |
+| `ref_age_mean` | 7.9 | 11.3 | **−4.5 y** | 12/15 | 0.005 | 0.027 | −0.62 |
+| `ref_age_median` | 5 | 8 | **−4 y** | 13/15 | 0.011 | 0.040 | −0.60 |
+| `ref_cross_domain` | 0.12 | 0.25 | **−0.13** | 11/14 | 0.017 | 0.050 | −0.35 |
+
+Nominally significant but not surviving FDR: `ref_cross_subfield` (−0.11,
+p = 0.026), `ref_cross_topic` (−0.14, p = 0.035), `n_institutions` (+3,
+p = 0.035), `n_refs` (+8, p = 0.034). `n_authors` +2 (p = 0.051).
+Null: `ref_n_fields` (±0), `ref_cross_field` (−0.07, n.s.).
+Disruption is unavailable for most pairs (OpenAlex `cites:` throttle) —
+on the 7 pairs with citers, `cd5_nok` runs *more negative* for cases
+(−0.68 vs 0.00, p = 0.078).
+
+Numbers: `metrics.json`. Full tables: `results/paired-pilotB.md`,
+`results/agreement-pilotB.md`.
 
 ## Interpretation
 
-What did you actually learn? What surprised you?
+**Recency and hotness are the signal; breadth is not.** An impactful primary
+paper's reference list is ~4 years younger than its twin's and points at work
+that is itself far more cited (median reference: 309 citations vs 124). That is
+one coherent picture: these papers are working at the live edge of an active
+literature, on problems the field is already converging on.
+
+**The surprise is the sign on breadth.** Every cross-boundary share runs
+*lower* for the impactful member — topic (−0.14), subfield (−0.11), domain
+(−0.13, the one that survives FDR). The naive "impact comes from crossing
+fields" story is not merely unsupported here, it is inverted. This is the
+direction Uzzi's conventional-core result predicts, and it agrees with the
+open-coding pass, where `transfer` (import from another field) was coded 8
+times on twins and 0 times on cases.
+
+Two things this does **not** show. (1) Uzzi's actual claim is a conventional
+core *plus an atypical tail*; a mean share cannot see a tail. The atypicality
+null model (`features --atypicality`, unbuilt) is what would test it, and it is
+now the highest-value missing feature. (2) Reference recency is partly
+mechanical: a paper with more citations tends to have been read more, and
+fast-moving subfields produce both young reference lists and high citation
+counts. A within-subfield-velocity control is needed before calling this causal.
+
+**What it means for the deliverable.** If it holds at n = 150, the skill's
+advice is not "import a mechanism from a distant field". It is closer to:
+work where the literature is young and hot, stay inside the field's core, and
+put the unusual move in a small part of the argument rather than the frame.
 
 ## Diagnostics
 
@@ -69,14 +115,15 @@ Unless otherwise noted, metric numbers here reference `metrics.json`
 (validation split). Cite `final_metrics.json` only if this experiment
 is itself the final-scoring pass.
 
-- intended_effect_confirmed: <yes | no | partial> — <one-line evidence with anchor>
-- leakage_check: <method used> — <finding>
-- overfitting_signal: train=<x> val=<y> gap=<z> — <interpretation> (from metrics.json)
-- delta_from_prior: vs <related_prior_slug>, <metric_delta> attributed to <cause> (metrics.json)
-- unexpected_findings: <one or two sentences, or "none">
+- intended_effect_confirmed: partial — recency and hotness confirmed with FDR-surviving effects (`metrics.json:features.ref_share_le3`, `ref_hot_median`); the predicted *breadth* effect is reversed (`metrics.json:features.ref_cross_domain`, δ −0.35).
+- leakage_check: held-out split carved at sampling time (`genesis/sample.py:--holdout`, `splits.yaml`); `test/samples/pilotB-heldout.json` was fetched by the mechanical stage but never featurised or read here — no test/ access during analysis.
+- overfitting_signal: n/a — no model is fit; this is a paired comparison. Multiplicity is the analogous risk and is handled by BH-FDR over the 15 features (`analyze.py:106-121`).
+- delta_from_prior: vs pilot A (`results/paired-pilotA-alltypes.md`), `n_refs` collapses from +92 (p<0.001, δ+0.75) to +8 (p=0.034, δ+0.39), attributed to the primary-research filter removing reviews (`genesis/sample.py:classify`).
+- unexpected_findings: cross-boundary citation shares are *lower* for impactful papers at topic, subfield and domain level — the opposite of the predicted sign, and consistent with the open-coding result that `transfer` was coded only on twins (`results/agreement-pilotB.md`).
 - next_candidates:
-  - <one-sentence proposal 1>
-  - <one-sentence proposal 2>
+  - Build the Uzzi atypicality null model (field-year reference-pair background) — a mean cross-field share cannot detect the atypical *tail* that the conventional-core hypothesis actually predicts.
+  - Add a subfield-velocity control (median reference age of the whole topic-year pool) to test whether reference recency is a field-tempo artefact rather than a property of the paper.
+  - Drip the missing citers (`--citers-only`) and recompute CD5 at n=15; the 7-pair reading (cases more consolidating) is the only disruption evidence so far.
 
 ## Follow-up
 
