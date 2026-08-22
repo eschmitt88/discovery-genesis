@@ -41,3 +41,5 @@ skills; read by `/lint`.
 2026-08-22 18:44 ingest raw/papers/guo2024ideabench.pdf
 2026-08-22 19:10 curate raw/_candidates/_done/2026-08-22-llm-idea-generation.md ingested=8 declined=5 dup=1
 2026-08-22 19:20 curate raw/_candidates/_done/2026-08-22-theories-of-discovery.md ingested=10 declined=4 dup=2
+2026-08-22 18:58 promote-moc measuring-novelty-and-impact (6 concepts)
+2026-08-22 18:58 promote-moc how-contributions-arise (7 concepts)

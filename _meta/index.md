@@ -10,13 +10,9 @@ and `/new-experiment`.
 
 ## Maps of Content
 
-(promote a cluster of ≥5 related concepts into `mocs/<theme>.md`)
+- [[mocs/measuring-novelty-and-impact]] — novelty vs impact, atypicality, disruption, normalisation, twins (6 concepts)
+- [[mocs/how-contributions-arise]] — genesis models, adjacent possible, LBD, hindsight bias, the card, the move taxonomy, TRIZ (7 concepts)
 
-- MoC candidate (not yet promoted): bibliometric novelty/impact
-  measurement — [[atypical-combination]], [[disruption-index]],
-  [[field-normalized-impact]], [[novelty-vs-impact]],
-  [[matched-control-twin]], [[recombinant-uncertainty]] (6 concepts,
-  all sourced 2026-08-22 curation of `science-of-science-novelty-impact`).
 
 ## Active experiments
 
