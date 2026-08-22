@@ -45,3 +45,13 @@ Ignoring wrong pointing object 154 0 (offset 0)
 [30/30]  W2023417992  refs=5  citers=9  s2=ok  text=no  6.1s
 10 works -> /mnt/projects/research/discovery-genesis/raw/cases
 [1/10]  W2295408967  refs=298  citers=408  s2=ok  text=no  10.9s
+[2/10]  W2416298893  refs=53  citers=23  s2=ok  text=no  6.7s
+[3/10]  W185214937  refs=92  citers=446  s2=ok  text=no  8.6s
+[4/10]  W1847824293  refs=53  citers=26  s2=ok  text=no  8.2s
+[5/10]  W2511031471  refs=219  citers=240  s2=ok  text=no  8.3s
+[6/10]  W2609144598  refs=39  citers=19  s2=ok  text=yes  7.6s
+[7/10]  W2468506054  refs=57  citers=273  s2=ok  text=no  9.4s
+[8/10]  W2335077012  refs=13  citers=5  s2=ok  text=no  11.9s
+[9/10]  W2947126976  refs=252  citers=305  s2=ok  text=no  10.9s
+[10/10]  W2922446345  refs=22  citers=6  s2=ok  text=yes  7.9s
+fetch exit 0

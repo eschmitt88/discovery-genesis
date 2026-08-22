@@ -98,11 +98,22 @@ after the pilot):
   Health Sciences); Social Sciences excluded for now.
 - **Impactful case.** Within the drawn topic: `type:article`, year in
   2010–2019 (long enough for impact to accrue, recent enough for OA full
-  text), `citation_normalized_percentile ≥ 0.99`, one drawn uniformly
-  (OpenAlex `sample=` with a logged seed). [[field-normalized-impact]].
-- **Twin.** Same primary topic, same year, same type, percentile in
-  0.40–0.60, drawn the same way. One twin per case in the pilot; two or
-  three later if H5 needs them.
+  text), ranked by citations within the topic-year pool (pool ≥ 500
+  articles, ≥ 5 references, not retracted), one drawn uniformly from the
+  top 1 % of ranks. OpenAlex's own `citation_normalized_percentile` was
+  dropped after the first draw — its tail is unreliable in small
+  topic-years ([[field-normalized-impact]]).
+- **Primary research only (since pilot B).** Pilot A showed the raw top
+  1 % is ≥ half reviews, guidelines and perspectives. The sampler
+  classifies every work in the band (title / abstract / venue regex +
+  OpenAlex type), excludes review-type works from both cases and twins,
+  and logs each exclusion and the per-pool review share — which is itself
+  the first measured fact about "impact": consolidation dominates raw
+  citation impact. Reviews are not studied further in this project; they
+  are accretion by construction.
+- **Twin.** Same pool, rank in the 0.40–0.60 band, same filter, drawn the
+  same way. One twin per case in the pilot; two or three later if H5
+  needs them.
 - **Sizes.** Pilot 20 pairs; full 150–300 pairs depending on what the pilot
   says about coding cost and agreement.
 - **Split.** The held-out `test/` split is drawn at sampling time and never
@@ -196,6 +207,15 @@ in H6. Human rating on a subset calibrates the judge.
   and impact enrichment among real papers, which is the premise check that
   project cannot run on itself.
 - Its transfer-depth ladder and judge harness are reused for H6.
+
+## Findings so far
+
+- **2026-08-22, pilot A (15 pairs, no review filter).** The only strong
+  case/twin difference is reference count (117 vs 26, 14/15 pairs,
+  p < 0.001) because ≥ 9/15 top-1 % "articles" are reviews, guidelines or
+  perspectives. The pipeline now filters to primary research; the review
+  share of top-1 % pools (~30 % by the conservative classifier, ~60 % by
+  hand on pilot A) is recorded per draw. `experiments/2026-08-22-h1-pilot-bibliometrics/`.
 
 ## Open questions
 

@@ -18,7 +18,9 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parents[1]
-FEATURES = ROOT / "data" / "features" / "pilot.csv"
+import sys
+NAME = sys.argv[1] if len(sys.argv) > 1 else "pilotB"
+FEATURES = ROOT / "data" / "features" / f"{NAME}.csv"
 
 PREDICTED = {                      # feature -> predicted sign of (case - twin); 0 = measured only
     "ref_share_le3": +1, "ref_age_median": -1, "ref_age_mean": -1,
@@ -75,7 +77,7 @@ def main():
         pairs.setdefault(int(r["pair"]), {})[r["role"]] = r
     pairs = {k: v for k, v in pairs.items() if "case" in v and "twin" in v}
     out, lines = {"n_pairs": len(pairs), "features": {}}, []
-    lines.append(f"# H1 pilot — paired differences (case − twin), n = {len(pairs)} pairs\n")
+    lines.append(f"# H1 {NAME} — paired differences (case − twin), n = {len(pairs)} pairs\n")
     lines.append("| feature | predicted | case median | twin median | median Δ | case>twin | case<twin | Wilcoxon p | Cliff δ |")
     lines.append("|---|---|---|---|---|---|---|---|---|")
     for feat, sign in PREDICTED.items():
@@ -102,8 +104,9 @@ def main():
     has = [p["case"]["has_text"] == "True" for p in pairs.values()], [p["twin"]["has_text"] == "True" for p in pairs.values()]
     out["fulltext_cases"] = sum(has[0]); out["fulltext_twins"] = sum(has[1])
     lines.append(f"\nFull text available: cases {sum(has[0])}/{len(pairs)}, twins {sum(has[1])}/{len(pairs)}.")
+    out["sample"] = NAME
     (HERE / "metrics.json").write_text(json.dumps(out, indent=1))
-    (HERE / "results" / "paired.md").write_text("\n".join(lines) + "\n")
+    (HERE / "results" / f"paired-{NAME}.md").write_text("\n".join(lines) + "\n")
     print("\n".join(lines))
 
 

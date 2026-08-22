@@ -52,6 +52,8 @@ CITER_SELECT = "id,publication_year,referenced_works,primary_topic,cited_by_coun
 # ----------------------------------------------------------------- helpers
 def get(url: str, headers: dict | None = None, timeout=60, retries=4, binary=False):
     req = urllib.request.Request(url, headers={"User-Agent": UA, **(headers or {})})
+    if headers and "User-Agent" in headers:
+        req.add_header("User-Agent", headers["User-Agent"])
     for attempt in range(retries):
         try:
             with urllib.request.urlopen(req, timeout=timeout) as r:
@@ -170,10 +172,54 @@ def pdf_candidates(work: dict) -> list[str]:
     return urls
 
 
+BROWSER_UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
+              "Chrome/126.0 Safari/537.36")
+EPMC = "https://www.ebi.ac.uk/europepmc/webservices/rest/"
+
+
+def fetch_epmc_text(work: dict) -> str | None:
+    """Europe PMC full-text XML -> plain text, for anything with a PMCID (most OA biomed)."""
+    pmcid = (work.get("ids") or {}).get("pmcid")
+    if not pmcid:
+        # OpenAlex often lacks the PMCID; resolve via Europe PMC search by DOI / PMID.
+        doi = (work.get("doi") or "").replace("https://doi.org/", "")
+        pmid = ((work.get("ids") or {}).get("pmid") or "").rsplit("/", 1)[-1]
+        for q in ([f"DOI:{doi}"] if doi else []) + ([f"EXT_ID:{pmid} AND SRC:MED"] if pmid else []):
+            try:
+                r = get(f"{EPMC}search?query={urllib.parse.quote(q)}&format=json&resultType=lite", timeout=30, retries=2)
+            except Exception:                  # noqa: BLE001
+                r = None
+            hits = ((r or {}).get("resultList") or {}).get("result") or []
+            hit = next((h for h in hits if h.get("pmcid")), None)
+            if hit:
+                pmcid = hit["pmcid"]; break
+        if not pmcid:
+            return None
+    pmcid = pmcid.rsplit("/", 1)[-1].upper()
+    if not pmcid.startswith("PMC"):
+        pmcid = "PMC" + pmcid
+    try:
+        raw = get(f"{EPMC}{pmcid}/fullTextXML", timeout=60, retries=2, binary=True)
+    except Exception:                          # noqa: BLE001
+        return None
+    if not raw or b"<body" not in raw:
+        return None
+    import xml.etree.ElementTree as ET
+    try:
+        root = ET.fromstring(raw)
+    except ET.ParseError:
+        return None
+    body = root.find(".//body")
+    if body is None:
+        return None
+    return "\n".join(t for t in body.itertext())
+
+
 def fetch_pdf(urls: list[str]) -> tuple[bytes | None, str | None]:
     for u in urls:
         try:
-            b = get(u, headers={"Accept": "application/pdf,*/*"}, timeout=90, retries=1, binary=True)
+            b = get(u, headers={"Accept": "application/pdf,*/*", "User-Agent": BROWSER_UA},
+                    timeout=90, retries=1, binary=True)
         except Exception:                      # noqa: BLE001
             b = None
         if b and b[:5] == b"%PDF-" and len(b) > 10_000:
@@ -187,7 +233,7 @@ def pdf_text(pdf: Path) -> str:
     return "\n\n".join((p.extract_text() or "") for p in PdfReader(str(pdf)).pages)
 
 
-def bundle(w: str, max_citers: int, want_text: bool, log=print) -> dict:
+def bundle(w: str, max_citers: int, want_text: bool, log=print, retry_text: bool = False) -> dict:
     d = RAW / w
     status_p = d / "status.json"
     status = json.load(status_p.open()) if status_p.exists() else {"id": w}
@@ -214,9 +260,15 @@ def bundle(w: str, max_citers: int, want_text: bool, log=print) -> dict:
         if s2:
             write_once(d / "s2.json", s2)
 
-    if want_text and not (d / "fulltext.pdf").exists() and "fulltext" not in status:
-        urls = pdf_candidates(work)
-        pdf, src = fetch_pdf(urls)
+    if want_text and not (d / "fulltext.txt").exists() and ("fulltext" not in status or retry_text):
+        txt = fetch_epmc_text(work)
+        if txt and len(txt) > 5000:
+            write_once(d / "fulltext.txt", txt)
+            status["fulltext"] = {"source": "europepmc", "chars": len(txt)}
+            urls, pdf, src = [], None, None
+        else:
+            urls = pdf_candidates(work)
+            pdf, src = fetch_pdf(urls)
         if pdf:
             write_once(d / "fulltext.pdf", pdf, binary=True)
             try:
@@ -243,6 +295,7 @@ def main(argv=None):
     ap.add_argument("--max-citers", type=int, default=3000)
     ap.add_argument("--no-text", action="store_true")
     ap.add_argument("--only", nargs="*", help="restrict to these W-ids")
+    ap.add_argument("--retry-text", action="store_true", help="retry full text even if a previous attempt failed")
     a = ap.parse_args(argv)
     rec = json.load(open(a.sample))
     ids = []
@@ -253,7 +306,7 @@ def main(argv=None):
     print(f"{len(ids)} works -> {RAW}", file=sys.stderr)
     for i, w in enumerate(ids, 1):
         print(f"[{i}/{len(ids)}]", file=sys.stderr, end="")
-        bundle(w, a.max_citers, not a.no_text, log=lambda s: print(s, file=sys.stderr))
+        bundle(w, a.max_citers, not a.no_text, log=lambda s: print(s, file=sys.stderr), retry_text=a.retry_text)
 
 
 if __name__ == "__main__":

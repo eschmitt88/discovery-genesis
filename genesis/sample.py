@@ -36,7 +36,62 @@ SELECT = ",".join([
     "id", "doi", "title", "publication_year", "type", "cited_by_count",
     "citation_normalized_percentile", "referenced_works_count",
     "primary_topic", "open_access", "authorships", "is_retracted",
+    "abstract_inverted_index", "primary_location",
 ])
+
+# ---- primary-research filter -------------------------------------------------
+# The top 1 % of `type:article` in a topic-year is mostly reviews, guidelines and
+# perspectives (pilot A: >= 8 of 15). OpenAlex's `type:review` catches few of
+# them, so we classify from title + abstract + venue and log the share.
+import re
+TITLE_REVIEW = re.compile(
+    r"\b(review|reviews|reviewed|perspective|perspectives|guideline|guidelines|overview|"
+    r"update|advances|progress|state[- ]of[- ]the[- ]art|status|roadmap|consensus|"
+    r"recommendations|trends|current concepts|primer|tutorial|anniversary|"
+    r"challenges and opportunities|opportunities and challenges|where do we stand|"
+    r"past, present|lessons learned|what we know|a critical|a comprehensive|"
+    r"meta-analysis|systematic|position paper|white paper|handbook|encyclopedia)\b", re.I)
+ABSTRACT_REVIEW = re.compile(
+    r"\b(this (review|perspective|article|paper|chapter) (reviews|summarizes|summarises|surveys|"
+    r"highlights|discusses|provides an overview|gives an overview|focuses on recent)|"
+    r"we (review|summarize|summarise|survey|provide an overview|give an overview|highlight recent)|"
+    r"(are|is) reviewed|recent (advances|progress|developments) (in|on)|"
+    r"(this|the present) (review|overview|survey)|in this review|"
+    r"systematic review|meta-analysis|practice guideline|clinical practice guidelines)\b", re.I)
+# Review *journals* only — must not match Physical Review, Review of Scientific Instruments, etc.
+VENUE_REVIEW = re.compile(r"(annual review|nature reviews|chemical reviews|chemical society reviews|"
+                          r"critical reviews|reviews in\b|\breviews$|^trends in|current opinion|"
+                          r"^progress in|^advances in|reports on progress|\bsurveys\b|perspectives$)", re.I)
+
+
+def abstract_text(inv: dict | None) -> str:
+    if not inv:
+        return ""
+    pos = {}
+    for word, ps in inv.items():
+        for q in ps:
+            pos[q] = word
+    return " ".join(pos[i] for i in sorted(pos))
+
+
+def classify(w: dict) -> tuple[str, str]:
+    """('primary' | 'review', reason). Conservative: anything that looks like a
+    review / guideline / perspective / survey is excluded from both cases and twins."""
+    if w.get("type") == "review":
+        return "review", "openalex type=review"
+    t = w.get("title") or ""
+    m = TITLE_REVIEW.search(t)
+    if m:
+        return "review", f"title:{m.group(0)}"
+    ab = abstract_text(w.get("abstract_inverted_index"))
+    m = ABSTRACT_REVIEW.search(ab)
+    if m:
+        return "review", f"abstract:{m.group(0)}"
+    venue = (((w.get("primary_location") or {}).get("source") or {}).get("display_name") or "")
+    m = VENUE_REVIEW.search(venue)
+    if m:
+        return "review", f"venue:{venue}"
+    return "primary", ""
 
 
 # ----------------------------------------------------------------- helpers
@@ -73,6 +128,7 @@ def slim(w: dict) -> dict:
         "domain": (pt.get("domain") or {}).get("display_name"),
         "oa_url": (w.get("open_access") or {}).get("oa_url"),
         "is_oa": (w.get("open_access") or {}).get("is_oa"),
+        "venue": (((w.get("primary_location") or {}).get("source") or {}).get("display_name")),
     }
 
 
@@ -85,19 +141,20 @@ def pool_filter(topic_id: str, year: int) -> str:
             f"is_retracted:false,referenced_works_count:>{MIN_REFS - 1}")
 
 
-def ranked_page(flt: str, rank: int) -> list[dict]:
-    """Works sorted by citations desc; returns the 200-work page containing `rank` (0-based)."""
+def ranked_page(flt: str, page: int) -> list[dict]:
+    """Works sorted by citations desc, 200 per page (basic paging, <= 10k results)."""
     d = openalex({"filter": flt, "sort": "cited_by_count:desc", "per-page": 200,
-                  "page": rank // 200 + 1, "select": SELECT})
+                  "page": page, "select": SELECT})
     return d["results"]
 
 
-def draw_by_rank(topic_id: str, year: int, band: tuple[float, float], rng: random.Random
-                 ) -> tuple[dict | None, dict]:
-    """Uniform draw among works whose citation rank (within the topic-year pool of
-    articles) falls in `band` (fractions of the pool, 0 = most cited). Own ranking —
-    OpenAlex's citation_normalized_percentile is unreliable in the tail of small
-    topic-years. Basic paging caps at 10k results, so bands must sit below that."""
+def draw_by_rank(topic_id: str, year: int, band: tuple[float, float], rng: random.Random,
+                 primary_only: bool = True) -> tuple[dict | None, dict]:
+    """Uniform draw among PRIMARY-research works whose citation rank (within the
+    topic-year pool of articles) falls in `band` (fractions of the pool, 0 = most
+    cited). Own ranking — OpenAlex's citation_normalized_percentile is unreliable in
+    the tail of small topic-years. Reviews/guidelines/perspectives in the band are
+    counted and logged, then excluded. Basic paging caps at 10k results."""
     flt = pool_filter(topic_id, year)
     n = openalex({"filter": flt, "per-page": 1, "select": "id"})["meta"]["count"]
     info = {"pool": n}
@@ -105,15 +162,24 @@ def draw_by_rank(topic_id: str, year: int, band: tuple[float, float], rng: rando
         return None, info
     lo, hi = int(band[0] * n), max(int(band[1] * n) - 1, int(band[0] * n))
     hi = min(hi, 9999)
-    rank = rng.randint(lo, hi)
-    page = ranked_page(flt, rank)
-    idx = rank % 200
-    if idx >= len(page):
+    works = []
+    for page in range(lo // 200 + 1, hi // 200 + 2):
+        works += [(rank, w) for rank, w in enumerate(ranked_page(flt, page), start=(page - 1) * 200)
+                  if lo <= rank <= hi]
+    eligible, reviews = [], []
+    for rank, w in works:
+        kind, why = classify(w)
+        (eligible if (kind == "primary" or not primary_only) else reviews).append((rank, w, why))
+    info.update({"band_ranks": [lo, hi], "n_band": len(works), "n_review": len(reviews),
+                 "review_share": round(len(reviews) / len(works), 3) if works else None,
+                 "reviews": [{"rank": r, "title": (w.get("title") or "")[:80], "why": why}
+                             for r, w, why in reviews][:30]})
+    if not eligible:
         return None, info
-    info.update({"rank": rank, "band_ranks": [lo, hi]})
-    w = slim(page[idx]); w["rank"] = rank; w["pool"] = n
-    w["topic_score"] = None
-    return w, info
+    rank, w, _ = rng.choice(eligible)
+    out = slim(w); out["rank"] = rank; out["pool"] = n
+    info["rank"] = rank
+    return out, info
 
 
 def xpol_topics(k: int, seed: int | None) -> tuple[list[dict], dict]:
@@ -165,13 +231,15 @@ def sample_pairs(n_pairs: int, seed: int | None, years=YEARS, verbose=True) -> d
                           "domain": t["stratum"], "year": year, "pool": ci["pool"],
                           "ranks": {"case": ci.get("rank"), "twin": ti.get("rank"),
                                     "case_band": ci.get("band_ranks"), "twin_band": ti.get("band_ranks")},
+                          "review_filter": {"case_band": {k: ci.get(k) for k in ("n_band", "n_review", "review_share", "reviews")},
+                                            "twin_band": {k: ti.get(k) for k in ("n_band", "n_review", "review_share")}},
                           "flags": flags, "case": case, "twin": twin})
             done = True
             if verbose:
-                print(f"[{len(pairs):2d}] {t['name']} ({year}) pool={ci['pool']}  "
+                print(f"[{len(pairs):2d}] {t['name']} ({year}) pool={ci['pool']} reviews_in_top1%={ci['n_review']}/{ci['n_band']}  "
                       f"case={case['id']} r{ci['rank']} c={case['cited_by_count']} oa={case['is_oa']}  "
-                      f"twin={twin['id']} r{ti['rank']} c={twin['cited_by_count']}  {' '.join(flags)}",
-                      file=sys.stderr)
+                      f"twin={twin['id']} r{ti['rank']} c={twin['cited_by_count']}  {' '.join(flags)}\n"
+                      f"      {case['title'][:100]}", file=sys.stderr)
             break
         if not done:
             skipped.append(t["name"])
@@ -183,6 +251,7 @@ def sample_pairs(n_pairs: int, seed: int | None, years=YEARS, verbose=True) -> d
         "params": {"years": list(years), "case_band": [0.0, 1 - CASE_PCT], "twin_band": list(TWIN_BAND),
                    "min_refs": MIN_REFS, "min_pool": MIN_POOL, "case_min_cites": CASE_MIN_CITES,
                    "ranking": "own cited_by_count rank within primary_topic × year × type:article",
+                   "primary_only": True, "review_filter": "title/abstract/venue regex + openalex type (genesis.sample.classify)",
                    "domains": list(STEM_DOMAINS), "type": "article"},
         "n_pairs": len(pairs),
         "skipped_topics": skipped,

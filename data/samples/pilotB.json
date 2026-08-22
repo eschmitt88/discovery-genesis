@@ -1,0 +1,1408 @@
+{
+ "kind": "sample",
+ "date": "2026-08-22",
+ "seed": 2419655738578421181,
+ "xpol_record": {
+  "seed": 2419655738578421181,
+  "level": "topic",
+  "k": 60,
+  "stratify": "domain",
+  "population": 4516,
+  "band": null,
+  "exclude_home": true,
+  "eligible": 4516
+ },
+ "params": {
+  "years": [
+   2010,
+   2019
+  ],
+  "case_band": [
+   0.0,
+   0.010000000000000009
+  ],
+  "twin_band": [
+   0.4,
+   0.6
+  ],
+  "min_refs": 5,
+  "min_pool": 500,
+  "case_min_cites": 20,
+  "ranking": "own cited_by_count rank within primary_topic × year × type:article",
+  "primary_only": true,
+  "review_filter": "title/abstract/venue regex + openalex type (genesis.sample.classify)",
+  "domains": [
+   "Physical Sciences",
+   "Life Sciences",
+   "Health Sciences"
+  ],
+  "type": "article"
+ },
+ "n_pairs": 15,
+ "skipped_topics": [
+  "Adolescent and Pediatric Healthcare",
+  "Advanced Scientific Techniques and Applications",
+  "Cognitive Science and Education Research",
+  "Medical Coding and Health Information",
+  "Sesame and Sesamin Research",
+  "Electrical and Thermal Properties of Materials",
+  "Medicinal Plants and Bioactive Compounds",
+  "Forest Ecology and Biodiversity Studies",
+  "Surface Treatment and Coatings",
+  "Point processes and geometric inequalities",
+  "Agricultural Practices and Plant Genetics",
+  "Nanotechnology research and applications",
+  "Otitis Media and Relapsing Polychondritis",
+  "Polymer Nanocomposite Synthesis and Irradiation"
+ ],
+ "pairs": [
+  {
+   "topic": "Vibrio bacteria research studies",
+   "topic_id": "T11684",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Endocrinology > Vibrio bacteria research studies",
+   "domain": "Life Sciences",
+   "year": 2017,
+   "pool": 778,
+   "ranks": {
+    "case": 6,
+    "twin": 447,
+    "case_band": [
+     0,
+     6
+    ],
+    "twin_band": [
+     311,
+     465
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 7,
+     "n_review": 4,
+     "review_share": 0.571,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Persistent bacterial infections and persister cells",
+       "why": "venue:Nature Reviews Microbiology"
+      },
+      {
+       "rank": 1,
+       "title": "From bacterial killing to immune modulation: Recent insights into the functions ",
+       "why": "abstract:This review"
+      },
+      {
+       "rank": 3,
+       "title": "Formation, physiology, ecology, evolution and clinical importance of bacterial p",
+       "why": "venue:FEMS Microbiology Reviews"
+      },
+      {
+       "rank": 5,
+       "title": "Type IV secretion in Gram‐negative and Gram‐positive bacteria",
+       "why": "abstract:we summarize"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 155,
+     "n_review": 8,
+     "review_share": 0.052
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2597760097",
+    "doi": "https://doi.org/10.1038/ncomms14888",
+    "title": "A Pseudomonas T6SS effector recruits PQS-containing outer membrane vesicles for iron acquisition",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 318,
+    "pct": 0.99781071,
+    "n_refs": 69,
+    "n_authors": 10,
+    "topic_id": "T11684",
+    "topic": "Vibrio bacteria research studies",
+    "topic_score": 0.9980000257492065,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.nature.com/articles/ncomms14888.pdf",
+    "is_oa": true,
+    "venue": "Nature Communications",
+    "rank": 6,
+    "pool": 778
+   },
+   "twin": {
+    "id": "W2624619100",
+    "doi": "https://doi.org/10.1177/1357034x17716523",
+    "title": "Microbial Suicide",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 16,
+    "pct": 0.69097339,
+    "n_refs": 49,
+    "n_authors": 1,
+    "topic_id": "T11684",
+    "topic": "Vibrio bacteria research studies",
+    "topic_score": 0.9344000220298767,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Body & Society",
+    "rank": 447,
+    "pool": 778
+   }
+  },
+  {
+   "topic": "Semantic Web and Ontologies",
+   "topic_id": "T10215",
+   "path": "Physical Sciences > Computer Science > Artificial Intelligence > Semantic Web and Ontologies",
+   "domain": "Physical Sciences",
+   "year": 2018,
+   "pool": 720,
+   "ranks": {
+    "case": 5,
+    "twin": 301,
+    "case_band": [
+     0,
+     6
+    ],
+    "twin_band": [
+     288,
+     431
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 7,
+     "n_review": 2,
+     "review_share": 0.286,
+     "reviews": [
+      {
+       "rank": 1,
+       "title": "The modular SSN ontology: A joint W3C and OGC standard specifying the semantics ",
+       "why": "abstract:we give an overview"
+      },
+      {
+       "rank": 6,
+       "title": "RDF Data Storage and Query Processing Schemes",
+       "why": "venue:ACM Computing Surveys"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 144,
+     "n_review": 9,
+     "review_share": 0.062
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2852434548",
+    "doi": "https://doi.org/10.1016/j.eswa.2018.07.017",
+    "title": "OpenIE-based approach for Knowledge Graph construction from text",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 141,
+    "pct": 0.98043738,
+    "n_refs": 105,
+    "n_authors": 3,
+    "topic_id": "T10215",
+    "topic": "Semantic Web and Ontologies",
+    "topic_score": 0.9997000098228455,
+    "field": "Computer Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Expert Systems with Applications",
+    "rank": 5,
+    "pool": 720
+   },
+   "twin": {
+    "id": "W2790837578",
+    "doi": "https://doi.org/10.1093/comjnl/bxy011",
+    "title": "Using Ontologies for Business Capability modelling: Describing What Services and Processes Achieve",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 6,
+    "pct": 0.81443884,
+    "n_refs": 42,
+    "n_authors": 3,
+    "topic_id": "T10215",
+    "topic": "Semantic Web and Ontologies",
+    "topic_score": 0.9988999962806702,
+    "field": "Computer Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "The Computer Journal",
+    "rank": 301,
+    "pool": 720
+   }
+  },
+  {
+   "topic": "Congenital heart defects research",
+   "topic_id": "T11677",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Molecular Biology > Congenital heart defects research",
+   "domain": "Life Sciences",
+   "year": 2010,
+   "pool": 637,
+   "ranks": {
+    "case": 1,
+    "twin": 266,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     254,
+     381
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 6,
+     "n_review": 2,
+     "review_share": 0.333,
+     "reviews": [
+      {
+       "rank": 2,
+       "title": "Seminars in Cell & Developmental Biology",
+       "why": "abstract:this review"
+      },
+      {
+       "rank": 4,
+       "title": "22q11.2 microdeletions: linking DNA structural variation to brain dysfunction an",
+       "why": "venue:Nature reviews. Neuroscience"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 128,
+     "n_review": 10,
+     "review_share": 0.078
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2149161770",
+    "doi": "https://doi.org/10.1038/nature08804",
+    "title": "Primary contribution to zebrafish heart regeneration by gata4+ cardiomyocytes",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 1076,
+    "pct": 0.9986472,
+    "n_refs": 36,
+    "n_authors": 10,
+    "topic_id": "T11677",
+    "topic": "Congenital heart defects research",
+    "topic_score": 0.9997000098228455,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3040215",
+    "is_oa": true,
+    "venue": "Nature",
+    "rank": 1,
+    "pool": 637
+   },
+   "twin": {
+    "id": "W2030763722",
+    "doi": "https://doi.org/10.2353/jmoldx.2010.090099",
+    "title": "Detecting 22q11.2 Deletions by Use of Multiplex Ligation-Dependent Probe Amplification on DNA from Neonatal Dried Blood Spot Samples",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 40,
+    "pct": 0.79274824,
+    "n_refs": 20,
+    "n_authors": 8,
+    "topic_id": "T11677",
+    "topic": "Congenital heart defects research",
+    "topic_score": 0.9998000264167786,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2871720",
+    "is_oa": true,
+    "venue": "Journal of Molecular Diagnostics",
+    "rank": 266,
+    "pool": 637
+   }
+  },
+  {
+   "topic": "Smoking Behavior and Cessation",
+   "topic_id": "T10060",
+   "path": "Health Sciences > Medicine > Physiology > Smoking Behavior and Cessation",
+   "domain": "Health Sciences",
+   "year": 2018,
+   "pool": 2670,
+   "ranks": {
+    "case": 9,
+    "twin": 1115,
+    "case_band": [
+     0,
+     25
+    ],
+    "twin_band": [
+     1068,
+     1601
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 26,
+     "n_review": 7,
+     "review_share": 0.269,
+     "reviews": [
+      {
+       "rank": 2,
+       "title": "Nicotine replacement therapy versus control for smoking cessation",
+       "why": "abstract:meta-analysis"
+      },
+      {
+       "rank": 7,
+       "title": "E-Cigarettes: Use, Effects on Smoking, Risks, and Policy Implications",
+       "why": "venue:Annual Review of Public Health"
+      },
+      {
+       "rank": 12,
+       "title": "2018 ACC Expert Consensus Decision Pathway on Tobacco Cessation Treatment",
+       "why": "title:Consensus"
+      },
+      {
+       "rank": 14,
+       "title": "Metal Concentrations in e-Cigarette Liquid and Aerosol Samples: The Contribution",
+       "why": "venue:Environmental Health Perspectives"
+      },
+      {
+       "rank": 15,
+       "title": "Trends in smoking prevalence and implication for chronic diseases in China: seri",
+       "why": "title:Trends"
+      },
+      {
+       "rank": 18,
+       "title": "Harm Minimization and Tobacco Control: Reframing Societal Views of Nicotine Use ",
+       "why": "venue:Annual Review of Public Health"
+      },
+      {
+       "rank": 24,
+       "title": "Impact of the WHO FCTC over the first decade: a global evidence review prepared ",
+       "why": "title:review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 534,
+     "n_review": 63,
+     "review_share": 0.118
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2806550153",
+    "doi": "https://doi.org/10.15585/mmwr.mm6722a3",
+    "title": "Tobacco Product Use Among Middle and High School Students — United States, 2011–2017",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 396,
+    "pct": 0.9987801,
+    "n_refs": 5,
+    "n_authors": 6,
+    "topic_id": "T10060",
+    "topic": "Smoking Behavior and Cessation",
+    "topic_score": 0.9958000183105469,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://www.cdc.gov/mmwr/volumes/67/wr/pdfs/mm6722a3-H.pdf",
+    "is_oa": true,
+    "venue": "MMWR Morbidity and Mortality Weekly Report",
+    "rank": 9,
+    "pool": 2670
+   },
+   "twin": {
+    "id": "W2803000566",
+    "doi": "https://doi.org/10.1136/bmjopen-2017-020708",
+    "title": "Decline of adolescent smoking in Ireland 1995–2015: trend analysis and associated factors",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 18,
+    "pct": 0.80396651,
+    "n_refs": 22,
+    "n_authors": 4,
+    "topic_id": "T10060",
+    "topic": "Smoking Behavior and Cessation",
+    "topic_score": 0.8823999762535095,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://bmjopen.bmj.com/content/bmjopen/8/4/e020708.full.pdf",
+    "is_oa": true,
+    "venue": "BMJ Open",
+    "rank": 1115,
+    "pool": 2670
+   }
+  },
+  {
+   "topic": "Lignin and Wood Chemistry",
+   "topic_id": "T11208",
+   "path": "Physical Sciences > Engineering > Biomedical Engineering > Lignin and Wood Chemistry",
+   "domain": "Physical Sciences",
+   "year": 2011,
+   "pool": 524,
+   "ranks": {
+    "case": 2,
+    "twin": 252,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     209,
+     313
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 2,
+     "review_share": 0.4,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "The irruption of polymers from renewable resources on the scene of macromolecula",
+       "why": "abstract:This review"
+      },
+      {
+       "rank": 1,
+       "title": "Challenges in industrial applications of technical lignins",
+       "why": "abstract:This paper reviews"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 105,
+     "n_review": 0,
+     "review_share": 0.0
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2318832362",
+    "doi": "https://doi.org/10.1021/jf2031549",
+    "title": "Characterization of Lignin Structures and Lignin–Carbohydrate Complex (LCC) Linkages by Quantitative 13C and 2D HSQC NMR Spectroscopy",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 640,
+    "pct": 0.98551798,
+    "n_refs": 60,
+    "n_authors": 4,
+    "topic_id": "T11208",
+    "topic": "Lignin and Wood Chemistry",
+    "topic_score": 1.0,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Agricultural and Food Chemistry",
+    "rank": 2,
+    "pool": 524
+   },
+   "twin": {
+    "id": "W2162382108",
+    "doi": "https://doi.org/10.1007/s10086-011-1228-4",
+    "title": "Lignin characteristics of bast fiber and core in kenaf, bark and wood of paper mulberry and mulberry",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 22,
+    "pct": 0.14185548,
+    "n_refs": 46,
+    "n_authors": 4,
+    "topic_id": "T11208",
+    "topic": "Lignin and Wood Chemistry",
+    "topic_score": 0.9995999932289124,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": "https://jwoodscience.springeropen.com/counter/pdf/10.1007/s10086-011-1228-4",
+    "is_oa": true,
+    "venue": "Journal of Wood Science",
+    "rank": 252,
+    "pool": 524
+   }
+  },
+  {
+   "topic": "Gastrointestinal Tumor Research and Treatment",
+   "topic_id": "T11485",
+   "path": "Health Sciences > Medicine > Gastroenterology > Gastrointestinal Tumor Research and Treatment",
+   "domain": "Health Sciences",
+   "year": 2017,
+   "pool": 642,
+   "ranks": {
+    "case": 5,
+    "twin": 362,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     256,
+     384
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 6,
+     "n_review": 0,
+     "review_share": 0.0,
+     "reviews": []
+    },
+    "twin_band": {
+     "n_band": 129,
+     "n_review": 19,
+     "review_share": 0.147
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2600578302",
+    "doi": "https://doi.org/10.1001/jamaoncol.2016.5751",
+    "title": "Effect of KIT and PDGFRA Mutations on Survival in Patients With Gastrointestinal Stromal Tumors Treated With Adjuvant Imatinib",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 190,
+    "pct": 0.98987404,
+    "n_refs": 24,
+    "n_authors": 18,
+    "topic_id": "T11485",
+    "topic": "Gastrointestinal Tumor Research and Treatment",
+    "topic_score": 0.9983000159263611,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://research.aalto.fi/en/publications/5e1fe3ed-381a-4b82-ab52-a0aa469c8710",
+    "is_oa": true,
+    "venue": "JAMA Oncology",
+    "rank": 5,
+    "pool": 642
+   },
+   "twin": {
+    "id": "W2744174631",
+    "doi": "https://doi.org/10.17116/patol201779448-55",
+    "title": "Clinical and morphological characteristics of gastrointestinal stromal tumors",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 6,
+    "pct": 0.53667572,
+    "n_refs": 65,
+    "n_authors": 3,
+    "topic_id": "T11485",
+    "topic": "Gastrointestinal Tumor Research and Treatment",
+    "topic_score": 1.0,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Russian Journal of Archive of Pathology",
+    "rank": 362,
+    "pool": 642
+   }
+  },
+  {
+   "topic": "Advanced Thermoelectric Materials and Devices",
+   "topic_id": "T10440",
+   "path": "Physical Sciences > Materials Science > Materials Chemistry > Advanced Thermoelectric Materials and Devices",
+   "domain": "Physical Sciences",
+   "year": 2011,
+   "pool": 969,
+   "ranks": {
+    "case": 0,
+    "twin": 412,
+    "case_band": [
+     0,
+     8
+    ],
+    "twin_band": [
+     387,
+     580
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 9,
+     "n_review": 4,
+     "review_share": 0.444,
+     "reviews": [
+      {
+       "rank": 3,
+       "title": "Perspectives on thermoelectrics: from fundamentals to device applications",
+       "why": "title:Perspectives"
+      },
+      {
+       "rank": 6,
+       "title": "Resonant levels in bulk thermoelectric semiconductors",
+       "why": "abstract:We review"
+      },
+      {
+       "rank": 7,
+       "title": "Phonon engineering through crystal chemistry",
+       "why": "abstract:we review"
+      },
+      {
+       "rank": 8,
+       "title": "Recent Developments in Semiconductor Thermoelectric Physics and Materials",
+       "why": "abstract:Recent advances in"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 194,
+     "n_review": 1,
+     "review_share": 0.005
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2078338131",
+    "doi": "https://doi.org/10.1038/nature09996",
+    "title": "Convergence of electronic bands for high performance bulk thermoelectrics",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 4253,
+    "pct": 0.99957846,
+    "n_refs": 26,
+    "n_authors": 6,
+    "topic_id": "T10440",
+    "topic": "Advanced Thermoelectric Materials and Devices",
+    "topic_score": 1.0,
+    "field": "Materials Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Nature",
+    "rank": 0,
+    "pool": 969
+   },
+   "twin": {
+    "id": "W2022565558",
+    "doi": "https://doi.org/10.1016/j.jallcom.2011.07.085",
+    "title": "Thin films of thermoelectric compound Mg2Sn deposited by co-sputtering assisted by multi-dipolar microwave plasma",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 25,
+    "pct": 0.63580754,
+    "n_refs": 19,
+    "n_authors": 7,
+    "topic_id": "T10440",
+    "topic": "Advanced Thermoelectric Materials and Devices",
+    "topic_score": 0.9998999834060669,
+    "field": "Materials Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Alloys and Compounds",
+    "rank": 412,
+    "pool": 969
+   }
+  },
+  {
+   "topic": "Liver Disease and Transplantation",
+   "topic_id": "T10337",
+   "path": "Health Sciences > Medicine > Hepatology > Liver Disease and Transplantation",
+   "domain": "Health Sciences",
+   "year": 2010,
+   "pool": 1200,
+   "ranks": {
+    "case": 4,
+    "twin": 707,
+    "case_band": [
+     0,
+     11
+    ],
+    "twin_band": [
+     480,
+     719
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 12,
+     "n_review": 4,
+     "review_share": 0.333,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Revising consensus in portal hypertension: Report of the Baveno V consensus work",
+       "why": "title:consensus"
+      },
+      {
+       "rank": 1,
+       "title": "EASL clinical practice guidelines on the management of ascites, spontaneous bact",
+       "why": "title:guidelines"
+      },
+      {
+       "rank": 6,
+       "title": "Performance of the Aspartate Aminotransferase-to-Platelet Ratio Index for the St",
+       "why": "title:Meta-Analysis"
+      },
+      {
+       "rank": 8,
+       "title": "Management of Varices and Variceal Hemorrhage in Cirrhosis",
+       "why": "abstract:This review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 240,
+     "n_review": 23,
+     "review_share": 0.096
+    }
+   },
+   "flags": [
+    "twin_topic_score<0.7"
+   ],
+   "case": {
+    "id": "W2134599653",
+    "doi": "https://doi.org/10.1056/nejmoa0910102",
+    "title": "Early Use of TIPS in Patients with Cirrhosis and Variceal Bleeding",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 1243,
+    "pct": 0.99835725,
+    "n_refs": 25,
+    "n_authors": 11,
+    "topic_id": "T10337",
+    "topic": "Liver Disease and Transplantation",
+    "topic_score": 1.0,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa0910102?articleTools=true",
+    "is_oa": true,
+    "venue": "New England Journal of Medicine",
+    "rank": 4,
+    "pool": 1200
+   },
+   "twin": {
+    "id": "W2015267536",
+    "doi": "https://doi.org/10.4103/1319-3767.70609",
+    "title": "Analysis of elevated liver enzymes in an acute medical setting: Jaundice may indicate increased survival in elderly patients with bacterial sepsis",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 11,
+    "pct": 0.61646204,
+    "n_refs": 19,
+    "n_authors": 4,
+    "topic_id": "T10337",
+    "topic": "Liver Disease and Transplantation",
+    "topic_score": 0.289000004529953,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://doi.org/10.4103/1319-3767.70609",
+    "is_oa": true,
+    "venue": "Saudi Journal of Gastroenterology",
+    "rank": 707,
+    "pool": 1200
+   }
+  },
+  {
+   "topic": "interferon and immune responses",
+   "topic_id": "T11668",
+   "path": "Life Sciences > Immunology and Microbiology > Immunology > interferon and immune responses",
+   "domain": "Life Sciences",
+   "year": 2018,
+   "pool": 827,
+   "ranks": {
+    "case": 0,
+    "twin": 479,
+    "case_band": [
+     0,
+     7
+    ],
+    "twin_band": [
+     330,
+     495
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 8,
+     "n_review": 3,
+     "review_share": 0.375,
+     "reviews": [
+      {
+       "rank": 1,
+       "title": "The cGAS–cGAMP–STING pathway connects DNA damage to inflammation, senescence, an",
+       "why": "abstract:This review summarizes"
+      },
+      {
+       "rank": 3,
+       "title": "ISG15 in antiviral immunity and beyond",
+       "why": "venue:Nature Reviews Microbiology"
+      },
+      {
+       "rank": 7,
+       "title": "The Dual Nature of Type I and Type II Interferons",
+       "why": "abstract:In this review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 166,
+     "n_review": 16,
+     "review_share": 0.096
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2783667606",
+    "doi": "https://doi.org/10.1038/nature25432",
+    "title": "Chromosomal instability drives metastasis through a cytosolic DNA response",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 1595,
+    "pct": 0.99975363,
+    "n_refs": 60,
+    "n_authors": 33,
+    "topic_id": "T11668",
+    "topic": "interferon and immune responses",
+    "topic_score": 1.0,
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.nature.com/articles/nature25432.pdf",
+    "is_oa": true,
+    "venue": "Nature",
+    "rank": 0,
+    "pool": 827
+   },
+   "twin": {
+    "id": "W2891229446",
+    "doi": "https://doi.org/10.1186/s12935-018-0639-3",
+    "title": "Decreased RIG-I expression is associated with poor prognosis and promotes cell invasion in human gastric cancer",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 24,
+    "pct": 0.60714506,
+    "n_refs": 24,
+    "n_authors": 7,
+    "topic_id": "T11668",
+    "topic": "interferon and immune responses",
+    "topic_score": 0.95169997215271,
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences",
+    "oa_url": "https://cancerci.biomedcentral.com/track/pdf/10.1186/s12935-018-0639-3",
+    "is_oa": true,
+    "venue": "Cancer Cell International",
+    "rank": 479,
+    "pool": 827
+   }
+  },
+  {
+   "topic": "Advanced Fiber Laser Technologies",
+   "topic_id": "T10988",
+   "path": "Physical Sciences > Physics and Astronomy > Atomic and Molecular Physics, and Optics > Advanced Fiber Laser Technologies",
+   "domain": "Physical Sciences",
+   "year": 2015,
+   "pool": 1223,
+   "ranks": {
+    "case": 3,
+    "twin": 608,
+    "case_band": [
+     0,
+     11
+    ],
+    "twin_band": [
+     489,
+     732
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 12,
+     "n_review": 0,
+     "review_share": 0.0,
+     "reviews": []
+    },
+    "twin_band": {
+     "n_band": 244,
+     "n_review": 3,
+     "review_share": 0.012
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2096325810",
+    "doi": "https://doi.org/10.1103/physrevlett.114.245504",
+    "title": "Observation of a Localized Flat-Band State in a Photonic Lieb Lattice",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 664,
+    "pct": 0.9985952,
+    "n_refs": 32,
+    "n_authors": 7,
+    "topic_id": "T10988",
+    "topic": "Advanced Fiber Laser Technologies",
+    "topic_score": 0.9994999766349792,
+    "field": "Physics and Astronomy",
+    "domain": "Physical Sciences",
+    "oa_url": "https://arxiv.org/pdf/1412.6342",
+    "is_oa": true,
+    "venue": "Physical Review Letters",
+    "rank": 3,
+    "pool": 1223
+   },
+   "twin": {
+    "id": "W2423190257",
+    "doi": "https://doi.org/10.1364/ol.40.002576",
+    "title": "Compact rubidium-stabilized multi-frequency reference source in the 155-μm region",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 17,
+    "pct": 0.90238455,
+    "n_refs": 19,
+    "n_authors": 4,
+    "topic_id": "T10988",
+    "topic": "Advanced Fiber Laser Technologies",
+    "topic_score": 1.0,
+    "field": "Physics and Astronomy",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Optics Letters",
+    "rank": 608,
+    "pool": 1223
+   }
+  },
+  {
+   "topic": "Cervical Cancer and HPV Research",
+   "topic_id": "T10146",
+   "path": "Health Sciences > Medicine > Epidemiology > Cervical Cancer and HPV Research",
+   "domain": "Health Sciences",
+   "year": 2011,
+   "pool": 1734,
+   "ranks": {
+    "case": 6,
+    "twin": 832,
+    "case_band": [
+     0,
+     16
+    ],
+    "twin_band": [
+     693,
+     1039
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 17,
+     "n_review": 2,
+     "review_share": 0.118,
+     "reviews": [
+      {
+       "rank": 3,
+       "title": "Human Papillomavirus Testing in the Prevention of Cervical Cancer",
+       "why": "abstract:we summarize"
+      },
+      {
+       "rank": 15,
+       "title": "Interventions targeted at women to encourage the uptake of cervical screening",
+       "why": "abstract:meta-analysis"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 347,
+     "n_review": 29,
+     "review_share": 0.084
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2127780961",
+    "doi": "https://doi.org/10.1016/s1470-2045(11)70145-0",
+    "title": "Cervical cancer risk for women undergoing concurrent testing for human papillomavirus and cervical cytology: a population-based study in routine clinical practice",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 575,
+    "pct": 0.99895575,
+    "n_refs": 57,
+    "n_authors": 10,
+    "topic_id": "T10146",
+    "topic": "Cervical Cancer and HPV Research",
+    "topic_score": 0.9883000254631042,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "The Lancet Oncology",
+    "rank": 6,
+    "pool": 1734
+   },
+   "twin": {
+    "id": "W2044126692",
+    "doi": "https://doi.org/10.1089/dna.2011.1294",
+    "title": "The Role of p73 G4C14-to-A4T14 Polymorphism in the Susceptibility to Cervical Cancer",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 21,
+    "pct": 0.75122833,
+    "n_refs": 52,
+    "n_authors": 8,
+    "topic_id": "T10146",
+    "topic": "Cervical Cancer and HPV Research",
+    "topic_score": 0.9997000098228455,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "DNA and Cell Biology",
+    "rank": 832,
+    "pool": 1734
+   }
+  },
+  {
+   "topic": "Adipokines, Inflammation, and Metabolic Diseases",
+   "topic_id": "T10528",
+   "path": "Health Sciences > Medicine > Epidemiology > Adipokines, Inflammation, and Metabolic Diseases",
+   "domain": "Health Sciences",
+   "year": 2017,
+   "pool": 1267,
+   "ranks": {
+    "case": 8,
+    "twin": 516,
+    "case_band": [
+     0,
+     11
+    ],
+    "twin_band": [
+     506,
+     759
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 12,
+     "n_review": 4,
+     "review_share": 0.333,
+     "reviews": [
+      {
+       "rank": 3,
+       "title": "Adapting to obesity with adipose tissue inflammation",
+       "why": "venue:Nature Reviews Endocrinology"
+      },
+      {
+       "rank": 4,
+       "title": "Adiponectin, a Therapeutic Target for Obesity, Diabetes, and Endothelial Dysfunc",
+       "why": "abstract:in this review"
+      },
+      {
+       "rank": 5,
+       "title": "Metabolic syndrome: pathophysiology, management, and modulation by natural compo",
+       "why": "abstract:we review"
+      },
+      {
+       "rank": 10,
+       "title": "Anti‐inflammatory effects of exercise: role in diabetes and cardiovascular disea",
+       "why": "abstract:this review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 254,
+     "n_review": 16,
+     "review_share": 0.063
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2620991346",
+    "doi": "https://doi.org/10.1002/jcb.26174",
+    "title": "Tumor Necrosis Factor‐Alpha: Role in Development of Insulin Resistance and Pathogenesis of Type 2 Diabetes Mellitus",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 692,
+    "pct": 0.9978162,
+    "n_refs": 66,
+    "n_authors": 3,
+    "topic_id": "T10528",
+    "topic": "Adipokines, Inflammation, and Metabolic Diseases",
+    "topic_score": 0.9998999834060669,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Cellular Biochemistry",
+    "rank": 8,
+    "pool": 1267
+   },
+   "twin": {
+    "id": "W2772954730",
+    "doi": "https://doi.org/10.1007/s12576-017-0581-5",
+    "title": "Effects of exergaming on cardiovascular risk factors and adipokine levels in women",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 24,
+    "pct": 0.790604,
+    "n_refs": 58,
+    "n_authors": 6,
+    "topic_id": "T10528",
+    "topic": "Adipokines, Inflammation, and Metabolic Diseases",
+    "topic_score": 0.989799976348877,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs12576-017-0581-5.pdf",
+    "is_oa": true,
+    "venue": "The Journal of Physiological Sciences",
+    "rank": 516,
+    "pool": 1267
+   }
+  },
+  {
+   "topic": "Cerebrospinal fluid and hydrocephalus",
+   "topic_id": "T11406",
+   "path": "Life Sciences > Neuroscience > Cellular and Molecular Neuroscience > Cerebrospinal fluid and hydrocephalus",
+   "domain": "Life Sciences",
+   "year": 2018,
+   "pool": 851,
+   "ranks": {
+    "case": 6,
+    "twin": 351,
+    "case_band": [
+     0,
+     7
+    ],
+    "twin_band": [
+     340,
+     509
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 8,
+     "n_review": 3,
+     "review_share": 0.375,
+     "reviews": [
+      {
+       "rank": 4,
+       "title": "Aquaporin-4-dependent glymphatic solute transport in the rodent brain",
+       "why": "abstract:Meta-analysis"
+      },
+      {
+       "rank": 5,
+       "title": "The role of brain barriers in fluid movement in the CNS: is there a ‘glymphatic’",
+       "why": "abstract:This review discusses"
+      },
+      {
+       "rank": 7,
+       "title": "The Glymphatic System and Waste Clearance with Brain Aging: A Review",
+       "why": "title:Review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 170,
+     "n_review": 22,
+     "review_share": 0.129
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2837320447",
+    "doi": "https://doi.org/10.1172/jci.insight.121537",
+    "title": "Brain-wide glymphatic enhancement and clearance in humans assessed with MRI",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 534,
+    "pct": 0.9965288,
+    "n_refs": 89,
+    "n_authors": 8,
+    "topic_id": "T11406",
+    "topic": "Cerebrospinal fluid and hydrocephalus",
+    "topic_score": 1.0,
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": "http://insight.jci.org/articles/view/121537/files/pdf",
+    "is_oa": true,
+    "venue": "JCI Insight",
+    "rank": 6,
+    "pool": 851
+   },
+   "twin": {
+    "id": "W2931736102",
+    "doi": "https://doi.org/10.31363/2313-7053-2018-2-22-28",
+    "title": "A novel view on Alzheimer’s disease pathogenesis: modern conceptof amyloid clearance",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 13,
+    "pct": 0.49709168,
+    "n_refs": 23,
+    "n_authors": 3,
+    "topic_id": "T11406",
+    "topic": "Cerebrospinal fluid and hydrocephalus",
+    "topic_score": 0.9997000098228455,
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.bekhterevreview.com/jour/article/download/191/166",
+    "is_oa": true,
+    "venue": "V M BEKHTEREV REVIEW OF PSYCHIATRY AND MEDICAL PSYCHOLOGY",
+    "rank": 351,
+    "pool": 851
+   }
+  },
+  {
+   "topic": "Health Policy Implementation Science",
+   "topic_id": "T10629",
+   "path": "Health Sciences > Health Professions > General Health Professions > Health Policy Implementation Science",
+   "domain": "Health Sciences",
+   "year": 2011,
+   "pool": 548,
+   "ranks": {
+    "case": 0,
+    "twin": 261,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     219,
+     327
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 1,
+     "review_share": 0.2,
+     "reviews": [
+      {
+       "rank": 3,
+       "title": "Local opinion leaders: effects on professional practice and health care outcomes",
+       "why": "venue:Cochrane Database of Systematic Reviews"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 109,
+     "n_review": 22,
+     "review_share": 0.202
+    }
+   },
+   "flags": [
+    "case_topic_score<0.7",
+    "twin_topic_score<0.7"
+   ],
+   "case": {
+    "id": "W2136608905",
+    "doi": "https://doi.org/10.1186/1748-5908-6-42",
+    "title": "The behaviour change wheel: A new method for characterising and designing behaviour change interventions",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 14126,
+    "pct": 0.99989715,
+    "n_refs": 42,
+    "n_authors": 3,
+    "topic_id": "T10629",
+    "topic": "Health Policy Implementation Science",
+    "topic_score": 0.5805000066757202,
+    "field": "Health Professions",
+    "domain": "Health Sciences",
+    "oa_url": "https://implementationscience.biomedcentral.com/counter/pdf/10.1186/1748-5908-6-42",
+    "is_oa": true,
+    "venue": "Implementation Science",
+    "rank": 0,
+    "pool": 548
+   },
+   "twin": {
+    "id": "W2035612475",
+    "doi": "https://doi.org/10.1177/193758671100400409",
+    "title": "Integrated Healthscape Strategies: An Ecological Approach to Evidence-Based Design",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 24,
+    "pct": 0.83624536,
+    "n_refs": 34,
+    "n_authors": 4,
+    "topic_id": "T10629",
+    "topic": "Health Policy Implementation Science",
+    "topic_score": 0.20479999482631683,
+    "field": "Health Professions",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "HERD Health Environments Research & Design Journal",
+    "rank": 261,
+    "pool": 548
+   }
+  },
+  {
+   "topic": "Insect behavior and control techniques",
+   "topic_id": "T12043",
+   "path": "Life Sciences > Agricultural and Biological Sciences > Insect Science > Insect behavior and control techniques",
+   "domain": "Life Sciences",
+   "year": 2018,
+   "pool": 605,
+   "ranks": {
+    "case": 0,
+    "twin": 340,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     242,
+     362
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 6,
+     "n_review": 0,
+     "review_share": 0.0,
+     "reviews": []
+    },
+    "twin_band": {
+     "n_band": 121,
+     "n_review": 5,
+     "review_share": 0.041
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2896933604",
+    "doi": "https://doi.org/10.1002/ps.5240",
+    "title": "Identification and risk assessment of spinosad resistance in a California population of Drosophila suzukii",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 201,
+    "pct": 0.99451243,
+    "n_refs": 41,
+    "n_authors": 2,
+    "topic_id": "T12043",
+    "topic": "Insect behavior and control techniques",
+    "topic_score": 0.9843000173568726,
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Pest Management Science",
+    "rank": 0,
+    "pool": 605
+   },
+   "twin": {
+    "id": "W2899493151",
+    "doi": "https://doi.org/10.1111/jen.12577",
+    "title": "Real‐time PCR assays for rapid detection of Zeugodacus cucumis and Bactrocera jarvisi (Diptera: Tephritidae) for quarantine application",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 9,
+    "pct": 0.60860696,
+    "n_refs": 35,
+    "n_authors": 6,
+    "topic_id": "T12043",
+    "topic": "Insect behavior and control techniques",
+    "topic_score": 1.0,
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Applied Entomology",
+    "rank": 340,
+    "pool": 605
+   }
+  }
+ ],
+ "split": "dev"
+}
