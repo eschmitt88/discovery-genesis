@@ -213,6 +213,16 @@ in H6. Human rating on a subset calibrates the judge.
   Hindsight contaminates coding as much as it contaminates introductions.
   Mitigation: code from the paper's text and *prior* references only; the
   card's `evidence` field is audited.
+- The CD/disruption index is contested as of 2026 (Holst/Ginis et al. vs
+  Park/Leahey/Funk in *Nature*: much of the reported decline may be a
+  zero-reference-works and plotting artefact). Decide and document raw
+  vs corrected CD before H1 runs; treat it as a card feature, never a
+  selection criterion.
+- Is 2010–2019 long enough? Sleeping beauties (Ke et al.) and the 10+
+  year convergence of disruption signal (Lin/Evans/Wu) say some
+  "twins" are late bloomers. Mitigation: record the percentile's
+  snapshot date; re-pull impact at the end of the project and report how
+  many twins moved.
 - The skill might end up mostly about *problem selection and timing* (H5)
   rather than idea generation. That would be a real finding, and a
   different skill.
