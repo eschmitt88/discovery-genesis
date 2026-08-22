@@ -3,8 +3,8 @@ kind: concept
 name: "matched control twin"
 status: seedling
 added: "2026-08-22"
-sources: []
-related_concepts: ["field-normalized-impact", "novelty-vs-impact", "genesis-card"]
+sources: ["openalex-fwci", "fleming2001recombinant"]
+related_concepts: ["field-normalized-impact", "novelty-vs-impact", "genesis-card", "recombinant-uncertainty"]
 related_experiments: []
 tags: ["core", "method", "h1", "h3", "h5"]
 ---
@@ -32,3 +32,11 @@ execution.
 
 - Drawn with OpenAlex `sample=` and a logged seed, like the case.
 - One twin per case in the pilot; more if H5's same-move twins are rare.
+- The 0.40–0.60 percentile band is defined by the same
+  `citation_normalized_percentile` / FWCI methodology as the case's ≥0.99
+  threshold — see [[field-normalized-impact]] for its exact window and
+  classification caveats.
+- Fleming's (2001) recombination-variance finding
+  ([[recombinant-uncertainty]]) is the theoretical reason to expect
+  same-move, non-impactful twins to be common rather than a rare
+  edge case H5 might struggle to find.

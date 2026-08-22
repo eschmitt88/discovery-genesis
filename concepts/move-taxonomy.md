@@ -3,7 +3,7 @@ kind: concept
 name: "move taxonomy"
 status: seedling
 added: "2026-08-22"
-sources: []
+sources: ["dunbar1997scientists", "sternberg1999propulsion"]
 related_concepts: ["triz-lineage", "genesis-card", "atypical-combination", "novelty-vs-impact"]
 related_experiments: []
 tags: ["core", "h2", "h3"]

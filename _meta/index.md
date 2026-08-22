@@ -12,6 +12,12 @@ and `/new-experiment`.
 
 (promote a cluster of ≥5 related concepts into `mocs/<theme>.md`)
 
+- MoC candidate (not yet promoted): bibliometric novelty/impact
+  measurement — [[atypical-combination]], [[disruption-index]],
+  [[field-normalized-impact]], [[novelty-vs-impact]],
+  [[matched-control-twin]], [[recombinant-uncertainty]] (6 concepts,
+  all sourced 2026-08-22 curation of `science-of-science-novelty-impact`).
+
 ## Active experiments
 
 - `experiments/2026-08-22-h1-pilot-bibliometrics/` — H1 on the 15-pair pilot

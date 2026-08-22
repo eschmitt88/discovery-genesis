@@ -5,6 +5,7 @@ discovered: 2026-08-22
 source: discover
 n_requested: 14
 n_returned: 14
+curated: 2026-08-22
 ---
 
 ## 1. Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers
