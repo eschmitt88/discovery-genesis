@@ -36,3 +36,12 @@ Ignoring wrong pointing object 154 0 (offset 0)
 [21/30]  W2796455598  refs=209  citers=278  s2=ok  text=no  10.4s
 [22/30]  W2896467100  refs=28  citers=11  s2=ok  text=no  17.3s
 [23/30]  W2561980828  refs=58  citers=807  s2=ok  text=no  11.4s
+[24/30]  W2558766392  refs=39  citers=24  s2=ok  text=no  99.2s
+[25/30]  W2128076336  refs=122  citers=559  s2=ok  text=no  9.1s
+[26/30]  W1578852322  refs=6  citers=35  s2=ok  text=no  14.7s
+[27/30]  W2051476652  refs=38  citers=990  s2=ok  text=no  13.1s
+[28/30]  W2108283807  refs=59  citers=37  s2=ok  text=no  9.2s
+[29/30]  W1965361443  refs=22  citers=114  s2=ok  text=no  6.4s
+[30/30]  W2023417992  refs=5  citers=9  s2=ok  text=no  6.1s
+10 works -> /mnt/projects/research/discovery-genesis/raw/cases
+[1/10]  W2295408967  refs=298  citers=408  s2=ok  text=no  10.9s

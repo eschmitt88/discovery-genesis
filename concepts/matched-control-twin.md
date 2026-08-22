@@ -14,8 +14,9 @@ tags: ["core", "method", "h1", "h3", "h5"]
 ## Definition
 
 For each impactful case, a paper drawn at random from the same OpenAlex
-primary topic, the same year and the same document type, with
-field-normalised citation percentile in the 0.40–0.60 band. Coded with the
+primary topic, the same year and the same document type, with citation
+rank within that topic-year pool in the 0.40–0.60 band (the case is in
+the top 1 % of the same ranking). Coded with the
 same card schema.
 
 ## Why it matters here
@@ -30,12 +31,13 @@ execution.
 
 ## Connections
 
-- Drawn with OpenAlex `sample=` and a logged seed, like the case.
+- Drawn by a seeded RNG over ranks in the topic-year pool, like the case
+  (`genesis/sample.py`); the OpenAlex `sample=` + percentile approach was
+  dropped after the pilot redraw — see [[field-normalized-impact]].
 - One twin per case in the pilot; more if H5's same-move twins are rare.
-- The 0.40–0.60 percentile band is defined by the same
-  `citation_normalized_percentile` / FWCI methodology as the case's ≥0.99
-  threshold — see [[field-normalized-impact]] for its exact window and
-  classification caveats.
+- The 0.40–0.60 band and the case's top-1 % are fractions of the same
+  citation ranking, so the two are defined identically — see
+  [[field-normalized-impact]] for why OpenAlex's own percentile was not used.
 - Fleming's (2001) recombination-variance finding
   ([[recombinant-uncertainty]]) is the theoretical reason to expect
   same-move, non-impactful twins to be common rather than a rare

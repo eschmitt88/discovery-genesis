@@ -27,8 +27,15 @@ well-defined (same topic-year, different percentile band).
 
 ## Connections
 
-- Threshold ≥ 0.99 for cases, 0.40–0.60 for twins, years 2010–2019 so
-  impact has accrued and OA text exists.
+- **Sampling now uses our own rank, not OpenAlex's percentile.** The
+  pilot redraw showed the percentile's tail is unreliable in small
+  topic-years (a 6-citation paper at p0.99; a 5 000-citation tool paper
+  mis-tagged into a 137-article topic). `genesis.sample` ranks
+  `type:article` works by `cited_by_count` within the primary-topic × year
+  pool, requires pool ≥ 500 and case ≥ 20 citations, draws the case
+  uniformly from the top 1 % of ranks and the twin from ranks 0.40–0.60.
+  Years 2010–2019 so impact has accrued. OpenAlex's percentile is kept
+  as a card feature (`pct`) for comparison.
 - Topic assignment is itself a model output; a case whose primary topic
   looks wrong is flagged, not silently kept. Per OpenAlex's own docs the
   subfield used for normalization is assigned from a work's *content*,
