@@ -79,10 +79,11 @@ def features_for(w: str) -> dict:
         nj = sum(any(wid(x) in refset for x in c.get("referenced_works", [])) for c in cs)
         ni = len(cs) - nj
         return round((ni - nj) / (ni + nj), 3)
-    f["n_citers"] = len(citers)
+    f["n_citers"] = len(citers) if (d / "citers.json").exists() else None
     f["citers_capped"] = status.get("citers_capped", False)
-    f["cd_nok"] = cd(citers)
-    f["cd5_nok"] = cd([c for c in citers if c.get("publication_year") and c["publication_year"] <= year + 5])
+    f["cd_nok"] = cd(citers) if citers else None
+    f["cd5_nok"] = (cd([c for c in citers if c.get("publication_year") and c["publication_year"] <= year + 5])
+                    if citers else None)
 
     if s2:
         f["s2_influential"] = s2["paper"].get("influentialCitationCount")

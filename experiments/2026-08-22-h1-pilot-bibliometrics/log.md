@@ -92,3 +92,15 @@
   paper is thin (less method detail → the import is the only visible move);
   and 3 of the 7 twins here are essay/report genres where framing imports are
   the whole contribution.
+- 2026-08-22 21:05 OpenAlex 429 diagnosis. Single work lookups return 200 while
+  **every** `filter=cites:` query returns 429 — at per-page 200, 100, 50 and 25,
+  with and without `select`, and with a publication-year window. So it is not a
+  global block or a query-shape problem: OpenAlex throttles the citation-lookup
+  endpoint class far harder than work/reference lookups, and our earlier
+  three-process burst put it in a cooldown. Fix: citers are decoupled from the
+  bundle (`--no-citers` for the main pass, `--citers-only --citer-delay` for a
+  slow drip afterwards); a citer failure now records `citers_error` in
+  `status.json` instead of aborting the run, and `features.py` emits null CD
+  rather than 0 when citers are absent. H1's primary signals (reference recency,
+  hotness, cross-field share) do not depend on citers, so the analysis is not
+  blocked by the cooldown.

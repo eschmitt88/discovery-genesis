@@ -294,7 +294,7 @@ def pdf_text(pdf: Path) -> str:
 
 
 def bundle(w: str, max_citers: int, want_text: bool, log=print, retry_text: bool = False,
-           retry_s2: bool = False) -> dict:
+           retry_s2: bool = False, want_citers: bool = True) -> dict:
     d = RAW / w
     status_p = d / "status.json"
     status = json.load(status_p.open()) if status_p.exists() else {"id": w}
@@ -309,12 +309,19 @@ def bundle(w: str, max_citers: int, want_text: bool, log=print, retry_text: bool
         refs = fetch_batch([wid(r) for r in work.get("referenced_works", [])], REF_SELECT)
         write_once(d / "refs.json", refs); status["n_refs_fetched"] = len(refs)
 
-    if not (d / "citers.json").exists():
-        citers = fetch_citers(w, max_citers, until_year=work["publication_year"] + CITER_WINDOW)
-        write_once(d / "citers.json", citers)
-        status["n_citers_fetched"] = len(citers)
-        status["citers_capped"] = len(citers) >= max_citers
-        status["citer_window_years"] = CITER_WINDOW
+    # Citers are fetched separately: OpenAlex throttles the `cites:` filter far more
+    # aggressively than work/reference lookups, and a 429 there must not block the
+    # rest of a bundle. `--citers-only` drips them in afterwards.
+    if want_citers and not (d / "citers.json").exists():
+        try:
+            citers = fetch_citers(w, max_citers, until_year=work["publication_year"] + CITER_WINDOW)
+        except Exception as e:                 # noqa: BLE001
+            status["citers_error"] = str(e)[:120]
+        else:
+            write_once(d / "citers.json", citers)
+            status["n_citers_fetched"] = len(citers)
+            status["citers_capped"] = len(citers) >= max_citers
+            status["citer_window_years"] = CITER_WINDOW
 
     ab_p = d / "abstract.json"
     if not work.get("abstract") and not ab_p.exists() and "abstract" not in status:
@@ -374,6 +381,9 @@ def main(argv=None):
     ap.add_argument("--no-text", action="store_true")
     ap.add_argument("--only", nargs="*", help="restrict to these W-ids")
     ap.add_argument("--retry-text", action="store_true", help="retry full text even if a previous attempt failed")
+    ap.add_argument("--no-citers", action="store_true", help="skip the citer pull (OpenAlex throttles `cites:` hard); fill later with --citers-only")
+    ap.add_argument("--citers-only", action="store_true", help="fetch only missing citers, slowly")
+    ap.add_argument("--citer-delay", type=float, default=3.0, help="seconds between citer pulls")
     ap.add_argument("--retry-s2", action="store_true", help="re-pull Semantic Scholar when the stored reference list is empty (rate-limited first time)")
     a = ap.parse_args(argv)
     rec = json.load(open(a.sample))
@@ -383,10 +393,32 @@ def main(argv=None):
     if a.only:
         ids = [i for i in ids if i in set(a.only)]
     print(f"{len(ids)} works -> {RAW}", file=sys.stderr)
+    if a.citers_only:
+        for i, w in enumerate(ids, 1):
+            d = RAW / w
+            if (d / "citers.json").exists() or not (d / "work.json").exists():
+                continue
+            work = json.load((d / "work.json").open())
+            try:
+                citers = fetch_citers(w, a.max_citers, until_year=work["publication_year"] + CITER_WINDOW)
+            except Exception as e:             # noqa: BLE001
+                print(f"[{i}/{len(ids)}]  {w}  citers FAILED: {str(e)[:60]}", file=sys.stderr)
+                time.sleep(a.citer_delay * 5)
+                continue
+            write_once(d / "citers.json", citers)
+            st_p = d / "status.json"
+            st = json.load(st_p.open()) if st_p.exists() else {"id": w}
+            st.update({"n_citers_fetched": len(citers), "citers_capped": len(citers) >= a.max_citers,
+                       "citer_window_years": CITER_WINDOW})
+            st.pop("citers_error", None)
+            st_p.write_text(json.dumps(st, indent=1))
+            print(f"[{i}/{len(ids)}]  {w}  citers={len(citers)}", file=sys.stderr)
+            time.sleep(a.citer_delay)
+        return
     for i, w in enumerate(ids, 1):
         print(f"[{i}/{len(ids)}]", file=sys.stderr, end="")
         bundle(w, a.max_citers, not a.no_text, log=lambda s: print(s, file=sys.stderr),
-               retry_text=a.retry_text, retry_s2=a.retry_s2)
+               retry_text=a.retry_text, retry_s2=a.retry_s2, want_citers=not a.no_citers)
 
 
 if __name__ == "__main__":
