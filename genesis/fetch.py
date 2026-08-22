@@ -47,6 +47,7 @@ REF_SELECT = ",".join([
     "referenced_works_count", "authorships", "fwci",
 ])
 CITER_SELECT = "id,publication_year,referenced_works,primary_topic,cited_by_count"
+CITER_WINDOW = 5                   # years after publication; CD5 is the index we report
 
 
 # ----------------------------------------------------------------- helpers
@@ -119,11 +120,14 @@ def fetch_batch(ids: list[str], select: str) -> list[dict]:
     return out
 
 
-def fetch_citers(w: str, max_citers: int) -> list[dict]:
+def fetch_citers(w: str, max_citers: int, until_year: int | None = None) -> list[dict]:
+    """Citing works, for the disruption index. `until_year` restricts to citers
+    published within the CD window — the 5-year index is what the project uses and
+    the restriction cuts request volume several-fold on highly cited papers."""
+    flt = f"cites:{w}" + (f",publication_year:<{until_year + 1}" if until_year else "")
     out, cursor = [], "*"
     while cursor and len(out) < max_citers:
-        d = openalex({"filter": f"cites:{w}", "select": CITER_SELECT, "per-page": 200,
-                      "cursor": cursor, "mailto": MAILTO})
+        d = openalex({"filter": flt, "select": CITER_SELECT, "per-page": 200, "cursor": cursor})
         out.extend(d["results"])
         cursor = d["meta"].get("next_cursor")
     return out[:max_citers]
@@ -268,10 +272,11 @@ def bundle(w: str, max_citers: int, want_text: bool, log=print, retry_text: bool
         write_once(d / "refs.json", refs); status["n_refs_fetched"] = len(refs)
 
     if not (d / "citers.json").exists():
-        citers = fetch_citers(w, max_citers)
+        citers = fetch_citers(w, max_citers, until_year=work["publication_year"] + CITER_WINDOW)
         write_once(d / "citers.json", citers)
         status["n_citers_fetched"] = len(citers)
         status["citers_capped"] = len(citers) >= max_citers
+        status["citer_window_years"] = CITER_WINDOW
 
     s2_p = d / "s2.json"
     s2_thin = s2_p.exists() and not (json.load(s2_p.open()).get("references") or [])
