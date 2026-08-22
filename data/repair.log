@@ -12,3 +12,41 @@
 [11/30]  W2600578302  refs=24  citers=185  s2_refs=-  text=no  27.5s
 [12/30]  W2744174631  refs=65  citers=6  s2_refs=-  text=no  19.0s
 [13/30]  W2078338131  refs=26  citers=3000  s2_refs=-  text=no  18.8s
+[14/30]  W2022565558  refs=19  citers=25  s2_refs=-  text=no  13.3s
+[15/30]Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/mnt/projects/research/discovery-genesis/genesis/fetch.py", line 348, in <module>
+    if pdf:
+^^^^^^
+  File "/mnt/projects/research/discovery-genesis/genesis/fetch.py", line 343, in main
+    status["fulltext"] = {"source": "europepmc", "chars": len(txt)}
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/projects/research/discovery-genesis/genesis/fetch.py", line 275, in bundle
+    return "\n".join(t for t in body.itertext())
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/projects/research/discovery-genesis/genesis/fetch.py", line 130, in fetch_citers
+    d = openalex({"filter": flt, "select": CITER_SELECT, "per-page": 200, "cursor": cursor})
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/projects/research/discovery-genesis/genesis/sample.py", line 103, in openalex
+    with urllib.request.urlopen(req, timeout=60) as r:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+repair exit 1
