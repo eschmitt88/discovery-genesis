@@ -62,3 +62,33 @@
   an old broad problem and a recent narrow one; `role` has no slot for a
   formalism/substrate (RDF); problem-first's "≤3 y ingredient" rule fits
   resource-repurposing (secondary analysis of a 5-year-old trial) badly.
+- 2026-08-22 20:35 coder B finished; agreement computed
+  (`results/agreement-pilotB.md`). **Cohen κ = 0.714 on `genesis_model`**
+  (raw 0.79), above the protocol's 0.6 gate on the first attempt with the v0
+  codebook. `move_candidates` Jaccard 0.70, and every paper shared at least one
+  move label between coders. Weak fields: `enabler_head` κ = 0.16 (free text —
+  needs a closed vocabulary in v1) and `problem_age` κ = 0.44 (the
+  old-broad-problem / recent-narrow-problem conflation coder A flagged).
+  Confusion is concentrated in accretion↔problem-first (3 of 3 disagreements).
+- Both coders independently recognised the same 2 of 14 papers
+  (`W2078338131` band-convergence, `W2149161770` zebrafish gata4+) — a 14 %
+  recall rate on randomly drawn 2010s STEM papers, which is the memorisation
+  base rate the H6 retrodiction protocol has to handle.
+- **First unblinded contrast (H0/H3 smoke reading; 7 pairs × 2 coders = 14
+  codings per role):**
+  - genesis model, case vs twin: means-first **6 vs 2**, accretion 3 vs 5,
+    problem-first 3 vs 4, idea-first 2 vs 3.
+  - moves, case vs twin: `transfer` **0 vs 8**, `unification` 4 vs 0,
+    `recombination` 6 vs 3, `anomaly` 1 vs 0, `gap-filling` 7 vs 5.
+  Read with care at this n, but two directions are worth stating: impactful
+  primary papers in this batch lean **means-first** (a new tool/screen/
+  instrument produced the finding), and **`transfer` appears only on the
+  twins** — every coded instance of "imported a method or frame from another
+  field" landed on the median-impact member of its pair. If that survives
+  n = 150, it is a direct challenge to the premise of `llm-cross-pollination`
+  (that foreign-mechanism import is the high-value move) and to any skill built
+  on transfer alone.
+  Confounds to rule out first: `transfer` may be coded more readily when a
+  paper is thin (less method detail → the import is the only visible move);
+  and 3 of the 7 twins here are essay/report genres where framing imports are
+  the whole contribution.
