@@ -18,6 +18,11 @@ and `/new-experiment`.
 
 - `experiments/2026-08-22-h1-pilot-bibliometrics/` — H1 on the 15-pair pilot
 
+## Codebook
+
+- `docs/codebook-v1.md` — label definitions and decision rules (v1, from the
+  pilot B open-coding pass). `prompts/open-code.md` is the card format.
+
 ## Open questions
 
 - Is the paper the right unit, or the paper-plus-lineage? (pilot check)
