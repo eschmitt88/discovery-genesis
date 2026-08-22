@@ -1,0 +1,365 @@
+{
+ "kind": "sample",
+ "date": "2026-08-22",
+ "seed": 1124470055840796258,
+ "xpol_record": {
+  "seed": 1124470055840796258,
+  "level": "topic",
+  "k": 60,
+  "stratify": "domain",
+  "population": 4516,
+  "band": null,
+  "exclude_home": true,
+  "eligible": 4516
+ },
+ "params": {
+  "years": [
+   2010,
+   2019
+  ],
+  "case_band": [
+   0.0,
+   0.010000000000000009
+  ],
+  "twin_band": [
+   0.4,
+   0.6
+  ],
+  "min_refs": 5,
+  "min_pool": 500,
+  "case_min_cites": 20,
+  "ranking": "own cited_by_count rank within primary_topic × year × type:article",
+  "domains": [
+   "Physical Sciences",
+   "Life Sciences",
+   "Health Sciences"
+  ],
+  "type": "article"
+ },
+ "n_pairs": 5,
+ "skipped_topics": [
+  "Food Security and Socioeconomic Dynamics",
+  "Conservation, Ecology, Wildlife Education",
+  "Infectious Encephalopathies and Encephalitis",
+  "Seed and Plant Biochemistry",
+  "Hydrogen's biological and therapeutic effects",
+  "Advanced Scientific Techniques and Applications",
+  "Oral and Craniofacial Lesions",
+  "Photovoltaic Systems and Sustainability",
+  "Agricultural Practices and Plant Genetics",
+  "Mathematics Education and Programs",
+  "Advanced Theoretical and Applied Studies in Material Sciences and Geometry",
+  "Ziziphus Jujuba Studies and Applications",
+  "Medical Coding and Health Information",
+  "Statistical Mechanics and Entropy",
+  "Free Will and Agency"
+ ],
+ "pairs": [
+  {
+   "topic": "Click Chemistry and Applications",
+   "topic_id": "T11440",
+   "path": "Physical Sciences > Chemistry > Organic Chemistry > Click Chemistry and Applications",
+   "domain": "Physical Sciences",
+   "year": 2016,
+   "pool": 1061,
+   "ranks": {
+    "case": 4,
+    "twin": 505,
+    "case_band": [
+     0,
+     9
+    ],
+    "twin_band": [
+     424,
+     635
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2295408967",
+    "doi": "https://doi.org/10.1002/cbic.201500667",
+    "title": "Chemical Protein Modification through Cysteine",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 408,
+    "pct": 0.9972118,
+    "n_refs": 298,
+    "n_authors": 2,
+    "topic_id": "T11440",
+    "topic": "Click Chemistry and Applications",
+    "topic_score": null,
+    "field": "Chemistry",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 4,
+    "pool": 1061
+   },
+   "twin": {
+    "id": "W2416298893",
+    "doi": "https://doi.org/10.1002/chem.201604056",
+    "title": "Domino Staudinger/aza‐Wittig/Mannich Reaction: An Approach to Diversity of Di‐ and Tetrahydropyrrole Scaffolds",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 23,
+    "pct": 0.90639207,
+    "n_refs": 53,
+    "n_authors": 9,
+    "topic_id": "T11440",
+    "topic": "Click Chemistry and Applications",
+    "topic_score": null,
+    "field": "Chemistry",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 505,
+    "pool": 1061
+   }
+  },
+  {
+   "topic": "Metabolism, Diabetes, and Cancer",
+   "topic_id": "T11339",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Molecular Biology > Metabolism, Diabetes, and Cancer",
+   "domain": "Life Sciences",
+   "year": 2015,
+   "pool": 944,
+   "ranks": {
+    "case": 6,
+    "twin": 487,
+    "case_band": [
+     0,
+     8
+    ],
+    "twin_band": [
+     377,
+     565
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W185214937",
+    "doi": "https://doi.org/10.2174/1871530315666150316124019",
+    "title": "Metformin and Inflammation: Its Potential Beyond Glucose-lowering Effect",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 455,
+    "pct": 0.9908304,
+    "n_refs": 92,
+    "n_authors": 1,
+    "topic_id": "T11339",
+    "topic": "Metabolism, Diabetes, and Cancer",
+    "topic_score": null,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 6,
+    "pool": 944
+   },
+   "twin": {
+    "id": "W1847824293",
+    "doi": "https://doi.org/10.1016/j.cbpb.2015.10.007",
+    "title": "Effects of feed deprivation on the AMPK signaling pathway in skeletal muscle of broiler chickens",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 26,
+    "pct": 0.73881094,
+    "n_refs": 53,
+    "n_authors": 6,
+    "topic_id": "T11339",
+    "topic": "Metabolism, Diabetes, and Cancer",
+    "topic_score": null,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 487,
+    "pool": 944
+   }
+  },
+  {
+   "topic": "Chronic Obstructive Pulmonary Disease (COPD) Research",
+   "topic_id": "T10143",
+   "path": "Health Sciences > Medicine > Pulmonary and Respiratory Medicine > Chronic Obstructive Pulmonary Disease (COPD) Research",
+   "domain": "Health Sciences",
+   "year": 2016,
+   "pool": 2434,
+   "ranks": {
+    "case": 22,
+    "twin": 977,
+    "case_band": [
+     0,
+     23
+    ],
+    "twin_band": [
+     973,
+     1459
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2511031471",
+    "doi": "https://doi.org/10.1164/rccm.201604-0690so",
+    "title": "Chronic Obstructive Pulmonary Disease and Cardiac Diseases. An Urgent Need for Integrated Care",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 263,
+    "pct": 0.9939675,
+    "n_refs": 219,
+    "n_authors": 5,
+    "topic_id": "T10143",
+    "topic": "Chronic Obstructive Pulmonary Disease (COPD) Research",
+    "topic_score": null,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 22,
+    "pool": 2434
+   },
+   "twin": {
+    "id": "W2609144598",
+    "doi": "https://doi.org/10.1186/s12873-017-0125-6",
+    "title": "Estimation of the severity of breathlessness in the emergency department: a dyspnea score",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 19,
+    "pct": 0.66323179,
+    "n_refs": 39,
+    "n_authors": 5,
+    "topic_id": "T10143",
+    "topic": "Chronic Obstructive Pulmonary Disease (COPD) Research",
+    "topic_score": null,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://bmcemergmed.biomedcentral.com/track/pdf/10.1186/s12873-017-0125-6",
+    "is_oa": true,
+    "rank": 977,
+    "pool": 2434
+   }
+  },
+  {
+   "topic": "Image and Signal Denoising Methods",
+   "topic_id": "T10688",
+   "path": "Physical Sciences > Computer Science > Computer Vision and Pattern Recognition > Image and Signal Denoising Methods",
+   "domain": "Physical Sciences",
+   "year": 2016,
+   "pool": 918,
+   "ranks": {
+    "case": 4,
+    "twin": 536,
+    "case_band": [
+     0,
+     8
+    ],
+    "twin_band": [
+     367,
+     549
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2468506054",
+    "doi": "https://doi.org/10.1109/access.2016.2587581",
+    "title": "A New Wavelet Denoising Method for Selecting Decomposition Levels and Noise Thresholds",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 273,
+    "pct": 0.99327652,
+    "n_refs": 57,
+    "n_authors": 3,
+    "topic_id": "T10688",
+    "topic": "Image and Signal Denoising Methods",
+    "topic_score": null,
+    "field": "Computer Science",
+    "domain": "Physical Sciences",
+    "oa_url": "https://doi.org/10.1109/access.2016.2587581",
+    "is_oa": true,
+    "rank": 4,
+    "pool": 918
+   },
+   "twin": {
+    "id": "W2335077012",
+    "doi": "https://doi.org/10.1515/eletel-2016-0002",
+    "title": "Noise Detection for Biosignals Using an Orthogonal Wavelet Packet Tree Denoising Algorithm",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 5,
+    "pct": 0.01874103,
+    "n_refs": 13,
+    "n_authors": 2,
+    "topic_id": "T10688",
+    "topic": "Image and Signal Denoising Methods",
+    "topic_score": null,
+    "field": "Computer Science",
+    "domain": "Physical Sciences",
+    "oa_url": "https://doi.org/10.1515/eletel-2016-0002",
+    "is_oa": true,
+    "rank": 536,
+    "pool": 918
+   }
+  },
+  {
+   "topic": "Contact Dermatitis and Allergies",
+   "topic_id": "T11033",
+   "path": "Health Sciences > Medicine > Dermatology > Contact Dermatitis and Allergies",
+   "domain": "Health Sciences",
+   "year": 2019,
+   "pool": 777,
+   "ranks": {
+    "case": 0,
+    "twin": 381,
+    "case_band": [
+     0,
+     6
+    ],
+    "twin_band": [
+     310,
+     465
+    ]
+   },
+   "flags": [],
+   "case": {
+    "id": "W2947126976",
+    "doi": "https://doi.org/10.1111/cod.13327",
+    "title": "Nickel allergy and allergic contact dermatitis: A clinical review of immunology, epidemiology, exposure, and treatment",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 324,
+    "pct": 0.9985262,
+    "n_refs": 252,
+    "n_authors": 5,
+    "topic_id": "T11033",
+    "topic": "Contact Dermatitis and Allergies",
+    "topic_score": null,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "rank": 0,
+    "pool": 777
+   },
+   "twin": {
+    "id": "W2922446345",
+    "doi": "https://doi.org/10.5021/ad.2019.31.2.139",
+    "title": "Efficacy and Safety of Oral Alitretinoin in Hand Eczema and Palmoplantar Pustulosis in Korean Patients",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 6,
+    "pct": 0.54542775,
+    "n_refs": 22,
+    "n_authors": 4,
+    "topic_id": "T11033",
+    "topic": "Contact Dermatitis and Allergies",
+    "topic_score": null,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "http://anndermatol.org/Synapse/Data/PDFData/0140AD/ad-31-139.pdf",
+    "is_oa": true,
+    "rank": 381,
+    "pool": 777
+   }
+  }
+ ],
+ "split": "test"
+}

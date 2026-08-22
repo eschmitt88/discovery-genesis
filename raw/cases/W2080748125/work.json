@@ -1,0 +1,838 @@
+{
+ "id": "https://openalex.org/W2080748125",
+ "doi": "https://doi.org/10.1007/s10517-011-1294-z",
+ "title": "Association of Cold Receptor TRPM8 Gene Polymorphism with Blood Lipid Indices and Anthropometric Parameters in Shorians",
+ "display_name": "Association of Cold Receptor TRPM8 Gene Polymorphism with Blood Lipid Indices and Anthropometric Parameters in Shorians",
+ "publication_year": 2011,
+ "publication_date": "2011-06-01",
+ "type": "article",
+ "cited_by_count": 6,
+ "citation_normalized_percentile": {
+  "value": 0.44097539,
+  "is_in_top_1_percent": false,
+  "is_in_top_10_percent": false
+ },
+ "cited_by_percentile_year": {
+  "min": 89,
+  "max": 94
+ },
+ "referenced_works": [
+  "https://openalex.org/W1965751615",
+  "https://openalex.org/W1966555281",
+  "https://openalex.org/W1971175832",
+  "https://openalex.org/W1995330222",
+  "https://openalex.org/W2022525201",
+  "https://openalex.org/W2041943596",
+  "https://openalex.org/W2090568158",
+  "https://openalex.org/W2097587917",
+  "https://openalex.org/W2121983865",
+  "https://openalex.org/W2130626257",
+  "https://openalex.org/W2165491366",
+  "https://openalex.org/W2394084479"
+ ],
+ "referenced_works_count": 12,
+ "related_works": [
+  "https://openalex.org/W2981794951",
+  "https://openalex.org/W2087665027",
+  "https://openalex.org/W2015696580",
+  "https://openalex.org/W1725446770",
+  "https://openalex.org/W2969203119",
+  "https://openalex.org/W192295481",
+  "https://openalex.org/W2341271124",
+  "https://openalex.org/W2147451806",
+  "https://openalex.org/W4316495365",
+  "https://openalex.org/W2137025890"
+ ],
+ "primary_topic": {
+  "id": "https://openalex.org/T11204",
+  "display_name": "Ion Channels and Receptors",
+  "score": 0.9991000294685364,
+  "subfield": {
+   "id": "https://openalex.org/subfields/2809",
+   "display_name": "Sensory Systems"
+  },
+  "field": {
+   "id": "https://openalex.org/fields/28",
+   "display_name": "Neuroscience"
+  },
+  "domain": {
+   "id": "https://openalex.org/domains/1",
+   "display_name": "Life Sciences"
+  }
+ },
+ "topics": [
+  {
+   "id": "https://openalex.org/T11204",
+   "display_name": "Ion Channels and Receptors",
+   "score": 0.9991000294685364,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2809",
+    "display_name": "Sensory Systems"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/28",
+    "display_name": "Neuroscience"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/1",
+    "display_name": "Life Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T11584",
+   "display_name": "Biochemical Analysis and Sensing Techniques",
+   "score": 0.9976999759674072,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2916",
+    "display_name": "Nutrition and Dietetics"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/29",
+    "display_name": "Nursing"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T10035",
+   "display_name": "Phytochemicals and Antioxidant Activities",
+   "score": 0.9914000034332275,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2704",
+    "display_name": "Biochemistry"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  }
+ ],
+ "keywords": [
+  {
+   "id": "https://openalex.org/keywords/anthropometry",
+   "display_name": "Anthropometry",
+   "score": 0.6672182083129883
+  },
+  {
+   "id": "https://openalex.org/keywords/polymorphism",
+   "display_name": "Polymorphism (computer science)",
+   "score": 0.605637788772583
+  },
+  {
+   "id": "https://openalex.org/keywords/genotype",
+   "display_name": "Genotype",
+   "score": 0.5405070185661316
+  },
+  {
+   "id": "https://openalex.org/keywords/gene",
+   "display_name": "Gene",
+   "score": 0.511840283870697
+  },
+  {
+   "id": "https://openalex.org/keywords/genetics",
+   "display_name": "Genetics",
+   "score": 0.45071232318878174
+  },
+  {
+   "id": "https://openalex.org/keywords/trpm8",
+   "display_name": "TRPM8",
+   "score": 0.4335111379623413
+  },
+  {
+   "id": "https://openalex.org/keywords/biology",
+   "display_name": "Biology",
+   "score": 0.4151986837387085
+  },
+  {
+   "id": "https://openalex.org/keywords/receptor",
+   "display_name": "Receptor",
+   "score": 0.4084279239177704
+  },
+  {
+   "id": "https://openalex.org/keywords/internal-medicine",
+   "display_name": "Internal medicine",
+   "score": 0.3394124507904053
+  },
+  {
+   "id": "https://openalex.org/keywords/medicine",
+   "display_name": "Medicine",
+   "score": 0.33249008655548096
+  }
+ ],
+ "concepts": [
+  {
+   "id": "https://openalex.org/C61427482",
+   "wikidata": "https://www.wikidata.org/wiki/Q6656244",
+   "display_name": "Anthropometry",
+   "level": 2,
+   "score": 0.6672182083129883
+  },
+  {
+   "id": "https://openalex.org/C149737253",
+   "wikidata": "https://www.wikidata.org/wiki/Q3240252",
+   "display_name": "Polymorphism (computer science)",
+   "level": 4,
+   "score": 0.605637788772583
+  },
+  {
+   "id": "https://openalex.org/C135763542",
+   "wikidata": "https://www.wikidata.org/wiki/Q106016",
+   "display_name": "Genotype",
+   "level": 3,
+   "score": 0.5405070185661316
+  },
+  {
+   "id": "https://openalex.org/C104317684",
+   "wikidata": "https://www.wikidata.org/wiki/Q7187",
+   "display_name": "Gene",
+   "level": 2,
+   "score": 0.511840283870697
+  },
+  {
+   "id": "https://openalex.org/C54355233",
+   "wikidata": "https://www.wikidata.org/wiki/Q7162",
+   "display_name": "Genetics",
+   "level": 1,
+   "score": 0.45071232318878174
+  },
+  {
+   "id": "https://openalex.org/C163146387",
+   "wikidata": "https://www.wikidata.org/wiki/Q15324395",
+   "display_name": "TRPM8",
+   "level": 5,
+   "score": 0.4335111379623413
+  },
+  {
+   "id": "https://openalex.org/C86803240",
+   "wikidata": "https://www.wikidata.org/wiki/Q420",
+   "display_name": "Biology",
+   "level": 0,
+   "score": 0.4151986837387085
+  },
+  {
+   "id": "https://openalex.org/C170493617",
+   "wikidata": "https://www.wikidata.org/wiki/Q208467",
+   "display_name": "Receptor",
+   "level": 2,
+   "score": 0.4084279239177704
+  },
+  {
+   "id": "https://openalex.org/C126322002",
+   "wikidata": "https://www.wikidata.org/wiki/Q11180",
+   "display_name": "Internal medicine",
+   "level": 1,
+   "score": 0.3394124507904053
+  },
+  {
+   "id": "https://openalex.org/C71924100",
+   "wikidata": "https://www.wikidata.org/wiki/Q11190",
+   "display_name": "Medicine",
+   "level": 0,
+   "score": 0.33249008655548096
+  },
+  {
+   "id": "https://openalex.org/C160145004",
+   "wikidata": "https://www.wikidata.org/wiki/Q413209",
+   "display_name": "TRPV1",
+   "level": 4,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C155164980",
+   "wikidata": "https://www.wikidata.org/wiki/Q304043",
+   "display_name": "Transient receptor potential channel",
+   "level": 3,
+   "score": 0.0
+  }
+ ],
+ "open_access": {
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null,
+  "any_repository_has_fulltext": false
+ },
+ "locations": [
+  {
+   "id": "doi:10.1007/s10517-011-1294-z",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1007/s10517-011-1294-z",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S141734485",
+    "display_name": "Bulletin of Experimental Biology and Medicine",
+    "issn_l": "0007-4888",
+    "issn": [
+     "0007-4888",
+     "0365-9615",
+     "1573-8221",
+     "2413-1008"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "host_organization": "https://openalex.org/P4310319900",
+    "host_organization_name": "Springer Science+Business Media",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310319900",
+     "https://openalex.org/P4310319965"
+    ],
+    "host_organization_lineage_names": [
+     "Springer Science+Business Media",
+     "Springer Nature"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Bulletin of Experimental Biology and Medicine",
+   "raw_type": "journal-article"
+  },
+  {
+   "id": "pmid:22238755",
+   "is_oa": false,
+   "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/22238755",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306525036",
+    "display_name": "PubMed",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I1299303238",
+    "host_organization_name": "National Institutes of Health",
+    "host_organization_lineage": [
+     "https://openalex.org/I1299303238"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Bulletin of experimental biology and medicine",
+   "raw_type": "Journal Article"
+  }
+ ],
+ "best_oa_location": null,
+ "authorships": [
+  {
+   "author_position": "first",
+   "author": {
+    "id": "https://openalex.org/A5112094566",
+    "display_name": "Т. А. Потапова",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I4210116466",
+     "display_name": "Institute of Cytology and Genetics",
+     "ror": "https://ror.org/0277xgb12",
+     "country_code": "RU",
+     "type": "facility",
+     "lineage": [
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I188973947",
+      "https://openalex.org/I4210116466",
+      "https://openalex.org/I4210127387",
+      "https://openalex.org/I4210129690"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210127387",
+     "display_name": "Siberian Branch of the Russian Academy of Sciences",
+     "ror": "https://ror.org/02frkq021",
+     "country_code": "RU",
+     "type": "funder",
+     "lineage": [
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I4210127387"
+     ]
+    }
+   ],
+   "countries": [
+    "RU"
+   ],
+   "is_corresponding": true,
+   "raw_author_name": "T. A. Potapova",
+   "raw_affiliation_strings": [
+    "Institute of Cytology and Genetics, Siberian Division of Russian Academy of Sciences, Novosibirsk, Russia. potapova@ngs.ru",
+    "Siberian Division of the Russian Academy of Sciences"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Institute of Cytology and Genetics, Siberian Division of Russian Academy of Sciences, Novosibirsk, Russia. potapova@ngs.ru",
+     "institution_ids": [
+      "https://openalex.org/I4210116466"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Siberian Division of the Russian Academy of Sciences",
+     "institution_ids": [
+      "https://openalex.org/I4210127387"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5042500646",
+    "display_name": "N. S. Yudin",
+    "orcid": "https://orcid.org/0000-0002-1947-5554"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I4210116466",
+     "display_name": "Institute of Cytology and Genetics",
+     "ror": "https://ror.org/0277xgb12",
+     "country_code": "RU",
+     "type": "facility",
+     "lineage": [
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I188973947",
+      "https://openalex.org/I4210116466",
+      "https://openalex.org/I4210127387",
+      "https://openalex.org/I4210129690"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210127387",
+     "display_name": "Siberian Branch of the Russian Academy of Sciences",
+     "ror": "https://ror.org/02frkq021",
+     "country_code": "RU",
+     "type": "funder",
+     "lineage": [
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I4210127387"
+     ]
+    }
+   ],
+   "countries": [
+    "RU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "N. S. Yudin",
+   "raw_affiliation_strings": [
+    "Institute of Cytology and Genetics, Siberian Division of the Russian Academy of Sciences, Novosibirsk, Russia",
+    "Siberian Division of the Russian Academy of Sciences"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Institute of Cytology and Genetics, Siberian Division of the Russian Academy of Sciences, Novosibirsk, Russia",
+     "institution_ids": [
+      "https://openalex.org/I4210116466"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Siberian Division of the Russian Academy of Sciences",
+     "institution_ids": [
+      "https://openalex.org/I4210127387"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5025354023",
+    "display_name": "I. V. Pilipenko",
+    "orcid": "https://orcid.org/0000-0002-8325-6719"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I4210116466",
+     "display_name": "Institute of Cytology and Genetics",
+     "ror": "https://ror.org/0277xgb12",
+     "country_code": "RU",
+     "type": "facility",
+     "lineage": [
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I188973947",
+      "https://openalex.org/I4210116466",
+      "https://openalex.org/I4210127387",
+      "https://openalex.org/I4210129690"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210127387",
+     "display_name": "Siberian Branch of the Russian Academy of Sciences",
+     "ror": "https://ror.org/02frkq021",
+     "country_code": "RU",
+     "type": "funder",
+     "lineage": [
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I4210127387"
+     ]
+    }
+   ],
+   "countries": [
+    "RU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "I. V. Pilipenko",
+   "raw_affiliation_strings": [
+    "Institute of Cytology and Genetics, Siberian Division of the Russian Academy of Sciences, Novosibirsk, Russia",
+    "Siberian Division of the Russian Academy of Sciences"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Institute of Cytology and Genetics, Siberian Division of the Russian Academy of Sciences, Novosibirsk, Russia",
+     "institution_ids": [
+      "https://openalex.org/I4210116466"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Siberian Division of the Russian Academy of Sciences",
+     "institution_ids": [
+      "https://openalex.org/I4210127387"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5037179584",
+    "display_name": "V. F. Kobsev",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I4210116466",
+     "display_name": "Institute of Cytology and Genetics",
+     "ror": "https://ror.org/0277xgb12",
+     "country_code": "RU",
+     "type": "facility",
+     "lineage": [
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I188973947",
+      "https://openalex.org/I4210116466",
+      "https://openalex.org/I4210127387",
+      "https://openalex.org/I4210129690"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210127387",
+     "display_name": "Siberian Branch of the Russian Academy of Sciences",
+     "ror": "https://ror.org/02frkq021",
+     "country_code": "RU",
+     "type": "funder",
+     "lineage": [
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I4210127387"
+     ]
+    }
+   ],
+   "countries": [
+    "RU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "V. F. Kobsev",
+   "raw_affiliation_strings": [
+    "Institute of Cytology and Genetics, Siberian Division of the Russian Academy of Sciences, Novosibirsk, Russia",
+    "Siberian Division of the Russian Academy of Sciences"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Institute of Cytology and Genetics, Siberian Division of the Russian Academy of Sciences, Novosibirsk, Russia",
+     "institution_ids": [
+      "https://openalex.org/I4210116466"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Siberian Division of the Russian Academy of Sciences",
+     "institution_ids": [
+      "https://openalex.org/I4210127387"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5056587915",
+    "display_name": "А. Г. Ромащенко",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I4210116466",
+     "display_name": "Institute of Cytology and Genetics",
+     "ror": "https://ror.org/0277xgb12",
+     "country_code": "RU",
+     "type": "facility",
+     "lineage": [
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I188973947",
+      "https://openalex.org/I4210116466",
+      "https://openalex.org/I4210127387",
+      "https://openalex.org/I4210129690"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210127387",
+     "display_name": "Siberian Branch of the Russian Academy of Sciences",
+     "ror": "https://ror.org/02frkq021",
+     "country_code": "RU",
+     "type": "funder",
+     "lineage": [
+      "https://openalex.org/I1313323035",
+      "https://openalex.org/I4210127387"
+     ]
+    }
+   ],
+   "countries": [
+    "RU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "A. G. Romashchenko",
+   "raw_affiliation_strings": [
+    "Institute of Cytology and Genetics, Siberian Division of the Russian Academy of Sciences, Novosibirsk, Russia",
+    "Siberian Division of the Russian Academy of Sciences"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Institute of Cytology and Genetics, Siberian Division of the Russian Academy of Sciences, Novosibirsk, Russia",
+     "institution_ids": [
+      "https://openalex.org/I4210116466"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Siberian Division of the Russian Academy of Sciences",
+     "institution_ids": [
+      "https://openalex.org/I4210127387"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5028358013",
+    "display_name": "Е. В. Шахтшнейдер",
+    "orcid": "https://orcid.org/0000-0001-6108-1025"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I1313323035",
+     "display_name": "Russian Academy of Sciences",
+     "ror": "https://ror.org/05qrfxd25",
+     "country_code": "RU",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I1313323035"
+     ]
+    }
+   ],
+   "countries": [
+    "RU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "E. V. Shakhtshneider",
+   "raw_affiliation_strings": [
+    "Institute of Therapy, Siberian Division of the Russian of Russian Academy of Medical Sciences, Novosibirsk, Russia",
+    "Siberian Division of the Russian of Russian Academy of Medical Sciences"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Institute of Therapy, Siberian Division of the Russian of Russian Academy of Medical Sciences, Novosibirsk, Russia",
+     "institution_ids": []
+    },
+    {
+     "raw_affiliation_string": "Siberian Division of the Russian of Russian Academy of Medical Sciences",
+     "institution_ids": [
+      "https://openalex.org/I1313323035"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5023578064",
+    "display_name": "M. Yu. Ogarkov",
+    "orcid": "https://orcid.org/0000-0002-7252-4845"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I1313323035",
+     "display_name": "Russian Academy of Sciences",
+     "ror": "https://ror.org/05qrfxd25",
+     "country_code": "RU",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I1313323035"
+     ]
+    }
+   ],
+   "countries": [
+    "RU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "M. Yu. Ogarkov",
+   "raw_affiliation_strings": [
+    "Institute of Therapy, Siberian Division of the Russian of Russian Academy of Medical Sciences, Novosibirsk, Russia",
+    "Siberian Division of the Russian of Russian Academy of Medical Sciences"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Institute of Therapy, Siberian Division of the Russian of Russian Academy of Medical Sciences, Novosibirsk, Russia",
+     "institution_ids": []
+    },
+    {
+     "raw_affiliation_string": "Siberian Division of the Russian of Russian Academy of Medical Sciences",
+     "institution_ids": [
+      "https://openalex.org/I1313323035"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "last",
+   "author": {
+    "id": "https://openalex.org/A5029878354",
+    "display_name": "М. И. Воевода",
+    "orcid": "https://orcid.org/0000-0001-9425-413X"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I1313323035",
+     "display_name": "Russian Academy of Sciences",
+     "ror": "https://ror.org/05qrfxd25",
+     "country_code": "RU",
+     "type": "government",
+     "lineage": [
+      "https://openalex.org/I1313323035"
+     ]
+    }
+   ],
+   "countries": [
+    "RU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "M. I. Voevoda",
+   "raw_affiliation_strings": [
+    "Institute of Therapy, Siberian Division of the Russian of Russian Academy of Medical Sciences, Novosibirsk, Russia",
+    "Siberian Division of the Russian of Russian Academy of Medical Sciences"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Institute of Therapy, Siberian Division of the Russian of Russian Academy of Medical Sciences, Novosibirsk, Russia",
+     "institution_ids": []
+    },
+    {
+     "raw_affiliation_string": "Siberian Division of the Russian of Russian Academy of Medical Sciences",
+     "institution_ids": [
+      "https://openalex.org/I1313323035"
+     ]
+    }
+   ]
+  }
+ ],
+ "biblio": {
+  "volume": "151",
+  "issue": "2",
+  "first_page": "223",
+  "last_page": "226"
+ },
+ "ids": {
+  "openalex": "https://openalex.org/W2080748125",
+  "doi": "https://doi.org/10.1007/s10517-011-1294-z",
+  "mag": "2080748125",
+  "pmid": "https://pubmed.ncbi.nlm.nih.gov/22238755"
+ },
+ "is_retracted": false,
+ "counts_by_year": [
+  {
+   "year": 2023,
+   "cited_by_count": 1
+  },
+  {
+   "year": 2022,
+   "cited_by_count": 1
+  },
+  {
+   "year": 2017,
+   "cited_by_count": 1
+  },
+  {
+   "year": 2016,
+   "cited_by_count": 1
+  },
+  {
+   "year": 2015,
+   "cited_by_count": 1
+  },
+  {
+   "year": 2014,
+   "cited_by_count": 1
+  }
+ ],
+ "primary_location": {
+  "id": "doi:10.1007/s10517-011-1294-z",
+  "is_oa": false,
+  "landing_page_url": "https://doi.org/10.1007/s10517-011-1294-z",
+  "pdf_url": null,
+  "source": {
+   "id": "https://openalex.org/S141734485",
+   "display_name": "Bulletin of Experimental Biology and Medicine",
+   "issn_l": "0007-4888",
+   "issn": [
+    "0007-4888",
+    "0365-9615",
+    "1573-8221",
+    "2413-1008"
+   ],
+   "is_oa": false,
+   "is_in_doaj": false,
+   "is_core": true,
+   "host_organization": "https://openalex.org/P4310319900",
+   "host_organization_name": "Springer Science+Business Media",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310319900",
+    "https://openalex.org/P4310319965"
+   ],
+   "host_organization_lineage_names": [
+    "Springer Science+Business Media",
+    "Springer Nature"
+   ],
+   "type": "journal"
+  },
+  "license": null,
+  "license_id": null,
+  "version": "publishedVersion",
+  "is_accepted": true,
+  "is_published": true,
+  "raw_source_name": "Bulletin of Experimental Biology and Medicine",
+  "raw_type": "journal-article"
+ },
+ "language": "en",
+ "fwci": 0.1355,
+ "abstract": null
+}

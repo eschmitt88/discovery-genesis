@@ -1,0 +1,5331 @@
+[
+ {
+  "id": "https://openalex.org/W1997834106",
+  "doi": "https://doi.org/10.1017/cbo9780511807213",
+  "title": "Fundamentals of Wireless Communication",
+  "publication_year": 2005,
+  "type": "book",
+  "cited_by_count": 13377,
+  "primary_topic": {
+   "id": "https://openalex.org/T12042",
+   "display_name": "Satellite Communication Systems",
+   "score": 0.7799000144004822,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2202",
+    "display_name": "Aerospace Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 0,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5024072566",
+     "display_name": "David Tse",
+     "orcid": "https://orcid.org/0000-0003-1460-5900"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I95457486",
+      "display_name": "University of California, Berkeley",
+      "ror": "https://ror.org/01an7q238",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I95457486"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "David Tse",
+    "raw_affiliation_strings": [
+     "University of California, Berkeley"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "University of California, Berkeley",
+      "institution_ids": [
+       "https://openalex.org/I95457486"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5053980484",
+     "display_name": "Pramod Viswanath",
+     "orcid": "https://orcid.org/0000-0003-3171-8667"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I157725225",
+      "display_name": "University of Illinois Urbana-Champaign",
+      "ror": "https://ror.org/047426m28",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I157725225"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Pramod Viswanath",
+    "raw_affiliation_strings": [
+     "University of Illinois, Urbana-Champaign",
+     "University of Illinois Urbana Champaign >  >  >  >"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "University of Illinois, Urbana-Champaign",
+      "institution_ids": [
+       "https://openalex.org/I157725225"
+      ]
+     },
+     {
+      "raw_affiliation_string": "University of Illinois Urbana Champaign >  >  >  >",
+      "institution_ids": [
+       "https://openalex.org/I157725225"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 2872.1495
+ },
+ {
+  "id": "https://openalex.org/W2129766733",
+  "doi": "https://doi.org/10.1109/tit.2003.810646",
+  "title": "Diversity and multiplexing: a fundamental tradeoff in multiple-antenna channels",
+  "publication_year": 2003,
+  "type": "article",
+  "cited_by_count": 4367,
+  "primary_topic": {
+   "id": "https://openalex.org/T10125",
+   "display_name": "Advanced Wireless Communication Techniques",
+   "score": 0.9998000264167786,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 25,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5112425882",
+     "display_name": "Lizhong Zheng",
+     "orcid": "https://orcid.org/0000-0002-6108-0222"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I63966007",
+      "display_name": "Massachusetts Institute of Technology",
+      "ror": "https://ror.org/042nb2s44",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63966007"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I95457486",
+      "display_name": "University of California, Berkeley",
+      "ror": "https://ror.org/01an7q238",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I95457486"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Lizhong Zheng",
+    "raw_affiliation_strings": [
+     "Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, MA, USA",
+     "Department of Electrical Engineering and Computer Sciences, University of California Berkeley, Berkeley, CA, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, MA, USA",
+      "institution_ids": [
+       "https://openalex.org/I63966007"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Electrical Engineering and Computer Sciences, University of California Berkeley, Berkeley, CA, USA",
+      "institution_ids": [
+       "https://openalex.org/I95457486"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5024072566",
+     "display_name": "David Tse",
+     "orcid": "https://orcid.org/0000-0003-1460-5900"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I95457486",
+      "display_name": "University of California, Berkeley",
+      "ror": "https://ror.org/01an7q238",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I95457486"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "D.N.C. Tse",
+    "raw_affiliation_strings": [
+     "Department of Electrical Engineering and Computer Sciences, University of California Berkeley, Berkeley, CA, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Electrical Engineering and Computer Sciences, University of California Berkeley, Berkeley, CA, USA",
+      "institution_ids": [
+       "https://openalex.org/I95457486"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 181.6181
+ },
+ {
+  "id": "https://openalex.org/W1518384680",
+  "doi": "https://doi.org/10.1002/0470870982",
+  "title": "WCDMA for UMTS",
+  "publication_year": 2002,
+  "type": "book",
+  "cited_by_count": 1798,
+  "primary_topic": {
+   "id": "https://openalex.org/T10575",
+   "display_name": "Wireless Communication Networks Research",
+   "score": 0.9793000221252441,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1705",
+    "display_name": "Computer Networks and Communications"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/17",
+    "display_name": "Computer Science"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 0,
+  "authorships": [],
+  "fwci": 162.7009
+ },
+ {
+  "id": "https://openalex.org/W2164664877",
+  "doi": "https://doi.org/10.1109/msp.2007.904815",
+  "title": "Shifting the MIMO Paradigm",
+  "publication_year": 2007,
+  "type": "article",
+  "cited_by_count": 1086,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 42,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5021728919",
+     "display_name": "David Gesbert",
+     "orcid": "https://orcid.org/0000-0002-4806-704X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1902872",
+      "display_name": "EURECOM",
+      "ror": "https://ror.org/00sse7z02",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I1902872",
+       "https://openalex.org/I205703379"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "David Gesbert",
+    "raw_affiliation_strings": [
+     "Eurecom Institute, France"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Eurecom Institute, France",
+      "institution_ids": [
+       "https://openalex.org/I1902872"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5088602155",
+     "display_name": "Marios Kountouris",
+     "orcid": "https://orcid.org/0000-0003-1143-080X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1902872",
+      "display_name": "EURECOM",
+      "ror": "https://ror.org/00sse7z02",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I1902872",
+       "https://openalex.org/I205703379"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Marios Kountouris",
+    "raw_affiliation_strings": [
+     "ENST-Eurecom Institute, France"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "ENST-Eurecom Institute, France",
+      "institution_ids": [
+       "https://openalex.org/I1902872"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5029812222",
+     "display_name": "Robert W. Heath",
+     "orcid": "https://orcid.org/0000-0002-4666-5628"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I86519309",
+      "display_name": "The University of Texas at Austin",
+      "ror": "https://ror.org/00hj54h04",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Robert W. Heath",
+    "raw_affiliation_strings": [
+     "Department of Electrical and Computer Engineering, University of Texas, Austin"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Electrical and Computer Engineering, University of Texas, Austin",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5079863632",
+     "display_name": "Chan‐Byoung Chae",
+     "orcid": "https://orcid.org/0000-0001-9561-3341"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I86519309",
+      "display_name": "The University of Texas at Austin",
+      "ror": "https://ror.org/00hj54h04",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Chan-byoung Chae",
+    "raw_affiliation_strings": [
+     "University of Texas, Austin"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "University of Texas, Austin",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5005025858",
+     "display_name": "Thomas Sälzer",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I19370010",
+      "display_name": "Orange (France)",
+      "ror": "https://ror.org/035j0tq82",
+      "country_code": "FR",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I19370010"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Thomas Salzer",
+    "raw_affiliation_strings": [
+     "France Telecom R&D"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "France Telecom R&D",
+      "institution_ids": [
+       "https://openalex.org/I19370010"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 59.4302
+ },
+ {
+  "id": "https://openalex.org/W1557486844",
+  "doi": "https://doi.org/10.1017/cbo9780511618420",
+  "title": "MIMO Wireless Communications",
+  "publication_year": 2007,
+  "type": "book",
+  "cited_by_count": 1077,
+  "primary_topic": {
+   "id": "https://openalex.org/T10125",
+   "display_name": "Advanced Wireless Communication Techniques",
+   "score": 0.9997000098228455,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 2,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5053017592",
+     "display_name": "E. Biglieri",
+     "orcid": "https://orcid.org/0000-0002-8867-2455"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I170486558",
+      "display_name": "Universitat Pompeu Fabra",
+      "ror": "https://ror.org/04n0g0b29",
+      "country_code": "ES",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I170486558"
+      ]
+     }
+    ],
+    "countries": [
+     "ES"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Ezio Biglieri",
+    "raw_affiliation_strings": [
+     "Universitat Pompeu Fabra, Barcelona",
+     "Universitat Pompeu Fabra Barcelona"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Universitat Pompeu Fabra, Barcelona",
+      "institution_ids": [
+       "https://openalex.org/I170486558"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Universitat Pompeu Fabra Barcelona",
+      "institution_ids": [
+       "https://openalex.org/I170486558"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5000560563",
+     "display_name": "Robert Calderbank",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I20089843",
+      "display_name": "Princeton University",
+      "ror": "https://ror.org/00hx57361",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I20089843"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Robert Calderbank",
+    "raw_affiliation_strings": [
+     "Princeton University, New Jersey",
+     "Princeton University: New Jersey"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Princeton University, New Jersey",
+      "institution_ids": [
+       "https://openalex.org/I20089843"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Princeton University: New Jersey",
+      "institution_ids": [
+       "https://openalex.org/I20089843"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5052125071",
+     "display_name": "A.G. Constantinides",
+     "orcid": "https://orcid.org/0000-0003-2946-5509"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I47508984",
+      "display_name": "Imperial College London",
+      "ror": "https://ror.org/041kmwe10",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I47508984"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Anthony Constantinides",
+    "raw_affiliation_strings": [
+     "Imperial College of Science, Technology and Medicine, London",
+     "Imperial College of Science. Technology and Medicine, London"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Imperial College of Science, Technology and Medicine, London",
+      "institution_ids": [
+       "https://openalex.org/I47508984"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Imperial College of Science. Technology and Medicine, London",
+      "institution_ids": [
+       "https://openalex.org/I47508984"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5074116801",
+     "display_name": "Andrea Goldsmith",
+     "orcid": "https://orcid.org/0000-0001-5686-800X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I97018004",
+      "display_name": "Stanford University",
+      "ror": "https://ror.org/00f54p054",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I97018004"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Andrea Goldsmith",
+    "raw_affiliation_strings": [
+     "Stanford University, California",
+     "#N#        Stanford University, California"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Stanford University, California",
+      "institution_ids": [
+       "https://openalex.org/I97018004"
+      ]
+     },
+     {
+      "raw_affiliation_string": "#N#        Stanford University, California",
+      "institution_ids": [
+       "https://openalex.org/I97018004"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5110271568",
+     "display_name": "A. Paulraj",
+     "orcid": "https://orcid.org/0009-0003-4784-8738"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I97018004",
+      "display_name": "Stanford University",
+      "ror": "https://ror.org/00f54p054",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I97018004"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Arogyaswami Paulraj",
+    "raw_affiliation_strings": [
+     "Stanford University, California",
+     "#N#        Stanford University, California"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Stanford University, California",
+      "institution_ids": [
+       "https://openalex.org/I97018004"
+      ]
+     },
+     {
+      "raw_affiliation_string": "#N#        Stanford University, California",
+      "institution_ids": [
+       "https://openalex.org/I97018004"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5042307561",
+     "display_name": "H. Vincent Poor",
+     "orcid": "https://orcid.org/0000-0002-2062-131X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I20089843",
+      "display_name": "Princeton University",
+      "ror": "https://ror.org/00hx57361",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I20089843"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "H. Vincent Poor",
+    "raw_affiliation_strings": [
+     "Princeton University, New Jersey",
+     "Electrical and Computer Engineering"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Princeton University, New Jersey",
+      "institution_ids": [
+       "https://openalex.org/I20089843"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Electrical and Computer Engineering",
+      "institution_ids": []
+     }
+    ]
+   }
+  ],
+  "fwci": 80.9827
+ },
+ {
+  "id": "https://openalex.org/W2150764210",
+  "doi": "https://doi.org/10.1109/mcom.2004.1341262",
+  "title": "An introduction to the multi-user MIMO downlink",
+  "publication_year": 2004,
+  "type": "article",
+  "cited_by_count": 860,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 0.9998000264167786,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 11,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5087714153",
+     "display_name": "Q.H. Spencer",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210127824",
+      "display_name": "Electrical Distribution Design (United States)",
+      "ror": "https://ror.org/03jgkwp62",
+      "country_code": "US",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I4210127824"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Q.H. Spencer",
+    "raw_affiliation_strings": [
+     "Distribution Control Systems, Inc"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Distribution Control Systems, Inc",
+      "institution_ids": [
+       "https://openalex.org/I4210127824"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5041855864",
+     "display_name": "C.B. Peel",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I5124864",
+      "display_name": "École Polytechnique Fédérale de Lausanne",
+      "ror": "https://ror.org/02s376052",
+      "country_code": "CH",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I2799323385",
+       "https://openalex.org/I5124864"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "C.B. Peel",
+    "raw_affiliation_strings": [
+     "Swiss Federal Institute of Technology, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Swiss Federal Institute of Technology, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I5124864"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5027055000",
+     "display_name": "A. Lee Swindlehurst",
+     "orcid": "https://orcid.org/0000-0002-0521-3107"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I100005738",
+      "display_name": "Brigham Young University",
+      "ror": "https://ror.org/047rhhm47",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I100005738"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "A.L. Swindlehurst",
+    "raw_affiliation_strings": [
+     "Brigham Young University, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Brigham Young University, USA",
+      "institution_ids": [
+       "https://openalex.org/I100005738"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5004533757",
+     "display_name": "Martin Haardt",
+     "orcid": "https://orcid.org/0000-0001-7810-975X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I119449181",
+      "display_name": "Technische Universität Ilmenau",
+      "ror": "https://ror.org/01weqhp73",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I119449181"
+      ]
+     }
+    ],
+    "countries": [
+     "DE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "M. Haardt",
+    "raw_affiliation_strings": [
+     "Ilmenau University of Technology, Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Ilmenau University of Technology, Germany",
+      "institution_ids": [
+       "https://openalex.org/I119449181"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 24.3137
+ },
+ {
+  "id": "https://openalex.org/W2105147296",
+  "doi": "https://doi.org/10.1109/tsp.2005.850331",
+  "title": "Linear transmit processing in MIMO communications systems",
+  "publication_year": 2005,
+  "type": "article",
+  "cited_by_count": 826,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 78,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5064978816",
+     "display_name": "Michael Joham",
+     "orcid": "https://orcid.org/0000-0003-2689-4121"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I62916508",
+      "display_name": "Technical University of Munich",
+      "ror": "https://ror.org/02kkvpp62",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I62916508"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I8204097",
+      "display_name": "Ludwig-Maximilians-Universität München",
+      "ror": "https://ror.org/05591te55",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I8204097"
+      ]
+     }
+    ],
+    "countries": [
+     "DE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "M. Joham",
+    "raw_affiliation_strings": [
+     "Institute for Circuit Theory and Signal Processing, Technical University Munich, Munich, Germany",
+     "Inst. for Circuit Theor. & Signal Process., Tech. Univ. of Munich, Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Institute for Circuit Theory and Signal Processing, Technical University Munich, Munich, Germany",
+      "institution_ids": [
+       "https://openalex.org/I62916508"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Inst. for Circuit Theor. & Signal Process., Tech. Univ. of Munich, Germany",
+      "institution_ids": [
+       "https://openalex.org/I8204097"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5004140094",
+     "display_name": "Wolfgang Utschick",
+     "orcid": "https://orcid.org/0000-0002-2871-4246"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I62916508",
+      "display_name": "Technical University of Munich",
+      "ror": "https://ror.org/02kkvpp62",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I62916508"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I8204097",
+      "display_name": "Ludwig-Maximilians-Universität München",
+      "ror": "https://ror.org/05591te55",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I8204097"
+      ]
+     }
+    ],
+    "countries": [
+     "DE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "W. Utschick",
+    "raw_affiliation_strings": [
+     "Institute for Circuit Theory and Signal Processing, Technical University Munich, Munich, Germany",
+     "Inst. for Circuit Theor. & Signal Process., Tech. Univ. of Munich, Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Institute for Circuit Theory and Signal Processing, Technical University Munich, Munich, Germany",
+      "institution_ids": [
+       "https://openalex.org/I62916508"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Inst. for Circuit Theor. & Signal Process., Tech. Univ. of Munich, Germany",
+      "institution_ids": [
+       "https://openalex.org/I8204097"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5046247590",
+     "display_name": "Josef A. Nossek",
+     "orcid": "https://orcid.org/0000-0001-5909-0782"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I62916508",
+      "display_name": "Technical University of Munich",
+      "ror": "https://ror.org/02kkvpp62",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I62916508"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I8204097",
+      "display_name": "Ludwig-Maximilians-Universität München",
+      "ror": "https://ror.org/05591te55",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I8204097"
+      ]
+     }
+    ],
+    "countries": [
+     "DE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "J.A. Nossek",
+    "raw_affiliation_strings": [
+     "Institute for Circuit Theory and Signal Processing, Technical University Munich, Munich, Germany",
+     "Inst. for Circuit Theor. & Signal Process., Tech. Univ. of Munich, Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Institute for Circuit Theory and Signal Processing, Technical University Munich, Munich, Germany",
+      "institution_ids": [
+       "https://openalex.org/I62916508"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Inst. for Circuit Theor. & Signal Process., Tech. Univ. of Munich, Germany",
+      "institution_ids": [
+       "https://openalex.org/I8204097"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 24.2121
+ },
+ {
+  "id": "https://openalex.org/W2163407995",
+  "doi": "https://doi.org/10.1109/mcom.2009.4907406",
+  "title": "LTE: the evolution of mobile broadband",
+  "publication_year": 2009,
+  "type": "article",
+  "cited_by_count": 824,
+  "primary_topic": {
+   "id": "https://openalex.org/T10575",
+   "display_name": "Wireless Communication Networks Research",
+   "score": 0.9998000264167786,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1705",
+    "display_name": "Computer Networks and Communications"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/17",
+    "display_name": "Computer Science"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 3,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5110058920",
+     "display_name": "David Astély",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210163994",
+      "display_name": "Ericsson (Finland)",
+      "ror": "https://ror.org/04vv43q89",
+      "country_code": "FI",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1306339040",
+       "https://openalex.org/I4210163994"
+      ]
+     }
+    ],
+    "countries": [
+     "FI"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "D. Astely",
+    "raw_affiliation_strings": [
+     "Ericsson Research Limited, Finland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Ericsson Research Limited, Finland",
+      "institution_ids": [
+       "https://openalex.org/I4210163994"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5027554749",
+     "display_name": "Erik Dahlman",
+     "orcid": "https://orcid.org/0000-0003-0057-4410"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210163994",
+      "display_name": "Ericsson (Finland)",
+      "ror": "https://ror.org/04vv43q89",
+      "country_code": "FI",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1306339040",
+       "https://openalex.org/I4210163994"
+      ]
+     }
+    ],
+    "countries": [
+     "FI"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "E. Dahlman",
+    "raw_affiliation_strings": [
+     "Ericsson Research Limited, Finland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Ericsson Research Limited, Finland",
+      "institution_ids": [
+       "https://openalex.org/I4210163994"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5087407806",
+     "display_name": "Anders Furuskär",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210163994",
+      "display_name": "Ericsson (Finland)",
+      "ror": "https://ror.org/04vv43q89",
+      "country_code": "FI",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1306339040",
+       "https://openalex.org/I4210163994"
+      ]
+     }
+    ],
+    "countries": [
+     "FI"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "A. Furuskar",
+    "raw_affiliation_strings": [
+     "Ericsson Research Limited, Finland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Ericsson Research Limited, Finland",
+      "institution_ids": [
+       "https://openalex.org/I4210163994"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5066984358",
+     "display_name": "Ylva Jading",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210163994",
+      "display_name": "Ericsson (Finland)",
+      "ror": "https://ror.org/04vv43q89",
+      "country_code": "FI",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1306339040",
+       "https://openalex.org/I4210163994"
+      ]
+     }
+    ],
+    "countries": [
+     "FI"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Y. Jading",
+    "raw_affiliation_strings": [
+     "Ericsson Research Limited, Finland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Ericsson Research Limited, Finland",
+      "institution_ids": [
+       "https://openalex.org/I4210163994"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5110462786",
+     "display_name": "M. Lindstrom",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210163994",
+      "display_name": "Ericsson (Finland)",
+      "ror": "https://ror.org/04vv43q89",
+      "country_code": "FI",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1306339040",
+       "https://openalex.org/I4210163994"
+      ]
+     }
+    ],
+    "countries": [
+     "FI"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "M. Lindstrom",
+    "raw_affiliation_strings": [
+     "Ericsson Research Limited, Finland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Ericsson Research Limited, Finland",
+      "institution_ids": [
+       "https://openalex.org/I4210163994"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5056954249",
+     "display_name": "Stefan Parkvall",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210163994",
+      "display_name": "Ericsson (Finland)",
+      "ror": "https://ror.org/04vv43q89",
+      "country_code": "FI",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1306339040",
+       "https://openalex.org/I4210163994"
+      ]
+     }
+    ],
+    "countries": [
+     "FI"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "S. Parkvall",
+    "raw_affiliation_strings": [
+     "Ericsson Research Limited, Finland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Ericsson Research Limited, Finland",
+      "institution_ids": [
+       "https://openalex.org/I4210163994"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 97.8309
+ },
+ {
+  "id": "https://openalex.org/W2167357515",
+  "doi": "https://doi.org/10.1109/glocom.2008.ecp.817",
+  "title": "Approaching the Capacity of Wireless Networks through Distributed Interference Alignment",
+  "publication_year": 2008,
+  "type": "conference-paper",
+  "cited_by_count": 742,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 24,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5066820580",
+     "display_name": "Krishna Srikanth Gomadam",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I204250578",
+      "display_name": "University of California, Irvine",
+      "ror": "https://ror.org/04gyf1771",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I204250578"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Krishna Gomadam",
+    "raw_affiliation_strings": [
+     "Electrical Engineering and Computer Science, University of California, Irvine, CA, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Electrical Engineering and Computer Science, University of California, Irvine, CA, USA",
+      "institution_ids": [
+       "https://openalex.org/I204250578"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5008627075",
+     "display_name": "Viveck R. Cadambe",
+     "orcid": "https://orcid.org/0000-0001-6786-8785"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I204250578",
+      "display_name": "University of California, Irvine",
+      "ror": "https://ror.org/04gyf1771",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I204250578"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Viveck R. Cadambe",
+    "raw_affiliation_strings": [
+     "Electrical Engineering and Computer Science, University of California, Irvine, CA, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Electrical Engineering and Computer Science, University of California, Irvine, CA, USA",
+      "institution_ids": [
+       "https://openalex.org/I204250578"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5049553679",
+     "display_name": "Syed A. Jafar",
+     "orcid": "https://orcid.org/0000-0003-2038-2977"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I204250578",
+      "display_name": "University of California, Irvine",
+      "ror": "https://ror.org/04gyf1771",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I204250578"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Syed A. Jafar",
+    "raw_affiliation_strings": [
+     "Electrical Engineering and Computer Science, University of California, Irvine, CA, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Electrical Engineering and Computer Science, University of California, Irvine, CA, USA",
+      "institution_ids": [
+       "https://openalex.org/I204250578"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 121.4717
+ },
+ {
+  "id": "https://openalex.org/W2293033173",
+  "doi": "https://doi.org/10.1109/tit.1978.1055812",
+  "title": "Interference channels",
+  "publication_year": 1978,
+  "type": "article",
+  "cited_by_count": 730,
+  "primary_topic": {
+   "id": "https://openalex.org/T10964",
+   "display_name": "Wireless Communication Security Techniques",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 15,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5077264818",
+     "display_name": "A. B. Carleial",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I97018004",
+      "display_name": "Stanford University",
+      "ror": "https://ror.org/00f54p054",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I97018004"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "A. Carleial",
+    "raw_affiliation_strings": [
+     "Department of Electrical Engineering, University of Stanford, Stanford, CA, USA",
+     "Instituto de Pesquisas Espaciais, Sao Paulo, Brazil"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Electrical Engineering, University of Stanford, Stanford, CA, USA",
+      "institution_ids": [
+       "https://openalex.org/I97018004"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Instituto de Pesquisas Espaciais, Sao Paulo, Brazil",
+      "institution_ids": []
+     }
+    ]
+   }
+  ],
+  "fwci": 4.1407
+ },
+ {
+  "id": "https://openalex.org/W2121308898",
+  "doi": "https://doi.org/10.1109/mcom.2009.4907410",
+  "title": "Interference coordination and cancellation for 4G networks",
+  "publication_year": 2009,
+  "type": "article",
+  "cited_by_count": 678,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 0.9997000098228455,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 11,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5037720618",
+     "display_name": "Gary Boudreau",
+     "orcid": "https://orcid.org/0000-0003-3539-9624"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I153908563",
+      "display_name": "Nortel (Canada)",
+      "ror": "https://ror.org/03rz4pm90",
+      "country_code": "CA",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I153908563"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "G. Boudreau",
+    "raw_affiliation_strings": [
+     "Nortel Limited, Canada",
+     "Nortel, Toronto, ON"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nortel Limited, Canada",
+      "institution_ids": [
+       "https://openalex.org/I153908563"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Nortel, Toronto, ON",
+      "institution_ids": [
+       "https://openalex.org/I153908563"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5111771915",
+     "display_name": "J. Panicker",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I153908563",
+      "display_name": "Nortel (Canada)",
+      "ror": "https://ror.org/03rz4pm90",
+      "country_code": "CA",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I153908563"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "J. Panicker",
+    "raw_affiliation_strings": [
+     "Nortel Networks Limited, Canada",
+     "Nortel, Toronto, ON"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nortel Networks Limited, Canada",
+      "institution_ids": [
+       "https://openalex.org/I153908563"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Nortel, Toronto, ON",
+      "institution_ids": [
+       "https://openalex.org/I153908563"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5112844579",
+     "display_name": "Ning Guo",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I153908563",
+      "display_name": "Nortel (Canada)",
+      "ror": "https://ror.org/03rz4pm90",
+      "country_code": "CA",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I153908563"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I176714629",
+      "display_name": "Bell (Canada)",
+      "ror": "https://ror.org/00xdg8m59",
+      "country_code": "CA",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I176714629"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Ning Guo",
+    "raw_affiliation_strings": [
+     "Bell-Northern Research, Canada",
+     "Nortel, Toronto, ON"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Bell-Northern Research, Canada",
+      "institution_ids": [
+       "https://openalex.org/I176714629"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Nortel, Toronto, ON",
+      "institution_ids": [
+       "https://openalex.org/I153908563"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5018699674",
+     "display_name": "Rui Chang",
+     "orcid": "https://orcid.org/0000-0002-1979-5283"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I153908563",
+      "display_name": "Nortel (Canada)",
+      "ror": "https://ror.org/03rz4pm90",
+      "country_code": "CA",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I153908563"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I66946132",
+      "display_name": "University of Maryland, College Park",
+      "ror": "https://ror.org/047s2c258",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I66946132"
+      ]
+     }
+    ],
+    "countries": [
+     "CA",
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Rui Chang",
+    "raw_affiliation_strings": [
+     "RF Engineering Department, University of Maryland, USA",
+     "Nortel, Toronto, ON"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "RF Engineering Department, University of Maryland, USA",
+      "institution_ids": [
+       "https://openalex.org/I66946132"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Nortel, Toronto, ON",
+      "institution_ids": [
+       "https://openalex.org/I153908563"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5101563002",
+     "display_name": "Neng Wang",
+     "orcid": "https://orcid.org/0000-0002-3847-2455"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I153908563",
+      "display_name": "Nortel (Canada)",
+      "ror": "https://ror.org/03rz4pm90",
+      "country_code": "CA",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I153908563"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Neng Wang",
+    "raw_affiliation_strings": [
+     "Nortel Networks in Richardson, USA",
+     "Nortel, Toronto, ON"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nortel Networks in Richardson, USA",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "Nortel, Toronto, ON",
+      "institution_ids": [
+       "https://openalex.org/I153908563"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5068550387",
+     "display_name": "Sophie Vrzic",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I153908563",
+      "display_name": "Nortel (Canada)",
+      "ror": "https://ror.org/03rz4pm90",
+      "country_code": "CA",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I153908563"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "S. Vrzic",
+    "raw_affiliation_strings": [
+     "Nortel",
+     "Nortel, Toronto, ON"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nortel",
+      "institution_ids": [
+       "https://openalex.org/I153908563"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Nortel, Toronto, ON",
+      "institution_ids": [
+       "https://openalex.org/I153908563"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 53.9713
+ },
+ {
+  "id": "https://openalex.org/W2112277368",
+  "doi": "https://doi.org/10.1109/mcom.2004.1341261",
+  "title": "What is the value of limited feedback for MIMO channels?",
+  "publication_year": 2004,
+  "type": "article",
+  "cited_by_count": 567,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 22,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5001355478",
+     "display_name": "David J. Love",
+     "orcid": "https://orcid.org/0000-0001-5922-4787"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I219193219",
+      "display_name": "Purdue University West Lafayette",
+      "ror": "https://ror.org/02dqehb95",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I219193219"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "D.J. Love",
+    "raw_affiliation_strings": [
+     "Purdue University, USA",
+     "Sch. of Electr. & Comput. engineering, Purdue Univ., West Lafayette, IN, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Purdue University, USA",
+      "institution_ids": [
+       "https://openalex.org/I219193219"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sch. of Electr. & Comput. engineering, Purdue Univ., West Lafayette, IN, USA",
+      "institution_ids": [
+       "https://openalex.org/I219193219"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5029812222",
+     "display_name": "Robert W. Heath",
+     "orcid": "https://orcid.org/0000-0002-4666-5628"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I86519309",
+      "display_name": "The University of Texas at Austin",
+      "ror": "https://ror.org/00hj54h04",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "R.W. Heath",
+    "raw_affiliation_strings": [
+     "University of Texas, Austin, USA",
+     "University of Texas, Austin, USA#TAB#"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "University of Texas, Austin, USA",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     },
+     {
+      "raw_affiliation_string": "University of Texas, Austin, USA#TAB#",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5038325569",
+     "display_name": "Wiroonsak Santipach",
+     "orcid": "https://orcid.org/0000-0003-4309-5161"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I111979921",
+      "display_name": "Northwestern University",
+      "ror": "https://ror.org/000e0be47",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I111979921"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "W. Santipach",
+    "raw_affiliation_strings": [
+     "Northwestern University, USA",
+     "Northwestern University****"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Northwestern University, USA",
+      "institution_ids": [
+       "https://openalex.org/I111979921"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Northwestern University****",
+      "institution_ids": [
+       "https://openalex.org/I111979921"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5016921772",
+     "display_name": "Michael L. Honig",
+     "orcid": "https://orcid.org/0000-0003-0921-6273"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I111979921",
+      "display_name": "Northwestern University",
+      "ror": "https://ror.org/000e0be47",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I111979921"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "M.L. Honig",
+    "raw_affiliation_strings": [
+     "Northwestern University, USA",
+     "Northwestern University****"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Northwestern University, USA",
+      "institution_ids": [
+       "https://openalex.org/I111979921"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Northwestern University****",
+      "institution_ids": [
+       "https://openalex.org/I111979921"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 40.7334
+ },
+ {
+  "id": "https://openalex.org/W2139960897",
+  "doi": "https://doi.org/10.1109/icassp.2009.4960116",
+  "title": "Interference alignment via alternating minimization",
+  "publication_year": 2009,
+  "type": "conference-paper",
+  "cited_by_count": 445,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 6,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5006760188",
+     "display_name": "Steven W. Peters",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I86519309",
+      "display_name": "The University of Texas at Austin",
+      "ror": "https://ror.org/00hj54h04",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Steven W. Peters",
+    "raw_affiliation_strings": [
+     "Department of Electrical & Computer Engineering, University of Texas, Austin, Austin, TX, USA",
+     "The University of Texas at Austin, Department of Electrical & Computer Engineering, 1 University Station C0806, 78712-0240, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Electrical & Computer Engineering, University of Texas, Austin, Austin, TX, USA",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     },
+     {
+      "raw_affiliation_string": "The University of Texas at Austin, Department of Electrical & Computer Engineering, 1 University Station C0806, 78712-0240, USA",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5029812222",
+     "display_name": "Robert W. Heath",
+     "orcid": "https://orcid.org/0000-0002-4666-5628"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I86519309",
+      "display_name": "The University of Texas at Austin",
+      "ror": "https://ror.org/00hj54h04",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Robert W. Heath",
+    "raw_affiliation_strings": [
+     "Department of Electrical & Computer Engineering, University of Texas, Austin, Austin, TX, USA",
+     "The University of Texas at Austin, Department of Electrical & Computer Engineering, 1 University Station C0806, 78712-0240, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Electrical & Computer Engineering, University of Texas, Austin, Austin, TX, USA",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     },
+     {
+      "raw_affiliation_string": "The University of Texas at Austin, Department of Electrical & Computer Engineering, 1 University Station C0806, 78712-0240, USA",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 74.2557
+ },
+ {
+  "id": "https://openalex.org/W2148570881",
+  "doi": "https://doi.org/10.1109/mwc.2007.4407232",
+  "title": "Overcoming interference in spatial multiplexing MIMO cellular networks",
+  "publication_year": 2007,
+  "type": "article",
+  "cited_by_count": 360,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 0.9993000030517578,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 28,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5042833857",
+     "display_name": "Jeffrey G. Andrews",
+     "orcid": "https://orcid.org/0000-0002-9115-5088"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I86519309",
+      "display_name": "The University of Texas at Austin",
+      "ror": "https://ror.org/00hj54h04",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Jeffrey G. Andrews",
+    "raw_affiliation_strings": [
+     "University of Technology, Austin, USA",
+     "University of texas at austin"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "University of Technology, Austin, USA",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     },
+     {
+      "raw_affiliation_string": "University of texas at austin",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5035102148",
+     "display_name": "Wan Choi",
+     "orcid": "https://orcid.org/0000-0003-3930-7088"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I86519309",
+      "display_name": "The University of Texas at Austin",
+      "ror": "https://ror.org/00hj54h04",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Wan Choi",
+    "raw_affiliation_strings": [
+     "University of Technology, Austin, USA",
+     "University of texas at austin"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "University of Technology, Austin, USA",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     },
+     {
+      "raw_affiliation_string": "University of texas at austin",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5029812222",
+     "display_name": "Robert W. Heath",
+     "orcid": "https://orcid.org/0000-0002-4666-5628"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I86519309",
+      "display_name": "The University of Texas at Austin",
+      "ror": "https://ror.org/00hj54h04",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Robert W. Heath",
+    "raw_affiliation_strings": [
+     "University of Technology, Austin, USA",
+     "University of texas at austin"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "University of Technology, Austin, USA",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     },
+     {
+      "raw_affiliation_string": "University of texas at austin",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 28.8012
+ },
+ {
+  "id": "https://openalex.org/W2135669535",
+  "doi": "https://doi.org/10.1109/msp.2007.904811",
+  "title": "MIMO Wireless Linear Precoding",
+  "publication_year": 2007,
+  "type": "article",
+  "cited_by_count": 349,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 87,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5000020663",
+     "display_name": "Mai Vu",
+     "orcid": "https://orcid.org/0000-0003-4486-5500"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I136199984",
+      "display_name": "Harvard University",
+      "ror": "https://ror.org/03vek6s52",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I136199984"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Mai Vu",
+    "raw_affiliation_strings": [
+     "The School of Engineering and Applied Sciences, Harvard University, Cambridge, MA",
+     "Harvard Univ, Cambridge"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "The School of Engineering and Applied Sciences, Harvard University, Cambridge, MA",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Harvard Univ, Cambridge",
+      "institution_ids": [
+       "https://openalex.org/I136199984"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5110271568",
+     "display_name": "A. Paulraj",
+     "orcid": "https://orcid.org/0009-0003-4784-8738"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I97018004",
+      "display_name": "Stanford University",
+      "ror": "https://ror.org/00f54p054",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I97018004"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Arogyaswami Paulraj",
+    "raw_affiliation_strings": [
+     "The Department of Electrical Engineering, Stanford University",
+     "[The Department of Electrical Engineering, Stanford University]"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "The Department of Electrical Engineering, Stanford University",
+      "institution_ids": [
+       "https://openalex.org/I97018004"
+      ]
+     },
+     {
+      "raw_affiliation_string": "[The Department of Electrical Engineering, Stanford University]",
+      "institution_ids": [
+       "https://openalex.org/I97018004"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 22.8068
+ },
+ {
+  "id": "https://openalex.org/W2146102702",
+  "doi": "https://doi.org/10.1145/1592568.1592588",
+  "title": "Interference alignment and cancellation",
+  "publication_year": 2009,
+  "type": "conference-paper",
+  "cited_by_count": 322,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 42,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5011077730",
+     "display_name": "Shyamnath Gollakota",
+     "orcid": "https://orcid.org/0000-0002-9863-3054"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210110987",
+      "display_name": "IIT@MIT",
+      "ror": "https://ror.org/01wp8zh54",
+      "country_code": "US",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I30771326",
+       "https://openalex.org/I4210110987"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I63966007",
+      "display_name": "Massachusetts Institute of Technology",
+      "ror": "https://ror.org/042nb2s44",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63966007"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Shyamnath Gollakota",
+    "raw_affiliation_strings": [
+     "MIT, Cambridge, MA, USA",
+     "MIT, Cambridge MA, USA#TAB#"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "MIT, Cambridge, MA, USA",
+      "institution_ids": [
+       "https://openalex.org/I4210110987"
+      ]
+     },
+     {
+      "raw_affiliation_string": "MIT, Cambridge MA, USA#TAB#",
+      "institution_ids": [
+       "https://openalex.org/I63966007"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5037282404",
+     "display_name": "Samuel D. Perli",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210110987",
+      "display_name": "IIT@MIT",
+      "ror": "https://ror.org/01wp8zh54",
+      "country_code": "US",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I30771326",
+       "https://openalex.org/I4210110987"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I63966007",
+      "display_name": "Massachusetts Institute of Technology",
+      "ror": "https://ror.org/042nb2s44",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63966007"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Samuel David Perli",
+    "raw_affiliation_strings": [
+     "MIT, Cambridge, MA, USA",
+     "MIT, Cambridge MA, USA#TAB#"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "MIT, Cambridge, MA, USA",
+      "institution_ids": [
+       "https://openalex.org/I4210110987"
+      ]
+     },
+     {
+      "raw_affiliation_string": "MIT, Cambridge MA, USA#TAB#",
+      "institution_ids": [
+       "https://openalex.org/I63966007"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5052959289",
+     "display_name": "Dina Katabi",
+     "orcid": "https://orcid.org/0000-0003-4854-4157"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210110987",
+      "display_name": "IIT@MIT",
+      "ror": "https://ror.org/01wp8zh54",
+      "country_code": "US",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I30771326",
+       "https://openalex.org/I4210110987"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I63966007",
+      "display_name": "Massachusetts Institute of Technology",
+      "ror": "https://ror.org/042nb2s44",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63966007"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Dina Katabi",
+    "raw_affiliation_strings": [
+     "MIT, Cambridge, MA, USA",
+     "MIT, Cambridge MA, USA#TAB#"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "MIT, Cambridge, MA, USA",
+      "institution_ids": [
+       "https://openalex.org/I4210110987"
+      ]
+     },
+     {
+      "raw_affiliation_string": "MIT, Cambridge MA, USA#TAB#",
+      "institution_ids": [
+       "https://openalex.org/I63966007"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 40.7692
+ },
+ {
+  "id": "https://openalex.org/W2062157062",
+  "doi": "https://doi.org/10.1109/vetecf.2008.313",
+  "title": "LTE-Advanced - Evolving LTE towards IMT-Advanced",
+  "publication_year": 2008,
+  "type": "conference-paper",
+  "cited_by_count": 310,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 0.9995999932289124,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 3,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5056954249",
+     "display_name": "Stefan Parkvall",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1306339040",
+      "display_name": "Ericsson (Sweden)",
+      "ror": "https://ror.org/05a7rhx54",
+      "country_code": "SE",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1306339040"
+      ]
+     }
+    ],
+    "countries": [
+     "SE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Stefan Parkvall",
+    "raw_affiliation_strings": [
+     "Ericsson Research Limited, Stockholm, Sweden",
+     "[Ericsson Res., Stockholm]"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Ericsson Research Limited, Stockholm, Sweden",
+      "institution_ids": [
+       "https://openalex.org/I1306339040"
+      ]
+     },
+     {
+      "raw_affiliation_string": "[Ericsson Res., Stockholm]",
+      "institution_ids": [
+       "https://openalex.org/I1306339040"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5027554749",
+     "display_name": "Erik Dahlman",
+     "orcid": "https://orcid.org/0000-0003-0057-4410"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1306339040",
+      "display_name": "Ericsson (Sweden)",
+      "ror": "https://ror.org/05a7rhx54",
+      "country_code": "SE",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1306339040"
+      ]
+     }
+    ],
+    "countries": [
+     "SE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Erik Dahlman",
+    "raw_affiliation_strings": [
+     "Ericsson Research Limited, Stockholm, Sweden",
+     "[Ericsson Res., Stockholm]"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Ericsson Research Limited, Stockholm, Sweden",
+      "institution_ids": [
+       "https://openalex.org/I1306339040"
+      ]
+     },
+     {
+      "raw_affiliation_string": "[Ericsson Res., Stockholm]",
+      "institution_ids": [
+       "https://openalex.org/I1306339040"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5087407806",
+     "display_name": "Anders Furuskär",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1306339040",
+      "display_name": "Ericsson (Sweden)",
+      "ror": "https://ror.org/05a7rhx54",
+      "country_code": "SE",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1306339040"
+      ]
+     }
+    ],
+    "countries": [
+     "SE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Anders Furuskar",
+    "raw_affiliation_strings": [
+     "Ericsson Research Limited, Stockholm, Sweden",
+     "[Ericsson Res., Stockholm]"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Ericsson Research Limited, Stockholm, Sweden",
+      "institution_ids": [
+       "https://openalex.org/I1306339040"
+      ]
+     },
+     {
+      "raw_affiliation_string": "[Ericsson Res., Stockholm]",
+      "institution_ids": [
+       "https://openalex.org/I1306339040"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5066984358",
+     "display_name": "Ylva Jading",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1306339040",
+      "display_name": "Ericsson (Sweden)",
+      "ror": "https://ror.org/05a7rhx54",
+      "country_code": "SE",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1306339040"
+      ]
+     }
+    ],
+    "countries": [
+     "SE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Ylva Jading",
+    "raw_affiliation_strings": [
+     "Ericsson Research Limited, Stockholm, Sweden",
+     "[Ericsson Res., Stockholm]"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Ericsson Research Limited, Stockholm, Sweden",
+      "institution_ids": [
+       "https://openalex.org/I1306339040"
+      ]
+     },
+     {
+      "raw_affiliation_string": "[Ericsson Res., Stockholm]",
+      "institution_ids": [
+       "https://openalex.org/I1306339040"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": null,
+     "display_name": "Magus Olsson",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1306339040",
+      "display_name": "Ericsson (Sweden)",
+      "ror": "https://ror.org/05a7rhx54",
+      "country_code": "SE",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1306339040"
+      ]
+     }
+    ],
+    "countries": [
+     "SE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Magus Olsson",
+    "raw_affiliation_strings": [
+     "Ericsson Research Limited, Stockholm, Sweden",
+     "[Ericsson Res., Stockholm]"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Ericsson Research Limited, Stockholm, Sweden",
+      "institution_ids": [
+       "https://openalex.org/I1306339040"
+      ]
+     },
+     {
+      "raw_affiliation_string": "[Ericsson Res., Stockholm]",
+      "institution_ids": [
+       "https://openalex.org/I1306339040"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5072736904",
+     "display_name": "Stefan Wänstedt",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1306339040",
+      "display_name": "Ericsson (Sweden)",
+      "ror": "https://ror.org/05a7rhx54",
+      "country_code": "SE",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1306339040"
+      ]
+     }
+    ],
+    "countries": [
+     "SE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Stefan Wanstedt",
+    "raw_affiliation_strings": [
+     "Ericsson Research Limited, Stockholm, Sweden",
+     "[Ericsson Res., Stockholm]"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Ericsson Research Limited, Stockholm, Sweden",
+      "institution_ids": [
+       "https://openalex.org/I1306339040"
+      ]
+     },
+     {
+      "raw_affiliation_string": "[Ericsson Res., Stockholm]",
+      "institution_ids": [
+       "https://openalex.org/I1306339040"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5078427977",
+     "display_name": "K.C. Zangi",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1306339040",
+      "display_name": "Ericsson (Sweden)",
+      "ror": "https://ror.org/05a7rhx54",
+      "country_code": "SE",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1306339040"
+      ]
+     }
+    ],
+    "countries": [
+     "SE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Kambiz Zangi",
+    "raw_affiliation_strings": [
+     "Ericsson Research Limited, Stockholm, Sweden",
+     "[Ericsson Res., Stockholm]"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Ericsson Research Limited, Stockholm, Sweden",
+      "institution_ids": [
+       "https://openalex.org/I1306339040"
+      ]
+     },
+     {
+      "raw_affiliation_string": "[Ericsson Res., Stockholm]",
+      "institution_ids": [
+       "https://openalex.org/I1306339040"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 52.1874
+ },
+ {
+  "id": "https://openalex.org/W1495311907",
+  "doi": "https://doi.org/10.1002/0470014083",
+  "title": "Multi‐Antenna Transceiver Techniques for 3G and Beyond",
+  "publication_year": 2003,
+  "type": "book",
+  "cited_by_count": 253,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 0.9750000238418579,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 0,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5079262516",
+     "display_name": "Ari Hottinen",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Ari Hottinen",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5006597250",
+     "display_name": "Olav Tirkkonen",
+     "orcid": "https://orcid.org/0000-0002-2611-1636"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Olav Tirkkonen",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5036110624",
+     "display_name": "Risto Wichman",
+     "orcid": "https://orcid.org/0000-0002-5261-5037"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Risto Wichman",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   }
+  ],
+  "fwci": 13.8023
+ },
+ {
+  "id": "https://openalex.org/W1518192576",
+  "doi": "https://doi.org/10.1002/0470855509",
+  "title": "Algorithms for Communications Systems and Their Applications",
+  "publication_year": 2002,
+  "type": "book",
+  "cited_by_count": 238,
+  "primary_topic": {
+   "id": "https://openalex.org/T13816",
+   "display_name": "Advanced Signal Processing Techniques",
+   "score": 0.09839999675750732,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 0,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5024328221",
+     "display_name": "N. Benvenuto",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Nevio Benvenuto",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5048981968",
+     "display_name": "Giovanni Cherubini",
+     "orcid": "https://orcid.org/0000-0002-0573-2919"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Giovanni Cherubini",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   }
+  ],
+  "fwci": 7.7124
+ },
+ {
+  "id": "https://openalex.org/W2050308627",
+  "doi": "https://doi.org/10.1109/msp.2009.932126",
+  "title": "MIMO Detection Methods: How They Work [Lecture Notes]",
+  "publication_year": 2009,
+  "type": "article",
+  "cited_by_count": 236,
+  "primary_topic": {
+   "id": "https://openalex.org/T10125",
+   "display_name": "Advanced Wireless Communication Techniques",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 15,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5043552696",
+     "display_name": "Erik G. Larsson",
+     "orcid": "https://orcid.org/0000-0002-7599-4367"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": true,
+    "raw_author_name": "E.G. Larsson",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   }
+  ],
+  "fwci": 13.4814
+ },
+ {
+  "id": "https://openalex.org/W2164955702",
+  "doi": "https://doi.org/10.1109/isit.2009.5205266",
+  "title": "Interference alignment with limited feedback",
+  "publication_year": 2009,
+  "type": "conference-paper",
+  "cited_by_count": 219,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 10,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5071986114",
+     "display_name": "Jatin Thukral",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I35440088",
+      "display_name": "ETH Zurich",
+      "ror": "https://ror.org/05a28rw58",
+      "country_code": "CH",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I2799323385",
+       "https://openalex.org/I35440088"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Jatin Thukral",
+    "raw_affiliation_strings": [
+     "Communication Technology Laboratory, ETH Zurich, Zurich, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Communication Technology Laboratory, ETH Zurich, Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I35440088"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5079321311",
+     "display_name": "Helmut Bölcskei",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I35440088",
+      "display_name": "ETH Zurich",
+      "ror": "https://ror.org/05a28rw58",
+      "country_code": "CH",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I2799323385",
+       "https://openalex.org/I35440088"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Helmut Bolcskei",
+    "raw_affiliation_strings": [
+     "Communication Technology Laboratory, ETH Zurich, Zurich, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Communication Technology Laboratory, ETH Zurich, Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I35440088"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 37.8559
+ },
+ {
+  "id": "https://openalex.org/W2114755738",
+  "doi": "https://doi.org/10.1109/twc.2010.01.090221",
+  "title": "Linear precoder designs for K-user interference channels",
+  "publication_year": 2010,
+  "type": "article",
+  "cited_by_count": 199,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 23,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5109871732",
+     "display_name": "Hakjea Sung",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I197347611",
+      "display_name": "Korea University",
+      "ror": "https://ror.org/047dqcg40",
+      "country_code": "KR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I197347611"
+      ]
+     }
+    ],
+    "countries": [
+     "KR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Hakjea Sung",
+    "raw_affiliation_strings": [
+     "School of Electrical Engineering, Korea University, Seoul, South Korea",
+     "Sch. of Electr. Eng., Korea Univ., Seoul, South Korea#TAB#"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "School of Electrical Engineering, Korea University, Seoul, South Korea",
+      "institution_ids": [
+       "https://openalex.org/I197347611"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sch. of Electr. Eng., Korea Univ., Seoul, South Korea#TAB#",
+      "institution_ids": [
+       "https://openalex.org/I197347611"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5010508470",
+     "display_name": "Seok-Hwan Park",
+     "orcid": "https://orcid.org/0000-0001-9395-2550"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I197347611",
+      "display_name": "Korea University",
+      "ror": "https://ror.org/047dqcg40",
+      "country_code": "KR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I197347611"
+      ]
+     }
+    ],
+    "countries": [
+     "KR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Seok-Hwan Park",
+    "raw_affiliation_strings": [
+     "School of Electrical Engineering, Korea University, Seoul, South Korea",
+     "Sch. of Electr. Eng., Korea Univ., Seoul, South Korea#TAB#"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "School of Electrical Engineering, Korea University, Seoul, South Korea",
+      "institution_ids": [
+       "https://openalex.org/I197347611"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sch. of Electr. Eng., Korea Univ., Seoul, South Korea#TAB#",
+      "institution_ids": [
+       "https://openalex.org/I197347611"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5010343793",
+     "display_name": "Kyoung‐Jae Lee",
+     "orcid": "https://orcid.org/0000-0001-9579-6600"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I197347611",
+      "display_name": "Korea University",
+      "ror": "https://ror.org/047dqcg40",
+      "country_code": "KR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I197347611"
+      ]
+     }
+    ],
+    "countries": [
+     "KR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Kyoung-Jae Lee",
+    "raw_affiliation_strings": [
+     "School of Electrical Engineering, Korea University, Seoul, South Korea",
+     "Sch. of Electr. Eng., Korea Univ., Seoul, South Korea#TAB#"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "School of Electrical Engineering, Korea University, Seoul, South Korea",
+      "institution_ids": [
+       "https://openalex.org/I197347611"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sch. of Electr. Eng., Korea Univ., Seoul, South Korea#TAB#",
+      "institution_ids": [
+       "https://openalex.org/I197347611"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5100697614",
+     "display_name": "Inkyu Lee",
+     "orcid": "https://orcid.org/0000-0003-3701-4433"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I197347611",
+      "display_name": "Korea University",
+      "ror": "https://ror.org/047dqcg40",
+      "country_code": "KR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I197347611"
+      ]
+     }
+    ],
+    "countries": [
+     "KR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Inkyu Lee",
+    "raw_affiliation_strings": [
+     "School of Electrical Engineering, Korea University, Seoul, South Korea",
+     "Sch. of Electr. Eng., Korea Univ., Seoul, South Korea#TAB#"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "School of Electrical Engineering, Korea University, Seoul, South Korea",
+      "institution_ids": [
+       "https://openalex.org/I197347611"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sch. of Electr. Eng., Korea Univ., Seoul, South Korea#TAB#",
+      "institution_ids": [
+       "https://openalex.org/I197347611"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 22.4588
+ },
+ {
+  "id": "https://openalex.org/W2146667833",
+  "doi": "https://doi.org/10.1109/iccw.2009.5208018",
+  "title": "Cellular Interference Alignment with Imperfect Channel Knowledge",
+  "publication_year": 2009,
+  "type": "conference-paper",
+  "cited_by_count": 156,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 10,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5044243040",
+     "display_name": "Roland Tresch",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210122474",
+      "display_name": "Forschungszentrum Telekommunikation Wien",
+      "ror": "https://ror.org/026nftk33",
+      "country_code": "AT",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210122474"
+      ]
+     }
+    ],
+    "countries": [
+     "AT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "R. Tresch",
+    "raw_affiliation_strings": [
+     "FTW Telecommunications Research Center Vienna, Vienna, Austria",
+     "FTW (Telecommun. Res. Center Vienna), Vienna, Austria"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "FTW Telecommunications Research Center Vienna, Vienna, Austria",
+      "institution_ids": [
+       "https://openalex.org/I4210122474"
+      ]
+     },
+     {
+      "raw_affiliation_string": "FTW (Telecommun. Res. Center Vienna), Vienna, Austria",
+      "institution_ids": [
+       "https://openalex.org/I4210122474"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5000721127",
+     "display_name": "Maxime Guillaud",
+     "orcid": "https://orcid.org/0000-0002-4105-4537"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210122474",
+      "display_name": "Forschungszentrum Telekommunikation Wien",
+      "ror": "https://ror.org/026nftk33",
+      "country_code": "AT",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210122474"
+      ]
+     }
+    ],
+    "countries": [
+     "AT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "M. Guillaud",
+    "raw_affiliation_strings": [
+     "FTW Telecommunications Research Center Vienna, Vienna, Austria",
+     "FTW (Telecommun. Res. Center Vienna), Vienna, Austria"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "FTW Telecommunications Research Center Vienna, Vienna, Austria",
+      "institution_ids": [
+       "https://openalex.org/I4210122474"
+      ]
+     },
+     {
+      "raw_affiliation_string": "FTW (Telecommun. Res. Center Vienna), Vienna, Austria",
+      "institution_ids": [
+       "https://openalex.org/I4210122474"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 34.9503
+ },
+ {
+  "id": "https://openalex.org/W2599614266",
+  "doi": "https://doi.org/10.1109/glocom.2009.5425326",
+  "title": "Feasibility Conditions for Interference Alignment",
+  "publication_year": 2009,
+  "type": "conference-paper",
+  "cited_by_count": 132,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 0.9997000098228455,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 5,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5076091989",
+     "display_name": "Cenk M. Yetiş",
+     "orcid": "https://orcid.org/0000-0002-6198-4555"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I48912391",
+      "display_name": "Istanbul Technical University",
+      "ror": "https://ror.org/059636586",
+      "country_code": "TR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I48912391"
+      ]
+     }
+    ],
+    "countries": [
+     "TR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Cenk M. Yetis",
+    "raw_affiliation_strings": [
+     "Informatics Institute, Istanbul Technical University, Maslak, Istanbul, Turkey"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Informatics Institute, Istanbul Technical University, Maslak, Istanbul, Turkey",
+      "institution_ids": [
+       "https://openalex.org/I48912391"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5077292579",
+     "display_name": "Tiangao Gou",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I204250578",
+      "display_name": "University of California, Irvine",
+      "ror": "https://ror.org/04gyf1771",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I204250578"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Tiangao Gou",
+    "raw_affiliation_strings": [
+     "Electrical Engineering and Computer Sc., University of California, Irvine, Irvine, CA, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Electrical Engineering and Computer Sc., University of California, Irvine, Irvine, CA, USA",
+      "institution_ids": [
+       "https://openalex.org/I204250578"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5049553679",
+     "display_name": "Syed A. Jafar",
+     "orcid": "https://orcid.org/0000-0003-2038-2977"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I204250578",
+      "display_name": "University of California, Irvine",
+      "ror": "https://ror.org/04gyf1771",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I204250578"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Syed A. Jafar",
+    "raw_affiliation_strings": [
+     "Electrical Engineering and Computer Sc., University of California, Irvine, Irvine, CA, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Electrical Engineering and Computer Sc., University of California, Irvine, Irvine, CA, USA",
+      "institution_ids": [
+       "https://openalex.org/I204250578"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5043449777",
+     "display_name": "A.H. Kayran",
+     "orcid": "https://orcid.org/0000-0002-2228-0045"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I48912391",
+      "display_name": "Istanbul Technical University",
+      "ror": "https://ror.org/059636586",
+      "country_code": "TR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I48912391"
+      ]
+     }
+    ],
+    "countries": [
+     "TR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Ahmet H. Kayran",
+    "raw_affiliation_strings": [
+     "Department of Electronics and Communication Engineering, Istanbul Technical University, Maslak, Istanbul, Turkey"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Electronics and Communication Engineering, Istanbul Technical University, Maslak, Istanbul, Turkey",
+      "institution_ids": [
+       "https://openalex.org/I48912391"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 37.3774
+ },
+ {
+  "id": "https://openalex.org/W2119534334",
+  "doi": "https://doi.org/10.1109/tvt.2010.2082005",
+  "title": "The Feasibility of Interference Alignment Over Measured MIMO-OFDM Channels",
+  "publication_year": 2010,
+  "type": "article",
+  "cited_by_count": 130,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 45,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5006148793",
+     "display_name": "Omar El Ayach",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I86519309",
+      "display_name": "The University of Texas at Austin",
+      "ror": "https://ror.org/00hj54h04",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Omar El Ayach",
+    "raw_affiliation_strings": [
+     "Wireless Networking and Communications Group, Department of Electrical and Computer Engineering, University of Texas, Austin, Austin, TX, USA",
+     "Dept. of Electr. &, Comput. Eng., Univ. of Texas at Austin, Austin, TX, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Wireless Networking and Communications Group, Department of Electrical and Computer Engineering, University of Texas, Austin, Austin, TX, USA",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Dept. of Electr. &, Comput. Eng., Univ. of Texas at Austin, Austin, TX, USA",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5006760188",
+     "display_name": "Steven W. Peters",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I86519309",
+      "display_name": "The University of Texas at Austin",
+      "ror": "https://ror.org/00hj54h04",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Steven W. Peters",
+    "raw_affiliation_strings": [
+     "Wireless Networking and Communications Group, Department of Electrical and Computer Engineering, University of Texas, Austin, Austin, TX, USA",
+     "Dept. of Electr. &, Comput. Eng., Univ. of Texas at Austin, Austin, TX, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Wireless Networking and Communications Group, Department of Electrical and Computer Engineering, University of Texas, Austin, Austin, TX, USA",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Dept. of Electr. &, Comput. Eng., Univ. of Texas at Austin, Austin, TX, USA",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5029812222",
+     "display_name": "Robert W. Heath",
+     "orcid": "https://orcid.org/0000-0002-4666-5628"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I86519309",
+      "display_name": "The University of Texas at Austin",
+      "ror": "https://ror.org/00hj54h04",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Robert W. Heath",
+    "raw_affiliation_strings": [
+     "Wireless Networking and Communications Group, Department of Electrical and Computer Engineering, University of Texas, Austin, Austin, TX, USA",
+     "Dept. of Electr. &, Comput. Eng., Univ. of Texas at Austin, Austin, TX, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Wireless Networking and Communications Group, Department of Electrical and Computer Engineering, University of Texas, Austin, Austin, TX, USA",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Dept. of Electr. &, Comput. Eng., Univ. of Texas at Austin, Austin, TX, USA",
+      "institution_ids": [
+       "https://openalex.org/I86519309"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 12.7607
+ },
+ {
+  "id": "https://openalex.org/W2157242700",
+  "doi": "https://doi.org/10.1109/icc.2010.5501882",
+  "title": "Balancing Egoism and Altruism on Interference Channel: The MIMO Case",
+  "publication_year": 2010,
+  "type": "conference-paper",
+  "cited_by_count": 98,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 18,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5113991243",
+     "display_name": "Zuleita Ho",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1902872",
+      "display_name": "EURECOM",
+      "ror": "https://ror.org/00sse7z02",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I1902872",
+       "https://openalex.org/I205703379"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Z. K. M. Ho",
+    "raw_affiliation_strings": [
+     "Eurecom Institute, Sophia-Antipolis, France"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Eurecom Institute, Sophia-Antipolis, France",
+      "institution_ids": [
+       "https://openalex.org/I1902872"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5021728919",
+     "display_name": "David Gesbert",
+     "orcid": "https://orcid.org/0000-0002-4806-704X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1902872",
+      "display_name": "EURECOM",
+      "ror": "https://ror.org/00sse7z02",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I1902872",
+       "https://openalex.org/I205703379"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "D. Gesbert",
+    "raw_affiliation_strings": [
+     "Eurecom Institute, Sophia-Antipolis, France"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Eurecom Institute, Sophia-Antipolis, France",
+      "institution_ids": [
+       "https://openalex.org/I1902872"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 25.3681
+ },
+ {
+  "id": "https://openalex.org/W2086373104",
+  "doi": "https://doi.org/10.1109/wirelessvitae.2009.5172440",
+  "title": "LTE-Advanced: The path towards gigabit/s in wireless mobile communications",
+  "publication_year": 2009,
+  "type": "conference-paper",
+  "cited_by_count": 80,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 0.9998000264167786,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 9,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5082513982",
+     "display_name": "Preben Mogensen",
+     "orcid": "https://orcid.org/0000-0002-0710-8685"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210126633",
+      "display_name": "Siemens (Denmark)",
+      "ror": "https://ror.org/031gmvg29",
+      "country_code": "DK",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1325886976",
+       "https://openalex.org/I4210126633"
+      ]
+     }
+    ],
+    "countries": [
+     "DK"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Preben E. Mogensen",
+    "raw_affiliation_strings": [
+     "Nokia Siemens Networks, Denmark",
+     "Nokia Siemens Networks, University of Aalborg, Denmark"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nokia Siemens Networks, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I4210126633"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Nokia Siemens Networks, University of Aalborg, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I4210126633"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5038842923",
+     "display_name": "Tommi Koivisto",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2738502077",
+      "display_name": "Nokia (Finland)",
+      "ror": "https://ror.org/04pkc8m17",
+      "country_code": "FI",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I2738502077"
+      ]
+     }
+    ],
+    "countries": [
+     "FI"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Tommi Koivisto",
+    "raw_affiliation_strings": [
+     "Nokia Siemens Networks, Nokia, Finland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nokia Siemens Networks, Nokia, Finland",
+      "institution_ids": [
+       "https://openalex.org/I2738502077"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5103034925",
+     "display_name": "Klaus I. Pedersen",
+     "orcid": "https://orcid.org/0000-0001-8374-7705"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210126633",
+      "display_name": "Siemens (Denmark)",
+      "ror": "https://ror.org/031gmvg29",
+      "country_code": "DK",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1325886976",
+       "https://openalex.org/I4210126633"
+      ]
+     }
+    ],
+    "countries": [
+     "DK"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Klaus I. Pedersen",
+    "raw_affiliation_strings": [
+     "Nokia Siemens Networks, Denmark"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nokia Siemens Networks, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I4210126633"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5076439850",
+     "display_name": "István Z. Kovács",
+     "orcid": "https://orcid.org/0000-0001-8450-0712"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210126633",
+      "display_name": "Siemens (Denmark)",
+      "ror": "https://ror.org/031gmvg29",
+      "country_code": "DK",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1325886976",
+       "https://openalex.org/I4210126633"
+      ]
+     }
+    ],
+    "countries": [
+     "DK"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Istvan Z. Kovacs",
+    "raw_affiliation_strings": [
+     "Nokia Siemens Networks, Denmark"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nokia Siemens Networks, Denmark",
+      "institution_ids": [
+       "https://openalex.org/I4210126633"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5017078360",
+     "display_name": "Bernhard Raaf",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1325886976",
+      "display_name": "Siemens (Germany)",
+      "ror": "https://ror.org/059mq0909",
+      "country_code": "DE",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1325886976"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210159457",
+      "display_name": "Nokia (Germany)",
+      "ror": "https://ror.org/05nh5td39",
+      "country_code": "DE",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I2738502077",
+       "https://openalex.org/I4210159457"
+      ]
+     }
+    ],
+    "countries": [
+     "DE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Bernhard Raaf",
+    "raw_affiliation_strings": [
+     "Nokia Siemens Networks, Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nokia Siemens Networks, Germany",
+      "institution_ids": [
+       "https://openalex.org/I1325886976",
+       "https://openalex.org/I4210159457"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5111434548",
+     "display_name": "Kari Pajukoski",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2738502077",
+      "display_name": "Nokia (Finland)",
+      "ror": "https://ror.org/04pkc8m17",
+      "country_code": "FI",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I2738502077"
+      ]
+     }
+    ],
+    "countries": [
+     "FI"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Kari Pajukoski",
+    "raw_affiliation_strings": [
+     "Nokia Siemens Networks, Finland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nokia Siemens Networks, Finland",
+      "institution_ids": [
+       "https://openalex.org/I2738502077"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5024782790",
+     "display_name": "Mikko Rinne",
+     "orcid": "https://orcid.org/0000-0001-7142-4538"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2738502077",
+      "display_name": "Nokia (Finland)",
+      "ror": "https://ror.org/04pkc8m17",
+      "country_code": "FI",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I2738502077"
+      ]
+     }
+    ],
+    "countries": [
+     "FI"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Mikko J. Rinne",
+    "raw_affiliation_strings": [
+     "Nokia Siemens Networks, Nokia, Finland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nokia Siemens Networks, Nokia, Finland",
+      "institution_ids": [
+       "https://openalex.org/I2738502077"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 22.817
+ },
+ {
+  "id": "https://openalex.org/W2138097952",
+  "doi": "https://doi.org/10.1109/isit.2008.4595048",
+  "title": "An improved interference alignment scheme for frequency selective channels",
+  "publication_year": 2008,
+  "type": "conference-paper",
+  "cited_by_count": 52,
+  "primary_topic": {
+   "id": "https://openalex.org/T10125",
+   "display_name": "Advanced Wireless Communication Techniques",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 8,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5040669814",
+     "display_name": "Minqi Shen",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1331384533",
+      "display_name": "University of Hawaii System",
+      "ror": "https://ror.org/03tzaeb71",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I1331384533"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Minqi Shen",
+    "raw_affiliation_strings": [
+     "Department of Electrical Engineering, University of Hawai, Honolulu, HI, USA",
+     "Dept. of Electr. Eng., Univ. of Hawaii, Honolulu, HI"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Electrical Engineering, University of Hawai, Honolulu, HI, USA",
+      "institution_ids": [
+       "https://openalex.org/I1331384533"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Dept. of Electr. Eng., Univ. of Hawaii, Honolulu, HI",
+      "institution_ids": [
+       "https://openalex.org/I1331384533"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5081304126",
+     "display_name": "Anders Høst-Madsen",
+     "orcid": "https://orcid.org/0000-0002-1472-4953"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1331384533",
+      "display_name": "University of Hawaii System",
+      "ror": "https://ror.org/03tzaeb71",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I1331384533"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Anders Host-Madsen",
+    "raw_affiliation_strings": [
+     "Department of Electrical Engineering, University of Hawai, Honolulu, HI, USA",
+     "Dept. of Electr. Eng., Univ. of Hawaii, Honolulu, HI"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Electrical Engineering, University of Hawai, Honolulu, HI, USA",
+      "institution_ids": [
+       "https://openalex.org/I1331384533"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Dept. of Electr. Eng., Univ. of Hawaii, Honolulu, HI",
+      "institution_ids": [
+       "https://openalex.org/I1331384533"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5105523742",
+     "display_name": "Josep Vidal",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I9617848",
+      "display_name": "Universitat Politècnica de Catalunya",
+      "ror": "https://ror.org/03mb6wj31",
+      "country_code": "ES",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I9617848"
+      ]
+     }
+    ],
+    "countries": [
+     "ES"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Josep Vidal",
+    "raw_affiliation_strings": [
+     "Department of Signal Theory and Communications, Technical University of Catalonia, Barcelona, Spain",
+     "Technical University of Catalonia, Department of Signal Theory and Communications, 08034 Barcelona, Spain"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Signal Theory and Communications, Technical University of Catalonia, Barcelona, Spain",
+      "institution_ids": [
+       "https://openalex.org/I9617848"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Technical University of Catalonia, Department of Signal Theory and Communications, 08034 Barcelona, Spain",
+      "institution_ids": [
+       "https://openalex.org/I9617848"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 10.3601
+ },
+ {
+  "id": "https://openalex.org/W2062909184",
+  "doi": "https://doi.org/10.1109/wcnc.2010.5506770",
+  "title": "The New Interference Alignment Scheme for the MIMO Interference Channel",
+  "publication_year": 2010,
+  "type": "conference-paper",
+  "cited_by_count": 42,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 16,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5039154744",
+     "display_name": "Hui Shen",
+     "orcid": "https://orcid.org/0009-0003-1959-8938"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2250955327",
+      "display_name": "Huawei Technologies (China)",
+      "ror": "https://ror.org/00cmhce21",
+      "country_code": "CN",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I2250955327"
+      ]
+     }
+    ],
+    "countries": [
+     "CN"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Hui Shen",
+    "raw_affiliation_strings": [
+     "Department Wireless Research, Huawei Technologies Company Limited, China",
+     "Dept. Wireless Res., Huawei Technol., Shenzhen, China"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department Wireless Research, Huawei Technologies Company Limited, China",
+      "institution_ids": [
+       "https://openalex.org/I2250955327"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Dept. Wireless Res., Huawei Technol., Shenzhen, China",
+      "institution_ids": [
+       "https://openalex.org/I2250955327"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5100365151",
+     "display_name": "Bin Li",
+     "orcid": "https://orcid.org/0000-0002-1998-819X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2250955327",
+      "display_name": "Huawei Technologies (China)",
+      "ror": "https://ror.org/00cmhce21",
+      "country_code": "CN",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I2250955327"
+      ]
+     }
+    ],
+    "countries": [
+     "CN"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Bin Li",
+    "raw_affiliation_strings": [
+     "Department Wireless Research, Huawei Technologies Company Limited, China",
+     "Dept. Wireless Res., Huawei Technol., Shenzhen, China"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department Wireless Research, Huawei Technologies Company Limited, China",
+      "institution_ids": [
+       "https://openalex.org/I2250955327"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Dept. Wireless Res., Huawei Technol., Shenzhen, China",
+      "institution_ids": [
+       "https://openalex.org/I2250955327"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5016127527",
+     "display_name": "Meixia Tao",
+     "orcid": "https://orcid.org/0000-0002-0799-0954"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I183067930",
+      "display_name": "Shanghai Jiao Tong University",
+      "ror": "https://ror.org/0220qvk04",
+      "country_code": "CN",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I183067930"
+      ]
+     }
+    ],
+    "countries": [
+     "CN"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Meixia Tao",
+    "raw_affiliation_strings": [
+     "Department of Electronic Engineering, Shanghai Jiaotong University, China",
+     "Dept of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Electronic Engineering, Shanghai Jiaotong University, China",
+      "institution_ids": [
+       "https://openalex.org/I183067930"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Dept of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China",
+      "institution_ids": [
+       "https://openalex.org/I183067930"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5021887180",
+     "display_name": "Yi Luo",
+     "orcid": "https://orcid.org/0000-0003-2519-5900"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2250955327",
+      "display_name": "Huawei Technologies (China)",
+      "ror": "https://ror.org/00cmhce21",
+      "country_code": "CN",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I2250955327"
+      ]
+     }
+    ],
+    "countries": [
+     "CN"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Yi Luo",
+    "raw_affiliation_strings": [
+     "Department Wireless Research, Huawei Technologies Company Limited, China",
+     "Dept. Wireless Res., Huawei Technol., Shenzhen, China"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department Wireless Research, Huawei Technologies Company Limited, China",
+      "institution_ids": [
+       "https://openalex.org/I2250955327"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Dept. Wireless Res., Huawei Technol., Shenzhen, China",
+      "institution_ids": [
+       "https://openalex.org/I2250955327"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 8.456
+ },
+ {
+  "id": "https://openalex.org/W2117597594",
+  "doi": "https://doi.org/10.1109/ew.2010.5483459",
+  "title": "Distributed power control and beamforming on MIMO interference channels",
+  "publication_year": 2010,
+  "type": "conference-paper",
+  "cited_by_count": 24,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 26,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5113991243",
+     "display_name": "Zuleita Ho",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1902872",
+      "display_name": "EURECOM",
+      "ror": "https://ror.org/00sse7z02",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I1902872",
+       "https://openalex.org/I205703379"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Zuleita K. M. Ho",
+    "raw_affiliation_strings": [
+     "Eurecom Institute, Sophia-Antipolis, France",
+     "EURECOM, 2229 route des crêtes, BP 193 F-06560 Sophia-Antipolis cedex"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Eurecom Institute, Sophia-Antipolis, France",
+      "institution_ids": [
+       "https://openalex.org/I1902872"
+      ]
+     },
+     {
+      "raw_affiliation_string": "EURECOM, 2229 route des crêtes, BP 193 F-06560 Sophia-Antipolis cedex",
+      "institution_ids": [
+       "https://openalex.org/I1902872"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5066479483",
+     "display_name": "Mariam Kaynia",
+     "orcid": "https://orcid.org/0000-0002-9738-3540"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I204778367",
+      "display_name": "Norwegian University of Science and Technology",
+      "ror": "https://ror.org/05xg72x27",
+      "country_code": "NO",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I204778367"
+      ]
+     }
+    ],
+    "countries": [
+     "NO"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Mariam Kaynia",
+    "raw_affiliation_strings": [
+     "Department of Electronics and Telecommunications, Norwegian University of Science and Technology, Trondheim, Norway",
+     "Department of Electronics and Telecommunications, Norwegian University of Science and Technology, O.S. Bragstads plass 2B, 7491 Trondheim, Norway"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Electronics and Telecommunications, Norwegian University of Science and Technology, Trondheim, Norway",
+      "institution_ids": [
+       "https://openalex.org/I204778367"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Electronics and Telecommunications, Norwegian University of Science and Technology, O.S. Bragstads plass 2B, 7491 Trondheim, Norway",
+      "institution_ids": [
+       "https://openalex.org/I204778367"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5021728919",
+     "display_name": "David Gesbert",
+     "orcid": "https://orcid.org/0000-0002-4806-704X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1902872",
+      "display_name": "EURECOM",
+      "ror": "https://ror.org/00sse7z02",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I1902872",
+       "https://openalex.org/I205703379"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "David Gesbert",
+    "raw_affiliation_strings": [
+     "Eurecom Institute, Sophia-Antipolis, France",
+     "EURECOM, 2229 route des crêtes, BP 193 F-06560 Sophia-Antipolis cedex"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Eurecom Institute, Sophia-Antipolis, France",
+      "institution_ids": [
+       "https://openalex.org/I1902872"
+      ]
+     },
+     {
+      "raw_affiliation_string": "EURECOM, 2229 route des crêtes, BP 193 F-06560 Sophia-Antipolis cedex",
+      "institution_ids": [
+       "https://openalex.org/I1902872"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 6.2308
+ },
+ {
+  "id": "https://openalex.org/W2170574618",
+  "doi": "https://doi.org/10.1109/glocom.2008.ecp.736",
+  "title": "Channel Quantization and Feedback Optimization in Multiuser MIMO-OFDM Downlink Systems",
+  "publication_year": 2008,
+  "type": "conference-paper",
+  "cited_by_count": 8,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 12,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5061168547",
+     "display_name": "Matteo Trivellato",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I138689650",
+      "display_name": "University of Padua",
+      "ror": "https://ror.org/00240q980",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I138689650"
+      ]
+     }
+    ],
+    "countries": [
+     "IT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Matteo Trivellato",
+    "raw_affiliation_strings": [
+     "Department of Information Engineering, University of Padova, Padova, Italy"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Information Engineering, University of Padova, Padova, Italy",
+      "institution_ids": [
+       "https://openalex.org/I138689650"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5076790432",
+     "display_name": "Stefano Tomasin",
+     "orcid": "https://orcid.org/0000-0003-3253-6793"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I138689650",
+      "display_name": "University of Padua",
+      "ror": "https://ror.org/00240q980",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I138689650"
+      ]
+     }
+    ],
+    "countries": [
+     "IT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Stefano Tomasin",
+    "raw_affiliation_strings": [
+     "Department of Information Engineering, University of Padova, Padova, Italy"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Information Engineering, University of Padova, Padova, Italy",
+      "institution_ids": [
+       "https://openalex.org/I138689650"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5024328221",
+     "display_name": "N. Benvenuto",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I138689650",
+      "display_name": "University of Padua",
+      "ror": "https://ror.org/00240q980",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I138689650"
+      ]
+     }
+    ],
+    "countries": [
+     "IT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Nevio Benvenuto",
+    "raw_affiliation_strings": [
+     "Department of Information Engineering, University of Padova, Padova, Italy"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Information Engineering, University of Padova, Padova, Italy",
+      "institution_ids": [
+       "https://openalex.org/I138689650"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 2.3722
+ },
+ {
+  "id": "https://openalex.org/W2075418429",
+  "doi": "https://doi.org/10.1109/wcsp.2009.5371446",
+  "title": "A new precoding scheme using interference alignment on modulation signal for multi-user MIMO downlink",
+  "publication_year": 2009,
+  "type": "conference-paper",
+  "cited_by_count": 2,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 6,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5100365151",
+     "display_name": "Bin Li",
+     "orcid": "https://orcid.org/0000-0002-1998-819X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2250955327",
+      "display_name": "Huawei Technologies (China)",
+      "ror": "https://ror.org/00cmhce21",
+      "country_code": "CN",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I2250955327"
+      ]
+     }
+    ],
+    "countries": [
+     "CN"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Bin Li",
+    "raw_affiliation_strings": [
+     "Dept. of Wireless Research, Huawei Technologies, Shenzhen, China"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Dept. of Wireless Research, Huawei Technologies, Shenzhen, China",
+      "institution_ids": [
+       "https://openalex.org/I2250955327"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5021887180",
+     "display_name": "Yi Luo",
+     "orcid": "https://orcid.org/0000-0003-2519-5900"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2250955327",
+      "display_name": "Huawei Technologies (China)",
+      "ror": "https://ror.org/00cmhce21",
+      "country_code": "CN",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I2250955327"
+      ]
+     }
+    ],
+    "countries": [
+     "CN"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Yi Luo",
+    "raw_affiliation_strings": [
+     "Dept. of Wireless Research, Huawei Technologies, Shenzhen, China"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Dept. of Wireless Research, Huawei Technologies, Shenzhen, China",
+      "institution_ids": [
+       "https://openalex.org/I2250955327"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5039154744",
+     "display_name": "Hui Shen",
+     "orcid": "https://orcid.org/0009-0003-1959-8938"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2250955327",
+      "display_name": "Huawei Technologies (China)",
+      "ror": "https://ror.org/00cmhce21",
+      "country_code": "CN",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I2250955327"
+      ]
+     }
+    ],
+    "countries": [
+     "CN"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Hui Shen",
+    "raw_affiliation_strings": [
+     "Dept. of Wireless Research, Huawei Technologies, Shenzhen, China"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Dept. of Wireless Research, Huawei Technologies, Shenzhen, China",
+      "institution_ids": [
+       "https://openalex.org/I2250955327"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 0.4854
+ },
+ {
+  "id": "https://openalex.org/W2950813095",
+  "doi": "https://doi.org/10.48550/arxiv.0707.0323",
+  "title": "Interference Alignment and the Degrees of Freedom for the K User Interference Channel",
+  "publication_year": 2007,
+  "type": "preprint",
+  "cited_by_count": 345,
+  "primary_topic": {
+   "id": "https://openalex.org/T10964",
+   "display_name": "Wireless Communication Security Techniques",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 27,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5008627075",
+     "display_name": "Viveck R. Cadambe",
+     "orcid": "https://orcid.org/0000-0001-6786-8785"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Cadambe, Viveck R.",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5049553679",
+     "display_name": "Syed A. Jafar",
+     "orcid": "https://orcid.org/0000-0003-2038-2977"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Jafar, Syed A.",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   }
+  ],
+  "fwci": null
+ },
+ {
+  "id": "https://openalex.org/W2950452019",
+  "doi": "https://doi.org/10.48550/arxiv.1001.4689",
+  "title": "Balancing Egoism and Altruism on the Interference Channel: The MIMO case",
+  "publication_year": 2010,
+  "type": "preprint",
+  "cited_by_count": 16,
+  "primary_topic": {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  "referenced_works_count": 11,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5113991243",
+     "display_name": "Zuleita Ho",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Ho, Zuleita K. M.",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5021728919",
+     "display_name": "David Gesbert",
+     "orcid": "https://orcid.org/0000-0002-4806-704X"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Gesbert, David",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   }
+  ],
+  "fwci": null
+ }
+]

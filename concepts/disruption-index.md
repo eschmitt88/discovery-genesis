@@ -3,7 +3,7 @@ kind: concept
 name: "disruption index"
 status: seedling
 added: "2026-08-22"
-sources: []
+sources: ["funk2017dynamic", "park2023papers", "holst2024dataset", "petersen2023disruption"]
 related_concepts: ["novelty-vs-impact", "field-normalized-impact"]
 related_experiments: []
 tags: ["metric"]
@@ -34,3 +34,9 @@ Funk reply); the pipeline must document raw vs corrected CD.
 
 - Complements [[atypical-combination]]: one measures the inputs, the other
   the downstream effect.
+- Two independent, non-overlapping critique mechanisms as of 2026: Holst
+  et al. argue a plotting-library bug hid a zero-backward-citation
+  artefact; Petersen/Arroyave/Pammolli argue growing reference-list
+  length structurally biases CD toward 0 ("citation inflation")
+  regardless of any dataset bug. The pipeline should correct for both,
+  not just one, before treating raw CD5 as a stable feature.

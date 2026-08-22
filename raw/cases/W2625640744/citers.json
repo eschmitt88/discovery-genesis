@@ -1,0 +1,489 @@
+[
+ {
+  "id": "https://openalex.org/W4404664530",
+  "publication_year": 2024,
+  "referenced_works": [
+   "https://openalex.org/W136449306",
+   "https://openalex.org/W1992314710",
+   "https://openalex.org/W1999960402",
+   "https://openalex.org/W2006166246",
+   "https://openalex.org/W2028027594",
+   "https://openalex.org/W2062812505",
+   "https://openalex.org/W2159353261",
+   "https://openalex.org/W2473016454",
+   "https://openalex.org/W2485608172",
+   "https://openalex.org/W2528022055",
+   "https://openalex.org/W2599034512",
+   "https://openalex.org/W2625640744",
+   "https://openalex.org/W2948173179",
+   "https://openalex.org/W3012906461",
+   "https://openalex.org/W3034028755",
+   "https://openalex.org/W3090861072",
+   "https://openalex.org/W3104401853",
+   "https://openalex.org/W3109362605",
+   "https://openalex.org/W3149395632",
+   "https://openalex.org/W3163818648",
+   "https://openalex.org/W3206245391",
+   "https://openalex.org/W4213260574",
+   "https://openalex.org/W4230809237",
+   "https://openalex.org/W4293101499",
+   "https://openalex.org/W4308354350",
+   "https://openalex.org/W4316092552",
+   "https://openalex.org/W4377693385",
+   "https://openalex.org/W4378469341",
+   "https://openalex.org/W4379472574",
+   "https://openalex.org/W4386459784",
+   "https://openalex.org/W4388304484",
+   "https://openalex.org/W4396515574",
+   "https://openalex.org/W4402042642"
+  ],
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "cited_by_count": 6
+ },
+ {
+  "id": "https://openalex.org/W3126832651",
+  "publication_year": 2021,
+  "referenced_works": [
+   "https://openalex.org/W108651825",
+   "https://openalex.org/W136449306",
+   "https://openalex.org/W182422873",
+   "https://openalex.org/W1586631801",
+   "https://openalex.org/W1788843154",
+   "https://openalex.org/W1965057819",
+   "https://openalex.org/W1966573983",
+   "https://openalex.org/W1970170506",
+   "https://openalex.org/W1971355207",
+   "https://openalex.org/W1976141130",
+   "https://openalex.org/W1980293412",
+   "https://openalex.org/W1980980484",
+   "https://openalex.org/W1983757085",
+   "https://openalex.org/W1984131390",
+   "https://openalex.org/W1986848711",
+   "https://openalex.org/W1996008708",
+   "https://openalex.org/W1999960402",
+   "https://openalex.org/W2000836977",
+   "https://openalex.org/W2002857431",
+   "https://openalex.org/W2013628062",
+   "https://openalex.org/W2017248370",
+   "https://openalex.org/W2017778547",
+   "https://openalex.org/W2020177759",
+   "https://openalex.org/W2023638579",
+   "https://openalex.org/W2026781865",
+   "https://openalex.org/W2035797929",
+   "https://openalex.org/W2047453330",
+   "https://openalex.org/W2051776276",
+   "https://openalex.org/W2054200280",
+   "https://openalex.org/W2066463622",
+   "https://openalex.org/W2069564993",
+   "https://openalex.org/W2070892944",
+   "https://openalex.org/W2072937724",
+   "https://openalex.org/W2073106530",
+   "https://openalex.org/W2076939609",
+   "https://openalex.org/W2077715298",
+   "https://openalex.org/W2080390653",
+   "https://openalex.org/W2083731680",
+   "https://openalex.org/W2089426876",
+   "https://openalex.org/W2096116723",
+   "https://openalex.org/W2105293560",
+   "https://openalex.org/W2121965584",
+   "https://openalex.org/W2122474355",
+   "https://openalex.org/W2129278180",
+   "https://openalex.org/W2133266087",
+   "https://openalex.org/W2140319597",
+   "https://openalex.org/W2146019457",
+   "https://openalex.org/W2149300504",
+   "https://openalex.org/W2154225407",
+   "https://openalex.org/W2165643694",
+   "https://openalex.org/W2169439581",
+   "https://openalex.org/W2224308681",
+   "https://openalex.org/W2427382847",
+   "https://openalex.org/W2433077116",
+   "https://openalex.org/W2588128606",
+   "https://openalex.org/W2625640744",
+   "https://openalex.org/W2790005170",
+   "https://openalex.org/W2888100659",
+   "https://openalex.org/W2985526573",
+   "https://openalex.org/W3012377041"
+  ],
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.9986000061035156,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "cited_by_count": 11
+ },
+ {
+  "id": "https://openalex.org/W3161051027",
+  "publication_year": 2021,
+  "referenced_works": [
+   "https://openalex.org/W136449306",
+   "https://openalex.org/W201608252",
+   "https://openalex.org/W1955101842",
+   "https://openalex.org/W1977474817",
+   "https://openalex.org/W1981065768",
+   "https://openalex.org/W1989545376",
+   "https://openalex.org/W2007618417",
+   "https://openalex.org/W2007737063",
+   "https://openalex.org/W2070647486",
+   "https://openalex.org/W2074846923",
+   "https://openalex.org/W2089426876",
+   "https://openalex.org/W2090524103",
+   "https://openalex.org/W2101265610",
+   "https://openalex.org/W2105299543",
+   "https://openalex.org/W2127890644",
+   "https://openalex.org/W2135349425",
+   "https://openalex.org/W2164008895",
+   "https://openalex.org/W2192310661",
+   "https://openalex.org/W2334290202",
+   "https://openalex.org/W2471688318",
+   "https://openalex.org/W2520077723",
+   "https://openalex.org/W2592964847",
+   "https://openalex.org/W2625640744",
+   "https://openalex.org/W2783780621",
+   "https://openalex.org/W4250736075",
+   "https://openalex.org/W6608080540",
+   "https://openalex.org/W6720420156"
+  ],
+  "primary_topic": {
+   "id": "https://openalex.org/T12402",
+   "display_name": "Travel-related health issues",
+   "score": 0.21889999508857727,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2739",
+    "display_name": "Public Health, Environmental and Occupational Health"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "cited_by_count": 5
+ },
+ {
+  "id": "https://openalex.org/W4410004914",
+  "publication_year": 2025,
+  "referenced_works": [
+   "https://openalex.org/W1438382424",
+   "https://openalex.org/W1550021788",
+   "https://openalex.org/W1965820302",
+   "https://openalex.org/W1973917791",
+   "https://openalex.org/W1977474817",
+   "https://openalex.org/W1998490956",
+   "https://openalex.org/W1999960402",
+   "https://openalex.org/W2000356532",
+   "https://openalex.org/W2000810177",
+   "https://openalex.org/W2003973303",
+   "https://openalex.org/W2007737063",
+   "https://openalex.org/W2036858268",
+   "https://openalex.org/W2042887382",
+   "https://openalex.org/W2054855441",
+   "https://openalex.org/W2062692749",
+   "https://openalex.org/W2065353446",
+   "https://openalex.org/W2066620264",
+   "https://openalex.org/W2069564993",
+   "https://openalex.org/W2072141841",
+   "https://openalex.org/W2074217811",
+   "https://openalex.org/W2074846923",
+   "https://openalex.org/W2077715298",
+   "https://openalex.org/W2095176720",
+   "https://openalex.org/W2102482336",
+   "https://openalex.org/W2123304350",
+   "https://openalex.org/W2124679575",
+   "https://openalex.org/W2130316216",
+   "https://openalex.org/W2132861827",
+   "https://openalex.org/W2138718804",
+   "https://openalex.org/W2143486847",
+   "https://openalex.org/W2146019457",
+   "https://openalex.org/W2154127699",
+   "https://openalex.org/W2157320006",
+   "https://openalex.org/W2240092279",
+   "https://openalex.org/W2274848724",
+   "https://openalex.org/W2313873761",
+   "https://openalex.org/W2361780635",
+   "https://openalex.org/W2414277088",
+   "https://openalex.org/W2625640744",
+   "https://openalex.org/W2769002019",
+   "https://openalex.org/W2805577322",
+   "https://openalex.org/W2883097332",
+   "https://openalex.org/W2946198179",
+   "https://openalex.org/W3012206868",
+   "https://openalex.org/W3087588870",
+   "https://openalex.org/W3160513755",
+   "https://openalex.org/W3202926955",
+   "https://openalex.org/W4239486664",
+   "https://openalex.org/W4250618584",
+   "https://openalex.org/W4281390655",
+   "https://openalex.org/W4304149028",
+   "https://openalex.org/W4393155133"
+  ],
+  "primary_topic": {
+   "id": "https://openalex.org/T12402",
+   "display_name": "Travel-related health issues",
+   "score": 0.4512999951839447,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2739",
+    "display_name": "Public Health, Environmental and Occupational Health"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "cited_by_count": 2
+ },
+ {
+  "id": "https://openalex.org/W2996783611",
+  "publication_year": 2019,
+  "referenced_works": [
+   "https://openalex.org/W127198529",
+   "https://openalex.org/W200613643",
+   "https://openalex.org/W1996372015",
+   "https://openalex.org/W1999497171",
+   "https://openalex.org/W2001349221",
+   "https://openalex.org/W2010708395",
+   "https://openalex.org/W2018770975",
+   "https://openalex.org/W2025215663",
+   "https://openalex.org/W2074768224",
+   "https://openalex.org/W2157135051",
+   "https://openalex.org/W2174707949",
+   "https://openalex.org/W2412827523",
+   "https://openalex.org/W2414631848",
+   "https://openalex.org/W2533031448",
+   "https://openalex.org/W2592964847",
+   "https://openalex.org/W2625640744"
+  ],
+  "primary_topic": {
+   "id": "https://openalex.org/T11467",
+   "display_name": "Trauma and Emergency Care Studies",
+   "score": 0.9998000264167786,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2711",
+    "display_name": "Emergency Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "cited_by_count": 0
+ },
+ {
+  "id": "https://openalex.org/W3192876706",
+  "publication_year": 2021,
+  "referenced_works": [
+   "https://openalex.org/W6073158",
+   "https://openalex.org/W1516664239",
+   "https://openalex.org/W2000810177",
+   "https://openalex.org/W2027288849",
+   "https://openalex.org/W2028698876",
+   "https://openalex.org/W2034667107",
+   "https://openalex.org/W2036858268",
+   "https://openalex.org/W2054100328",
+   "https://openalex.org/W2083273067",
+   "https://openalex.org/W2089069951",
+   "https://openalex.org/W2165135836",
+   "https://openalex.org/W2174199827",
+   "https://openalex.org/W2533031448",
+   "https://openalex.org/W2588707221",
+   "https://openalex.org/W2592964847",
+   "https://openalex.org/W2625640744",
+   "https://openalex.org/W2798841420",
+   "https://openalex.org/W2804891925",
+   "https://openalex.org/W2896981977",
+   "https://openalex.org/W4211220091",
+   "https://openalex.org/W6630903525"
+  ],
+  "primary_topic": {
+   "id": "https://openalex.org/T10322",
+   "display_name": "Respiratory Support and Mechanisms",
+   "score": 0.9995999932289124,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "cited_by_count": 0
+ },
+ {
+  "id": "https://openalex.org/W4410953467",
+  "publication_year": 2025,
+  "referenced_works": [
+   "https://openalex.org/W1788843154",
+   "https://openalex.org/W1955101842",
+   "https://openalex.org/W1977474817",
+   "https://openalex.org/W1981450399",
+   "https://openalex.org/W1986187210",
+   "https://openalex.org/W1994240218",
+   "https://openalex.org/W1999960402",
+   "https://openalex.org/W2006633115",
+   "https://openalex.org/W2007737063",
+   "https://openalex.org/W2042887382",
+   "https://openalex.org/W2074846923",
+   "https://openalex.org/W2091604678",
+   "https://openalex.org/W2107149232",
+   "https://openalex.org/W2112075426",
+   "https://openalex.org/W2153819134",
+   "https://openalex.org/W2322635191",
+   "https://openalex.org/W2508592116",
+   "https://openalex.org/W2625640744",
+   "https://openalex.org/W3087588870",
+   "https://openalex.org/W3090037878",
+   "https://openalex.org/W3144990584",
+   "https://openalex.org/W3161051027",
+   "https://openalex.org/W4409121449"
+  ],
+  "primary_topic": {
+   "id": "https://openalex.org/T11260",
+   "display_name": "Tracheal and airway disorders",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "cited_by_count": 0
+ },
+ {
+  "id": "https://openalex.org/W4413222972",
+  "publication_year": 2025,
+  "referenced_works": [
+   "https://openalex.org/W1965954813",
+   "https://openalex.org/W1996772809",
+   "https://openalex.org/W2037547196",
+   "https://openalex.org/W2040370076",
+   "https://openalex.org/W2074768224",
+   "https://openalex.org/W2083066201",
+   "https://openalex.org/W2129025113",
+   "https://openalex.org/W2474212056",
+   "https://openalex.org/W2578796731",
+   "https://openalex.org/W2625640744",
+   "https://openalex.org/W2795814239",
+   "https://openalex.org/W2990429659"
+  ],
+  "primary_topic": {
+   "id": "https://openalex.org/T11467",
+   "display_name": "Trauma and Emergency Care Studies",
+   "score": 0.9998000264167786,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2711",
+    "display_name": "Emergency Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "cited_by_count": 0
+ },
+ {
+  "id": "https://openalex.org/W4417330549",
+  "publication_year": 2025,
+  "referenced_works": [
+   "https://openalex.org/W1568120070",
+   "https://openalex.org/W1788843154",
+   "https://openalex.org/W1986990628",
+   "https://openalex.org/W1990693221",
+   "https://openalex.org/W1994240218",
+   "https://openalex.org/W2006633115",
+   "https://openalex.org/W2007737063",
+   "https://openalex.org/W2022731469",
+   "https://openalex.org/W2042887382",
+   "https://openalex.org/W2044578991",
+   "https://openalex.org/W2065353446",
+   "https://openalex.org/W2073106530",
+   "https://openalex.org/W2101265610",
+   "https://openalex.org/W2118508796",
+   "https://openalex.org/W2141590926",
+   "https://openalex.org/W2322635191",
+   "https://openalex.org/W2508592116",
+   "https://openalex.org/W2592964847",
+   "https://openalex.org/W2625640744",
+   "https://openalex.org/W2758934771",
+   "https://openalex.org/W2884918521",
+   "https://openalex.org/W2888100659",
+   "https://openalex.org/W3004482331",
+   "https://openalex.org/W4238861924",
+   "https://openalex.org/W4308722107",
+   "https://openalex.org/W4319293009",
+   "https://openalex.org/W4410004914"
+  ],
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.23690000176429749,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "cited_by_count": 0
+ }
+]

@@ -1,0 +1,6 @@
+# Shared data splits. The held-out split is drawn at sampling time by
+# `genesis.sample --holdout N` and written to test/samples/; nothing in the
+# search phase (codebook, skill iteration, feature analysis) reads test/.
+seed: 1124470055840796258
+dev: data/samples/pilot.json            # 15 pairs
+test: test/samples/pilot-heldout.json   # 5 pairs — final retrodiction pass only

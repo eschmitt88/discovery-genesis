@@ -14,7 +14,7 @@ and `/new-experiment`.
 
 ## Active experiments
 
-(list of `experiments/YYYY-MM-DD-<slug>/` folders currently in flight)
+- `experiments/2026-08-22-h1-pilot-bibliometrics/` — H1 on the 15-pair pilot
 
 ## Open questions
 

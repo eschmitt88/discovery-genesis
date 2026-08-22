@@ -1,0 +1,5857 @@
+{
+ "paper": {
+  "paperId": "4d5ae7ad1fc3b8ebc780a5ca2dcea9a765f68dad",
+  "title": "Status of reactive non-heme metal-oxygen intermediates in chemical and enzymatic reactions.",
+  "referenceCount": 272,
+  "citationCount": 371,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null,
+   "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1021/ja507807v?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/ja507807v, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+   "Chemistry",
+   "Medicine"
+  ],
+  "tldr": {
+   "model": "tldr@v2.0.0",
+   "text": "This perspective provides a focused rather than comprehensive review of the recent advances in the chemistry of biomimetic high-valent metal-oxo and metal-dioxygen complexes, which can be related to the understanding of the biological systems."
+  },
+  "authors": [
+   {
+    "authorId": "49480578",
+    "name": "Kallol Ray"
+   },
+   {
+    "authorId": "48430158",
+    "name": "F. Pfaff"
+   },
+   {
+    "authorId": "4915518",
+    "name": "Bin Wang"
+   },
+   {
+    "authorId": "145456101",
+    "name": "W. Nam"
+   }
+  ]
+ },
+ "references": null,
+ "citations": [
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9c7c2269f3442a4df2bc876cd560312f55262ee8",
+    "externalIds": {
+     "DOI": "10.1002/smll.74392",
+     "CorpusId": 289920911,
+     "PubMed": "42405467"
+    },
+    "title": "Modulation of 1D Ru-Porphyrin Biomimetic COF to Enhance Synergistic Dual C─H Bond Air Oxidation for Cyclohexenone Synthesis.",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2b95e4647b7c0cc752c3cc69ca367c1626c37518",
+    "externalIds": {
+     "PubMedCentral": "13343513",
+     "DOI": "10.1021/acs.inorgchem.6c01709",
+     "CorpusId": 289382481,
+     "PubMed": "42312943"
+    },
+    "title": "Oxygenated N‑Confused Porphyrins: Structural Elucidation and Distinct Vanadium(IV) Coordination Motifs",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1cc5d0b896610ed9650096dbda0f5a8a7fff5d72",
+    "externalIds": {
+     "DOI": "10.1021/acs.inorgchem.6c01468",
+     "CorpusId": 288112594,
+     "PubMed": "42104932"
+    },
+    "title": "The Use of Fluorinated Alkoxide Ligands in ∼D3h Compounds Increases Co Electrophilicity and Eases Co(III)/Co(II) Oxidation.",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "43e67d69318fd246662037e0e57ce08329aa0669",
+    "externalIds": {
+     "PubMedCentral": "13358151",
+     "DOI": "10.1038/s41467-026-72599-y",
+     "CorpusId": 288048746,
+     "PubMed": "42086585"
+    },
+    "title": "A mononuclear nonheme iron complex with higher affinity for O2 than CO via hydrogen bonding",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "836dd4827be8b3647edd4aac503a12a1a4b41533",
+    "externalIds": {
+     "DOI": "10.1016/j.jcat.2026.116835",
+     "CorpusId": 286755951
+    },
+    "title": "Bioinspired oxidative N-dealkylation using water as an oxygen source: a direct route to ω-amino acids from aliphatic N-heterocycles",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "d5ad90bf93c199d5602d67c24dcda41f2e995fa7",
+    "externalIds": {
+     "PubMedCentral": "13126184",
+     "DOI": "10.1021/jacsau.6c00037",
+     "CorpusId": 287297632,
+     "PubMed": "42063848"
+    },
+    "title": "How Does Tuning of the Primary Coordination Sphere Around Ferryl–Oxo Intermediates Affect Structure and Reactivity? Insights into Axial and Equatorial Ligand Field Effects",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "27114945d619e330c383782d21e39b907064e32c",
+    "externalIds": {
+     "DOI": "10.1021/jacs.6c00288",
+     "CorpusId": 286680756,
+     "PubMed": "41855132"
+    },
+    "title": "A Structurally Authenticated Closed-Shell Iron(IV) Oxo Ferryl Complex: Synthesis, Properties, and Reactivity.",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2801209fdcb2813391e03dbfbc9d3b41fbc67ad9",
+    "externalIds": {
+     "DOI": "10.1007/s10562-026-05315-6",
+     "CorpusId": 285535525
+    },
+    "title": "Lewis Acid Promoted Dioxygen Activation and Catalytic Oxygenations by Manganese(II) Complexes",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "59a01fc31e5f47c2bc158a54e1fa802eeaeb5bf2",
+    "externalIds": {
+     "DOI": "10.1021/acs.est.5c12534",
+     "CorpusId": 284581001,
+     "PubMed": "41504335"
+    },
+    "title": "Ultralow Dose Protoporphyrin IX-Mediated Ferrate(VI) System for Rapid Degradation of Phenolic Pollutants: Key Roles of Fe(V/IV/III) Complexes.",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9ce5b6a2d75a038f2a4202317f9235a8de318b53",
+    "externalIds": {
+     "PubMedCentral": "12824209",
+     "DOI": "10.1038/s41598-025-32632-4",
+     "CorpusId": 284152976,
+     "PubMed": "41436772"
+    },
+    "title": "A versatile bioinspired iron-based catalyst for the C–H bond and alcohol oxidations",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1ab1bbd3f696a5b433308ca9feece4c250fe0e2a",
+    "externalIds": {
+     "DOI": "10.1016/s1872-2067(25)64822-4",
+     "CorpusId": 283188049
+    },
+    "title": "Hierarchical manganese-containing TS-1 zeolite for the direct oxidation of cyclohexane to adipic acid with molecular oxygen: Synergy between matrix Ti and Mn species",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "210cf4c8007d842429e3d3ef59377247a6ad5f7c",
+    "externalIds": {
+     "DOI": "10.1016/j.jcat.2025.116602",
+     "CorpusId": 283508225
+    },
+    "title": "Lewis acid improved catalytic oxygenation by Iron(II) complexes through dioxygen activation",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0e577e3657d2491e1d397aec925f9c4a9baec922",
+    "externalIds": {
+     "DOI": "10.1016/j.jinorgbio.2025.113143",
+     "CorpusId": 283623880,
+     "PubMed": "41380190"
+    },
+    "title": "High oxidizing reactivity of mononuclear nonheme Iron(V)-oxo complexes.",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0b32931a570b36199716a6aa482d68955633f008",
+    "externalIds": {
+     "DOI": "10.1002/tch2.70008",
+     "CorpusId": 284256330
+    },
+    "title": "Opportunities When Chemistry Meets Biology in Catalysis and Synthesis",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "44de17bb946b9cecfb241b197268da6e3572499d",
+    "externalIds": {
+     "PubMedCentral": "12649796",
+     "DOI": "10.1039/d5sc07586f",
+     "CorpusId": 283123175,
+     "PubMed": "41311886"
+    },
+    "title": "Sulfur-ligated iron(iv)-imido and iron(iv)-oxo complexes, which one is more reactive?",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c029c4471481afd0e7684b97a05cce9726a10c6f",
+    "externalIds": {
+     "DOI": "10.1039/d5dt02063h",
+     "CorpusId": 282206598,
+     "PubMed": "41114630"
+    },
+    "title": "Elucidating decay pathways of bispidine-iron(IV)-tosylimido complexes: insights gained from decay products.",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "77aaf6df5c26068d098d3981cce6ff50ab0f6d5e",
+    "externalIds": {
+     "PubMedCentral": "12535397",
+     "DOI": "10.1002/anie.202512839",
+     "CorpusId": 281147835,
+     "PubMed": "40908719"
+    },
+    "title": "Mechanistic Divergence in Sulfur‐Ligated Iron(III)‐Alkylperoxo Reactivity: Aldehyde Oxidation Prevails over Deformylation",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "397af1d6e81dc42db187ea39a1239a83ef25f807",
+    "externalIds": {
+     "PubMedCentral": "12451424",
+     "DOI": "10.1002/chem.202501610",
+     "CorpusId": 280720291,
+     "PubMed": "40838481"
+    },
+    "title": "Substrate Epoxidation Catalyzed by the Nonheme Iron Dioxygenase Dapdiamide Biosynthesis Enzyme C. Why Is the Substrate Tethered?",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "cf0f8a70eab381642806e5c749a26d3a3e4b59f4",
+    "externalIds": {
+     "PubMedCentral": "12462750",
+     "DOI": "10.1002/anie.202507578",
+     "CorpusId": 280684679,
+     "PubMed": "40827684"
+    },
+    "title": "Promiscuity in Molecular Mimics of the Cysteine Dioxygenase: Effects of Selenium in the Substrate and Cobalt as the Central Metal Ion",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f930980d6dffad5b814d178bd01548939a4ab56d",
+    "externalIds": {
+     "PubMedCentral": "12308381",
+     "DOI": "10.1021/jacsau.5c00589",
+     "CorpusId": 280159027,
+     "PubMed": "40747019"
+    },
+    "title": "Preparation, Spectroscopic Characterization, and Reactivity of High-Valent Non-Oxo Co(IV) and Formally Co(V) Complexes",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7109518ec718a0d9001997c03453150cda5337b7",
+    "externalIds": {
+     "DOI": "10.1021/acs.est.5c03369",
+     "CorpusId": 279396041,
+     "PubMed": "40518626"
+    },
+    "title": "A Novel Electrocatalytic Oxygen-Superoxide Pathway Driven by an Auxiliary Ligand-Engineered Nonheme Iron Catalyst for Highly Efficient Hydroxyl Radical Generation in Water Purification.",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "14ba80c9024660dab61e123fd4a0418ab8740387",
+    "externalIds": {
+     "DOI": "10.1021/jacs.4c16522",
+     "CorpusId": 278168966,
+     "PubMed": "40295160"
+    },
+    "title": "Debate of Nucleophilic versus Electrophilic Oxidative Aldehyde Deformylation by Mononuclear Nonheme Iron(III)-Peroxo and Iron(IV)-Oxo Complexes.",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "8cceec3c499c21c77986fec2d131e6d8df54736e",
+    "externalIds": {
+     "PubMedCentral": "12054616",
+     "DOI": "10.1021/acscatal.5c00706",
+     "CorpusId": 277993176,
+     "PubMed": "40337369"
+    },
+    "title": "A Transient, Highly Reactive Fe(IV)=O Species Revealed Through the Interference by O2 in the Activation of Organic Peracids by [(N4Py)Fe(II)]2+",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "83b61d482115ab15647185f2e3a579817bf36e5a",
+    "externalIds": {
+     "DOI": "10.1016/j.ccr.2024.216429",
+     "CorpusId": 275495781
+    },
+    "title": "Heme and nonheme high-valent manganese(V)-oxo complexes: Synthesis, characterization, and reactivity",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [
+    "This is, for example, the case in biological oxidations such as those occurring in cytochrome P450 30,31 and superoxide reductase 32 orsuperoxidedismutase 33 ,amongotherenzymaticreactions 34,35 ."
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "da3da1c1b1e187ea59ac22d0fccc94b861d2b8b3",
+    "externalIds": {
+     "PubMedCentral": "11821843",
+     "DOI": "10.1038/s42004-025-01425-1",
+     "CorpusId": 276315998,
+     "PubMed": "39939833"
+    },
+    "title": "Spin-state effect on the efficiency of a post-synthetic modification reaction on a spin crossover complex",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "62935a23c4fd15c304e77acdaee47f43e9c1f225",
+    "externalIds": {
+     "DOI": "10.1021/jacs.4c14045",
+     "CorpusId": 276256626,
+     "PubMed": "39928996"
+    },
+    "title": "Activation of Electrophilic Reactivity by Protonation and Oxidation of a Peroxo CoIIICoIII Complex: Reactivity and Molecular Structures of Hydroperoxo, Superoxo, and Peroxo CoIIICoIII Complexes.",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "73d5e45132aba31fd05949f683a6135cb662d4f0",
+    "externalIds": {
+     "DOI": "10.1021/acscatal.4c06972",
+     "CorpusId": 275710549
+    },
+    "title": "Understanding Substrate Binding and Reactivity of Stearoyl-CoA Desaturase (SCD1) through Classical and Multiscale Molecular Dynamics Simulations",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [
+    "Non-heme iron-dependent dioxygenases, a class of ubiquitous enzymatic proteins found in diverse organisms, catalyze a variety of bio-chemical reactions with broad potential applications, including pharmaceutical synthesis and environmental protection [ 1–5 ]."
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "480dbb9188d6eef75387924b2ad512733ae5d166",
+    "externalIds": {
+     "PubMedCentral": "12173810",
+     "DOI": "10.1016/j.engmic.2024.100188",
+     "CorpusId": 275214616,
+     "PubMed": "40538716"
+    },
+    "title": "BTG13-related metalloenzymes: Atypical non-heme iron-dependent dioxygenases with unusual coordination patterns and catalytic mechanisms",
+    "year": 2025
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "73a4a7be069fb29ec1a71d1a8100e0c16b8343a6",
+    "externalIds": {
+     "PubMedCentral": "11734119",
+     "DOI": "10.1021/acs.inorgchem.4c04995",
+     "CorpusId": 275067214,
+     "PubMed": "39727298"
+    },
+    "title": "Biomimetic [MFe3S4]3+ Cubanes (M = V/Mo) as Catalysts for a Fischer–Tropsch-like Hydrocarbon Synthesis—A Computational Study",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [
+    "Nature chooses dications for several natural and biological processes, such as the heme iron complexes found in blood and in various enzymes (Hohenberger et al., 2012; Poulos, 2014; Ray et al., 2014; Martinie et al., 2017; Mitchell et al., 2017; Follmer et al., 2019).",
+    "These dications have also important industrial applications (Hohenberger et al., 2012; Ray et al., 2014)."
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "db2187e10ecd4d536821e68f547149f7ac276179",
+    "externalIds": {
+     "PubMedCentral": "11668566",
+     "DOI": "10.3389/fchem.2024.1508515",
+     "CorpusId": 274665289,
+     "PubMed": "39722836"
+    },
+    "title": "Electronic structure of metal oxide dications with ammonia ligands and their reactivity towards the selective conversion of methane to methanol",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "bd59acf5cf02b106310fbe0480b83af87001144d",
+    "externalIds": {
+     "DOI": "10.1016/j.jinorgbio.2024.112809",
+     "CorpusId": 274634011,
+     "PubMed": "39705751"
+    },
+    "title": "Reinvestigation of the mechanism of dioxygen activation at a MnII(cyclam) center.",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9c3053ecd21c11ad0b494c11759f8fd5709c2392",
+    "externalIds": {
+     "DOI": "10.1134/S0036023624602691",
+     "CorpusId": 275773198
+    },
+    "title": "Anti -Oxidant Activity of Trolox: Understanding the Mechanistic Pathway of Oxidation of Trolox by µ-Oxo-Diiron(III) Complex, a Model of Non-Heme Metalloprotein",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "12e1991bf9081386ed224a7ef981c2cddabbd37b",
+    "externalIds": {
+     "DOI": "10.1002/ceur.202400067",
+     "CorpusId": 273906594
+    },
+    "title": "Mechanism of Substrate Activation by Tryptophan Hydroxylase: A Computational Study",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "91b086672f9acfe693544004eee9ba2dff1b9e16",
+    "externalIds": {
+     "DOI": "10.1021/acs.inorgchem.4c03254",
+     "CorpusId": 273818650,
+     "PubMed": "39498631"
+    },
+    "title": "Basicity of MnIII-Hydroxo Complexes Controls the Thermodynamics of Proton-Coupled Electron Transfer Reactions.",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6e9543453b8af54356d74f8e7f45cbf0c6159ee2",
+    "externalIds": {
+     "DOI": "10.1021/jacs.4c07582",
+     "CorpusId": 273198404,
+     "PubMed": "39382653"
+    },
+    "title": "A bis-Phenolate Carbene-Supported bis-μ-Oxo Iron(IV/IV) Complex with a [FeIV(μ-O)2FeIV] Diamond Core Derived from Dioxygen Activation.",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "632ea59cd9acc4cd94ed98e1f47a9542481a28c0",
+    "externalIds": {
+     "DOI": "10.1016/j.jcat.2024.115792",
+     "CorpusId": 273426154
+    },
+    "title": "Electrochemically driven nonheme iron complex-catalyzed oxidation reactions using water as an oxygen source",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "b591a9c002e99a2daf62d8fdf160398bf44c69c6",
+    "externalIds": {
+     "PubMedCentral": "11621950",
+     "DOI": "10.1021/acsorginorgau.4c00045",
+     "CorpusId": 272765412,
+     "PubMed": "39649995"
+    },
+    "title": "Unraveling Chlorite Oxidation Pathways in Equatorially Heteroatom-Substituted Nonheme Iron Complexes",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c03cd4a5cbb7ad314f7df5fa4d44facb4a683c77",
+    "externalIds": {
+     "DOI": "10.1016/j.watres.2024.122255",
+     "CorpusId": 271891110,
+     "PubMed": "39153313"
+    },
+    "title": "Non-radical oxidation driven by iron-based materials without energy assistance in wastewater treatment.",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "d22c2d494645a00929c037e7b8dd2d6eeec5dcb3",
+    "externalIds": {
+     "DOI": "10.1016/j.molstruc.2024.139554",
+     "CorpusId": 271716287
+    },
+    "title": "Synthesis, structural diversity, supramolecular architecture, and catalytic reactions of mononuclear and heteronuclear benzamide cobalt complexes",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "163e80f9b6cd6b7f322cf76f0de786190959883e",
+    "externalIds": {
+     "PubMedCentral": "11313972",
+     "DOI": "10.3390/molecules29153706",
+     "CorpusId": 271728998,
+     "PubMed": "39125109"
+    },
+    "title": "Establishing the Thermodynamic Cards of Dipine Models’ Oxidative Metabolism on 21 Potential Elementary Steps",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "854320ab8a4d72bdc3dc8815372ab9197ed7ebf7",
+    "externalIds": {
+     "DOI": "10.1021/jacs.4c03211",
+     "CorpusId": 271309276,
+     "PubMed": "39031334"
+    },
+    "title": "Controlling Reactivity through Spin Manipulation: Steric Bulkiness of Peroxocobalt(III) Complexes.",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ba33953465cd82c0a930bf62335acc26c379d6f6",
+    "externalIds": {
+     "DOI": "10.1021/acs.inorgchem.4c01708",
+     "CorpusId": 271301514,
+     "PubMed": "39030661"
+    },
+    "title": "Unraveling the Geometry-Driven C═C Epoxidation and C-H Hydroxylation Reactivity of Tetra-Coordinated Nonheme Iron(IV)-Oxo Complexes.",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3af0342c270a196cdf1f3baf810e4d939a0b95d8",
+    "externalIds": {
+     "DOI": "10.1016/j.ccr.2024.215840",
+     "CorpusId": 269096040
+    },
+    "title": "High-valent metal-oxo species in catalytic oxidations for environmental remediation and energy conversion",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2ffa6f674962766a2f5fb4dac324132761c0f35e",
+    "externalIds": {
+     "DOI": "10.1016/j.ccr.2024.215793",
+     "CorpusId": 268567844
+    },
+    "title": "Mechanisms of C(sp3)–H and C=C selective oxidative heterofunctionalizations by non-heme Fe and Mn mimics of oxygenase enzymes",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [
+    "Some SCs can mimic the catalytic activity of distinct iron-containing oxidoreductases, such as cytochrome P450 monooxygenases [46], dioxygenases [47], superoxide dismutase [48] and amino acid oxidases [49], partially under the formation of high-valent oxoiron species."
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "df345ebe42e6af3cfbdba8c5e881c4c9a83a9ecb",
+    "externalIds": {
+     "PubMedCentral": "11263665",
+     "DOI": "10.1016/j.redox.2024.103257",
+     "CorpusId": 270779585,
+     "PubMed": "38955113"
+    },
+    "title": "Iron(III)-salophene catalyzes redox cycles that induce phospholipid peroxidation and deplete cancer cells of ferroptosis-protecting cofactors",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "74245de678b2e476ca1abe635ec40d64a6fb485c",
+    "externalIds": {
+     "DOI": "10.1021/acs.inorgchem.4c00371",
+     "CorpusId": 269759579,
+     "PubMed": "38739843"
+    },
+    "title": "Origin of Unprecedented Formation and Reactivity of FeIV═O Species via Oxygen Activation: Role of Noncovalent Interactions and Magnetic Coupling.",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6876b97363769994037b60247e459fc3aeb4f0f4",
+    "externalIds": {
+     "DOI": "10.1016/j.jinorgbio.2024.112611",
+     "CorpusId": 269743931,
+     "PubMed": "38788359"
+    },
+    "title": "Oxygenolytic cleavage of 1,2-diols with dioxygen by a mononuclear nonheme iron complex: Mimicking the reaction of myo-inositol oxygenase.",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "785d111e3dceeb82d7570224e2105bc4bd589782",
+    "externalIds": {
+     "PubMedCentral": "11305010",
+     "DOI": "10.1021/jacs.3c08950",
+     "CorpusId": 269408468,
+     "PubMed": "38669456"
+    },
+    "title": "Axial Ligation Impedes Proton-Coupled Electron-Transfer Reactivity of a Synthetic Compound-I Analogue",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "085f9f562d5e62648bb2698f95102a599bc550d9",
+    "externalIds": {
+     "DOI": "10.1021/acs.inorgchem.4c00186",
+     "CorpusId": 269154123,
+     "PubMed": "38625043"
+    },
+    "title": "C-H Bond Oxidation by MnIV-Oxo Complexes: Hydrogen-Atom Tunneling and Multistate Reactivity.",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "203d89a10855248c338a8ab290728bdbe9c6d558",
+    "externalIds": {
+     "DOI": "10.1021/acs.inorgchem.4c00070",
+     "CorpusId": 268740906,
+     "PubMed": "38551622"
+    },
+    "title": "Enhanced Reactivity through Equatorial Sulfur Coordination in Nonheme Iron(IV)-Oxo Complexes: Insights from Experiment and Theory.",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "81f9c799285ab1605f2257a249f327b91a7b29bb",
+    "externalIds": {
+     "PubMedCentral": "11109629",
+     "DOI": "10.1002/advs.202310333",
+     "CorpusId": 268372196,
+     "PubMed": "38477431"
+    },
+    "title": "Enhanced Reactivities of Iron(IV)‐Oxo Porphyrin Species in Oxidation Reactions Promoted by Intramolecular Hydrogen‐Bonding",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "b06fe9283473eb3157940339dea712f2a6b1f5b9",
+    "externalIds": {
+     "PubMedCentral": "11023055",
+     "DOI": "10.1039/d4sc00543k",
+     "CorpusId": 268321489,
+     "PubMed": "38638238"
+    },
+    "title": "Questing for homoleptic mononuclear manganese complexes with monodentate O-donor ligands",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f0c5262ff1451ab147cff9adebba564cd590a4ae",
+    "externalIds": {
+     "DOI": "10.1016/j.mencom.2024.02.002",
+     "CorpusId": 268911652
+    },
+    "title": "Coordination and hydrogen bonding diversity of OOH ligand in crystalline organoelement and inorganic hydroperoxides",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "19afadfa26fb89fe038b4b258fd45f6ed7baed9f",
+    "externalIds": {
+     "PubMedCentral": "10935699",
+     "DOI": "10.1039/d3sc06753j",
+     "CorpusId": 267667392,
+     "PubMed": "38487234"
+    },
+    "title": "Catalytic reduction of oxygen to water by non-heme iron complexes: exploring the effect of the secondary coordination sphere proton exchanging site",
+    "year": 2024
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "821b45f64e7dbb9d063545309c6670cda4a8975f",
+    "externalIds": {
+     "DOI": "10.1021/jacs.3c08559",
+     "CorpusId": 266560005,
+     "PubMed": "38147793"
+    },
+    "title": "Electronic Structure and Reactivity of Mononuclear Nonheme Iron-Peroxo Complexes as a Biomimetic Model of Rieske Oxygenases: Ring Size Effects of Macrocyclic Ligands.",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c398cee47237d9ea08b9a165c6e54cfc759fbbd2",
+    "externalIds": {
+     "DOI": "10.1021/acs.accounts.3c00449",
+     "CorpusId": 265065876,
+     "PubMed": "37938969"
+    },
+    "title": "Dioxygen Reduction and Bioinspired Oxidations by Non-heme Iron(II)-α-Hydroxy Acid Complexes.",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "b3daaa693c5ecdb560c9cc2e733381218452a936",
+    "externalIds": {
+     "DOI": "10.1021/acs.inorgchem.3c02782",
+     "CorpusId": 264144388,
+     "PubMed": "37838986"
+    },
+    "title": "Reactivities and Electronic Structures of μ-1,2-Peroxo and μ-1,2-Superoxo CoIIICoIII Complexes: Electrophilic Reactivity and O2 Release Induced by Oxidation.",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9859722c89c594b694a38ea27f58f8a57b2c3cc5",
+    "externalIds": {
+     "PubMedCentral": "10498488",
+     "DOI": "10.1021/acs.inorgchem.3c02089",
+     "CorpusId": 261395272,
+     "PubMed": "37650683"
+    },
+    "title": "Mechanism of Nitrogen Reduction to Ammonia in a Diiron Model of Nitrogenase",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6dbaeb9f56da8320bf8ab0beec474f16783f3ef6",
+    "externalIds": {
+     "DOI": "10.1021/acs.jpcc.3c03247",
+     "CorpusId": 260399104
+    },
+    "title": "Single-Step Selective Oxidation of Methane by Iron-Oxo Species in the Metal–Organic Framework MFU-4l",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "52616bb15e68bb32716f3abf621a170c98b058b4",
+    "externalIds": {
+     "DOI": "10.1016/j.jphotochem.2023.114961",
+     "CorpusId": 259546410
+    },
+    "title": "Photooxidation by a Long-Lived Photoexcited State of a Triflic Acid-Bound Mn(IV)-Oxo Complex with the Highest Quantum Efficiency",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "14c60e50f7eb5d0bb100dd2e1ea8e9fa3761484a",
+    "externalIds": {
+     "DOI": "10.1021/acs.inorgchem.3c00826",
+     "CorpusId": 258485560,
+     "PubMed": "37139810"
+    },
+    "title": "Systematic Electronic Tuning on the Property and Reactivity of Cobalt-(Hydro)peroxo Intermediates.",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ec2854b0f298e6215f2bcfa89ffa1832256e3e3a",
+    "externalIds": {
+     "DOI": "10.1007/s11426-023-1578-y",
+     "CorpusId": 258423481
+    },
+    "title": "Biomimetic asymmetric catalysis",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "66537a35e1f7911f8397c8610dc4890b3e1331d6",
+    "externalIds": {
+     "DOI": "10.1016/j.ccr.2023.215021",
+     "CorpusId": 256216571
+    },
+    "title": "Bio-inspired mononuclear nonheme metal peroxo complexes: Synthesis, structures and mechanistic studies toward understanding enzymatic reactions",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "29ce4feb610c7d84f7910abd1696a700126fa6ab",
+    "externalIds": {
+     "DOI": "10.1016/j.cej.2023.141796",
+     "CorpusId": 256789858
+    },
+    "title": "High-Valent Metals in Advanced Oxidation Processes: A Critical Review of Their Identification Methods, Formation Mechanisms, and Reactivity Performance",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "30b7414eee936b7f0f083e5d9390820a940b7167",
+    "externalIds": {
+     "DOI": "10.1021/jacs.2c09274",
+     "CorpusId": 255466179,
+     "PubMed": "36598425"
+    },
+    "title": "Oxidation of Aldehydes into Carboxylic Acids by a Mononuclear Manganese(III) Iodosylbenzene Complex through Electrophilic C-H Bond Activation.",
+    "year": 2023
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "b9451cf1e962fcbafcdcfd13187e30ed494149d2",
+    "externalIds": {
+     "DOI": "10.1021/jacs.2c10196",
+     "CorpusId": 254123556,
+     "PubMed": "36454200"
+    },
+    "title": "Preparation and Characterization of a Formally NiIV-Oxo Complex with a Triplet Ground State and Application in Oxidation Reactions.",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "cbf84f89eb83175d48e15ee22f439add097a1b7a",
+    "externalIds": {
+     "DOI": "10.1016/j.checat.2022.11.019",
+     "CorpusId": 254722533
+    },
+    "title": "Dioxetane and lactone pathways in dioxygenolytic ring cleavage catalyzed by 2,5-dihydroxypyridine dioxygenase",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "e3496ab766d3b7d763eb6520af49134d89e11818",
+    "externalIds": {
+     "DOI": "10.1016/j.ica.2022.121288",
+     "CorpusId": 253607820
+    },
+    "title": "Manganese(II) Complexes of 1,1'-Bis[(pyridine-2-yl)methyl)]-2,2'-bipiperidine (PYBP): Synthesis, Structure, Catalytic Properties in Alkene Epoxidation with Hydrogen Peroxide, and Related Mechanistic Studies",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "410547d14fec5d8e5347544a0799fb63efa7f493",
+    "externalIds": {
+     "DOI": "10.1021/jacs.2c09235",
+     "CorpusId": 253183562,
+     "PubMed": "36305785"
+    },
+    "title": "Light-Initiated C-H Activation via Net Hydrogen Atom Transfer to a Molybdenum(VI) Dioxo.",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "35933c3651e8d3fbd3517c2ac0bccbb97cf5406f",
+    "externalIds": {
+     "DOI": "10.1021/jacs.2c08140",
+     "CorpusId": 252161435,
+     "PubMed": "36083877"
+    },
+    "title": "Peroxide-Selective Reduction of O2 at Redox-Inactive Rare-Earth(III) Triflates Generates an Ambiphilic Peroxide.",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1d519e01232751e5bbe395ec35cb707fada05b62",
+    "externalIds": {
+     "DOI": "10.1016/j.poly.2022.116030",
+     "CorpusId": 250465081
+    },
+    "title": "The access of {NiIV(OH)2} intermediate in Ni(II) mediated oxygen atom transfer to coordinated Phosphine: Combined experimental and computational studies",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "b6cf08a15e7329dd7939f18fd5c8ff08cfabbaa3",
+    "externalIds": {
+     "DOI": "10.1016/j.catcom.2022.106511",
+     "CorpusId": 252264241
+    },
+    "title": "Synthesis of a highly active Nb2O5 for 1,2-cyclohexanediol production",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0f2b0bd20a0a795bd7d9d12c464d3ad4162a1248",
+    "externalIds": {
+     "DOI": "10.3390/catal12090949",
+     "CorpusId": 251948613
+    },
+    "title": "Effect of Brшnsted Acid on the Reactivity and Selectivity of the Oxoiron(V) Intermediates in C-H and C=C Oxidation Reactions",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "73ef01cd81323d1635afbc04c4e2f624f4881177",
+    "externalIds": {
+     "DOI": "10.1007/s11224-022-02030-x",
+     "CorpusId": 251649877
+    },
+    "title": "Electronic structures and energetic of metal(II)-superoxo species: a DFT exploration",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "144f96a67fe17f455b39fd30026b567acae0bccc",
+    "externalIds": {
+     "PubMedCentral": "9332324",
+     "DOI": "10.3390/molecules27154690",
+     "CorpusId": 251076716,
+     "PubMed": "35897870"
+    },
+    "title": "Isolating Fe-O2 Intermediates in Dioxygen Activation by Iron Porphyrin Complexes",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "b58e03ff21ad2aed1f8cb15ef4cda6ea9c2b3ff4",
+    "externalIds": {
+     "DOI": "10.1007/s12274-022-4686-7",
+     "CorpusId": 250534940
+    },
+    "title": "High selective epoxidation of 2-methylpropene over a Mo-based oxametallacycle reinforced nano composite",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ad926d227118f036ae3591be67dab9eaf4d04853",
+    "externalIds": {
+     "DOI": "10.1007/s40242-022-2164-0",
+     "CorpusId": 250361118
+    },
+    "title": "Recent Development of Bio-inspired Porous Materials for Catalytic Applications",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0bc8b28f11ca6f447c07d654b3eb10f06839a5af",
+    "externalIds": {
+     "DOI": "10.1002/bkcs.12584",
+     "CorpusId": 250196929
+    },
+    "title": "Identification of a cobalt(\n IV\n )–oxo intermediate as an active oxidant in catalytic oxidation reactions",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "39cfcbde0b4fd0c891034eecd173ea4edf66704c",
+    "externalIds": {
+     "DOI": "10.1007/s11244-022-01656-9",
+     "CorpusId": 250077603
+    },
+    "title": "Aminothiazole Ligand-Type Dioxo-Mo(VI) Complex Anchored on TiO2 Nanotubes for Selective Oxidation of Monoterpenes with Light and O2",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "cec56b0c08695d7bf7be446ab01c784221d0e44f",
+    "externalIds": {
+     "DOI": "10.1021/acscatal.2c01096",
+     "CorpusId": 249053712
+    },
+    "title": "Bromoacetic Acid-Promoted Nonheme Manganese-Catalyzed Alkane Hydroxylation Inspired by α-Ketoglutarate-Dependent Oxygenases",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "963b4a635f984dcb2705920ca453e0cc52a6b8bf",
+    "externalIds": {
+     "DOI": "10.1016/s1872-2067(21)63974-8",
+     "CorpusId": 247185325
+    },
+    "title": "Theoretical perspective on mononuclear copper-oxygen mediated C–H and O–H activations: A comparison between biological and synthetic systems",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "061c180fb9eb497451b1c64d010c22e3e3aba54c",
+    "externalIds": {
+     "DOI": "10.1039/d2cp00963c",
+     "CorpusId": 247677115,
+     "PubMed": "35332353"
+    },
+    "title": "Exploring mechanistic routes for light alkane oxidation with an iron-triazolate metal-organic framework.",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6602f99a906ff7bd89fefb52d9ed2e168b77b2e8",
+    "externalIds": {
+     "DOI": "10.1016/j.cattod.2022.02.016",
+     "CorpusId": 247286219
+    },
+    "title": "Characterization of peroxo-Mo and superoxo-Mo intermediate adducts in Photo-Oxygen Atom Transfer with O2",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2c9d475df2b08e752479e9329e34e907c103ec42",
+    "externalIds": {
+     "DOI": "10.1016/j.tetlet.2022.153754",
+     "CorpusId": 247684293
+    },
+    "title": "Pd-catalyzed Site-selective Direct Arene C−H Arylation of Pyrrolo[2,3-d]pyrimidine Derivatives with Aryl Iodides",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "07515e4cb3e9af5d502445c1dc718f9e5df62c20",
+    "externalIds": {
+     "DOI": "10.1021/acs.est.1c04530",
+     "CorpusId": 245865784,
+     "PubMed": "35007064"
+    },
+    "title": "Aqueous Iron(IV)-Oxo Complex: An Emerging Powerful Reactive Oxidant Formed by Iron(II)-Based Advanced Oxidation Processes for Oxidative Water Treatment.",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ac4698ea15e4a0604b69159f7a72c7a425784801",
+    "externalIds": {
+     "PubMedCentral": "8789326",
+     "DOI": "10.1002/anie.202111492",
+     "CorpusId": 244834097,
+     "PubMed": "34850509"
+    },
+    "title": "An Iron(III) Superoxide Corrole from Iron(II) and Dioxygen",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "46697f060d258e0e37ab884a7947fb3a8ee1f688",
+    "externalIds": {
+     "DOI": "10.1007/s12039-021-01994-3",
+     "CorpusId": 244407468
+    },
+    "title": "PCET to bound-superoxide by NADH and NADHX in aqueous-acid media: a kinetic inspection",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "589d8a81421ab33d0b740c9b0676bcea23623035",
+    "externalIds": {
+     "DOI": "10.1007/s11244-021-01525-x",
+     "CorpusId": 240443736
+    },
+    "title": "Mechanistic Insight into the O–O Bond Activation by Manganese Corrole Complexes",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f35ef53481fe8d7fe10fc38ff6cf2e8a47231748",
+    "externalIds": {
+     "DOI": "10.1021/jacs.1c08198",
+     "CorpusId": 240421461,
+     "PubMed": "34723505"
+    },
+    "title": "Enthalpy-Entropy Compensation Effect in Oxidation Reactions by Manganese(IV)-Oxo Porphyrins and Nonheme Iron(IV)-Oxo Models.",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1b6f9b8eaaf442b20e8dbc95b013b3caa2cd17eb",
+    "externalIds": {
+     "DOI": "10.1021/acs.inorgchem.1c02514",
+     "CorpusId": 239027515,
+     "PubMed": "34662098"
+    },
+    "title": "Bioinspired Heterobimetallic Photocatalyst (RuIIchrom-FeIIIcat) for Visible-Light-Driven C-H Oxidation of Organic Substrates via Dioxygen Activation.",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3c57db49ad448611e3de10d50024ea36a69c22f5",
+    "externalIds": {
+     "DOI": "10.1021/jacs.1c04919",
+     "CorpusId": 238410019,
+     "PubMed": "34609879"
+    },
+    "title": "The Oxo-Wall Remains Intact: A Tetrahedrally Distorted Co(IV)-Oxo Complex.",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7b6846839fb1e25b98b417a9fcbcb9ab13230bdf",
+    "externalIds": {
+     "DOI": "10.1039/d1dt02366g",
+     "CorpusId": 238239617,
+     "PubMed": "34595485"
+    },
+    "title": "A novel o-vanillin Fe(III) complex catalytically active in C-H oxidation: exploring the magnetic exchange interactions and spectroscopic properties with different DFT functionals.",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [
+    "Typically, the role of a catalyst in a highly selective peroxide system is to form high-valence metal-oxo (HVMO) species, whose reactivity can be further controlled by the ligand’s nature [18,21]."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9bd0d31feeaed4561494485fbbb73acd3028b554",
+    "externalIds": {
+     "MAG": "3204513080",
+     "DOI": "10.3390/catal11101148",
+     "CorpusId": 244179483
+    },
+    "title": "Catalytic Oxidations with Meta-Chloroperoxybenzoic Acid (m-CPBA) and Mono- and Polynuclear Complexes of Nickel: A Mechanistic Outlook",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3a967e581bfd1a11d087662365357df16b397225",
+    "externalIds": {
+     "DOI": "10.1002/bkcs.12389",
+     "CorpusId": 239075518
+    },
+    "title": "Electronic properties and reactivity patterns of\n high‐valent metal‐oxo\n species of Mn, Fe, Co, and Ni",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "05d03475f6b9e032b01018458bc5edd3f7881028",
+    "externalIds": {
+     "MAG": "3200046373",
+     "DOI": "10.1002/bkcs.12391",
+     "CorpusId": 240528255
+    },
+    "title": "A mononuclear nonheme manganese(\n III\n )‐acylperoxo complex: Synthesis, characterization, and reactivity studies",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f7d385bf701504e39a17144b5d1e20ce310a3c19",
+    "externalIds": {
+     "DOI": "10.1007/s11426-021-1042-y",
+     "CorpusId": 237620387
+    },
+    "title": "A mixed-valent high spin (μ-hydroxo)dicobalt(II/III) complex and its end-on type dioxygen adduct: synthesis, geometric and electronic structure studies",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "082cfdde76478c333b6b3b45ee09574e0bed423f",
+    "externalIds": {
+     "MAG": "3200305985",
+     "DOI": "10.1002/cctc.202101180",
+     "CorpusId": 240557109
+    },
+    "title": "Hydration of Alkynes to Ketones with an Efficient and Practical Polyoxomolybdate‐based Cobalt Catalyst",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "21a24f548c4fd6219d7632d70d5ea9cf7be1912a",
+    "externalIds": {
+     "DOI": "10.1021/jacs.1c06199",
+     "CorpusId": 237440562,
+     "PubMed": "34494835"
+    },
+    "title": "Controlling the Reactivity of a Metal-Hydroxo Adduct with a Hydrogen Bond.",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a9a128670f4bb12e3f7e1172b723394440498e4a",
+    "externalIds": {
+     "MAG": "3193608035",
+     "DOI": "10.1021/acscatal.1c02738",
+     "CorpusId": 238688878
+    },
+    "title": "Efficient Aliphatic C–H Oxidation and C═C Epoxidation Catalyzed by Porous Organic Polymer-Supported Single-Site Manganese Catalysts",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "5703596daf624c187b42420a499aa310b48077ce",
+    "externalIds": {
+     "DOI": "10.1021/acs.inorgchem.1c00899",
+     "CorpusId": 237255141,
+     "PubMed": "34416109"
+    },
+    "title": "A Bioinspired NiII Superoxide Dismutase Catalyst Designed on an ATCUN-like Binding Motif.",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a41beb03ee8ff641ac76df59c960da4fa021982a",
+    "externalIds": {
+     "PubMedCentral": "8499697",
+     "DOI": "10.1039/d1dt01996a",
+     "CorpusId": 236968061,
+     "PubMed": "34373886"
+    },
+    "title": "Formation of cobalt-oxygen intermediates by dioxygen activation at a mononuclear nonheme cobalt(II) center",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a002be5d6d27b10e0c9a67f9c0e66a71a88022de",
+    "externalIds": {
+     "MAG": "3197026589",
+     "DOI": "10.1016/j.cclet.2021.08.092",
+     "CorpusId": 239685755
+    },
+    "title": "Theoretical and experimental investigations of the enantioselective epoxidation of olefins catalyzed by manganese complexes",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "df76c53dfda374479457f93dec65108ed66c2f5d",
+    "externalIds": {
+     "MAG": "3176804962",
+     "DOI": "10.1039/d1qi00522g",
+     "CorpusId": 237726996
+    },
+    "title": "EPR spectroscopy elucidates the electronic structure of [FeV(O)(TAML)] complexes",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0153c67209452c134e9a28beaa4314d0ccbb98ae",
+    "externalIds": {
+     "MAG": "3186393449",
+     "DOI": "10.1021/ACSCATAL.1C01993",
+     "CorpusId": 237703555
+    },
+    "title": "Inspiration from Nature: Influence of Engineered Ligand Scaffolds and Auxiliary Factors on the Reactivity of Biomimetic Oxidants",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "5bcf15d3ad65ebd33106e8c9f376ce6afb32b12b",
+    "externalIds": {
+     "MAG": "3151186751",
+     "DOI": "10.1016/J.CCR.2021.213914",
+     "CorpusId": 234816569
+    },
+    "title": "Negative catalysis / non-Bell-Evans-Polanyi reactivity by metalloenzymes: Examples from mononuclear heme and non-heme iron oxygenases",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "851fea5b38a7f7eb856d69eb665a1b6d7c7a1925",
+    "externalIds": {
+     "PubMedCentral": "9036905",
+     "MAG": "3184985516",
+     "DOI": "10.1039/d1ra02722k",
+     "CorpusId": 237765958,
+     "PubMed": "35481047"
+    },
+    "title": "Mechanistic insights into dioxygen activation by a manganese corrole complex: a broken-symmetry DFT study",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2c0c1c35dd2c6873d964d6ee613d874d2c843b0e",
+    "externalIds": {
+     "PubMedCentral": "8261717",
+     "DOI": "10.1039/d1sc01272j",
+     "CorpusId": 235827299,
+     "PubMed": "34276926"
+    },
+    "title": "Directing transition metal-based oxygen-functionalization catalysis",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a5f5bdceef115841502db45dd30086a0c021b787",
+    "externalIds": {
+     "DOI": "10.1007/s12039-021-01917-2",
+     "CorpusId": 235475414
+    },
+    "title": "Substrate sulfoxidation by a biomimetic cytochrome P450 Compound I mimic: How do porphyrin and phthalocyanine equatorial ligands compare?",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "e6aa15847b68c56ba962c3ddf82ce5124d0715cb",
+    "externalIds": {
+     "DOI": "10.1021/acs.inorgchem.1c00135",
+     "CorpusId": 235092746,
+     "PubMed": "34019402"
+    },
+    "title": "Polyoxometalate-Incorporated Framework as a Heterogeneous Catalyst for Selective Oxidation of C-H Bonds of Alkylbenzenes.",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "42e0ffc09f5584a81d27af458d3c05334c96b71f",
+    "externalIds": {
+     "MAG": "3130512821",
+     "DOI": "10.1016/J.CCR.2021.213807",
+     "CorpusId": 233579395
+    },
+    "title": "Biomimetic metal-oxidant adducts as active oxidants in oxidation reactions",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3882d9afdd8a6181002ce5539329ee08d67fa775",
+    "externalIds": {
+     "MAG": "3157921335",
+     "DOI": "10.1016/J.JCAT.2021.04.030",
+     "CorpusId": 235541784
+    },
+    "title": "Metal-free and iron(II)-assisted oxidation of cyclohexane to adipic acid with ozone: A theoretical mechanistic study",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "76beada7f65bf4af8e0e8865db9dc8f0bac001b4",
+    "externalIds": {
+     "MAG": "3153004837",
+     "DOI": "10.1002/cctc.202100393",
+     "CorpusId": 234879730
+    },
+    "title": "Mechanism of Oxidative Ring‐Closure as Part of the Hygromycin Biosynthesis Step by a Nonheme Iron Dioxygenase",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "11c1c80e17b674b2edcb3fbef53a75fc734d22d5",
+    "externalIds": {
+     "PubMedCentral": "8075156",
+     "DOI": "10.1039/d0dt04436a",
+     "CorpusId": 231987431,
+     "PubMed": "33616141"
+    },
+    "title": "Mechanistic Insight into Oxygen Atom Transfer Reactions by Mononuclear Manganese(IV)-oxo Adducts",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "08f837c80c722da039d28bbf8100527976ecf0de",
+    "externalIds": {
+     "MAG": "3125197435",
+     "PubMedCentral": "8179568",
+     "DOI": "10.1039/d0sc07054h",
+     "CorpusId": 233532994,
+     "PubMed": "34163706"
+    },
+    "title": "Characterization and reactivity study of non-heme high-valent iron–hydroxo complexes†",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "645e09debd2fb132ba6cec61d91d43fed2ee8694",
+    "externalIds": {
+     "MAG": "3121907794",
+     "DOI": "10.1002/9783527824137.CH13",
+     "CorpusId": 234221277
+    },
+    "title": "Remote Oxidation of Aliphatic\n CH\n Bonds with Biologically Inspired Catalysts",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a9ecb7c0fae3a95944a181172278f0f739142d30",
+    "externalIds": {
+     "DOI": "10.1007/s11224-020-01690-x",
+     "CorpusId": 231671736
+    },
+    "title": "Electronic structures, bonding, and spin state energetics of biomimetic mononuclear and bridged dinuclear iron complexes: a computational examination",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6a0831696e08d7e462140cf483456c87b79d6819",
+    "externalIds": {
+     "MAG": "3115560157",
+     "PubMedCentral": "8693871",
+     "DOI": "10.1039/d0ra08496d",
+     "CorpusId": 234252342,
+     "PubMed": "35424189"
+    },
+    "title": "A DFT study on the C–H oxidation reactivity of Fe(iv)–oxo species with N4/N5 ligands derived from l-proline",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "76447cd3656ea60fa163796e65ff5296ec5af2b9",
+    "externalIds": {
+     "MAG": "3094956943",
+     "DOI": "10.1016/j.apcata.2020.117904",
+     "CorpusId": 228848200
+    },
+    "title": "Efficient oxidation of cycloalkanes with simultaneously increased conversion and selectivity using O2 catalyzed by metalloporphyrins and boosted by Zn(AcO)2: A practical strategy to inhibit the formation of aliphatic diacids",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "b89e1e8ec6c5e902833066b12464e04ab797d4b2",
+    "externalIds": {
+     "DOI": "10.1039/d0cs00688b",
+     "CorpusId": 230654288,
+     "PubMed": "33399140"
+    },
+    "title": "Organic synthesis with the most abundant transition metal-iron: from rust to multitasking catalysts.",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a7e9c8a562b85e38850556d02975d85031a84579",
+    "externalIds": {
+     "MAG": "3112699698",
+     "DOI": "10.1039/d0ob02204g",
+     "CorpusId": 230568420,
+     "PubMed": "33406196"
+    },
+    "title": "A comprehensive insight into aldehyde deformylation: mechanistic implications from biology and chemistry.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ab3998f922a395059fdda9afdbc56bdf8b266d91",
+    "externalIds": {
+     "MAG": "3111719878",
+     "DOI": "10.1021/acs.orglett.0c03585",
+     "CorpusId": 228087460,
+     "PubMed": "33300804"
+    },
+    "title": "Catalytic Enantioselective Methylene C(sp3)-H Hydroxylation Using a Chiral Manganese Complex/Carboxylic Acid System.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "328553c409db8ca5059d3b0b5916b0e40309c6ee",
+    "externalIds": {
+     "MAG": "3098541682",
+     "DOI": "10.1021/jacs.0c10159",
+     "CorpusId": 226948334,
+     "PubMed": "33186008"
+    },
+    "title": "Unprecedented Reactivities of Highly Reactive Manganese(III)-Iodosylarene Porphyrins in Oxidation Reactions.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c12e2e00abfbbb0144ffa38d3089220519e7ed46",
+    "externalIds": {
+     "MAG": "3093405719",
+     "DOI": "10.1039/d0cc05337f",
+     "CorpusId": 225115497,
+     "PubMed": "33151205"
+    },
+    "title": "Ambiphilicity of a mononuclear cobalt(III) superoxo complex.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9befb46af0562d08742697e0133ed8425e88433c",
+    "externalIds": {
+     "MAG": "3094282820",
+     "DOI": "10.1021/acs.inorgchem.0c02698",
+     "CorpusId": 224820618,
+     "PubMed": "33081463"
+    },
+    "title": "Catalytic H2O2 Activation by a Diiron Complex for Methanol Oxidation.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "98364498806f08d17760b17078242451fb4f88c9",
+    "externalIds": {
+     "MAG": "3093472739",
+     "DOI": "10.1021/acs.accounts.0c00555",
+     "CorpusId": 224811769,
+     "PubMed": "33074643"
+    },
+    "title": "Bio-inspired, Multifunctional Metal-Thiolate Motif: From Electron Transfer to Sulfur Reactivity and Small-Molecule Activation.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "87a4bf0047088581c5f73955e188ace162c9c56f",
+    "externalIds": {
+     "MAG": "3087702943",
+     "DOI": "10.1039/d0dt02533j",
+     "CorpusId": 222831293,
+     "PubMed": "33057538"
+    },
+    "title": "Direct C-H bond halogenation and pseudohalogenation of hydrocarbons mediated by high-valent 3d metal-oxo species.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "64c9e15d494868b8206a04f85ba4a79346f021b6",
+    "externalIds": {
+     "MAG": "3085026098",
+     "DOI": "10.1039/d0cc04440g",
+     "CorpusId": 221918502,
+     "PubMed": "32974625"
+    },
+    "title": "Ligand regulation for manganese-catalyzed enantioselective epoxidation of olefins without acid.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f63166768794ca28d3b7cc465805476f02ffaa8f",
+    "externalIds": {
+     "MAG": "3087065414",
+     "DOI": "10.1021/ACSCATAL.0C02634",
+     "CorpusId": 224972925
+    },
+    "title": "Effect of Ligand Topology on the Reactivity of Chiral Tetradentate Aminopyridine Manganese Complexes",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "259f6f1f5b2715b29fa998f73e4f4976b85594f5",
+    "externalIds": {
+     "MAG": "3019404042",
+     "DOI": "10.1016/j.ica.2020.119688",
+     "CorpusId": 218970653
+    },
+    "title": "Conversion of (µ-OH)2Mn2(II,II) complex to (µ-O)2Mn2(III,III) core supported by a quinoxaline-based tetranitrogen ligand",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a45b9ff27fef4ca285f65ac9daee38c517435e23",
+    "externalIds": {
+     "MAG": "3048393657",
+     "DOI": "10.1039/d0cc05145d",
+     "CorpusId": 221220673,
+     "PubMed": "32820754"
+    },
+    "title": "Proton-promoted disproportionation of iron(v)-imido TAML to iron(v)-imido TAML cation radical and iron(iv) TAML.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1582527ba823ec21d615eeb4b2cb0888bd1b2875",
+    "externalIds": {
+     "MAG": "3045932208",
+     "DOI": "10.1002/ejic.202000600",
+     "CorpusId": 225427936
+    },
+    "title": "Progress toward the Isolation of Late Metal Terminal Sulfides",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ca6478dbc9c2291c3257bb67532df9fd8d08e67d",
+    "externalIds": {
+     "MAG": "3023981715",
+     "DOI": "10.1016/j.ccr.2020.213314",
+     "CorpusId": 218968336
+    },
+    "title": "Coordination chemistry of carboxamide ‘Nx’ ligands to metal ions for bio-inspired catalysis",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9ded80ac0c23d896de04cad367aaf5d051ffe5e0",
+    "externalIds": {
+     "MAG": "3048874025",
+     "DOI": "10.1021/jacs.0c05108",
+     "CorpusId": 221128388,
+     "PubMed": "32786748"
+    },
+    "title": "Enhanced Redox Reactivity of a Nonheme Iron(V)‒Oxo Complex Binding Protons.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "fcd6913d77bb6471ea5b4d87e241ec0539098855",
+    "externalIds": {
+     "MAG": "3047672403",
+     "DOI": "10.1039/d0dt02135k",
+     "CorpusId": 225379707,
+     "PubMed": "32776052"
+    },
+    "title": "Recent advances in iron-complexes as drug candidates for cancer therapy: reactivity, mechanism of action and metabolites.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "34634eaeb0acc2b3e479db73ec187c85a126f477",
+    "externalIds": {
+     "MAG": "3036977244",
+     "DOI": "10.1002/ejic.202000488",
+     "CorpusId": 225393274
+    },
+    "title": "Oxygen Transfer from Trimethylamine N\n-Oxide to CuI\n Complexes Supported by Pentanitrogen Ligands",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "43baff98f747817a31f77a22e477bac8e6fa6a3b",
+    "externalIds": {
+     "MAG": "3039399752",
+     "DOI": "10.1038/s41570-020-0197-9",
+     "CorpusId": 220295993,
+     "PubMed": "37127969"
+    },
+    "title": "Iron and manganese oxo complexes, oxo wall and beyond",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "10463a67f5519f80f6a01ffba28676fe8c386b4d",
+    "externalIds": {
+     "MAG": "3037383215",
+     "PubMedCentral": "7429365",
+     "DOI": "10.1039/d0cc01201g",
+     "CorpusId": 220047998,
+     "PubMed": "32578605"
+    },
+    "title": "Concerted Proton-Electron Transfer Reactions of Manganese-Hydroxo and Manganese-Oxo Complexes",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "5f38053d5a43b30821e0eaf6dfc0b3093c3214dc",
+    "externalIds": {
+     "MAG": "3085429594",
+     "DOI": "10.22541/au.159255904.45870026",
+     "CorpusId": 225273605
+    },
+    "title": "Epoxidation of propylene by hydrogen peroxide catalyzed by the\n silanol‐functionalized polyoxometalates‐supported\n ferrate: Electronic structure, bonding feature, and reaction mechanism",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "803b173479818b898aaed5d4b994d5916c61a394",
+    "externalIds": {
+     "MAG": "3031488960",
+     "DOI": "10.1002/aoc.5695",
+     "CorpusId": 219755833
+    },
+    "title": "Triton X‐100 functionalized Cu(II) dihydrazone based complex immobilized on Fe\n 3\n O\n 4\n @dopa: A highly efficient catalyst for oxidation of alcohols, alkanes, and sulfides and epoxidation of alkenes",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "97842bbbe844162d4f0bfc8196421239916aafc0",
+    "externalIds": {
+     "MAG": "3030842661",
+     "PubMedCentral": "7332155",
+     "DOI": "10.1021/jacs.0c02788",
+     "CorpusId": 218894458,
+     "PubMed": "32450689"
+    },
+    "title": "Enantioselective Hydroxylation of Benzylic C(sp3)–H Bonds by an Artificial Iron Hydroxylase Based on the Biotin–Streptavidin Technology",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "03a496a1ec1c71b1ed1f0265d5e140ed5b697791",
+    "externalIds": {
+     "MAG": "3028768470",
+     "DOI": "10.1002/ijch.202000038",
+     "CorpusId": 219733349
+    },
+    "title": "Redox Potentials of High‐Valent Iron‐, Cobalt‐, and Nickel‐Oxido Complexes: Evidence for Exchange Enhanced Reactivity",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0fb3a558fa63cb5990a3c9e0c958fbf4e88ca5bd",
+    "externalIds": {
+     "PubMedCentral": "7540079",
+     "MAG": "3028520872",
+     "DOI": "10.1002/chem.202001818",
+     "CorpusId": 218759333,
+     "PubMed": "32432367"
+    },
+    "title": "Enhancing Tris(pyrazolyl)borate‐Based Models of Cysteine/Cysteamine Dioxygenases through Steric Effects: Increased Reactivities, Full Product Characterization and Hints to Initial Superoxide Formation",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "385fd4346ab8a7e46d7cd2b0afbd8f0824f77ed8",
+    "externalIds": {
+     "MAG": "3025240872",
+     "DOI": "10.1021/jacs.0c02756",
+     "CorpusId": 218657811,
+     "PubMed": "32412757"
+    },
+    "title": "A Manganese(IV)-Hydroperoxo Intermediate Generated by Protonation of the Corresponding Manganese(III)-Superoxo Complex.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "5440ad035444337f9751d9cee2c8bb58681ba2a8",
+    "externalIds": {
+     "PubMedCentral": "7248963",
+     "MAG": "3019157883",
+     "DOI": "10.3390/molecules25092030",
+     "CorpusId": 217546760,
+     "PubMed": "32349309"
+    },
+    "title": "A New Tetradentate Mixed Aza-Thioether Macrocycle and Its Complexation Behavior towards Fe(II), Ni(II) and Cu(II) Ions",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "14e83bb2edf3e0ad67a71bf643e93dfcc8c0f744",
+    "externalIds": {
+     "MAG": "3015477277",
+     "DOI": "10.1039/d0dt00018c",
+     "CorpusId": 216048355,
+     "PubMed": "32314764"
+    },
+    "title": "Sluggish reactivity by a nonheme iron(iv)-tosylimido complex as compared to its oxo analogue.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "e768d238795b81a91a240879c278aae2cb172e91",
+    "externalIds": {
+     "MAG": "3016627002",
+     "DOI": "10.1021/acs.jpcc.0c01159",
+     "CorpusId": 218802137
+    },
+    "title": "Hydroperoxo on the Niobium Oxyhydroxide Surface as the Active Species in the Catalyzed Oxidation of Organic Sulfide by Hydrogen Peroxide",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7a659f9db546182c588cfab3005e92dd593ef5f0",
+    "externalIds": {
+     "MAG": "3003664808",
+     "DOI": "10.1016/j.ccr.2019.213176",
+     "CorpusId": 214296711
+    },
+    "title": "O2 and H2O2 activations at dinuclear Mn and Fe active sites",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1d2459003b60435af2b62ebe7bdd8e104dd48355",
+    "externalIds": {
+     "MAG": "2991382968",
+     "DOI": "10.1002/cptc.201900219",
+     "CorpusId": 213699712
+    },
+    "title": "Photoinduced Generation of Superoxidants for the Oxidation of Substrates with High C−H Bond Dissociation Energies",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a74343635a4bfaf060aaaebadc850e58c0fa40eb",
+    "externalIds": {
+     "MAG": "3012297632",
+     "DOI": "10.1021/jacs.9b13756",
+     "CorpusId": 212707204,
+     "PubMed": "32168447"
+    },
+    "title": "Stoichiometric formation of an oxoiron(IV) complex by a soluble methane monooxygenase type activation of O2 at an iron(II)-cyclam centre.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0558ce5944a258674bc8e46b62e2c54b13c3b48c",
+    "externalIds": {
+     "MAG": "3007724901",
+     "DOI": "10.1039/d0dt00007h",
+     "CorpusId": 212564008,
+     "PubMed": "32141456"
+    },
+    "title": "Computational studies of DNA base repair mechanisms by nonheme iron dioxygenases: selective epoxidation and hydroxylation pathways.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2c87b966ed60ee6b40c6fb377ba593ee6d3a03a6",
+    "externalIds": {
+     "MAG": "3009807249",
+     "DOI": "10.1002/asia.202000142",
+     "CorpusId": 212563667,
+     "PubMed": "32141712"
+    },
+    "title": "Effect of Ligand Fields on the Reactivity of O2-Activating Iron(II)-Benzilate Complexes of Neutral N5 Donor Ligands.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a6dff7382be9513e4d42001ee77de865322cf232",
+    "externalIds": {
+     "MAG": "3004282087",
+     "DOI": "10.1039/c9dt04438h",
+     "CorpusId": 211537661,
+     "PubMed": "32103212"
+    },
+    "title": "Oxidative C-N bond cleavage of (2-pyridylmethyl)amine-based tetradentate supporting ligands in ternary cobalt(ii)-carboxylate complexes.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4a1f5d2a5aa84f96615953e1dea858b97cae5c3d",
+    "externalIds": {
+     "MAG": "3008282143",
+     "DOI": "10.1002/asia.202000134",
+     "CorpusId": 211192068,
+     "PubMed": "32072734"
+    },
+    "title": "Non-Heme-Type Ruthenium Catalyzed Chemo- and Site-Selective C-H Oxidation.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2e91e6e4354b6d5b0c7f4ea223d9f8f8989ef149",
+    "externalIds": {
+     "MAG": "3005151128",
+     "DOI": "10.1021/acs.inorgchem.9b03633",
+     "CorpusId": 211111769,
+     "PubMed": "32057236"
+    },
+    "title": "O2 Activation by Non-Heme Thiolate-Based Dinuclear Fe Complexes.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0dadff55a87ec2cbc73a32dcb3f2338122c3804b",
+    "externalIds": {
+     "MAG": "3006059859",
+     "DOI": "10.1021/acs.inorgchem.9b02980",
+     "CorpusId": 211087115,
+     "PubMed": "32045220"
+    },
+    "title": "Effect of Lewis Acids on the Structure and Reactivity of a Mononuclear Hydroxomanganese(III) Complex.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4e9aeef2370e01367a291144f729f895970920ee",
+    "externalIds": {
+     "MAG": "3003258052",
+     "DOI": "10.1021/acs.joc.9b03346",
+     "CorpusId": 210947446,
+     "PubMed": "31990547"
+    },
+    "title": "Catalytic Oxidative Cleavage Reactions of Arylalkenes by tert-Butyl Hydroperoxide - A Mechanistic Assessment.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2294d8bfde978372c3cbbb9fdcbac92aea0e8b7e",
+    "externalIds": {
+     "MAG": "2999610720",
+     "DOI": "10.1039/c9dt04551a",
+     "CorpusId": 210871210,
+     "PubMed": "31967142"
+    },
+    "title": "Functional models of nonheme diiron enzymes: reactivity of the μ-oxo-μ-1,2-peroxo-diiron(iii) intermediate in electrophilic and nucleophilic reactions.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1fbb5f8322fb64106b30376335e2382a3aeaf140",
+    "externalIds": {
+     "MAG": "3002762059",
+     "DOI": "10.1021/acs.inorgchem.9b03470",
+     "CorpusId": 210861979,
+     "PubMed": "31967459"
+    },
+    "title": "DFT Mechanistic Insight into the Dioxygenase-like Reactivity of a CoIII-peroxo Complex: O-O Bond Cleavage via a [1,3]-Sigmatropic Rearrangement-like Mechanism.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c1e33b5114e9c018ff96b1299eef336faf73b79e",
+    "externalIds": {
+     "MAG": "2999027059",
+     "DOI": "10.1039/d0dt00042f",
+     "CorpusId": 210842485,
+     "PubMed": "31960881"
+    },
+    "title": "Peroxocobalt(iii) species activates nitriles via a superoxocobalt(ii) diradical state.",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "bf0c8b55cfd836b25a1971de6cd28c8fe8f24da6",
+    "externalIds": {
+     "MAG": "2998846524",
+     "DOI": "10.1002/ijch.201900097",
+     "CorpusId": 214239054
+    },
+    "title": "A Dinucleating Ligand System with Varying Terminal Donors to Mimic Diiron Active Sites",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "86980eda4ecce635f00e9b9f32d0203fd688b221",
+    "externalIds": {
+     "MAG": "2986707119",
+     "DOI": "10.1016/j.ccr.2019.213085",
+     "CorpusId": 209706034
+    },
+    "title": "Alkane and alkene oxidation reactions catalyzed by nickel(II) complexes: Effect of ligand factors",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "05fe42bf2f6a408a372cf656951480959a630bc2",
+    "externalIds": {
+     "MAG": "2996575422",
+     "DOI": "10.1002/chem.201904314",
+     "CorpusId": 209391255,
+     "PubMed": "31846105"
+    },
+    "title": "Spin-forbidden reactivity of transition metal-oxo species: exploring the potential energy surfaces.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "e3e0150548937cc491e259df3700abaa7e484589",
+    "externalIds": {
+     "MAG": "2978930402",
+     "DOI": "10.1039/c9qi00900k",
+     "CorpusId": 208720269
+    },
+    "title": "Computational study on epoxidation of propylene by dioxygen using the silanol-functionalized polyoxometalate-supported osmium oxide catalyst",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "33536d1436a316dfc4cc9fa280dd92ccdd1835fd",
+    "externalIds": {
+     "MAG": "2990704233",
+     "DOI": "10.1021/jacs.9b10526",
+     "CorpusId": 208214856,
+     "PubMed": "31749356"
+    },
+    "title": "Selective hydrogen atom abstraction from dihydroflavonol is the key step in the flavonol synthesis enzyme and avoids by-products.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "fa35703c428f85a4f7a912c9c33be888ce92f682",
+    "externalIds": {
+     "MAG": "2988219563",
+     "PubMedCentral": "7388070",
+     "DOI": "10.1002/chem.201904434",
+     "CorpusId": 207963111,
+     "PubMed": "31693757"
+    },
+    "title": "Structural Characterization of a Series of N5-Ligated MnIV-oxo Species",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a8ead65063c49f70350100ca2950414368bd7b31",
+    "externalIds": {
+     "MAG": "2982601727",
+     "DOI": "10.1021/acs.inorgchem.9b02766",
+     "CorpusId": 204965750,
+     "PubMed": "31661249"
+    },
+    "title": "Side-On OMoF2(η2-SO) and OWF2(η2-SO) Complexes Featuring Peroxo-Like Sulfur Monoxide Ligand.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "04fc2a080c173cf70244aba1359ca0a3d5baaec4",
+    "externalIds": {
+     "MAG": "2980967129",
+     "DOI": "10.1021/acs.inorgchem.9b02543",
+     "CorpusId": 204757484,
+     "PubMed": "31621303"
+    },
+    "title": "High-Spin Mn(V)-Oxo Intermediate in Nonheme Manganese Complex-Catalyzed Alkane Hydroxylation Reaction: Experimental and Theoretical Approach.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "14105d5990ae82ae6a6afc187a188cb7d247026d",
+    "externalIds": {
+     "MAG": "2977476791",
+     "DOI": "10.1021/acs.inorgchem.9b01761",
+     "CorpusId": 203661017,
+     "PubMed": "31583881"
+    },
+    "title": "Experimental and Multireference ab Initio Investigations of Hydrogen-Atom-Transfer Reactivity of a Mononuclear MnIV-oxo Complex.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "23c8fd7a4fa387a794a708c2d65d1a132db1e71d",
+    "externalIds": {
+     "PubMedCentral": "12024724",
+     "MAG": "2972141051",
+     "DOI": "10.1021/jacs.9b04729",
+     "CorpusId": 201831519,
+     "PubMed": "31480847"
+    },
+    "title": "How Metal Ion Lewis Acidity and Steric Properties Influence the Barrier to Dioxygen Binding, Peroxo O–O Bond Cleavage, and Reactivity",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "d31e46def940e2bfa8352dfa2affa2943c669e4e",
+    "externalIds": {
+     "MAG": "2970806010",
+     "DOI": "10.1021/jacs.9b05758",
+     "CorpusId": 201759745,
+     "PubMed": "31469954"
+    },
+    "title": "Spectroscopic and reactivity comparisons between nonheme oxoiron(IV) and oxoiron(V) species bearing the same ancillary ligand.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c5c2e429757f3081cedfbdb6488470cac3571643",
+    "externalIds": {
+     "MAG": "2962719915",
+     "DOI": "10.1039/c9ob01122f",
+     "CorpusId": 199055723,
+     "PubMed": "31368474"
+    },
+    "title": "Ruthenium(ii)-catalysed selective C(sp2)-H bond benzoxylation of biologically appealing N-arylisoindolinones.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "10b11c78386a8df98b017333ff6a594f088277df",
+    "externalIds": {
+     "MAG": "2953217878",
+     "DOI": "10.1039/C9QI00407F",
+     "CorpusId": 197625578
+    },
+    "title": "A theoretical investigation into the first-row transition metal–O2 adducts",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "213bfd855c2c083814c8334b0fa99912fc63a5c0",
+    "externalIds": {
+     "MAG": "2968382804",
+     "PubMedCentral": "6721035",
+     "DOI": "10.3390/ijms20163955",
+     "CorpusId": 201018883,
+     "PubMed": "31416223"
+    },
+    "title": "Computational Mechanistic Insights on the NO Oxidation Reaction Catalyzed by Non-Heme Biomimetic Cr-N-Tetramethylated Cyclam Complexes",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "de7198c29b4fff9adcb86b3603eb2cbe91394628",
+    "externalIds": {
+     "MAG": "2953449239",
+     "DOI": "10.1002/anie.201906978",
+     "CorpusId": 195694638,
+     "PubMed": "31246329"
+    },
+    "title": "Highly Selective and Catalytic Oxygenations of C-H and C=C Bonds by a Mononuclear Nonheme High-Spin Iron(III)-Alkylperoxo Species.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "8d6701aaf72796f001ce27354af9ead22ae53dd5",
+    "externalIds": {
+     "MAG": "2964856991",
+     "PubMedCentral": "9069451",
+     "DOI": "10.1039/c9ra04495g",
+     "CorpusId": 201225409,
+     "PubMed": "35530594"
+    },
+    "title": "The enzyme-like catalytic hydrogen abstraction reaction mechanisms of cyclic hydrocarbons with magnesium-diluted Fe-MOF-74",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "eba5c9f7a4b84453efab171cc79563c254812db9",
+    "externalIds": {
+     "MAG": "2963779726",
+     "DOI": "10.1021/acs.inorgchem.9b00579",
+     "CorpusId": 198192751,
+     "PubMed": "31339041"
+    },
+    "title": "A High Spin Mn(IV)-Oxo Complex Generated via Stepwise Proton and Electron Transfer from Mn(III)-Hydroxo Precursor: Characterization and C-H Bond Cleavage Reactivity.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7e9000ed7ea0661ed37c60dba7a2f47f5fafae93",
+    "externalIds": {
+     "MAG": "2964240662",
+     "DOI": "10.1021/acs.accounts.9b00285",
+     "CorpusId": 198172341,
+     "PubMed": "31333021"
+    },
+    "title": "Bioinspired Manganese and Iron Complexes for Enantioselective Oxidation Reactions: Ligand Design, Catalytic Activity, and Beyond.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "60361ef274961f21aa782a3fe443788c299d418c",
+    "externalIds": {
+     "MAG": "2995416978",
+     "DOI": "10.26434/chemrxiv.8969741.v1",
+     "CorpusId": 213736390
+    },
+    "title": "Density functional approximations for consistent spin and oxidation states of oxoiron complexes",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a45fe797b2dd2e4b47632425edc8a417611b70bd",
+    "externalIds": {
+     "MAG": "2962960369",
+     "PubMedCentral": "6734939",
+     "DOI": "10.1021/jacs.9b01253",
+     "CorpusId": 207196102,
+     "PubMed": "31318198"
+    },
+    "title": "Enhanced Rates of C–H Bond Cleavage by a Hydrogen-Bonded Synthetic Heme High-Valent Iron(IV) Oxo Complex",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "32afbc81fc0015061f9cca00e5d2603490407210",
+    "externalIds": {
+     "MAG": "2958857354",
+     "DOI": "10.1021/acs.inorgchem.8b03459",
+     "CorpusId": 196613230,
+     "PubMed": "31304743"
+    },
+    "title": "Metal-Oxyl Species and Their Possible Roles in Chemical Oxidations.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6e2aa869539b684c5494f73b7f5b01a1af4714e4",
+    "externalIds": {
+     "MAG": "2943467285",
+     "DOI": "10.1039/C9DT01402K",
+     "CorpusId": 155185321,
+     "PubMed": "31112168"
+    },
+    "title": "Structure and reactivity of the first-row d-block metal-superoxo complexes.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "de787b15e42b19919ef51546559ec3ced3d8afae",
+    "externalIds": {
+     "MAG": "2945242222",
+     "DOI": "10.1002/anie.201900683",
+     "CorpusId": 155101381,
+     "PubMed": "31094040"
+    },
+    "title": "Disproportionation Equilibrium of a µ-Oxodiiron(III) Complex Giving Rise to C-H Activation Reactivity: Structural Snapshot of a Unique Oxoiron(IV) Adduct.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [
+    ", 2012), and oxygen reduction (Collman, 1977; Collman et al., 2004; Lewis and Tolman, 2004; Mirica et al., 2004; Fukuzumi, 2013; Ray et al., 2014; Fukuzumi et al., 2015; Nam, 2015; Sahu and Goldberg, 2016; Elwell et al., 2017; Hong et al., 2017; Sinha et al., 2019) reactions."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f97e1a35b9a3eb750687645881704b54e2643ffd",
+    "externalIds": {
+     "PubMedCentral": "6584898",
+     "MAG": "2945448914",
+     "DOI": "10.3389/fchem.2019.00397",
+     "CorpusId": 181343477,
+     "PubMed": "31263689"
+    },
+    "title": "Secondary-Sphere Effects in Molecular Electrocatalytic CO2 Reduction",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ef37d11dcd3014f155992bb4610523fc1be259e0",
+    "externalIds": {
+     "MAG": "2923554456",
+     "DOI": "10.1002/chem.201900708",
+     "CorpusId": 85518023,
+     "PubMed": "30912866"
+    },
+    "title": "The Equatorial Ligand Effect on the Properties and Reactivity of Iron(V) Oxo Intermediates.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "8ed73c473f479f7f0ed74465df818f213a209b61",
+    "externalIds": {
+     "PubMedCentral": "6539658",
+     "MAG": "2944692864",
+     "DOI": "10.3390/molecules24091814",
+     "CorpusId": 153311911,
+     "PubMed": "31083419"
+    },
+    "title": "Dioxygen Activation with Molybdenum Complexes Bearing Amide-Functionalized Iminophenolate Ligands",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "95f67b0041338524c7be7b1195a2f5732855c237",
+    "externalIds": {
+     "MAG": "2940796197",
+     "DOI": "10.1021/jacs.9b02011",
+     "CorpusId": 207196190,
+     "PubMed": "31026148"
+    },
+    "title": "A Non-Heme Diiron Complex for (Electro)catalytic Reduction of Dioxygen: Tuning the Selectivity through Electron Delivery.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a671fdf0bb8d93f09d7f65e76b18cdbeca417047",
+    "externalIds": {
+     "MAG": "2922130202",
+     "DOI": "10.1039/c9dt00649d",
+     "CorpusId": 93001015,
+     "PubMed": "30941378"
+    },
+    "title": "A Mn(iv)-peroxo complex in the reactions with proton donors.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f7b9a2574b2825916824d2c8388eb364b17fddd7",
+    "externalIds": {
+     "MAG": "2912135013",
+     "DOI": "10.1016/J.CCR.2019.01.010",
+     "CorpusId": 104461317
+    },
+    "title": "Non-heme oxoiron(V) intermediates in chemo-, regio- and stereoselective oxidation of organic substrates",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "bd7684acb23822cde47af6069a2b7efd6bb807c9",
+    "externalIds": {
+     "MAG": "2925050223",
+     "DOI": "10.1021/acs.inorgchem.8b03288",
+     "CorpusId": 85530642,
+     "PubMed": "30916560"
+    },
+    "title": "Oxidizing Ability of a Dioxygen-Activating Nonheme Iron(II)-Benzilate Complex Immobilized on Gold Nanoparticles.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "26f12221b3e987c17410ead827432a5b85d8caaf",
+    "externalIds": {
+     "MAG": "2922114496",
+     "DOI": "10.1080/00958972.2019.1589461",
+     "CorpusId": 107299701
+    },
+    "title": "Degradation of substituted phenols with different oxygen sources catalyzed by Co(II) and Cu(II) phthalocyanine complexes",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2f290ec4d33eed81c62b9954bfc05fd983718bf1",
+    "externalIds": {
+     "MAG": "2911900893",
+     "DOI": "10.1002/chem.201806430",
+     "CorpusId": 73415018,
+     "PubMed": "30720909"
+    },
+    "title": "Interplay Between Steric and Electronic Effects: A Joint Spectroscopy and Computational Study of Nonheme Iron(IV)-Oxo Complexes.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "38be3e9a38416983e19970f6e5dc678703eeb026",
+    "externalIds": {
+     "MAG": "2907887422",
+     "DOI": "10.1016/J.CCR.2018.12.006",
+     "CorpusId": 104311759
+    },
+    "title": "Synthesis, characterization and reactivity of non-heme 1st row transition metal-superoxo intermediates",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [
+    "These observations inspired chemists to synthesize families of complexes, primarily of copper, iron and manganese, which could mimic the reaction mechanisms of enzymatic oxidations [15].",
+    "inspired chemists to synthesize families of complexes, primarily of copper, iron and manganese, which could mimic the reaction mechanisms of enzymatic oxidations [15]."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "728a07d08c8948cd6fa56930b9745f4977a878fd",
+    "externalIds": {
+     "MAG": "2918157872",
+     "DOI": "10.3390/CATAL9030209",
+     "CorpusId": 104430238
+    },
+    "title": "Heterometallic CoIIIZnII Schiff Base Catalyst for Mild Hydroxylation of C(sp3)–H Bonds of Unactivated Alkanes: Evidence for Dual Mechanism Controlled by the Promoter",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0108b4330664df6a2ae5aa17b73c33c77282151f",
+    "externalIds": {
+     "MAG": "2899046940",
+     "DOI": "10.1016/J.ICA.2018.10.069",
+     "CorpusId": 105941897
+    },
+    "title": "Dual-site aqua mononuclear nickel(II) complexes of non-heme tetradentate ligands: Synthesis, characterization and reactivity",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "540d45123c04f00b80dc14e098bd8c2d8537b6aa",
+    "externalIds": {
+     "MAG": "2911848495",
+     "DOI": "10.1002/anie.201812758",
+     "CorpusId": 58556828,
+     "PubMed": "30663826"
+    },
+    "title": "Trapping of a Highly Reactive Oxoiron(IV) Complex in the Catalytic Epoxidation of Olefins by Hydrogen Peroxide.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0b81a2f3ca95731fc542ee0246b098850c1e7d2f",
+    "externalIds": {
+     "MAG": "2913526356",
+     "DOI": "10.1038/s42004-019-0115-6",
+     "CorpusId": 104351542
+    },
+    "title": "Cupric-superoxide complex that induces a catalytic aldol reaction-type C–C bond formation",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2eb28be09833eabf950573af3ad6a97a2e07685a",
+    "externalIds": {
+     "MAG": "2901087137",
+     "DOI": "10.1016/J.CCR.2018.09.015",
+     "CorpusId": 104666593
+    },
+    "title": "A dinucleating ligand system with varying terminal donor functions but without bridging donor functions: Design, synthesis, and applications for diiron complexes",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f5a5277c64d108ede78e37eb3cb9b3a21b8c89c8",
+    "externalIds": {
+     "MAG": "2901770907",
+     "DOI": "10.1016/J.CCR.2018.11.001",
+     "CorpusId": 104936844
+    },
+    "title": "Building molecular complexity through transition-metal-catalyzed oxidative annulations/cyclizations: Harnessing the utility of phenols, naphthols and 1,3-dicarbonyl compounds",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "21c3a3c02187b656fd9d2e3b627d0ed2570be5e5",
+    "externalIds": {
+     "MAG": "2909586913",
+     "DOI": "10.1039/c8cc08308h",
+     "CorpusId": 58634022,
+     "PubMed": "30644951"
+    },
+    "title": "Diverse outcomes of CO2 fixation using alkali metal amides including formation of a heterobimetallic lithium-sodium carbamato-anhydride via lithium-sodium bis-hexamethyldisilazide.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9a97d4139c0316bc6ae9ddf445db1e5958120390",
+    "externalIds": {
+     "MAG": "2909251835",
+     "DOI": "10.1021/acs.inorgchem.8b02577",
+     "CorpusId": 58633613,
+     "PubMed": "30644733"
+    },
+    "title": "A Mononuclear Nonheme Iron(IV)-Oxo Complex of a Substituted N4Py Ligand: Effect of Ligand Field on Oxygen Atom Transfer and C-H Bond Cleavage Reactivity.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "8e0e344a8a40b2a6d1974224fc3ad2a7d6f1c33b",
+    "externalIds": {
+     "MAG": "2910857742",
+     "DOI": "10.1021/acs.orglett.8b03652",
+     "CorpusId": 58563894,
+     "PubMed": "30633532"
+    },
+    "title": "Manganese-Catalyzed Asymmetric Oxidation of Methylene C-H of Spirocyclic Oxindoles and Dihydroquinolinones with Hydrogen Peroxide.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "94be1441b9781ce7b0683bc996c9068270e1ab80",
+    "externalIds": {
+     "MAG": "2910024781",
+     "DOI": "10.1021/acs.joc.8b02899",
+     "CorpusId": 58608580,
+     "PubMed": "30626181"
+    },
+    "title": "Ru-Catalyzed Selective C-H Bond Hydroxylation of Cyclic Imides.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1da58562fccc5c5803b4c0f14f2681bf7c2391cd",
+    "externalIds": {
+     "MAG": "2902071718",
+     "DOI": "10.1039/c8dt04491k",
+     "CorpusId": 54477590,
+     "PubMed": "30516213"
+    },
+    "title": "Dioxygen activation by a dinuclear thiolate-ligated Fe(ii) complex.",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "267d518fd29f49c173b10b105873ae515c07d39c",
+    "externalIds": {
+     "MAG": "2904910630",
+     "DOI": "10.1002/EJIC.201801069",
+     "CorpusId": 104451710
+    },
+    "title": "Reactivity Differences for the Oxidation of FeII\nFeII\n to FeIII\n(µ-O)FeIII\n Complexes Caused by Pyridyl versus 6-Methyl-Pyridyl Ligands",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "5745a795a90d24208ab93067621951823273a678",
+    "externalIds": {
+     "MAG": "2908207773",
+     "DOI": "10.1002/9781119379256.CH13",
+     "CorpusId": 104413564
+    },
+    "title": "Alkane Oxidation with Biologically Inspired Nonheme Iron Catalysts Based in the Triazacyclononane Ligand Scaffold",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6d2cd0bc79f4d91bf3084930fe27c15c63b1802d",
+    "externalIds": {
+     "MAG": "2906596208",
+     "DOI": "10.1021/jacs.8b11492",
+     "CorpusId": 58606728,
+     "PubMed": "30580510"
+    },
+    "title": "Redox Reactivity of a Mononuclear Manganese-Oxo Complex Binding Calcium Ion and Other Redox-Inactive Metal Ions.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ed6e0b6da7550a879587c8c7b65490a2a80b8a62",
+    "externalIds": {
+     "MAG": "2904788895",
+     "PubMedCentral": "6346628",
+     "DOI": "10.1021/acscentsci.8b00698",
+     "CorpusId": 59303558,
+     "PubMed": "30693322"
+    },
+    "title": "Heme and Nonheme High-Valent Iron and Manganese Oxo Cores in Biological and Abiological Oxidation Reactions",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f984cb40b37a3b2f1a5a27ec953e47f04f259796",
+    "externalIds": {
+     "MAG": "2801211733",
+     "DOI": "10.1016/J.CCLET.2018.04.036",
+     "CorpusId": 102661164
+    },
+    "title": "A novel manganese(III)-peroxo complex bearing a proline-derived pentadentate aminobenzimidazole ligand",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7b484d1156cdded807840ad2bb328358141b36e2",
+    "externalIds": {
+     "MAG": "2898473322",
+     "DOI": "10.1039/c8cp05372c",
+     "CorpusId": 53286069,
+     "PubMed": "30418434"
+    },
+    "title": "Ligand field effects on the ground and excited states of reactive FeO2+ species.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "fa01491120c23b892e44a89443fd69c37d803a39",
+    "externalIds": {
+     "MAG": "2900111985",
+     "DOI": "10.1021/jacs.8b10244",
+     "CorpusId": 207195738,
+     "PubMed": "30407815"
+    },
+    "title": "Structure and Reactivity of a Mononuclear Nonheme Manganese(III)-Iodosylarene Complex.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1e1a14c07a61de0b31951cbd894d377905978555",
+    "externalIds": {
+     "MAG": "2889432114",
+     "DOI": "10.1016/J.MCAT.2018.08.009",
+     "CorpusId": 105740450
+    },
+    "title": "Pronounced retention of stereoconfiguration upon sp3 C H bonds hydroxylation of dimethylcyclohexanes and decahydronaphthalenes with m-CPBA oxidant and a Co-phthalocyanine catalyst",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "54abb8edab9e10d8d77b1631f44521913586aa8b",
+    "externalIds": {
+     "MAG": "2899115471",
+     "DOI": "10.1021/acs.inorgchem.8b02241",
+     "CorpusId": 53107106,
+     "PubMed": "30376312"
+    },
+    "title": "Tuning the O2 Binding Affinity of Cobalt(II) Centers by Changing the Structural and Electronic Properties of the Distal Substituents on Azole-Based Chelating Ligands.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "84ae7b76f4a0fc2b99f3e1b66b15599cfa222c70",
+    "externalIds": {
+     "MAG": "2899187884",
+     "PubMedCentral": "6360144",
+     "DOI": "10.1021/acs.chemrev.8b00074",
+     "CorpusId": 206542062,
+     "PubMed": "30372042"
+    },
+    "title": "Synthetic Fe/Cu Complexes: Toward Understanding Heme-Copper Oxidase Structure and Function",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a5db51d091bed508e109b430d0ed7a8eacb07cdc",
+    "externalIds": {
+     "MAG": "2890675595",
+     "DOI": "10.1002/anie.201808085",
+     "CorpusId": 52186645,
+     "PubMed": "30204293"
+    },
+    "title": "Nucleophilic versus Electrophilic Reactivity of Bioinspired Superoxido Nickel(II) Complexes.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7589cd0d0c7f99afc5aebbf4e1ced5a5553b3c95",
+    "externalIds": {
+     "MAG": "2896148821",
+     "DOI": "10.1021/acs.biochem.8b00906",
+     "CorpusId": 53114200,
+     "PubMed": "30365306"
+    },
+    "title": "Aerobic Enzymes and Their Radical SAM Enzyme Counterparts in Tetrapyrrole Pathways.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "344b1b6b6fe78080629d804e8ae61d4fb0343124",
+    "externalIds": {
+     "MAG": "2896437944",
+     "DOI": "10.1021/jacs.8b08950",
+     "CorpusId": 207194970,
+     "PubMed": "30336001"
+    },
+    "title": "Trapping Iron(III)-Oxo Species at the Boundary of the \"Oxo Wall\": Insights into the Nature of the Fe(III)-O Bond.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "29974858d04f98c3d9a615731097d90e9b260b89",
+    "externalIds": {
+     "MAG": "2892535074",
+     "DOI": "10.1021/ACSCATAL.8B03201",
+     "CorpusId": 104558524
+    },
+    "title": "Unraveling the Crucial Role of Single Active Water Molecule in the Oxidative Cleavage of Aliphatic C–C Bond of 2,4′-Dihydroxyacetophenone Catalyzed by 2,4′-Dihydroxyacetophenone Dioxygenase Enzyme: A Quantum Mechanics/Molecular Mechanics Investigation",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4d4100e375a9c9e61c2815974bcf32a78fff7a0b",
+    "externalIds": {
+     "MAG": "2889381190",
+     "DOI": "10.1002/ZAAC.201800275",
+     "CorpusId": 105117363
+    },
+    "title": "Synthesis and Characterization of a μ-Oxo-Bridged Diferric Complex: An Attempt to Influence the Configuration by Changing the Spacer",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9415f7108d8807184f24959d9a7fcef998088b92",
+    "externalIds": {
+     "PubMedCentral": "6194801",
+     "MAG": "2887965623",
+     "DOI": "10.1039/c8sc02053a",
+     "CorpusId": 53303502,
+     "PubMed": "30429994"
+    },
+    "title": "Selective C–H halogenation over hydroxylation by non-heme iron(iv)-oxo",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0f687a2003a3113b7f80d7d5c8d00ec07b557e52",
+    "externalIds": {
+     "MAG": "2887498781",
+     "DOI": "10.1021/acs.inorgchem.8b01426",
+     "CorpusId": 51931031,
+     "PubMed": "30080409"
+    },
+    "title": "Mn(III)-Iodosylarene Porphyrins as an Active Oxidant in Oxidation Reactions: Synthesis, Characterization, and Reactivity Studies.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [
+    "The insight gained from characterization of natural systems has led to the development of biomimetic catalysts containing synthetic tetra-azamacrocycles to emulate the reactivity of natural systems.(16-18)"
+   ],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7e14ea19aa09c36affc5f8efd9c010942016dda8",
+    "externalIds": {
+     "PubMedCentral": "7067264",
+     "MAG": "2883875337",
+     "DOI": "10.1021/acs.inorgchem.8b00777",
+     "CorpusId": 51702994,
+     "PubMed": "30024738"
+    },
+    "title": "Increase of direct C-C coupling reaction yield by identifying structural and electronic properties of high-spin iron tetra-azamacrocyclic complexes",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "5806493566909ecfa5c95adfeccdc7e7fff065c0",
+    "externalIds": {
+     "MAG": "2883542321",
+     "DOI": "10.1021/acs.chemrev.8b00096",
+     "CorpusId": 51643879,
+     "PubMed": "30011189"
+    },
+    "title": "High-Oxidation-State 3d Metal (Ti-Cu) Complexes with N-Heterocyclic Carbene Ligation.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6d38ff614873b57753079364750b94fc1d5f6f1a",
+    "externalIds": {
+     "MAG": "2814117808",
+     "DOI": "10.1021/acs.inorgchem.8b00852",
+     "CorpusId": 49688373,
+     "PubMed": "29974738"
+    },
+    "title": "Relationship between Hydrogen-Atom Transfer Driving Force and Reaction Rates for an Oxomanganese(IV) Adduct.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "639b1be9bd6b9cf63c84d66ee3bbf5475cb25a07",
+    "externalIds": {
+     "PubMedCentral": "6053956",
+     "MAG": "2810941703",
+     "DOI": "10.1039/c8sc02220h",
+     "CorpusId": 51934148,
+     "PubMed": "30090295"
+    },
+    "title": "Mechanisms of catalytic reduction of CO2 with heme and nonheme metal complexes",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "660e5e014a244b76888c23ff7084f9827670c24c",
+    "externalIds": {
+     "MAG": "2809909416",
+     "DOI": "10.1021/jacs.8b02303",
+     "CorpusId": 49478709,
+     "PubMed": "29949715"
+    },
+    "title": "Remarkable Acid Catalysis in Proton-Coupled Electron-Transfer Reactions of a Chromium(III)-Superoxo Complex.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "169c36096ae1992226aea808a5dc627baed85651",
+    "externalIds": {
+     "MAG": "2808408680",
+     "DOI": "10.1021/jacs.8b04904",
+     "CorpusId": 49220004,
+     "PubMed": "29906116"
+    },
+    "title": "Long-Lived Photoexcited State of a Mn(IV)-Oxo Complex Binding Scandium Ions That is Capable of Hydroxylating Benzene.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3d143d74f22db633ae6febf4d31d37096232c7ff",
+    "externalIds": {
+     "MAG": "2795467325",
+     "DOI": "10.1016/J.CCR.2018.03.003",
+     "CorpusId": 103440120
+    },
+    "title": "Amphoteric reactivity of metal–oxygen complexes in oxidation reactions",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2ab9c68b9cdf20745e237a0d4764638f22984b81",
+    "externalIds": {
+     "MAG": "2802252894",
+     "DOI": "10.1002/ZAAC.201800093",
+     "CorpusId": 102991501
+    },
+    "title": "Variation of the Molecular and Electronic Structures of μ\n-Oxo Diferric Complexes with the Bridging Motive",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9fbe7230101fd710b05c55121c6e40e17b9ba78c",
+    "externalIds": {
+     "MAG": "2797718539",
+     "DOI": "10.1039/C8NJ00964C",
+     "CorpusId": 103771884
+    },
+    "title": "Synthesis, characterization, and reactivity of a chiral Fe(IV)–oxo complex bearing an L-proline-derived aminopyridine ligand",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "8568e57f2d394f5734e115264703caffcc4b6fe3",
+    "externalIds": {
+     "MAG": "2791927626",
+     "DOI": "10.1002/anie.201800475",
+     "CorpusId": 3811473,
+     "PubMed": "29520940"
+    },
+    "title": "Synthesis of an Iron(IV) Aqua-Oxido Complex Using Ozone as an Oxidant.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "168718db5a82bcb8323db84b5755228f79a63526",
+    "externalIds": {
+     "MAG": "2793479731",
+     "DOI": "10.1021/ACSCATAL.7B04426",
+     "CorpusId": 103839269
+    },
+    "title": "A Deep Cavitand Receptor Functionalized with Fe(II) and Mn(II) Aminopyridine Complexes for Bioinspired Oxidation Catalysis",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "68a4d5b6de08646e3e2f3ad1e8694c6440dded75",
+    "externalIds": {
+     "MAG": "2785825614",
+     "DOI": "10.1021/ACSCATAL.7B03601",
+     "CorpusId": 51830379
+    },
+    "title": "Highly Enantioselective Oxidation of Spirocyclic Hydrocarbons by Bioinspired Manganese Catalysts and Hydrogen Peroxide",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "408abab8434043b70d3e75830feb5489e461188b",
+    "externalIds": {
+     "MAG": "2782752877",
+     "DOI": "10.1002/EJIC.201701072",
+     "CorpusId": 103634064
+    },
+    "title": "Synthetic High‐Valent M–O–X Oxidants",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "e5084a4a8adf9d30bcbc2bd4f99e42dc40ae362c",
+    "externalIds": {
+     "MAG": "2786699057",
+     "DOI": "10.1021/acs.chemrev.7b00542",
+     "CorpusId": 3279857,
+     "PubMed": "29406708"
+    },
+    "title": "Oxygen Reduction by Homogeneous Molecular Catalysts and Electrocatalysts.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3c4f94ae9604f56510578bba59715dc92c13ba5b",
+    "externalIds": {
+     "MAG": "2783969479",
+     "DOI": "10.1039/c7cc09698d",
+     "CorpusId": 3671982,
+     "PubMed": "29355268"
+    },
+    "title": "Remarkable increase in the rate of the catalytic epoxidation of electron deficient styrenes through the addition of Sc(OTf)3 to the MnTMTACN catalyst.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "02386507dc4f13d826b536a80d9bf2d442f8712c",
+    "externalIds": {
+     "MAG": "2745632750",
+     "DOI": "10.1002/chem.201703451",
+     "CorpusId": 205629473,
+     "PubMed": "28816379"
+    },
+    "title": "From Enzymes to Functional Materials-Towards Activation of Small Molecules.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4e284955ceb461a1528fbe8a4098e5d46536052f",
+    "externalIds": {
+     "MAG": "2782923180",
+     "DOI": "10.1039/c7cc09492b",
+     "CorpusId": 206075690,
+     "PubMed": "29335701"
+    },
+    "title": "A mononuclear manganese(iii)-hydroperoxo complex: synthesis by activating dioxygen and reactivity in electrophilic and nucleophilic reactions.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "cbc274055094dc3f1436270f4c97fc7e9c8cf340",
+    "externalIds": {
+     "MAG": "2787139078",
+     "DOI": "10.1021/acs.orglett.7b03955",
+     "CorpusId": 46824973,
+     "PubMed": "29384688"
+    },
+    "title": "Cobalt-Catalyzed Remote C-4 Functionalization of 8-Aminoquinoline Amides with Ethers via C-H Activation under Visible-Light Irradiation. Access to α-Heteroarylated Ether Derivatives.",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "94e530796f74b20501dc6d33944aa7276f3bb956",
+    "externalIds": {
+     "PubMedCentral": "6272062",
+     "MAG": "2781259020",
+     "DOI": "10.1021/jacs.7b11966",
+     "CorpusId": 207188137,
+     "PubMed": "29268610"
+    },
+    "title": "Driving protein conformational changes with light: Photoinduced structural rearrangement in a heterobimetallic oxidase",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "bd7cad1af782b2d6924459a57e41557226fd2fb8",
+    "externalIds": {
+     "MAG": "2767982363",
+     "DOI": "10.1002/anie.201709309",
+     "CorpusId": 8107760,
+     "PubMed": "29112325"
+    },
+    "title": "Reduction of Dioxygen by Radical/B(p-C6 F4 X)3 Pairs to Give Isolable Bis(borane)superoxide Compounds.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1020e4be705d417d7ab4d4d519dafe2adc5ea622",
+    "externalIds": {
+     "PubMedCentral": "5890324",
+     "MAG": "2773506499",
+     "DOI": "10.1039/c7sc03739b",
+     "CorpusId": 268380096,
+     "PubMed": "29675204"
+    },
+    "title": "A structurally-characterized peroxomanganese(iv) porphyrin from reversible O2 binding within a metal–organic framework",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ef48492c45eb95977330d5616d0ae2392db321a0",
+    "externalIds": {
+     "MAG": "2770517083",
+     "DOI": "10.1021/jacs.7b09343",
+     "CorpusId": 207185283,
+     "PubMed": "29148757"
+    },
+    "title": "Cross-Linked Artificial Enzyme Crystals as Heterogeneous Catalysts for Oxidation Reactions.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "64fdbfaa9ee8d5a400258cffc28e659014fb19fe",
+    "externalIds": {
+     "MAG": "2763070859",
+     "DOI": "10.1016/J.CCR.2017.09.015",
+     "CorpusId": 104006806
+    },
+    "title": "Speciation in iron epoxidation catalysis: A perspective on the discovery and role of non-heme iron(III)-hydroperoxo species in iron-catalyzed oxidation reactions",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0f887d8fb4234615fc12d8448fc2803b644ff8c9",
+    "externalIds": {
+     "MAG": "2765771591",
+     "PubMedCentral": "5711437",
+     "DOI": "10.1021/jacs.7b08678",
+     "CorpusId": 207184559,
+     "PubMed": "29056043"
+    },
+    "title": "Dioxygen Activation and O–O Bond Formation Reactions by Manganese Corroles",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9ef83efe0836730d43e42089632a2f6e3214c445",
+    "externalIds": {
+     "PubMedCentral": "5679783",
+     "MAG": "2758582642",
+     "DOI": "10.1002/anie.201707872",
+     "CorpusId": 5334411,
+     "PubMed": "28945949"
+    },
+    "title": "A Highly Reactive Oxoiron(IV) Complex Supported by a Bioinspired N3O Macrocylic Ligand",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6b5d5dda80e530315629d83b5b7ff0c8b6a0d69d",
+    "externalIds": {
+     "MAG": "2733878872",
+     "DOI": "10.1039/c7dt01600j",
+     "CorpusId": 261365597,
+     "PubMed": "28686274"
+    },
+    "title": "Spectroscopic and computational studies of reversible O2 binding by a cobalt complex of relevance to cysteine dioxygenase.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "071c95ef5ed603ac65909d239b769d26952a30b3",
+    "externalIds": {
+     "MAG": "2751951420",
+     "DOI": "10.1039/c7ob01814b",
+     "CorpusId": 4225415,
+     "PubMed": "28880037"
+    },
+    "title": "The role of spin states in the catalytic mechanism of the intra- and extradiol cleavage of catechols by O2.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "673017249b3b9c40425daa9ef7f5fc22976a2f8a",
+    "externalIds": {
+     "PubMedCentral": "5765857",
+     "MAG": "2755366472",
+     "DOI": "10.1002/ijch.201700059",
+     "CorpusId": 10338733,
+     "PubMed": "29335656"
+    },
+    "title": "Hydrogen-Atom Transfer Oxidation with H2O2 Catalyzed by [FeII(1,2-bis(2,2′-bipyridyl-6-yl)ethane(H2O)2]2+: Likely Involvement of a (μ-Hydroxo)(μ-1,2-peroxo)diiron(III) Intermediate",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7489b29f61eef5aea15a84186884db52d27a42bb",
+    "externalIds": {
+     "MAG": "2747383743",
+     "DOI": "10.1021/jacs.7b06343",
+     "CorpusId": 2917877,
+     "PubMed": "28844144"
+    },
+    "title": "Convergent Theoretical Prediction of Reactive Oxidant Structures in Diiron Arylamine Oxygenases AurF and CmlI: Peroxo or Hydroperoxo?",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "e804155a4fe2c7149f35ddf5f4f8d030c0fa756f",
+    "externalIds": {
+     "MAG": "2752337874",
+     "DOI": "10.1021/ACS.ORGANOMET.7B00492",
+     "CorpusId": 104040103
+    },
+    "title": "Ligand Tuning in Pyridine-Alkoxide Ligated Cp*IrIII Oxidation Catalysts",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "b8b756a4e274c186c2db1997025152218bf71f9f",
+    "externalIds": {
+     "MAG": "2753527624",
+     "PubMedCentral": "8991986",
+     "DOI": "10.1021/acs.inorgchem.7b01459",
+     "CorpusId": 3382282,
+     "PubMed": "28858496"
+    },
+    "title": "Characterization of the Fleeting Hydroxoiron(III) Complex of the Pentadentate TMC-py Ligand",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2a35bcefd0a7e7098b10d918e14f29b343898be5",
+    "externalIds": {
+     "MAG": "2746212722",
+     "DOI": "10.1039/c7cc04965j",
+     "CorpusId": 206066921,
+     "PubMed": "28825080"
+    },
+    "title": "Iron-catalyzed synthesis of benzoxazoles by oxidative coupling/cyclization of phenol derivatives with benzoyl aldehyde oximes.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4f7a45ac4069035da3e72ceb113a7dae8937bf32",
+    "externalIds": {
+     "MAG": "2742049577",
+     "PubMedCentral": "5672810",
+     "DOI": "10.1002/anie.201706594",
+     "CorpusId": 205404058,
+     "PubMed": "28766325"
+    },
+    "title": "C–H Activation from Iron(II)-Nitroxido Complexes",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a844d04c588439487386a6f18004caf8a6f4142f",
+    "externalIds": {
+     "MAG": "2746839117",
+     "DOI": "10.1021/acs.inorgchem.7b01513",
+     "CorpusId": 3365130,
+     "PubMed": "28825825"
+    },
+    "title": "Generation of a Mn(IV)-Peroxo or Mn(III)-Oxo-Mn(III) Species upon Oxygenation of Mono- and Binuclear Thiolate-Ligated Mn(II) Complexes.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "962a6ba00dfa9f373ebf2873aecbc534879ae5f0",
+    "externalIds": {
+     "MAG": "2617510370",
+     "DOI": "10.1002/cphc.201700490",
+     "CorpusId": 205706272,
+     "PubMed": "28544571"
+    },
+    "title": "Reactivity of Copper(III)-Oxo Complexes in the Gas Phase.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "d22dd02fc9e8cebdc2b0ac838293a33841762259",
+    "externalIds": {
+     "MAG": "2733014637",
+     "DOI": "10.1002/EJIC.201700732",
+     "CorpusId": 102584970
+    },
+    "title": "A Series of Copper Complexes of a Dinucleating Bis(tetradentate) Nitrogen Ligand: Synthesis, Structural, Spectroscopic, Electrochemical, and Magnetic Characterization",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c7c659f90f82c2aacbd46bce871525b0aa7f4b31",
+    "externalIds": {
+     "MAG": "2735733862",
+     "DOI": "10.1039/c7cc04382a",
+     "CorpusId": 206065728,
+     "PubMed": "28726874"
+    },
+    "title": "New mechanistic insights into intramolecular aromatic ligand hydroxylation and benzyl alcohol oxidation initiated by the well-defined (μ-peroxo)diiron(iii) complex.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "01dd1100ece8df8684c2a0b1dacf6938493adfb5",
+    "externalIds": {
+     "MAG": "2618006453",
+     "DOI": "10.1002/EJOC.201700487",
+     "CorpusId": 98913024
+    },
+    "title": "C3 Sulfenylation of N‐Heteroarenes in Water under Catalyst‐Free Conditions",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9bb64cf68443edb7b2fd0436bde7afaedb41edf4",
+    "externalIds": {
+     "MAG": "2621549868",
+     "PubMedCentral": "5531755",
+     "DOI": "10.1002/anie.201703215",
+     "CorpusId": 205401724,
+     "PubMed": "28544340"
+    },
+    "title": "A high-valent non heme μ-oxo MnIV dimer generated from a thiolate-bound MnII complex and O2",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2d4df6829f2ca924423ca35795c718fce47291f0",
+    "externalIds": {
+     "MAG": "2601269176",
+     "DOI": "10.1002/chem.201700666",
+     "CorpusId": 205626423,
+     "PubMed": "28345242"
+    },
+    "title": "Multi-Electron Oxidation of Anthracene Derivatives by Nonheme Manganese(IV)-Oxo Complexes.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "fbad3f784e8c2312a415c1a33566395fc6bd5292",
+    "externalIds": {
+     "MAG": "2605616202",
+     "DOI": "10.1002/anie.201702009",
+     "CorpusId": 25548807,
+     "PubMed": "28429418"
+    },
+    "title": "The Dynamics of the Reaction of FeO+ and H2 : A Model for Inorganic Oxidation.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4255fc5def8f86d6424f728f95b41478b32e7eed",
+    "externalIds": {
+     "MAG": "2581614270",
+     "DOI": "10.1002/chem.201605959",
+     "CorpusId": 205625709,
+     "PubMed": "28130799"
+    },
+    "title": "Rhodium Complexes Promoting C-O Bond Formation in Reactions with Oxygen: The Role of Superoxo Species.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "66959616b969dd362c72282a8a931c91efa3a45b",
+    "externalIds": {
+     "MAG": "2606937713",
+     "DOI": "10.1021/acsami.7b02195",
+     "CorpusId": 206446834,
+     "PubMed": "28394564"
+    },
+    "title": "Optimizing Open Iron Sites in Metal-Organic Frameworks for Ethane Oxidation: A First-Principles Study.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a309dae56f2e4bf856e3257c26c56637fc658b1d",
+    "externalIds": {
+     "MAG": "2591690000",
+     "DOI": "10.1002/anie.201612225",
+     "CorpusId": 205399459,
+     "PubMed": "28252238"
+    },
+    "title": "An Efficient Iron(III)-Catalyzed Aerobic Oxidation of Aldehydes in Water for the Green Preparation of Carboxylic Acids.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "da44ec57a6ca3f2097024117517290d1d699b38b",
+    "externalIds": {
+     "PubMedCentral": "5376677",
+     "MAG": "2598146353",
+     "DOI": "10.1038/ncomms14839",
+     "CorpusId": 36136,
+     "PubMed": "28337985"
+    },
+    "title": "Synthesis and reactivity of a mononuclear non-haem cobalt(IV)-oxo complex",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0d4a824d9a1815a4d73b295b99ab25db35790a92",
+    "externalIds": {
+     "MAG": "2589671181",
+     "DOI": "10.1039/c7dt00229g",
+     "CorpusId": 3371997,
+     "PubMed": "28252137"
+    },
+    "title": "A theoretical study on oxidative cleavage of olefins to carbonyls catalysed by Fe(iii)-PyBisulidine.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6ed8498bd05347fd61ea1cacf9502772965521d8",
+    "externalIds": {
+     "MAG": "2592093713",
+     "DOI": "10.1002/anie.201611709",
+     "CorpusId": 7946593,
+     "PubMed": "28266771"
+    },
+    "title": "A Chromium(III)-Superoxo Complex as a Three-Electron Oxidant with a Large Tunneling Effect in Multi-Electron Oxidation of NADH Analogues.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "648acf968906531c6d2cdf5f7ce4949c063f0487",
+    "externalIds": {
+     "MAG": "2595449345",
+     "PubMedCentral": "5579827",
+     "DOI": "10.1002/anie.201612309",
+     "CorpusId": 4587400,
+     "PubMed": "28300349"
+    },
+    "title": "Equatorial Ligand Perturbations Influence the Reactivity of Mn(IV)-Oxo Complexes",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7247d867a74f65f088091800959a7835ce1f8276",
+    "externalIds": {
+     "PubMedCentral": "5734052",
+     "MAG": "2591932784",
+     "DOI": "10.1039/C7SC00099E",
+     "CorpusId": 6556011,
+     "PubMed": "29270284"
+    },
+    "title": "A Bottom Up Approach Towards Artificial Oxygenases by Combining Iron Coordination Complexes and Peptides",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "761840988d151535663b0da8b5ff57cadca1b1da",
+    "externalIds": {
+     "MAG": "2501226488",
+     "DOI": "10.1016/J.CCR.2016.07.006",
+     "CorpusId": 51777555
+    },
+    "title": "Dioxygen activation chemistry by synthetic mononuclear nonheme iron, copper and chromium complexes",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "b15dff836012e9bda71756761df715edf409eafb",
+    "externalIds": {
+     "MAG": "2553542441",
+     "DOI": "10.1016/J.CCR.2016.11.007",
+     "CorpusId": 99224974
+    },
+    "title": "Making and breaking of the OO bond at iron complexes",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3e7321f2f90dd519aa2813901cf1c17ce4a463ee",
+    "externalIds": {
+     "MAG": "2580891389",
+     "DOI": "10.1002/anie.201609526",
+     "CorpusId": 13125249,
+     "PubMed": "28111896"
+    },
+    "title": "Activation of Dioxygen at a Lewis Acidic Nickel(II) Complex: Characterization of a Metastable Organoperoxide Complex.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "54cfac5002e7e89fae52b3232b31baec438175e5",
+    "externalIds": {
+     "MAG": "2549847349",
+     "DOI": "10.1016/J.CCR.2016.09.018",
+     "CorpusId": 99064679
+    },
+    "title": "High-valent metal-oxo complexes generated in catalytic oxidation reactions using water as an oxygen source",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "5b144e5d7c7be5840ba00fc03215d661fea67ff1",
+    "externalIds": {
+     "MAG": "2582539534",
+     "DOI": "10.1021/jacs.6b12291",
+     "CorpusId": 21879298,
+     "PubMed": "28125220"
+    },
+    "title": "Chasing the Evasive Fe═O Stretch and the Spin State of the Iron(IV)-Oxo Complexes by Photodissociation Spectroscopy.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "aef4873214ba3991f571c3f1fd405dea1b6ed2fd",
+    "externalIds": {
+     "MAG": "2582452355",
+     "DOI": "10.1007/s00775-016-1434-z",
+     "CorpusId": 2682354,
+     "PubMed": "28124122"
+    },
+    "title": "Oxidation of alkane and alkene moieties with biologically inspired nonheme iron catalysts and hydrogen peroxide: from free radicals to stereoselective transformations",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6d80d168a3bd5bc026bc72c61e23fa65f8c641b4",
+    "externalIds": {
+     "MAG": "2570103783",
+     "DOI": "10.1021/acs.inorgchem.6b02277",
+     "CorpusId": 46789984,
+     "PubMed": "28055194"
+    },
+    "title": "Nonredox Metal-Ions-Enhanced Dioxygen Activation by Oxidovanadium(IV) Complexes toward Hydrogen Atom Abstraction.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2a7ab034344aa273ef4946ea16128bb7c7917ff3",
+    "externalIds": {
+     "MAG": "2564203602",
+     "DOI": "10.1021/acs.inorgchem.6b02282",
+     "CorpusId": 46767693,
+     "PubMed": "27977171"
+    },
+    "title": "Reductive Activation of O2 by Non-Heme Iron(II) Benzilate Complexes of N4 Ligands: Effect of Ligand Topology on the Reactivity of O2-Derived Oxidant.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "08d33c13c13f7164f876399ef70645aef25dfe8d",
+    "externalIds": {
+     "PubMedCentral": "5262503",
+     "MAG": "2560501730",
+     "DOI": "10.1021/jacs.6b03512",
+     "CorpusId": 207166741,
+     "PubMed": "28033001"
+    },
+    "title": "Metal-Assisted Oxo Atom Addition to an Fe(III) Thiolate",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "bb3a1973ea1daae953479f464ebf32a9d5b4e89d",
+    "externalIds": {
+     "PubMedCentral": "5274545",
+     "MAG": "2566873802",
+     "DOI": "10.1021/jacs.6b11322",
+     "CorpusId": 23457297,
+     "PubMed": "28029788"
+    },
+    "title": "Critical Aspects of Heme–Peroxo–Cu Complex Structure and Nature of Proton Source Dictate Metal–Operoxo Breakage versus Reductive O–O Cleavage Chemistry",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "138fc9b40598bbea76cdc1606a891f4a1584b371",
+    "externalIds": {
+     "MAG": "2558939872",
+     "DOI": "10.1021/jacs.6b11198",
+     "CorpusId": 207172472,
+     "PubMed": "27959518"
+    },
+    "title": "Enantioselective Oxidative Homocoupling and Cross-Coupling of 2-Naphthols Catalyzed by Chiral Iron Phosphate Complexes.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1bd73d346b53ce3764e2e7e8f2fe7c79ca7cde33",
+    "externalIds": {
+     "MAG": "2560172664",
+     "PubMedCentral": "5600896",
+     "DOI": "10.1007/s00775-016-1415-2",
+     "CorpusId": 4523514,
+     "PubMed": "27921179"
+    },
+    "title": "Activation of dioxygen by copper metalloproteins and insights from model complexes",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "5deab79785092aaaf6ea05491dbf2ad3971badfe",
+    "externalIds": {
+     "MAG": "2553053975",
+     "DOI": "10.1007/s00775-016-1402-7",
+     "CorpusId": 42769789,
+     "PubMed": "27853875"
+    },
+    "title": "Oxygen activation by mononuclear Mn, Co, and Ni centers in biology and synthetic complexes",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "5b08966a41df9685ff3529a3e692cfb5cba28474",
+    "externalIds": {
+     "MAG": "2549367341",
+     "PubMedCentral": "5363059",
+     "DOI": "10.1021/ACS.INORGCHEM.6B02288",
+     "CorpusId": 26451155,
+     "PubMed": "27934432"
+    },
+    "title": "Reactivity of a Cobalt(III)-Hydroperoxo Complex in Electrophilic Reactions",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "8eff92257d0878ea0eb09efc55458538d8843547",
+    "externalIds": {
+     "MAG": "2547503467",
+     "DOI": "10.1021/JACS.6B08661",
+     "CorpusId": 19065897,
+     "PubMed": "27802057"
+    },
+    "title": "Spectroscopic and Computational Investigations of a Mononuclear Manganese(IV)-Oxo Complex Reveal Electronic Structure Contributions to Reactivity.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "e2717ce22ef456c31f4e2d45114c71a0fe8d7d8b",
+    "externalIds": {
+     "MAG": "2553829951",
+     "DOI": "10.1021/ACS.ACCOUNTS.6B00271",
+     "CorpusId": 18111225,
+     "PubMed": "27993008"
+    },
+    "title": "Spinning around in Transition-Metal Chemistry.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2730360ef941486795985a881552843778768b53",
+    "externalIds": {
+     "MAG": "2530938854",
+     "DOI": "10.1002/anie.201602644",
+     "CorpusId": 24935987,
+     "PubMed": "27723189"
+    },
+    "title": "Accessing Drug Metabolites via Transition-Metal Catalyzed C-H Oxidation: The Liver as Synthetic Inspiration.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "dbde7121b7f158a4887ab220f9bd1a4fb0c76578",
+    "externalIds": {
+     "MAG": "2530960354",
+     "DOI": "10.1039/C6CC07152J",
+     "CorpusId": 41052194,
+     "PubMed": "27747346"
+    },
+    "title": "Intermetal oxygen atom transfer from an FeVO complex to a MnIII complex: an experimental and theoretical approach.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3a734418985fb28412d820dc8b0fff2c778ef519",
+    "externalIds": {
+     "MAG": "2521524712",
+     "DOI": "10.1039/C6DT03024F",
+     "CorpusId": 41101217,
+     "PubMed": "27711754"
+    },
+    "title": "Characteristics and reactivity of ruthenium-oxo complexes.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9ef5b1da14eba2e0661d45f5e5e8e1de9754cd0d",
+    "externalIds": {
+     "MAG": "2531346109",
+     "DOI": "10.1002/ANGE.201602644",
+     "CorpusId": 100549766
+    },
+    "title": "Die Erschließung von Wirkstoffmetaboliten durch übergangsmetallkatalysierte C‐H‐Oxidation: die Leber als Inspiration für die Synthese",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0ce80ae0a410df7394603fca8b5594496c461006",
+    "externalIds": {
+     "MAG": "2357816733",
+     "DOI": "10.1039/c6dt01194b",
+     "CorpusId": 28602660,
+     "PubMed": "27188721"
+    },
+    "title": "A mononuclear nonheme cobalt(iii)-hydroperoxide complex with an amphoteric reactivity in electrophilic and nucleophilic oxidative reactions.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "edb17b5a6bdd4c974c54a12b53bfe2629236ff93",
+    "externalIds": {
+     "MAG": "2471245006",
+     "DOI": "10.1039/c6dt01692h",
+     "CorpusId": 21847730,
+     "PubMed": "27389482"
+    },
+    "title": "Oxygen activation and catalytic aerobic oxidation by Mo(iv)/(vi) complexes with functionalized iminophenolate ligands.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f4ea433acdf0452309a9848eca49742cfee5d29b",
+    "externalIds": {
+     "MAG": "2509467280",
+     "PubMedCentral": "5228574",
+     "DOI": "10.1021/jacs.6b05027",
+     "CorpusId": 288321572,
+     "PubMed": "27545752"
+    },
+    "title": "Singlet versus Triplet Reactivity in an Mn(V)–Oxo Species: Testing Theoretical Predictions Against Experimental Evidence",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "97f0e6d821b6a4a1a57d4877adc66ce4639a4572",
+    "externalIds": {
+     "PubMedCentral": "5228556",
+     "MAG": "2510282394",
+     "DOI": "10.1021/jacs.6b05251",
+     "CorpusId": 4966584,
+     "PubMed": "27576170"
+    },
+    "title": "Activation of Dioxygen by Iron and Manganese Complexes: A Heme and Nonheme Perspective",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "47d38fb81746fca9e0f22602fb6ace7f8f3992ff",
+    "externalIds": {
+     "MAG": "2510625952",
+     "DOI": "10.1039/C6RA11199H",
+     "CorpusId": 99799860
+    },
+    "title": "Theoretical view on a linear end-on manganese–dioxygen complex bearing a calix[4]arene ligand",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "d6f1f212fa424af973e68c2e6020c4ca680ab3d5",
+    "externalIds": {
+     "MAG": "2505692771",
+     "DOI": "10.1002/anie.201605026",
+     "CorpusId": 22874491,
+     "PubMed": "27471147"
+    },
+    "title": "Redox Non-Innocence of Nitrosobenzene at Nickel.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "dba3c64bc9e0ce613191cddf99886b9a7debc1a3",
+    "externalIds": {
+     "MAG": "2485940567",
+     "DOI": "10.1021/ACS.JPCC.6B07115",
+     "CorpusId": 4666993
+    },
+    "title": "Accelerated Computational Analysis of Metal–Organic Frameworks for Oxidation Catalysis",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "217524ee1791f0c8f7c4d7c5b6455133fd2386af",
+    "externalIds": {
+     "MAG": "2505404321",
+     "DOI": "10.1021/jacs.6b06252",
+     "CorpusId": 4970306,
+     "PubMed": "27462828"
+    },
+    "title": "Factors Controlling the Chemoselectivity in the Oxidation of Olefins by Nonheme Manganese(IV)-Oxo Complexes.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "585abd848200cfad3a8360ca9394ff47bd5ac1f8",
+    "externalIds": {
+     "MAG": "2496500706",
+     "DOI": "10.1002/IJCH.201600036",
+     "CorpusId": 100230462
+    },
+    "title": "EPR Spectroscopic Characterization of a Jahn‐Teller Distorted (C3v→Cs) Four‐Coordinate Chromium(V) Oxo Species",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "d33a193a0e7b272704628bfd96cd2332b96be31c",
+    "externalIds": {
+     "MAG": "2292547002",
+     "DOI": "10.1016/J.MOLSTRUC.2016.02.101",
+     "CorpusId": 101302999
+    },
+    "title": "Iron(III) complexes of 2-(1H-benzo[d]imidazol-2-yl)phenol and acetate or nitrate as catalysts for epoxidation of olefins with hydrogen peroxide",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9a66b7882e0e8a6bcb8f75b78e2eff2a9671eec6",
+    "externalIds": {
+     "MAG": "2413457628",
+     "DOI": "10.1002/anie.201603978",
+     "CorpusId": 13243474,
+     "PubMed": "27273456"
+    },
+    "title": "Mononuclear Nonheme High-Spin (S=2) versus Intermediate-Spin (S=1) Iron(IV)-Oxo Complexes in Oxidation Reactions.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4651f9e8e05181b35a2644252f53d7b820982bd7",
+    "externalIds": {
+     "MAG": "2413395909",
+     "DOI": "10.1002/anie.201600507",
+     "CorpusId": 3604014,
+     "PubMed": "27311082"
+    },
+    "title": "Oxidation Reactions with Bioinspired Mononuclear Non-Heme Metal-Oxo Complexes.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "fc7ca12af672fd7a4a37888298f39219a9af29ff",
+    "externalIds": {
+     "MAG": "2418221895",
+     "DOI": "10.1002/ANGE.201600507",
+     "CorpusId": 99769448
+    },
+    "title": "Oxidationsreaktionen mit bioinspirierten einkernigen Nicht‐Häm‐Oxidometallkomplexen",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "56b8e6f5f8ae7bad49b7242d406c8eb82e3cc219",
+    "externalIds": {
+     "MAG": "2410947917",
+     "DOI": "10.1039/c6cc01660j",
+     "CorpusId": 206001033,
+     "PubMed": "27273175"
+    },
+    "title": "Formation of the syn isomer of [Fe(IV)(Oanti)(TMC)(NCMe)](2+) in the reaction of Lewis acids with the side-on bound peroxo ligand in [Fe(III)(η(2)-O2)(TMC)](.).",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "e04c15df06fe718b11060affe0b6073da619cce8",
+    "externalIds": {
+     "MAG": "2408576353",
+     "PubMedCentral": "4950875",
+     "DOI": "10.1021/jacs.6b02404",
+     "CorpusId": 4877986,
+     "PubMed": "27228314"
+    },
+    "title": "Peroxo and Superoxo Moieties Bound to Copper Ion: Electron-Transfer Equilibrium with a Small Reorganization Energy",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "08a7a73d9f90ebd0b562898b1407532903876074",
+    "externalIds": {
+     "MAG": "2338744545",
+     "DOI": "10.1039/c6cc02162j",
+     "CorpusId": 206002095,
+     "PubMed": "27105471"
+    },
+    "title": "The secondary coordination sphere controlled reactivity of a ferric-superoxo heme: unexpected conversion to a ferric hydroperoxo intermediate by reaction with a high-spin ferrous heme.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7e0804582082ddc43278ab3d884c40060105b938",
+    "externalIds": {
+     "MAG": "2285520018",
+     "DOI": "10.1039/c6dt00538a",
+     "CorpusId": 5242341,
+     "PubMed": "26952651"
+    },
+    "title": "Binding of molecular oxygen by an artificial heme analogue: investigation on the formation of an Fe-tetracarbene superoxo complex.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3569de49711a6bf70ea54387f9087462c22dcca2",
+    "externalIds": {
+     "MAG": "2313035119",
+     "DOI": "10.1021/acs.inorgchem.6b00169",
+     "CorpusId": 29911746,
+     "PubMed": "27031000"
+    },
+    "title": "HFEPR and Computational Studies on the Electronic Structure of a High-Spin Oxidoiron(IV) Complex in Solution.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "bf3849624aac0dcc3894173c5b7815eef2bd4255",
+    "externalIds": {
+     "MAG": "2340190595",
+     "DOI": "10.1002/9781119951438.EIBC2344",
+     "CorpusId": 100863254
+    },
+    "title": "Biomimetic High‐Valent Mononuclear Nonheme Iron‐Oxo Chemistry",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "15a91683889e3f9a57cefa165714e32af235b490",
+    "externalIds": {
+     "MAG": "2287981370",
+     "DOI": "10.1002/anie.201600287",
+     "CorpusId": 33654799,
+     "PubMed": "26890463"
+    },
+    "title": "Enhanced Electron Transfer Reactivity of a Nonheme Iron(IV)-Imido Complex as Compared to the Iron(IV)-Oxo Analogue.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "056207358fae6aa432122478a3eb89da39dc5935",
+    "externalIds": {
+     "MAG": "2283727006",
+     "PubMedCentral": "4852750",
+     "DOI": "10.1002/chem.201600551",
+     "CorpusId": 9848451,
+     "PubMed": "26919169"
+    },
+    "title": "Dioxygen Activation by a Macrocyclic Copper Complex Leads to a Cu2O2 Core with Unexpected Structure and Reactivity",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c10f59b99f3aab7cdac601c3ad9775a01e28a80e",
+    "externalIds": {
+     "MAG": "2224718994",
+     "DOI": "10.1039/c5dt03711e",
+     "CorpusId": 101503544,
+     "PubMed": "26791942"
+    },
+    "title": "Design and synthesis of a dinucleating ligand system with varying terminal donor functions that provides no bridging donor and its application to the synthesis of a series of Fe(III)-μ-O-Fe(III) complexes.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "8ed0ba5fd20abfb39bfc9f4be5b36aaf6e939271",
+    "externalIds": {
+     "MAG": "2318693049",
+     "DOI": "10.1021/jacs.5b13500",
+     "CorpusId": 207163765,
+     "PubMed": "26816269"
+    },
+    "title": "Mononuclear Nonheme High-Spin Iron(III)-Acylperoxo Complexes in Olefin Epoxidation and Alkane Hydroxylation Reactions.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "837ffc76f16b8bb87b64fe5e092085918d17177a",
+    "externalIds": {
+     "MAG": "2235463629",
+     "DOI": "10.1021/acs.joc.5b02509",
+     "CorpusId": 856257,
+     "PubMed": "26745434"
+    },
+    "title": "Copper-Catalyzed Regioselective C-H Sulfonylation of 8-Aminoquinolines.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7ea922748e4bb6bee3ce4e69cfbced1beac00918",
+    "externalIds": {
+     "MAG": "2211921936",
+     "DOI": "10.1039/c5cc07772a",
+     "CorpusId": 11143517,
+     "PubMed": "26679371"
+    },
+    "title": "Conversion of a non-heme iron-dependent sulfoxide synthase into a thiol dioxygenase by a single point mutation.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "14200df9c35ac0a0a996e1229892db74ecdf4d64",
+    "externalIds": {
+     "MAG": "2255405248",
+     "DOI": "10.1021/acs.orglett.5b03309",
+     "CorpusId": 46149050,
+     "PubMed": "26784884"
+    },
+    "title": "Enantioselective Epoxidation of Olefins with H2O2 Catalyzed by Bioinspired Aminopyridine Manganese Complexes.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "07c6d45d45154fc8751db10b3dccd352213bf44a",
+    "externalIds": {
+     "MAG": "1938135664",
+     "DOI": "10.1039/c5ob01556a",
+     "CorpusId": 25791336,
+     "PubMed": "26488232"
+    },
+    "title": "Synthesis and characterisation of a mesocyclic tripodal triamine ligand.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "40b6c24426f5217609af1a96848a2936dcd12405",
+    "externalIds": {
+     "MAG": "2173450206",
+     "DOI": "10.1039/c5dt04292e",
+     "CorpusId": 8722842,
+     "PubMed": "26620273"
+    },
+    "title": "An amphoteric reactivity of a mixed-valent bis(μ-oxo)dimanganese(III,IV) complex acting as an electrophile and a nucleophile.",
+    "year": 2016
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "b76fd8e778827677232e8090acb8fa282cc29f8b",
+    "externalIds": {
+     "MAG": "2098057202",
+     "DOI": "10.1002/chem.201502693",
+     "CorpusId": 205616319,
+     "PubMed": "26404482"
+    },
+    "title": "Lewis Acid Coupled Electron Transfer of Metal-Oxygen Intermediates.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "346f1eceb8cdb64dd3810453977b3e13a3cbd072",
+    "externalIds": {
+     "MAG": "2419372496",
+     "DOI": "10.1021/acs.inorgchem.5b02011",
+     "CorpusId": 30944103,
+     "PubMed": "26615667"
+    },
+    "title": "Upside Down! Crystallographic and Spectroscopic Characterization of an [Fe IV(O syn)(TMC)]2+ Complex.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7b8c038d44ff10f7765e3e705ee82551bf1c6b31",
+    "externalIds": {
+     "MAG": "1774781789",
+     "DOI": "10.1039/c5dt02502h",
+     "CorpusId": 19493973,
+     "PubMed": "26488906"
+    },
+    "title": "Controlled ligand distortion and its consequences for structure, symmetry, conformation and spin-state preferences of iron(II) complexes.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "31d7d96ce660ed37998527911c67f344badbee5e",
+    "externalIds": {
+     "MAG": "1875022782",
+     "DOI": "10.1016/J.JCAT.2015.08.026",
+     "CorpusId": 93976866
+    },
+    "title": "Iron-catalyzed oxidation of unreactive CH bonds: Utilizing bio-inspired axial ligand modification to increase catalyst stability",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7a8b2e91be9c000e54f479d75de230d5fbdaeaaa",
+    "externalIds": {
+     "MAG": "1740062755",
+     "DOI": "10.1039/C5NJ02093J",
+     "CorpusId": 94148545
+    },
+    "title": "Oxoiron(IV)-mediated Baeyer–Villiger oxidation of cyclohexanones generated by dioxygen with co-oxidation of aldehydes",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0789a689476712dbc231e1d6f4c07891cbd116ec",
+    "externalIds": {
+     "MAG": "2174249013",
+     "DOI": "10.1021/acs.inorgchem.5b02068",
+     "CorpusId": 206588109,
+     "PubMed": "26486819"
+    },
+    "title": "Tuning the Reactivity of Chromium(III)-Superoxo Species by Coordinating Axial Ligands.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "250571c48f46ce882699f130355964e7d63f9f01",
+    "externalIds": {
+     "MAG": "2105257667",
+     "DOI": "10.1002/chem.201501684",
+     "CorpusId": 23052809,
+     "PubMed": "26249557"
+    },
+    "title": "Proton-Coupled Electron Transfer Reactions Catalysed by 3 d Metal Complexes.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "7dd34b5c7634b6530c7d8ba4c05e45f17bd46554",
+    "externalIds": {
+     "MAG": "2294570642",
+     "DOI": "10.1021/acs.inorgchem.5b01500",
+     "CorpusId": 206587291,
+     "PubMed": "26457760"
+    },
+    "title": "C-H Bond Oxidation Catalyzed by an Imine-Based Iron Complex: A Mechanistic Insight.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "e5b3e47cbf9d0917a3ecc9f560e09c2f76ee42ec",
+    "externalIds": {
+     "MAG": "2166723686",
+     "DOI": "10.1039/C5RA18270K",
+     "CorpusId": 97478886
+    },
+    "title": "Isocyanide substitution reactions at the trans labile sites of an iron(II) N-heterocyclic carbene complex",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "cb8de1e6ee255a94e732c76aec5373e9c694078a",
+    "externalIds": {
+     "MAG": "2203507006",
+     "DOI": "10.1002/9781118898277.CH7",
+     "CorpusId": 98023240
+    },
+    "title": "Principles and Prospects of Spin‐States Reactivity in Chemistry and Bioinorganic Chemistry",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "19eca5a2de3d93b18298e293749cc1d962f9f48a",
+    "externalIds": {
+     "MAG": "2411290271",
+     "DOI": "10.1002/9781118898277.CH11",
+     "CorpusId": 99303798
+    },
+    "title": "Multiple Spin Scenarios in Transition‐Metal Complexes Involving Redox Non‐Innocent Ligands",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6677954a0b5533854437d4f833d92d5ae70f9860",
+    "externalIds": {
+     "MAG": "2111894629",
+     "DOI": "10.1002/anie.201505796",
+     "CorpusId": 10448831,
+     "PubMed": "26273792"
+    },
+    "title": "Mononuclear Nonheme Iron(III)-Iodosylarene and High-Valent Iron-Oxo Complexes in Olefin Epoxidation Reactions.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "77d670e066f39aa536df3aec3dfb3a2ed7629845",
+    "externalIds": {
+     "MAG": "1961859058",
+     "DOI": "10.1039/c5cc04803f",
+     "CorpusId": 9295007,
+     "PubMed": "26277913"
+    },
+    "title": "Mechanistic elucidation of C-H oxidation by electron rich non-heme iron(IV)-oxo at room temperature.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ff5b3966a507195430e92f31054d32a6f70c9e7e",
+    "externalIds": {
+     "MAG": "1471589903",
+     "DOI": "10.1021/acs.accounts.5b00273",
+     "CorpusId": 28008233,
+     "PubMed": "26352344"
+    },
+    "title": "A Balancing Act: Stability versus Reactivity of Mn(O) Complexes.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "9fa56e12de693f1662dd2b39d261c5c049d04c9c",
+    "externalIds": {
+     "MAG": "2337263937",
+     "DOI": "10.1021/acs.inorgchem.5b00930",
+     "CorpusId": 36863106,
+     "PubMed": "26331405"
+    },
+    "title": "Quasi-three-coordinate iron and cobalt terphenoxide complexes {Ar(iPr8)OM(μ-O)}2 (Ar(iPr8) = C6H-2,6-(C6H2-2,4,6-(i)Pr3)2-3,5-(i)Pr2; M = Fe or Co) with M(III)2(μ-O)2 core structures and the peroxide dimer of 2-oxepinoxy relevant to benzene oxidation.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "1e1c73648a343cd3c6954079c8f0ca8c2b00278f",
+    "externalIds": {
+     "MAG": "1885812029",
+     "DOI": "10.1039/c5cc04217h",
+     "CorpusId": 205939493,
+     "PubMed": "26186554"
+    },
+    "title": "Mononuclear nonheme iron(IV)-oxo and manganese(IV)-oxo complexes in oxidation reactions: experimental results prove theoretical prediction.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "583888307c52ea01846bd8e144e66bf86d49ac93",
+    "externalIds": {
+     "MAG": "2226953743",
+     "DOI": "10.1021/acs.accounts.5b00218",
+     "CorpusId": 21500706,
+     "PubMed": "26203519"
+    },
+    "title": "Synthetic mononuclear nonheme iron-oxygen intermediates.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ee408307dda7b686ca896d7056a85abe7c27304f",
+    "externalIds": {
+     "MAG": "2160008028",
+     "PubMedCentral": "5950833",
+     "DOI": "10.1039/c5sc01680k",
+     "CorpusId": 205992393,
+     "PubMed": "29861914"
+    },
+    "title": "Water oxidation catalysed by iron complex of N,N′-dimethyl-2,11-diaza[3,3](2,6)pyridinophane. Spectroscopy of iron–oxo intermediates and density functional theory calculations",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c89480606d45e541994ed0f6e970d42a1068a4bc",
+    "externalIds": {
+     "MAG": "2340545498",
+     "CorpusId": 100910141
+    },
+    "title": "Biomimetic Oxygenation Reactions in Metal Cryptates",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "a0768d1e06ae57d244a4c19c4baf50b1fd003ac4",
+    "externalIds": {
+     "MAG": "2162990364",
+     "DOI": "10.1002/EJIC.201500576",
+     "CorpusId": 97192004
+    },
+    "title": "Catalytic Oxidation of Alkanes and Alkenes by H2O2 with a mu-Oxido Diiron(III) Complex as Catalyst/Catalyst Precursor",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3cfe2664bdf019b69091fddd166cea74a4f2163c",
+    "externalIds": {
+     "MAG": "2291793443",
+     "DOI": "10.1021/jacs.5b04787",
+     "CorpusId": 23756684,
+     "PubMed": "26075466"
+    },
+    "title": "Interplay of Experiment and Theory in Elucidating Mechanisms of Oxidation Reactions by a Nonheme Ru(IV)O Complex.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6fa49c41703a9ee31a014c0a799c5951326e7d7b",
+    "externalIds": {
+     "MAG": "2465100182",
+     "DOI": "10.1021/jacs.5b04917",
+     "CorpusId": 207156698,
+     "PubMed": "26076066"
+    },
+    "title": "Dioxygen Activation and Catalytic Reduction to Hydrogen Peroxide by a Thiolate-Bridged Dimanganese(II) Complex with a Pendant Thiol.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ba95951963b712c86ae61a78c1a4ad700838ca26",
+    "externalIds": {
+     "MAG": "2121494212",
+     "PubMedCentral": "6088558",
+     "DOI": "10.1039/c5sc01811k",
+     "CorpusId": 13216514,
+     "PubMed": "30155008"
+    },
+    "title": "Site-selective formation of an iron(iv)–oxo species at the more electron-rich iron atom of heteroleptic μ-nitrido diiron phthalocyanines",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c95ad2fd23e744771eb6233b7367a817bec81aae",
+    "externalIds": {
+     "MAG": "2115048357",
+     "DOI": "10.1002/anie.201502367",
+     "CorpusId": 6506935,
+     "PubMed": "25940278"
+    },
+    "title": "Characterization of Mononuclear Non-heme Iron(III)-Superoxo Complex with a Five-Azole Ligand Set.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "708fcaf42580ed19b922eeba7d623727e27615b9",
+    "externalIds": {
+     "MAG": "603409312",
+     "PubMedCentral": "4494871",
+     "DOI": "10.1021/acs.inorgchem.5b00699",
+     "CorpusId": 23325865,
+     "PubMed": "26061165"
+    },
+    "title": "X-ray Absorption and Emission Study of Dioxygen Activation by a Small-Molecule Manganese Complex",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "8c4db06c3cda4bea0ecec510763ac2a11eb63d1b",
+    "externalIds": {
+     "MAG": "2152814861",
+     "DOI": "10.1021/jacs.5b03836",
+     "CorpusId": 24244455,
+     "PubMed": "25988744"
+    },
+    "title": "Catalytic mechanism of cofactor-free dioxygenases and how they circumvent spin-forbidden oxygenation of their substrates.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c02bdd8fbab934829af878877097058cec5ce665",
+    "externalIds": {
+     "MAG": "586050814",
+     "DOI": "10.1021/acs.inorgchem.5b00658",
+     "CorpusId": 206586143,
+     "PubMed": "26039655"
+    },
+    "title": "Water-Soluble Iron(IV)-Oxo Complexes Supported by Pentapyridine Ligands: Axial Ligand Effects on Hydrogen Atom and Oxygen Atom Transfer Reactivity.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0ddec34270ffa40fff2f82156571163fc144de00",
+    "externalIds": {
+     "MAG": "2110275123",
+     "DOI": "10.1021/jacs.5b00382",
+     "CorpusId": 17407257,
+     "PubMed": "25882096"
+    },
+    "title": "Mechanism of Oxidation of Ethane to Ethanol at Iron(IV)-Oxo Sites in Magnesium-Diluted Fe2(dobdc).",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6d62e98005220ce6ed98627fc242efbdb9377f8f",
+    "externalIds": {
+     "MAG": "2113238478",
+     "DOI": "10.1002/anie.201500141",
+     "CorpusId": 8591407,
+     "PubMed": "25704927"
+    },
+    "title": "Structural characterization of a hydroperoxo nickel complex and its autoxidation: mechanism of interconversion between peroxo, superoxo, and hydroperoxo species.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3611d94423f742741f9d40b54c70e7d105cbf5e7",
+    "externalIds": {
+     "MAG": "2107830496",
+     "DOI": "10.1039/c5dt00809c",
+     "CorpusId": 22560431,
+     "PubMed": "25811701"
+    },
+    "title": "Mechanistic insights into the reactions of hydride transfer versus hydrogen atom transfer by a trans-dioxoruthenium(VI) complex.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "42d01a9929bb91da45c3280c635ee71fd30ba5d1",
+    "externalIds": {
+     "PubMedCentral": "4888065",
+     "MAG": "2083302542",
+     "DOI": "10.1021/jacs.5b00816",
+     "CorpusId": 207153526,
+     "PubMed": "25839905"
+    },
+    "title": "Light–Driven, Proton–Controlled, Catalytic Aerobic C–H Oxidation Mediated by a Mn(III) Porphyrinoid Complex",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [
+    "Metal-oxo model complexes have now been synthesized using dioxygen or water as the oxygen source, via mechanisms reminiscent of the O2/H2O activation processes proposed in biology [19].",
+    "Recent synthetic advances have led to the isolation and characterization of several well-described metal-oxo model complexes, and detailed reactivity studies in conjunction with spectroscopy and theory have helped to understand how the steric and electronic properties of the metal centers modulate their reactivity [19–27].",
+    "Even though its catalytic site is bimetallic, the reduction of O2 by CcO (Figure 1c) appears to proceed via intermediates that are similar, with respect to the binding modes of O2 and its derivatives, to those observed in monometallic heme and nonheme enzymes [19–24]."
+   ],
+   "intents": [
+    "background",
+    "methodology"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "cb13048eed9b1a28adb536e760bfcb772d0fa51e",
+    "externalIds": {
+     "MAG": "1976791597",
+     "DOI": "10.1016/j.cbpa.2015.01.014",
+     "CorpusId": 2743220,
+     "PubMed": "25703840"
+    },
+    "title": "High-valent metal-oxo intermediates in energy demanding processes: from dioxygen reduction to water splitting.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f4321c6841c1f7b8277e014cf636d2a6fcc6d414",
+    "externalIds": {
+     "MAG": "2062708779",
+     "DOI": "10.1039/c5dt00204d",
+     "CorpusId": 8243557,
+     "PubMed": "25710309"
+    },
+    "title": "Electron transfer and catalysis with high-valent metal-oxo complexes.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "e1c90784592aeacb933a539c6f2dd816dfb88049",
+    "externalIds": {
+     "MAG": "2145096548",
+     "DOI": "10.1039/c4cc08603a",
+     "CorpusId": 205894173,
+     "PubMed": "25745671"
+    },
+    "title": "Exploring Mn-O bonding in the context of an electronically flexible secondary coordination sphere: synthesis of a Mn(III)-oxo.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "323fa4b63dc4bb5c9a38dc05e9abf18b3f3ca5aa",
+    "externalIds": {
+     "MAG": "1980499525",
+     "DOI": "10.1021/ic502786y",
+     "CorpusId": 20848685,
+     "PubMed": "25751610"
+    },
+    "title": "C-H Bond Cleavage by Bioinspired Nonheme Oxoiron(IV) Complexes, Including Hydroxylation of n-Butane.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "8fd8758d227f84467a6a2f8503e0fbead658f71a",
+    "externalIds": {
+     "MAG": "2090245920",
+     "DOI": "10.1021/ja511757j",
+     "CorpusId": 41958295,
+     "PubMed": "25674662"
+    },
+    "title": "Modeling TauD-J: a high-spin nonheme oxoiron(IV) complex with high reactivity toward C-H bonds.",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "6999d13fdc7e38d5a82141ba3956b98dc21d2db7",
+    "externalIds": {
+     "PubMedCentral": "4311974",
+     "MAG": "2072600453",
+     "DOI": "10.1021/ja5115198",
+     "CorpusId": 14769660,
+     "PubMed": "25594533"
+    },
+    "title": "A “Naked” FeIII-(O22–)-CuII Species Allows for Structural and Spectroscopic Tuning of Low-Spin Heme-Peroxo-Cu Complexes",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "bd3e925756742a2394cc59ea5de1fb92952f0518",
+    "externalIds": {
+     "DOI": "10.6023/cjoc202508025",
+     "CorpusId": 287253066
+    },
+    "title": "Efficient Oxidation of Alcohols Using a Bioinspired Tetradentate Aminopyridine Manganese Catalyst with H\n 2\n O\n 2\n : Batch and Continuous Flow Studies",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "d2ca48a1c12861402b67fd26907509532b718737",
+    "externalIds": {
+     "DOI": "10.1016/j.ccr.2026.217907",
+     "CorpusId": 287537614
+    },
+    "title": "O2 reductive activation using molecular Fe and Mn complexes: Reaction intermediates and reactivity",
+    "year": 2026
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "d1156499e736bb44c8a2ce6c9974169556fc5002",
+    "externalIds": {
+     "DOI": "10.14233/ajchem.2022.23863",
+     "CorpusId": 253039116
+    },
+    "title": "Structurally Characterized Non-Heme Fe(IV)Oxo Complexes: A Brief Overview",
+    "year": 2022
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "282cd497c28b83913f60a658d4c334083f81a17c",
+    "externalIds": {
+     "MAG": "3096188714",
+     "DOI": "10.1039/d0cy01868f",
+     "CorpusId": 229221666
+    },
+    "title": "Insight into the chemoselective aromatic vs. side-chain hydroxylation of alkylaromatics with H2O2 catalyzed by a non-heme imine-based iron complex",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "4e561be2d8e798cf863dc768e007c958d95c0178",
+    "externalIds": {
+     "MAG": "3128191535",
+     "DOI": "10.1016/B978-0-12-819460-7.00140-7",
+     "CorpusId": 234261701
+    },
+    "title": "Enyzmes | An Aerobic Route for C-H Bond Functionalization: The Rieske Non-Heme Iron Oxygenases",
+    "year": 2021
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "27e1505aa0ed014faa949fa253562cf9e3b16030",
+    "externalIds": {
+     "DOI": "10.1007/978-3-030-56996-9",
+     "CorpusId": 226256685
+    },
+    "title": "New Directions in the Modeling of Organometallic Reactions",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "ce1bf45bcbf70f144ce0facb8fa0f4a390ae2940",
+    "externalIds": {
+     "MAG": "3037628162",
+     "DOI": "10.1007/3418_2020_49",
+     "CorpusId": 226594045
+    },
+    "title": "Dealing with Spin States in Computational Organometallic Catalysis",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "3ea2e0b4182d0ad8b70d53ffabbf77653f3e700c",
+    "externalIds": {
+     "MAG": "3127485292",
+     "DOI": "10.1016/B978-0-08-102688-5.00019-2",
+     "CorpusId": 234902023
+    },
+    "title": "Functional Models for Oxygen Activating Nonheme Monoiron Enzymes",
+    "year": 2020
+   }
+  },
+  {
+   "contexts": [
+    "surveyed on the use of POMs in sustainable oxidations and energy applications [48].",
+    "with SiO2 supported metalphthalocyanine complexes [48, 49].",
+    "The non-covalent general acid–base activation of the reactive partners was supported by experimental and DFT studies [48].",
+    "Traditional methodologies involve the elaboration of insoluble POM salts using Cs+, Ag+, K+, NH4, and specific organic polycations [107, 123–125], entrapment within silica by means of sol–gel synthesis [56, 118, 126–128], electrostatic attachment accomplished by anion exchange with layered double hydroxides [129–131] or silica modified by cationic functional groups [132–136], anchoring through the formation of dative bonds between POM and surface ligands [137, 138], and finally, covalent binding of organo-functionalized POMs [48, 117, 119, 121, 139, 140]."
+   ],
+   "intents": [
+    "methodology",
+    "background"
+   ],
+   "isInfluential": true,
+   "citingPaper": {
+    "paperId": "0f5b02f7c3a5b796d6c6bed1369d6f7f7842c086",
+    "externalIds": {
+     "DOI": "10.1007/978-981-32-9751-7",
+     "CorpusId": 203638787
+    },
+    "title": "Frontiers of Green Catalytic Selective Oxidations",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "c11fb937c89d55aa4d0f8973a4cfbe49819e6c42",
+    "externalIds": {
+     "MAG": "2978537063",
+     "DOI": "10.1007/978-981-32-9751-7_7",
+     "CorpusId": 208700221
+    },
+    "title": "Asymmetric Epoxidation Catalyzed by Biologically Inspired Non-heme Iron Catalysts and Hydrogen Peroxide",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "dfae73378d71988dc053f620603f3f2ccf04c4c1",
+    "externalIds": {
+     "MAG": "2979270363",
+     "DOI": "10.1007/978-3-030-25506-0_7",
+     "CorpusId": 208706755
+    },
+    "title": "Fungal Enzymes for Bioremediation of Contaminated Soil",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "af04bb0a29362909976e2f3f21f8fdf77b373beb",
+    "externalIds": {
+     "MAG": "2968586651",
+     "DOI": "10.1016/B978-0-12-817497-5.00022-7",
+     "CorpusId": 182915892
+    },
+    "title": "Iron-oxygen intermediates and their applications in biomimetic studies",
+    "year": 2019
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "86acca504e07a599aff23404c4a9db819d1e5a91",
+    "externalIds": {
+     "MAG": "2787359966",
+     "DOI": "10.1016/B978-0-12-805057-6.00007-7",
+     "CorpusId": 102682156
+    },
+    "title": "Lewis acid catalysis by Zeolites",
+    "year": 2018
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "0538e64aa725c84a791a5cd4e93554dcbfa807a6",
+    "externalIds": {
+     "MAG": "2770271117",
+     "DOI": "10.1039/c7dt03316h",
+     "CorpusId": 206091310,
+     "PubMed": "29211082"
+    },
+    "title": "Indirect evidence for a NiIII-oxyl oxidant in the reaction of a NiII complex with peracid.",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "06e6b5e58fbea8cd18b447dbc249a9f65f0a07ed",
+    "externalIds": {
+     "MAG": "2621940782",
+     "DOI": "10.1016/BS.ADIOCH.2017.04.001",
+     "CorpusId": 98966499
+    },
+    "title": "O–O Bond Activation in Cu- and Fe-Based Coordination Complexes: Breaking It Makes the Difference",
+    "year": 2017
+   }
+  },
+  {
+   "contexts": [
+    "Vale ressaltar que o próprio radical superóxido possa está sendo gerado através da formação inicial desses radicais, tal como a formação transiente de Fe-O2 .(136,137) O cPTIO age por meio da reação direta com espécies nitrosilas livres como NO e HNO."
+   ],
+   "intents": [
+    "background"
+   ],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "2d958da735865d44c01ead7b042c408080c7ea7e",
+    "externalIds": {
+     "MAG": "2738650340",
+     "CorpusId": 103208438
+    },
+    "title": "Reatividade do Nitrosilo Complexo de Ferro trans-[Fe(cyclam)(NO)Cl]Cl2",
+    "year": 2015
+   }
+  },
+  {
+   "contexts": [],
+   "intents": [],
+   "isInfluential": false,
+   "citingPaper": {
+    "paperId": "f02b946f6090adca41ea01ce1793620dfc67b6d9",
+    "externalIds": {
+     "MAG": "2551500515",
+     "CorpusId": 100291652
+    },
+    "title": "Synthetic Mononuclear Nonheme Iron−Oxygen Intermediates Published as part of the Accounts of Chemical Research special issue \"Synthesis in Biological Inorganic Chemistry\".",
+    "year": 2015
+   }
+  }
+ ]
+}

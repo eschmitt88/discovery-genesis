@@ -1,0 +1,4650 @@
+[
+ {
+  "id": "https://openalex.org/W2159203244",
+  "doi": "https://doi.org/10.1210/er.2007-0001",
+  "title": "The Complex Role of Estrogens in Inflammation",
+  "publication_year": 2007,
+  "type": "article",
+  "cited_by_count": 1948,
+  "primary_topic": {
+   "id": "https://openalex.org/T10756",
+   "display_name": "Estrogen and related hormone effects",
+   "score": 0.9997000098228455,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1311",
+    "display_name": "Genetics"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/13",
+    "display_name": "Biochemistry, Genetics and Molecular Biology"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/1",
+    "display_name": "Life Sciences"
+   }
+  },
+  "referenced_works_count": 659,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5032141784",
+     "display_name": "Rainer H. Straub",
+     "orcid": "https://orcid.org/0000-0003-1165-4555"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I3129555431",
+      "display_name": "University Hospital Regensburg",
+      "ror": "https://ror.org/01226dv09",
+      "country_code": "DE",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I3129555431"
+      ]
+     }
+    ],
+    "countries": [
+     "DE"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Rainer H. Straub",
+    "raw_affiliation_strings": [
+     "Laboratory of Experimental Rheumatology and Neuroendocrino-Immunology, Division of Rheumatology, Department of Internal Medicine I, University Hospital, 93042 Regensburg, Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Laboratory of Experimental Rheumatology and Neuroendocrino-Immunology, Division of Rheumatology, Department of Internal Medicine I, University Hospital, 93042 Regensburg, Germany",
+      "institution_ids": [
+       "https://openalex.org/I3129555431"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 29.1081
+ },
+ {
+  "id": "https://openalex.org/W2019840235",
+  "doi": "https://doi.org/10.1056/nejmoa011915",
+  "title": "Glycoprotein-D–Adjuvant Vaccine to Prevent Genital Herpes",
+  "publication_year": 2002,
+  "type": "article",
+  "cited_by_count": 795,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 0.9438999891281128,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 32,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5010917744",
+     "display_name": "Lawrence R. Stanberry",
+     "orcid": "https://orcid.org/0000-0001-7302-4407"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I129604602",
+      "display_name": "The University of Sydney",
+      "ror": "https://ror.org/0384j8v12",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I129604602"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2803024705",
+      "display_name": "Westmead Hospital",
+      "ror": "https://ror.org/04gp5yv64",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2803024705",
+       "https://openalex.org/I4405259172"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I55302922",
+      "display_name": "The University of Texas Medical Branch at Galveston",
+      "ror": "https://ror.org/016tfm930",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Lawrence R. Stanberry",
+    "raw_affiliation_strings": [
+     "Department of Pediatrics and Sealy Center for Vaccine Development, University of Texas Medical Branch, Galveston 77555-0351, USA. l.stanberry@utmb.edu",
+     "University of Texas Medical Branch, Galveston, Westmead Hospital and University of Sydney, Westmead, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Pediatrics and Sealy Center for Vaccine Development, University of Texas Medical Branch, Galveston 77555-0351, USA. l.stanberry@utmb.edu",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     },
+     {
+      "raw_affiliation_string": "University of Texas Medical Branch, Galveston, Westmead Hospital and University of Sydney, Westmead, Australia",
+      "institution_ids": [
+       "https://openalex.org/I129604602",
+       "https://openalex.org/I2803024705"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5113609107",
+     "display_name": "Spotswood L. Spruance",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I129604602",
+      "display_name": "The University of Sydney",
+      "ror": "https://ror.org/0384j8v12",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I129604602"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I223532165",
+      "display_name": "University of Utah",
+      "ror": "https://ror.org/03r0ha626",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I223532165"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2803024705",
+      "display_name": "Westmead Hospital",
+      "ror": "https://ror.org/04gp5yv64",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2803024705",
+       "https://openalex.org/I4405259172"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Spotswood L. Spruance",
+    "raw_affiliation_strings": [
+     "University of Utah, Salt Lake City, Westmead Hospital and University of Sydney, Westmead, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "University of Utah, Salt Lake City, Westmead Hospital and University of Sydney, Westmead, Australia",
+      "institution_ids": [
+       "https://openalex.org/I129604602",
+       "https://openalex.org/I223532165",
+       "https://openalex.org/I2803024705"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5018086400",
+     "display_name": "Anthony L. Cunningham",
+     "orcid": "https://orcid.org/0000-0002-6744-5667"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I129604602",
+      "display_name": "The University of Sydney",
+      "ror": "https://ror.org/0384j8v12",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I129604602"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2803024705",
+      "display_name": "Westmead Hospital",
+      "ror": "https://ror.org/04gp5yv64",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2803024705",
+       "https://openalex.org/I4405259172"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210137518",
+      "display_name": "Westmead Institute",
+      "ror": "https://ror.org/03wtqwa04",
+      "country_code": "AU",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210137518"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Anthony L. Cunningham",
+    "raw_affiliation_strings": [
+     "Westmead Millennium Institute, Westmead Hospital and University of Sydney, Westmead, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Westmead Millennium Institute, Westmead Hospital and University of Sydney, Westmead, Australia",
+      "institution_ids": [
+       "https://openalex.org/I129604602",
+       "https://openalex.org/I2803024705",
+       "https://openalex.org/I4210137518"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5090332369",
+     "display_name": "David I. Bernstein",
+     "orcid": "https://orcid.org/0000-0002-0100-1991"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1285204247",
+      "display_name": "Cincinnati Children's Hospital Medical Center",
+      "ror": "https://ror.org/01hcyya48",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1285204247"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "David I. Bernstein",
+    "raw_affiliation_strings": [
+     "Cincinnati Children's Hospital Medical Center, Cincinnati"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Cincinnati Children's Hospital Medical Center, Cincinnati",
+      "institution_ids": [
+       "https://openalex.org/I1285204247"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5019395957",
+     "display_name": "Adrian Mindel",
+     "orcid": "https://orcid.org/0000-0002-8780-9982"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I129604602",
+      "display_name": "The University of Sydney",
+      "ror": "https://ror.org/0384j8v12",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I129604602"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2803024705",
+      "display_name": "Westmead Hospital",
+      "ror": "https://ror.org/04gp5yv64",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2803024705",
+       "https://openalex.org/I4405259172"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Adrian Mindel",
+    "raw_affiliation_strings": [
+     "Sexually Transmitted Infections Research Centre, Westmead Hospital and University of Sydney, Westmead, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Sexually Transmitted Infections Research Centre, Westmead Hospital and University of Sydney, Westmead, Australia",
+      "institution_ids": [
+       "https://openalex.org/I129604602",
+       "https://openalex.org/I2803024705"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5103478795",
+     "display_name": "Stephen L. Sacks",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210100817",
+      "display_name": "Vancouver Infectious Diseases Centre",
+      "ror": "https://ror.org/0159q3366",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210100817"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Stephen Sacks",
+    "raw_affiliation_strings": [
+     "Viridae Clinical Sciences, Vancouver, B.C., Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Viridae Clinical Sciences, Vancouver, B.C., Canada",
+      "institution_ids": [
+       "https://openalex.org/I4210100817"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5000478173",
+     "display_name": "Stephen K. Tyring",
+     "orcid": "https://orcid.org/0000-0002-3337-0580"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I129604602",
+      "display_name": "The University of Sydney",
+      "ror": "https://ror.org/0384j8v12",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I129604602"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2803024705",
+      "display_name": "Westmead Hospital",
+      "ror": "https://ror.org/04gp5yv64",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2803024705",
+       "https://openalex.org/I4405259172"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Stephen Tyring",
+    "raw_affiliation_strings": [
+     "University of Texas Medical Branch, Galveston, Westmead Hospital and University of Sydney, Westmead, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "University of Texas Medical Branch, Galveston, Westmead Hospital and University of Sydney, Westmead, Australia",
+      "institution_ids": [
+       "https://openalex.org/I129604602",
+       "https://openalex.org/I2803024705"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5108572315",
+     "display_name": "Fred Y. Aoki",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I46247651",
+      "display_name": "University of Manitoba",
+      "ror": "https://ror.org/02gfys938",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I46247651"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Fred Y. Aoki",
+    "raw_affiliation_strings": [
+     "University of Manitoba, Winnipeg, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "University of Manitoba, Winnipeg, Canada",
+      "institution_ids": [
+       "https://openalex.org/I46247651"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5084733459",
+     "display_name": "M. Slaoui",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210095529",
+      "display_name": "GlaxoSmithKline (Belgium)",
+      "ror": "https://ror.org/00n3pea85",
+      "country_code": "BE",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I188950975",
+       "https://openalex.org/I4210095529"
+      ]
+     }
+    ],
+    "countries": [
+     "BE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Moncef Slaoui",
+    "raw_affiliation_strings": [
+     "GlaxoSmithKline Biologicals, Rixensart, Belgium"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "GlaxoSmithKline Biologicals, Rixensart, Belgium",
+      "institution_ids": [
+       "https://openalex.org/I4210095529"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5046628385",
+     "display_name": "Martine Denis",
+     "orcid": "https://orcid.org/0000-0002-0950-2256"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210095529",
+      "display_name": "GlaxoSmithKline (Belgium)",
+      "ror": "https://ror.org/00n3pea85",
+      "country_code": "BE",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I188950975",
+       "https://openalex.org/I4210095529"
+      ]
+     }
+    ],
+    "countries": [
+     "BE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Martine Denis",
+    "raw_affiliation_strings": [
+     "GlaxoSmithKline Biologicals, Rixensart, Belgium"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "GlaxoSmithKline Biologicals, Rixensart, Belgium",
+      "institution_ids": [
+       "https://openalex.org/I4210095529"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5075187274",
+     "display_name": "Pierre Vandepapelière",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210095529",
+      "display_name": "GlaxoSmithKline (Belgium)",
+      "ror": "https://ror.org/00n3pea85",
+      "country_code": "BE",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I188950975",
+       "https://openalex.org/I4210095529"
+      ]
+     }
+    ],
+    "countries": [
+     "BE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Pierre Vandepapeliere",
+    "raw_affiliation_strings": [
+     "GlaxoSmithKline Biologicals, Rixensart, Belgium"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "GlaxoSmithKline Biologicals, Rixensart, Belgium",
+      "institution_ids": [
+       "https://openalex.org/I4210095529"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5019152388",
+     "display_name": "Gary Dubin",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210095529",
+      "display_name": "GlaxoSmithKline (Belgium)",
+      "ror": "https://ror.org/00n3pea85",
+      "country_code": "BE",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I188950975",
+       "https://openalex.org/I4210095529"
+      ]
+     }
+    ],
+    "countries": [
+     "BE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Gary Dubin",
+    "raw_affiliation_strings": [
+     "GlaxoSmithKline Biologicals, Rixensart, Belgium"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "GlaxoSmithKline Biologicals, Rixensart, Belgium",
+      "institution_ids": [
+       "https://openalex.org/I4210095529"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 30.705
+ },
+ {
+  "id": "https://openalex.org/W2058561523",
+  "doi": "https://doi.org/10.1210/edrv-17-4-369",
+  "title": "Gonadal Steroids and Immunity*",
+  "publication_year": 1996,
+  "type": "article",
+  "cited_by_count": 661,
+  "primary_topic": {
+   "id": "https://openalex.org/T10308",
+   "display_name": "Systemic Lupus Erythematosus Research",
+   "score": 0.8206999897956848,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2745",
+    "display_name": "Rheumatology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 0,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5035534167",
+     "display_name": "Nancy J. Olsen",
+     "orcid": "https://orcid.org/0000-0002-6588-3364"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I200719446",
+      "display_name": "Vanderbilt University",
+      "ror": "https://ror.org/02vm5rt34",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I200719446"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "NANCY J. OLSEN",
+    "raw_affiliation_strings": [
+     "Division of Rheumatology, Vanderbilt University School of Medicine, Nashville, Tennessee 37232, USA",
+     "Department of Veterans Affairs Medical Center (W.J.K.), Nashville, Tennessee 37212",
+     "Divisions of Rheumatology (N.J.O.) and Endocrinology (W.J.K.) Vanderbilt University School of Medicine, Nashville, Tennessee 37232"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Division of Rheumatology, Vanderbilt University School of Medicine, Nashville, Tennessee 37232, USA",
+      "institution_ids": [
+       "https://openalex.org/I200719446"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Veterans Affairs Medical Center (W.J.K.), Nashville, Tennessee 37212",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "Divisions of Rheumatology (N.J.O.) and Endocrinology (W.J.K.) Vanderbilt University School of Medicine, Nashville, Tennessee 37232",
+      "institution_ids": [
+       "https://openalex.org/I200719446"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5089192716",
+     "display_name": "William J. Kovacs",
+     "orcid": "https://orcid.org/0000-0002-3940-2109"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I200719446",
+      "display_name": "Vanderbilt University",
+      "ror": "https://ror.org/02vm5rt34",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I200719446"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I901861585",
+      "display_name": "Vanderbilt University Medical Center",
+      "ror": "https://ror.org/05dq2gs74",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210162197",
+       "https://openalex.org/I901861585"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "WILLIAM J. KOVACS",
+    "raw_affiliation_strings": [
+     "Divisions of Rheumatology (N.J.O.) and Endocrinology (W.J.K.) Vanderbilt University School of Medicine, Nashville, Tennessee 37232; and Department of Veterans Affairs Medical Center (W.J.K.), Nashville, Tennessee 37212",
+     "Department of Veterans Affairs Medical Center (W.J.K.), Nashville, Tennessee 37212",
+     "Divisions of Rheumatology (N.J.O.) and Endocrinology (W.J.K.) Vanderbilt University School of Medicine, Nashville, Tennessee 37232"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Divisions of Rheumatology (N.J.O.) and Endocrinology (W.J.K.) Vanderbilt University School of Medicine, Nashville, Tennessee 37232; and Department of Veterans Affairs Medical Center (W.J.K.), Nashville, Tennessee 37212",
+      "institution_ids": [
+       "https://openalex.org/I901861585"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Veterans Affairs Medical Center (W.J.K.), Nashville, Tennessee 37212",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "Divisions of Rheumatology (N.J.O.) and Endocrinology (W.J.K.) Vanderbilt University School of Medicine, Nashville, Tennessee 37232",
+      "institution_ids": [
+       "https://openalex.org/I200719446"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 18.6523
+ },
+ {
+  "id": "https://openalex.org/W4211123708",
+  "doi": "https://doi.org/10.1016/s0140-6736(07)61908-4",
+  "title": "Genital herpes",
+  "publication_year": 2007,
+  "type": "article",
+  "cited_by_count": 606,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 129,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5055058370",
+     "display_name": "Rachna Gupta",
+     "orcid": "https://orcid.org/0000-0002-3377-9626"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I201448701",
+      "display_name": "University of Washington",
+      "ror": "https://ror.org/00cvxb145",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I201448701"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I58610484",
+      "display_name": "Seattle University",
+      "ror": "https://ror.org/02jqc0m91",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I58610484"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Rachna Gupta",
+    "raw_affiliation_strings": [
+     "Department of Medicine, University of Washington, Seattle, USA. Rachnabanner@aol.com",
+     "Department of Medicine, University of Washington, Seattle, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Medicine, University of Washington, Seattle, USA. Rachnabanner@aol.com",
+      "institution_ids": [
+       "https://openalex.org/I201448701"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Medicine, University of Washington, Seattle, USA",
+      "institution_ids": [
+       "https://openalex.org/I201448701",
+       "https://openalex.org/I58610484"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5113845809",
+     "display_name": "Terri Warren",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210144438",
+      "display_name": "Westover Heights Clinic",
+      "ror": "https://ror.org/044g62j84",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210144438"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Terri Warren",
+    "raw_affiliation_strings": [
+     "Westover Heights Clinic, Portland, Oregon, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Westover Heights Clinic, Portland, Oregon, USA",
+      "institution_ids": [
+       "https://openalex.org/I4210144438"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5052928140",
+     "display_name": "Anna Wald",
+     "orcid": "https://orcid.org/0000-0003-3486-6438"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I201448701",
+      "display_name": "University of Washington",
+      "ror": "https://ror.org/00cvxb145",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I201448701"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210089486",
+      "display_name": "Fred Hutch Cancer Center",
+      "ror": "https://ror.org/007ps6h72",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210089486"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I58610484",
+      "display_name": "Seattle University",
+      "ror": "https://ror.org/02jqc0m91",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I58610484"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Anna Wald",
+    "raw_affiliation_strings": [
+     "Department of Epidemiology, University of Washington, Seattle, USA",
+     "Department of Laboratory Medicine, University of Washington, Seattle, USA",
+     "Department of Medicine, University of Washington, Seattle, USA",
+     "Program in Infectious Diseases, Fred Hutchinson Cancer Research Center, Seattle, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Epidemiology, University of Washington, Seattle, USA",
+      "institution_ids": [
+       "https://openalex.org/I201448701",
+       "https://openalex.org/I58610484"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Laboratory Medicine, University of Washington, Seattle, USA",
+      "institution_ids": [
+       "https://openalex.org/I201448701",
+       "https://openalex.org/I58610484"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Medicine, University of Washington, Seattle, USA",
+      "institution_ids": [
+       "https://openalex.org/I201448701",
+       "https://openalex.org/I58610484"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Program in Infectious Diseases, Fred Hutchinson Cancer Research Center, Seattle, USA",
+      "institution_ids": [
+       "https://openalex.org/I4210089486"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 16.1172
+ },
+ {
+  "id": "https://openalex.org/W1990042770",
+  "doi": "https://doi.org/10.1016/s0928-8244(03)00202-5",
+  "title": "Regulation of innate and adaptive immunity by the female sex hormones oestradiol and progesterone",
+  "publication_year": 2003,
+  "type": "article",
+  "cited_by_count": 509,
+  "primary_topic": {
+   "id": "https://openalex.org/T11510",
+   "display_name": "Reproductive System and Pregnancy",
+   "score": 0.9998000264167786,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2403",
+    "display_name": "Immunology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/24",
+    "display_name": "Immunology and Microbiology"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/1",
+    "display_name": "Life Sciences"
+   }
+  },
+  "referenced_works_count": 127,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5028490934",
+     "display_name": "Kenneth W. Beagley",
+     "orcid": "https://orcid.org/0000-0003-3112-6557"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210146798",
+      "display_name": "Calvary Mater Newcastle Hospital",
+      "ror": "https://ror.org/04kbz1397",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210146798"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Kenneth W Beagley",
+    "raw_affiliation_strings": [
+     "School of Biomedical Sciences, The University of Newcastle, Royal Newcastle Hospital, Newcastle, NSW 2300, Australia. ken.beagley@newcastle.edu.au",
+     "School of Biomedical Sciences, Faculty of Health, The University of Newcastle, and Center for Biomolecular Vaccine Technology, Royal Newcastle Hospital, DMB323, Newcastle, NSW 2300, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "School of Biomedical Sciences, The University of Newcastle, Royal Newcastle Hospital, Newcastle, NSW 2300, Australia. ken.beagley@newcastle.edu.au",
+      "institution_ids": [
+       "https://openalex.org/I4210146798"
+      ]
+     },
+     {
+      "raw_affiliation_string": "School of Biomedical Sciences, Faculty of Health, The University of Newcastle, and Center for Biomolecular Vaccine Technology, Royal Newcastle Hospital, DMB323, Newcastle, NSW 2300, Australia",
+      "institution_ids": [
+       "https://openalex.org/I4210146798"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5018108849",
+     "display_name": "Christine M. Gockel",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I63190737",
+      "display_name": "University at Buffalo, State University of New York",
+      "ror": "https://ror.org/01y64my43",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63190737"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Christine M Gockel",
+    "raw_affiliation_strings": [
+     "Department of Microbiology, University of Buffalo, Buffalo, NY, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Microbiology, University of Buffalo, Buffalo, NY, USA",
+      "institution_ids": [
+       "https://openalex.org/I63190737"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 5.6318
+ },
+ {
+  "id": "https://openalex.org/W2101604556",
+  "doi": "https://doi.org/10.1128/jvi.77.8.4558-4565.2003",
+  "title": "Progesterone Increases Susceptibility and Decreases Immune Responses to Genital Herpes Infection",
+  "publication_year": 2003,
+  "type": "article",
+  "cited_by_count": 271,
+  "primary_topic": {
+   "id": "https://openalex.org/T10428",
+   "display_name": "Reproductive tract infections research",
+   "score": 0.9987999796867371,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2404",
+    "display_name": "Microbiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/24",
+    "display_name": "Immunology and Microbiology"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/1",
+    "display_name": "Life Sciences"
+   }
+  },
+  "referenced_works_count": 23,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5051782546",
+     "display_name": "Charu Kaushic",
+     "orcid": "https://orcid.org/0000-0002-7088-2569"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801259263",
+      "display_name": "McMaster University Medical Centre",
+      "ror": "https://ror.org/05jyrng31",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801259263",
+       "https://openalex.org/I76442945"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Charu Kaushic",
+    "raw_affiliation_strings": [
+     "Department of Pathology and Molecular Medicine, Center of Gene Therapeutics, McMaster University Health Sciences Center, Hamilton, Ontario",
+     "Department of Pathology and Molecular Medicine, Center of Gene Therapeutics, McMaster University Health Sciences Center, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Pathology and Molecular Medicine, Center of Gene Therapeutics, McMaster University Health Sciences Center, Hamilton, Ontario",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pathology and Molecular Medicine, Center of Gene Therapeutics, McMaster University Health Sciences Center, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I2801259263",
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5090405751",
+     "display_name": "Ali A. Ashkar",
+     "orcid": "https://orcid.org/0000-0003-1139-1468"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Ali A. Ashkar",
+    "raw_affiliation_strings": [
+     "Department of Pathology and Molecular Medicine, Center of Gene Therapeutics, McMaster University Health Sciences Center, Hamilton, Ontario"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Pathology and Molecular Medicine, Center of Gene Therapeutics, McMaster University Health Sciences Center, Hamilton, Ontario",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5076076905",
+     "display_name": "Lesley A. Reid",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Lesley A. Reid",
+    "raw_affiliation_strings": [
+     "Department of Pathology and Molecular Medicine, Center of Gene Therapeutics, McMaster University Health Sciences Center, Hamilton, Ontario"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Pathology and Molecular Medicine, Center of Gene Therapeutics, McMaster University Health Sciences Center, Hamilton, Ontario",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5076958594",
+     "display_name": "Kenneth L. Rosenthal",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Kenneth L. Rosenthal",
+    "raw_affiliation_strings": [
+     "Department of Pathology and Molecular Medicine, Center of Gene Therapeutics, McMaster University Health Sciences Center, Hamilton, Ontario"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Pathology and Molecular Medicine, Center of Gene Therapeutics, McMaster University Health Sciences Center, Hamilton, Ontario",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 5.272
+ },
+ {
+  "id": "https://openalex.org/W1966570481",
+  "doi": "https://doi.org/10.1016/j.clim.2004.05.011",
+  "title": "Estrogen as an immunomodulator",
+  "publication_year": 2004,
+  "type": "article",
+  "cited_by_count": 257,
+  "primary_topic": {
+   "id": "https://openalex.org/T10756",
+   "display_name": "Estrogen and related hormone effects",
+   "score": 0.9987999796867371,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1311",
+    "display_name": "Genetics"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/13",
+    "display_name": "Biochemistry, Genetics and Molecular Biology"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/1",
+    "display_name": "Life Sciences"
+   }
+  },
+  "referenced_works_count": 71,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5103590784",
+     "display_name": "Thomas J. Lang",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I126744593",
+      "display_name": "University of Maryland, Baltimore",
+      "ror": "https://ror.org/04rq5mt64",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I126744593"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Thomas J. Lang",
+    "raw_affiliation_strings": [
+     "Division of Rheumatology and Clinical Immunology, University of Maryland School of Medicine, Baltimore, MD 21201, USA. tlang001@umaryland.edu",
+     "Division of Rheumatology and Clinical Immunology, University of Maryland School of Medicine, Baltimore, MD 21201, USA,"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Division of Rheumatology and Clinical Immunology, University of Maryland School of Medicine, Baltimore, MD 21201, USA. tlang001@umaryland.edu",
+      "institution_ids": [
+       "https://openalex.org/I126744593"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Rheumatology and Clinical Immunology, University of Maryland School of Medicine, Baltimore, MD 21201, USA,",
+      "institution_ids": [
+       "https://openalex.org/I126744593"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 5.8221
+ },
+ {
+  "id": "https://openalex.org/W1527043063",
+  "doi": null,
+  "title": "A mouse model for studies of mucosal immunity to vaginal infection by herpes simplex virus type 2.",
+  "publication_year": 1994,
+  "type": "article",
+  "cited_by_count": 239,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 0.5813999772071838,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 0,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5109858436",
+     "display_name": "Margaret B. Parr",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I110378019",
+      "display_name": "Southern Illinois University Carbondale",
+      "ror": "https://ror.org/049kefs16",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I110378019",
+       "https://openalex.org/I2801502357"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "M B Parr",
+    "raw_affiliation_strings": [
+     "Southern Illinois University, Carbondale"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Southern Illinois University, Carbondale",
+      "institution_ids": [
+       "https://openalex.org/I110378019"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5089729341",
+     "display_name": "Larry Kepple",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "L Kepple",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5077619885",
+     "display_name": "Mark R. McDermott",
+     "orcid": "https://orcid.org/0000-0001-6207-0061"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "M R McDermott",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5113490362",
+     "display_name": "M D Drew",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "M D Drew",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5048386692",
+     "display_name": "John J. Bozzola",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "J J Bozzola",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5059059125",
+     "display_name": "Earl L. Parr",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "E L Parr",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   }
+  ],
+  "fwci": 4.1366
+ },
+ {
+  "id": "https://openalex.org/W2003344929",
+  "doi": "https://doi.org/10.1111/j.1600-0897.2005.00267.x",
+  "title": "Immunologic Uniqueness of the Genital Tract: Challenge for Vaccine Development",
+  "publication_year": 2005,
+  "type": "article",
+  "cited_by_count": 169,
+  "primary_topic": {
+   "id": "https://openalex.org/T10580",
+   "display_name": "Immunotherapy and Immune Responses",
+   "score": 0.9991000294685364,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2403",
+    "display_name": "Immunology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/24",
+    "display_name": "Immunology and Microbiology"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/1",
+    "display_name": "Life Sciences"
+   }
+  },
+  "referenced_works_count": 75,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5091730504",
+     "display_name": "Jiří Městecký",
+     "orcid": "https://orcid.org/0000-0001-8133-2119"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I32389192",
+      "display_name": "University of Alabama at Birmingham",
+      "ror": "https://ror.org/008s83205",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I32389192"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Jiri Mestecky",
+    "raw_affiliation_strings": [
+     "Department of Microbiology, University of Alabama at Birmingham, Box 1, 845 19th Street South, Birmingham, AL 35294, USA. mestecky@uab.edu",
+     "Departments of Microbiology and Medicine, University of Alabama at Birmingham, Birmingham, AL, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Microbiology, University of Alabama at Birmingham, Box 1, 845 19th Street South, Birmingham, AL 35294, USA. mestecky@uab.edu",
+      "institution_ids": [
+       "https://openalex.org/I32389192"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Departments of Microbiology and Medicine, University of Alabama at Birmingham, Birmingham, AL, USA",
+      "institution_ids": [
+       "https://openalex.org/I32389192"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5018217496",
+     "display_name": "Zina Moldoveanu",
+     "orcid": "https://orcid.org/0000-0002-5372-5262"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I32389192",
+      "display_name": "University of Alabama at Birmingham",
+      "ror": "https://ror.org/008s83205",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I32389192"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Zina Moldoveanu",
+    "raw_affiliation_strings": [
+     "Departments of Microbiology and Medicine, University of Alabama at Birmingham, Birmingham, AL, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Departments of Microbiology and Medicine, University of Alabama at Birmingham, Birmingham, AL, USA",
+      "institution_ids": [
+       "https://openalex.org/I32389192"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5048948828",
+     "display_name": "Michael W. Russell",
+     "orcid": "https://orcid.org/0000-0002-1303-4061"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I63190737",
+      "display_name": "University at Buffalo, State University of New York",
+      "ror": "https://ror.org/01y64my43",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63190737"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Michael W. Russell",
+    "raw_affiliation_strings": [
+     "Department of Microbiology and Immunology, University at Buffalo, Buffalo, NY, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Microbiology and Immunology, University at Buffalo, Buffalo, NY, USA",
+      "institution_ids": [
+       "https://openalex.org/I63190737"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 3.1874
+ },
+ {
+  "id": "https://openalex.org/W2112675991",
+  "doi": "https://doi.org/10.1136/sti.2006.020966",
+  "title": "Herpes simplex virus type 2: epidemiology and management options in developing countries",
+  "publication_year": 2006,
+  "type": "article",
+  "cited_by_count": 135,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 75,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5024434281",
+     "display_name": "Gabriela Paz‐Bailey",
+     "orcid": "https://orcid.org/0000-0001-8478-4911"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1289490764",
+      "display_name": "Centers for Disease Control and Prevention",
+      "ror": "https://ror.org/042twtr12",
+      "country_code": "US",
+      "type": "funder",
+      "lineage": [
+       "https://openalex.org/I1289490764",
+       "https://openalex.org/I1299022934"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210102376",
+      "display_name": "Centers for Disease Control and Prevention",
+      "ror": "https://ror.org/00qzjvm58",
+      "country_code": "UG",
+      "type": "government",
+      "lineage": [
+       "https://openalex.org/I4210102376"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210113904",
+      "display_name": "National Center for HIV/AIDS Viral Hepatitis STD and TB Prevention",
+      "ror": "https://ror.org/01wjn2x92",
+      "country_code": "US",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I1289490764",
+       "https://openalex.org/I1299022934",
+       "https://openalex.org/I4210109567",
+       "https://openalex.org/I4210113904"
+      ]
+     }
+    ],
+    "countries": [
+     "UG",
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "G Paz-Bailey",
+    "raw_affiliation_strings": [
+     "Global AIDS Program for Central America National Center for HIV, STD and TB Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia, USA. gpbz@cdc.gov",
+     "NCHSTP, Centers for Disease Control and Prevention, Unit 3321, APO AA, Miami, FL 34024, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Global AIDS Program for Central America National Center for HIV, STD and TB Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia, USA. gpbz@cdc.gov",
+      "institution_ids": [
+       "https://openalex.org/I4210102376",
+       "https://openalex.org/I4210113904"
+      ]
+     },
+     {
+      "raw_affiliation_string": "NCHSTP, Centers for Disease Control and Prevention, Unit 3321, APO AA, Miami, FL 34024, USA",
+      "institution_ids": [
+       "https://openalex.org/I1289490764",
+       "https://openalex.org/I4210113904"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5081812138",
+     "display_name": "Meghna Ramaswamy",
+     "orcid": "https://orcid.org/0000-0003-0333-8544"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801138448",
+      "display_name": "The Royal Free Hospital",
+      "ror": "https://ror.org/01ge67z96",
+      "country_code": "GB",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I169248724",
+       "https://openalex.org/I2801138448"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I45129253",
+      "display_name": "University College London",
+      "ror": "https://ror.org/02jx3x895",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I124357947",
+       "https://openalex.org/I45129253"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "M Ramaswamy",
+    "raw_affiliation_strings": [
+     "Department of Virology, Royal Free Hospital and Royal Free and University College Medical School, London, UK"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Virology, Royal Free Hospital and Royal Free and University College Medical School, London, UK",
+      "institution_ids": [
+       "https://openalex.org/I2801138448",
+       "https://openalex.org/I45129253"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5046315601",
+     "display_name": "Sarah Hawkes",
+     "orcid": "https://orcid.org/0000-0003-1062-3538"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210089966",
+      "display_name": "London School of Hygiene & Tropical Medicine",
+      "ror": "https://ror.org/00a0jsq62",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I124357947",
+       "https://openalex.org/I4210089966"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "S J Hawkes",
+    "raw_affiliation_strings": [
+     "Department of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine, London, UK"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine, London, UK",
+      "institution_ids": [
+       "https://openalex.org/I4210089966"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5054324011",
+     "display_name": "Anna María Geretti",
+     "orcid": "https://orcid.org/0000-0002-3670-6588"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801138448",
+      "display_name": "The Royal Free Hospital",
+      "ror": "https://ror.org/01ge67z96",
+      "country_code": "GB",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I169248724",
+       "https://openalex.org/I2801138448"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I45129253",
+      "display_name": "University College London",
+      "ror": "https://ror.org/02jx3x895",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I124357947",
+       "https://openalex.org/I45129253"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "A M Geretti",
+    "raw_affiliation_strings": [
+     "Department of Virology, Royal Free Hospital and Royal Free and University College Medical School, London, UK"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Virology, Royal Free Hospital and Royal Free and University College Medical School, London, UK",
+      "institution_ids": [
+       "https://openalex.org/I2801138448",
+       "https://openalex.org/I45129253"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 4.8143
+ },
+ {
+  "id": "https://openalex.org/W2103394397",
+  "doi": "https://doi.org/10.1128/jvi.77.18.9845-9851.2003",
+  "title": "Prolonged Exposure to Progesterone Prevents Induction of Protective Mucosal Responses following Intravaginal Immunization with Attenuated Herpes Simplex Virus Type 2",
+  "publication_year": 2003,
+  "type": "article",
+  "cited_by_count": 119,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 28,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5005664095",
+     "display_name": "Amy Gillgrass",
+     "orcid": "https://orcid.org/0000-0002-6257-4013"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801259263",
+      "display_name": "McMaster University Medical Centre",
+      "ror": "https://ror.org/05jyrng31",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801259263",
+       "https://openalex.org/I76442945"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Amy E. Gillgrass",
+    "raw_affiliation_strings": [
+     "Center of Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University Health Sciences Center, Hamilton, Ontario, Canada",
+     "Center of Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University Health Sciences Center 4H30F, 1200 Main Street West, Hamilton, Ontario, Canada L8P 3Z5"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center of Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University Health Sciences Center, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Center of Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University Health Sciences Center 4H30F, 1200 Main Street West, Hamilton, Ontario, Canada L8P 3Z5",
+      "institution_ids": [
+       "https://openalex.org/I2801259263",
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5090405751",
+     "display_name": "Ali A. Ashkar",
+     "orcid": "https://orcid.org/0000-0003-1139-1468"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Ali A. Ashkar",
+    "raw_affiliation_strings": [
+     "Center of Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University Health Sciences Center, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center of Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University Health Sciences Center, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5076958594",
+     "display_name": "Kenneth L. Rosenthal",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Kenneth L. Rosenthal",
+    "raw_affiliation_strings": [
+     "Center of Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University Health Sciences Center, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center of Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University Health Sciences Center, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5051782546",
+     "display_name": "Charu Kaushic",
+     "orcid": "https://orcid.org/0000-0002-7088-2569"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Charu Kaushic",
+    "raw_affiliation_strings": [
+     "Center of Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University Health Sciences Center, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center of Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University Health Sciences Center, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 3.1193
+ },
+ {
+  "id": "https://openalex.org/W2163560007",
+  "doi": "https://doi.org/10.1128/jvi.79.5.3107-3116.2005",
+  "title": "Estradiol Regulates Susceptibility following Primary Exposure to Genital Herpes Simplex Virus Type 2, while Progesterone Induces Inflammation",
+  "publication_year": 2005,
+  "type": "article",
+  "cited_by_count": 85,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 27,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5005664095",
+     "display_name": "Amy Gillgrass",
+     "orcid": "https://orcid.org/0000-0002-6257-4013"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Amy E. Gillgrass",
+    "raw_affiliation_strings": [
+     "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5010253930",
+     "display_name": "Sherie Fernandez",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Sherie A. Fernandez",
+    "raw_affiliation_strings": [
+     "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5076958594",
+     "display_name": "Kenneth L. Rosenthal",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Kenneth L. Rosenthal",
+    "raw_affiliation_strings": [
+     "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5051782546",
+     "display_name": "Charu Kaushic",
+     "orcid": "https://orcid.org/0000-0002-7088-2569"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Charu Kaushic",
+    "raw_affiliation_strings": [
+     "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 2.6768
+ },
+ {
+  "id": "https://openalex.org/W2105804642",
+  "doi": "https://doi.org/10.1128/jvi.79.5.3117-3126.2005",
+  "title": "Protection against Genital Herpes Infection in Mice Immunized under Different Hormonal Conditions Correlates with Induction of Vagina-Associated Lymphoid Tissue",
+  "publication_year": 2005,
+  "type": "article",
+  "cited_by_count": 77,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 38,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5005664095",
+     "display_name": "Amy Gillgrass",
+     "orcid": "https://orcid.org/0000-0002-6257-4013"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Amy E. Gillgrass",
+    "raw_affiliation_strings": [
+     "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5034560966",
+     "display_name": "Vera A. Tang",
+     "orcid": "https://orcid.org/0000-0003-3930-9139"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Vera A. Tang",
+    "raw_affiliation_strings": [
+     "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5009240435",
+     "display_name": "Kate M. Towarnicki",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Kate M. Towarnicki",
+    "raw_affiliation_strings": [
+     "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5076958594",
+     "display_name": "Kenneth L. Rosenthal",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Kenneth L. Rosenthal",
+    "raw_affiliation_strings": [
+     "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5051782546",
+     "display_name": "Charu Kaushic",
+     "orcid": "https://orcid.org/0000-0002-7088-2569"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Charu Kaushic",
+    "raw_affiliation_strings": [
+     "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Gene Therapeutics, Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 1.7208
+ },
+ {
+  "id": "https://openalex.org/W2039742651",
+  "doi": "https://doi.org/10.1016/0264-410x(95)00100-f",
+  "title": "Specific secretory immune responses in the female genital tract following intranasal immunization with a recombinant adenovirus expressing glycoprotein B of herpes simplex virus",
+  "publication_year": 1995,
+  "type": "article",
+  "cited_by_count": 151,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 55,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5060955004",
+     "display_name": "W. Scott Gallichan",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801259263",
+      "display_name": "McMaster University Medical Centre",
+      "ror": "https://ror.org/05jyrng31",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801259263",
+       "https://openalex.org/I76442945"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2802362269",
+      "display_name": "Health Sciences Centre",
+      "ror": "https://ror.org/05pr37258",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I110535807",
+       "https://openalex.org/I2802362269"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "W. Scott Gallichan",
+    "raw_affiliation_strings": [
+     "Department of Pathology, McMaster University Health Sciences Centre, Hamilton, Ontario, Canada",
+     "Molecular Virology and Immunology Programme, Departments of Pathology and Biology, McMaster University Health Sciences Centre, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Pathology, McMaster University Health Sciences Centre, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I2801259263",
+       "https://openalex.org/I2802362269"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Molecular Virology and Immunology Programme, Departments of Pathology and Biology, McMaster University Health Sciences Centre, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I2801259263",
+       "https://openalex.org/I2802362269"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5110074567",
+     "display_name": "Kenneth L. Rosenthal",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801259263",
+      "display_name": "McMaster University Medical Centre",
+      "ror": "https://ror.org/05jyrng31",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801259263",
+       "https://openalex.org/I76442945"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2802362269",
+      "display_name": "Health Sciences Centre",
+      "ror": "https://ror.org/05pr37258",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I110535807",
+       "https://openalex.org/I2802362269"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Kenneth L. Rosenthal",
+    "raw_affiliation_strings": [
+     "Molecular Virology and Immunology Programme, Departments of Pathology and Biology, McMaster University Health Sciences Centre, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Molecular Virology and Immunology Programme, Departments of Pathology and Biology, McMaster University Health Sciences Centre, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I2801259263",
+       "https://openalex.org/I2802362269"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 9.7528
+ },
+ {
+  "id": "https://openalex.org/W2135879611",
+  "doi": "https://doi.org/10.1128/jvi.71.11.8109-8115.1997",
+  "title": "Immunoglobulin G is the main protective antibody in mouse vaginal secretions after vaginal immunization with attenuated herpes simplex virus type 2",
+  "publication_year": 1997,
+  "type": "article",
+  "cited_by_count": 99,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 0.9990000128746033,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 48,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5059059125",
+     "display_name": "Earl L. Parr",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I110378019",
+      "display_name": "Southern Illinois University Carbondale",
+      "ror": "https://ror.org/049kefs16",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I110378019",
+       "https://openalex.org/I2801502357"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "E L Parr",
+    "raw_affiliation_strings": [
+     "Department of Anatomy, Southern Illinois University, Carbondale 62901-6523, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anatomy, Southern Illinois University, Carbondale 62901-6523, USA",
+      "institution_ids": [
+       "https://openalex.org/I110378019"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5079462858",
+     "display_name": "Margaret B. Parr",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I110378019",
+      "display_name": "Southern Illinois University Carbondale",
+      "ror": "https://ror.org/049kefs16",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I110378019",
+       "https://openalex.org/I2801502357"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "M B Parr",
+    "raw_affiliation_strings": [
+     "Department of Anatomy, Southern Illinois University, Carbondale 62901-6523, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anatomy, Southern Illinois University, Carbondale 62901-6523, USA",
+      "institution_ids": [
+       "https://openalex.org/I110378019"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 5.7031
+ },
+ {
+  "id": "https://openalex.org/W2098681375",
+  "doi": "https://doi.org/10.1099/0022-1317-71-7-1497",
+  "title": "Mucosal and systemic antiviral antibodies in mice inoculated intravaginally with herpes simplex virus type 2",
+  "publication_year": 1990,
+  "type": "article",
+  "cited_by_count": 93,
+  "primary_topic": {
+   "id": "https://openalex.org/T12438",
+   "display_name": "Urticaria and Related Conditions",
+   "score": 0.9986000061035156,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2745",
+    "display_name": "Rheumatology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 51,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5077619885",
+     "display_name": "Mark R. McDermott",
+     "orcid": "https://orcid.org/0000-0001-6207-0061"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2802362269",
+      "display_name": "Health Sciences Centre",
+      "ror": "https://ror.org/05pr37258",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I110535807",
+       "https://openalex.org/I2802362269"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "M. R. McDermott",
+    "raw_affiliation_strings": [
+     "Department of Pathology, McMaster University, Hamilton, Ontario, Canada",
+     "Molecular Virology and Immunology Program, Department of Pathology, Health Sciences Centre, Room 3N7, McMaster University, 1200 Main Street West, Hamilton, Ontario, Canada L8N 3Z5"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Pathology, McMaster University, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Molecular Virology and Immunology Program, Department of Pathology, Health Sciences Centre, Room 3N7, McMaster University, 1200 Main Street West, Hamilton, Ontario, Canada L8N 3Z5",
+      "institution_ids": [
+       "https://openalex.org/I2802362269",
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5067633759",
+     "display_name": "L. J. Brais",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2802362269",
+      "display_name": "Health Sciences Centre",
+      "ror": "https://ror.org/05pr37258",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I110535807",
+       "https://openalex.org/I2802362269"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "L. J. Brais",
+    "raw_affiliation_strings": [
+     "Molecular Virology and Immunology Program, Department of Pathology, Health Sciences Centre, Room 3N7, McMaster University, 1200 Main Street West, Hamilton, Ontario, Canada L8N 3Z5"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Molecular Virology and Immunology Program, Department of Pathology, Health Sciences Centre, Room 3N7, McMaster University, 1200 Main Street West, Hamilton, Ontario, Canada L8N 3Z5",
+      "institution_ids": [
+       "https://openalex.org/I2802362269",
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5110093393",
+     "display_name": "M. J. Evelegh",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2802362269",
+      "display_name": "Health Sciences Centre",
+      "ror": "https://ror.org/05pr37258",
+      "country_code": "CA",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I110535807",
+       "https://openalex.org/I2802362269"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "M. J. Evelegh",
+    "raw_affiliation_strings": [
+     "Molecular Virology and Immunology Program, Department of Pathology, Health Sciences Centre, Room 3N7, McMaster University, 1200 Main Street West, Hamilton, Ontario, Canada L8N 3Z5"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Molecular Virology and Immunology Program, Department of Pathology, Health Sciences Centre, Room 3N7, McMaster University, 1200 Main Street West, Hamilton, Ontario, Canada L8N 3Z5",
+      "institution_ids": [
+       "https://openalex.org/I2802362269",
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 3.7246
+ },
+ {
+  "id": "https://openalex.org/W1516021644",
+  "doi": "https://doi.org/10.1128/jvi.73.8.6380-6386.1999",
+  "title": "Neutrophils Aid in Protection of the Vaginal Mucosae of Immune Mice against Challenge with Herpes Simplex Virus Type 2",
+  "publication_year": 1999,
+  "type": "article",
+  "cited_by_count": 87,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 45,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5017030338",
+     "display_name": "Gregg N. Milligan",
+     "orcid": "https://orcid.org/0000-0003-4133-4552"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I63135867",
+      "display_name": "University of Cincinnati",
+      "ror": "https://ror.org/01e3m7079",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63135867"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I92156820",
+      "display_name": "University of Cincinnati Medical Center",
+      "ror": "https://ror.org/02p72h367",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I92156820"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Gregg N. Milligan",
+    "raw_affiliation_strings": [
+     "<!--label omitted: 1-->Division of Infectious Diseases, Children’s Hospital Medical Center, and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio 45229",
+     "Division of Infectious Diseases, Children’s Hospital Medical Center, and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio 45229"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "<!--label omitted: 1-->Division of Infectious Diseases, Children’s Hospital Medical Center, and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio 45229",
+      "institution_ids": [
+       "https://openalex.org/I92156820"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Infectious Diseases, Children’s Hospital Medical Center, and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio 45229",
+      "institution_ids": [
+       "https://openalex.org/I63135867"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 3.3551
+ },
+ {
+  "id": "https://openalex.org/W2167958790",
+  "doi": "https://doi.org/10.1099/0022-1317-74-3-379",
+  "title": "Anti-glycoprotein B monoclonal antibody protects T cell-depleted mice against herpes simplex virus infection by inhibition of virus replication at the inoculated mucous membranes",
+  "publication_year": 1993,
+  "type": "article",
+  "cited_by_count": 71,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 37,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5031764492",
+     "display_name": "Anna Maria Eis‐Hübinger",
+     "orcid": "https://orcid.org/0000-0001-9010-8805"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I135140700",
+      "display_name": "University of Bonn",
+      "ror": "https://ror.org/041nas322",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I135140700"
+      ]
+     }
+    ],
+    "countries": [
+     "DE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "A. M. Eis-Hubinger",
+    "raw_affiliation_strings": [
+     "Institute of Medical Microbiology and Immunology, University of Bonn, Germany",
+     "Institute of Medical Microbiology and Immunology, University of Bonn, Sigmund-Freud-Strasse 25, D-5300 Bonn 1, Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Institute of Medical Microbiology and Immunology, University of Bonn, Germany",
+      "institution_ids": [
+       "https://openalex.org/I135140700"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Institute of Medical Microbiology and Immunology, University of Bonn, Sigmund-Freud-Strasse 25, D-5300 Bonn 1, Germany",
+      "institution_ids": [
+       "https://openalex.org/I135140700"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5087305748",
+     "display_name": "Daniel S. Schmidt",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I135140700",
+      "display_name": "University of Bonn",
+      "ror": "https://ror.org/041nas322",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I135140700"
+      ]
+     }
+    ],
+    "countries": [
+     "DE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "D. S. Schmidt",
+    "raw_affiliation_strings": [
+     "Institute of Medical Microbiology and Immunology, University of Bonn, Sigmund-Freud-Strasse 25, D-5300 Bonn 1, Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Institute of Medical Microbiology and Immunology, University of Bonn, Sigmund-Freud-Strasse 25, D-5300 Bonn 1, Germany",
+      "institution_ids": [
+       "https://openalex.org/I135140700"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5112153187",
+     "display_name": "K. E. Schneweis",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I135140700",
+      "display_name": "University of Bonn",
+      "ror": "https://ror.org/041nas322",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I135140700"
+      ]
+     }
+    ],
+    "countries": [
+     "DE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "K. E. Schneweis",
+    "raw_affiliation_strings": [
+     "Institute of Medical Microbiology and Immunology, University of Bonn, Sigmund-Freud-Strasse 25, D-5300 Bonn 1, Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Institute of Medical Microbiology and Immunology, University of Bonn, Sigmund-Freud-Strasse 25, D-5300 Bonn 1, Germany",
+      "institution_ids": [
+       "https://openalex.org/I135140700"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 3.0628
+ },
+ {
+  "id": "https://openalex.org/W2027725757",
+  "doi": "https://doi.org/10.1046/j.1365-2567.1999.00909.x",
+  "title": "Immune responses and protection against vaginal infection after nasal or vaginal immunization with attenuated herpes simplex virus type‐2",
+  "publication_year": 1999,
+  "type": "article",
+  "cited_by_count": 60,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 0.9993000030517578,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 19,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5059059125",
+     "display_name": "Earl L. Parr",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I110378019",
+      "display_name": "Southern Illinois University Carbondale",
+      "ror": "https://ror.org/049kefs16",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I110378019",
+       "https://openalex.org/I2801502357"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I196729704",
+      "display_name": "Southern Illinois University School of Medicine",
+      "ror": "https://ror.org/0232r4451",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I196729704",
+       "https://openalex.org/I2801502357"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "E. L. Parr",
+    "raw_affiliation_strings": [
+     "Southern Illinois University, School of Medicine, Carbondale, IL, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Southern Illinois University, School of Medicine, Carbondale, IL, USA",
+      "institution_ids": [
+       "https://openalex.org/I110378019",
+       "https://openalex.org/I196729704"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5079462858",
+     "display_name": "Margaret B. Parr",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I110378019",
+      "display_name": "Southern Illinois University Carbondale",
+      "ror": "https://ror.org/049kefs16",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I110378019",
+       "https://openalex.org/I2801502357"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I196729704",
+      "display_name": "Southern Illinois University School of Medicine",
+      "ror": "https://ror.org/0232r4451",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I196729704",
+       "https://openalex.org/I2801502357"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "M. B. Parr",
+    "raw_affiliation_strings": [
+     "Southern Illinois University, School of Medicine, Carbondale, IL, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Southern Illinois University, School of Medicine, Carbondale, IL, USA",
+      "institution_ids": [
+       "https://openalex.org/I110378019",
+       "https://openalex.org/I196729704"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 1.7894
+ },
+ {
+  "id": "https://openalex.org/W1970636290",
+  "doi": "https://doi.org/10.1046/j.1365-2567.1998.00587.x",
+  "title": "Immunity to vaginal HSV‐2 infection in immunoglobulin A knockout mice",
+  "publication_year": 1998,
+  "type": "article",
+  "cited_by_count": 52,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 0.9993000030517578,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 33,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5104561248",
+     "display_name": "PARR",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I196729704",
+      "display_name": "Southern Illinois University School of Medicine",
+      "ror": "https://ror.org/0232r4451",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I196729704",
+       "https://openalex.org/I2801502357"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "PARR",
+    "raw_affiliation_strings": [
+     "Southern Illinois University, School of Medicine, Carbondale, IL,"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Southern Illinois University, School of Medicine, Carbondale, IL,",
+      "institution_ids": [
+       "https://openalex.org/I196729704"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5090941095",
+     "display_name": "Harriman",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210095266",
+      "display_name": "Mount Sinai Medical Center",
+      "ror": "https://ror.org/00wgjpw02",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210095266"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "HARRIMAN",
+    "raw_affiliation_strings": [
+     "Mount Sinai Medical Center, Miami Beach, FL, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Mount Sinai Medical Center, Miami Beach, FL, USA",
+      "institution_ids": [
+       "https://openalex.org/I4210095266"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5104561248",
+     "display_name": "PARR",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I196729704",
+      "display_name": "Southern Illinois University School of Medicine",
+      "ror": "https://ror.org/0232r4451",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I196729704",
+       "https://openalex.org/I2801502357"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "PARR",
+    "raw_affiliation_strings": [
+     "Southern Illinois University, School of Medicine, Carbondale, IL,"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Southern Illinois University, School of Medicine, Carbondale, IL,",
+      "institution_ids": [
+       "https://openalex.org/I196729704"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 3.8315
+ },
+ {
+  "id": "https://openalex.org/W1976481941",
+  "doi": "https://doi.org/10.1016/j.vaccine.2008.08.045",
+  "title": "Intranasal and subcutaneous immunization under the effect of estradiol leads to better protection against genital HSV-2 challenge compared to progesterone",
+  "publication_year": 2008,
+  "type": "article",
+  "cited_by_count": 46,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 35,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5068064196",
+     "display_name": "Sudha Bhavanam",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Sudha Bhavanam",
+    "raw_affiliation_strings": [
+     "Center For Gene Therapeutics, Michael G. DeGroote Center for Learning and Discovery, Department of Pathology and Molecular Medicine, McMaster University, 1200 Main Street West, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center For Gene Therapeutics, Michael G. DeGroote Center for Learning and Discovery, Department of Pathology and Molecular Medicine, McMaster University, 1200 Main Street West, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5050439557",
+     "display_name": "Denis P. Snider",
+     "orcid": "https://orcid.org/0000-0002-4285-4982"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Denis P. Snider",
+    "raw_affiliation_strings": [
+     "Intestinal Disease Research Program, Department of Pathology and Molecular Medicine, McMaster University, 1200 Main Street West, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Intestinal Disease Research Program, Department of Pathology and Molecular Medicine, McMaster University, 1200 Main Street West, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5051782546",
+     "display_name": "Charu Kaushic",
+     "orcid": "https://orcid.org/0000-0002-7088-2569"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I98251732",
+      "display_name": "McMaster University",
+      "ror": "https://ror.org/02fa3aq29",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ],
+    "countries": [
+     "CA"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Charu Kaushic",
+    "raw_affiliation_strings": [
+     "Center For Gene Therapeutics, Michael G. DeGroote Center for Learning and Discovery, Department of Pathology and Molecular Medicine, McMaster University, 1200 Main Street West, Hamilton, Ontario, Canada"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center For Gene Therapeutics, Michael G. DeGroote Center for Learning and Discovery, Department of Pathology and Molecular Medicine, McMaster University, 1200 Main Street West, Hamilton, Ontario, Canada",
+      "institution_ids": [
+       "https://openalex.org/I98251732"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 2.1251
+ },
+ {
+  "id": "https://openalex.org/W2095428081",
+  "doi": "https://doi.org/10.1016/j.vaccine.2009.07.052",
+  "title": "Estradiol improves genital herpes vaccine efficacy in mice",
+  "publication_year": 2009,
+  "type": "article",
+  "cited_by_count": 36,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 33,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5079869184",
+     "display_name": "Jeffry W. Pennock",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I55302922",
+      "display_name": "The University of Texas Medical Branch at Galveston",
+      "ror": "https://ror.org/016tfm930",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Jeffry W. Pennock",
+    "raw_affiliation_strings": [
+     "Department of Microbiology and Immunology, University of Texas Medical Branch, Galveston, TX 77555, USA",
+     "Department of Microbiology and Immunology, University of Texas Medical Branch, Galveston, TX 77555, United States",
+     "Sealy Center for Vaccine Development, University of Texas Medical Branch, Galveston, TX 77555, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Microbiology and Immunology, University of Texas Medical Branch, Galveston, TX 77555, USA",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Microbiology and Immunology, University of Texas Medical Branch, Galveston, TX 77555, United States",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sealy Center for Vaccine Development, University of Texas Medical Branch, Galveston, TX 77555, United States",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5054733443",
+     "display_name": "Rachael Stegall",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I55302922",
+      "display_name": "The University of Texas Medical Branch at Galveston",
+      "ror": "https://ror.org/016tfm930",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Rachael Stegall",
+    "raw_affiliation_strings": [
+     "Department of Pediatrics, University of Texas Medical Branch, Galveston, TX 77555, United States",
+     "Sealy Center for Vaccine Development, University of Texas Medical Branch, Galveston, TX 77555, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Pediatrics, University of Texas Medical Branch, Galveston, TX 77555, United States",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sealy Center for Vaccine Development, University of Texas Medical Branch, Galveston, TX 77555, United States",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5033915515",
+     "display_name": "Brent A. Bell",
+     "orcid": "https://orcid.org/0000-0003-2827-1892"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I55302922",
+      "display_name": "The University of Texas Medical Branch at Galveston",
+      "ror": "https://ror.org/016tfm930",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Brent Bell",
+    "raw_affiliation_strings": [
+     "Center for Biomedical Engineering, University of Texas Medical Branch, Galveston, TX 77555, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Biomedical Engineering, University of Texas Medical Branch, Galveston, TX 77555, United States",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5011791894",
+     "display_name": "Gracie Vargas",
+     "orcid": "https://orcid.org/0000-0003-4467-5838"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I55302922",
+      "display_name": "The University of Texas Medical Branch at Galveston",
+      "ror": "https://ror.org/016tfm930",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Gracie Vargas",
+    "raw_affiliation_strings": [
+     "Center for Biomedical Engineering, University of Texas Medical Branch, Galveston, TX 77555, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Biomedical Engineering, University of Texas Medical Branch, Galveston, TX 77555, United States",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5014674134",
+     "display_name": "Massoud Motamedi",
+     "orcid": "https://orcid.org/0000-0003-0733-2588"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I55302922",
+      "display_name": "The University of Texas Medical Branch at Galveston",
+      "ror": "https://ror.org/016tfm930",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Massoud Motamedi",
+    "raw_affiliation_strings": [
+     "Center for Biomedical Engineering, University of Texas Medical Branch, Galveston, TX 77555, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Biomedical Engineering, University of Texas Medical Branch, Galveston, TX 77555, United States",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5017030338",
+     "display_name": "Gregg N. Milligan",
+     "orcid": "https://orcid.org/0000-0003-4133-4552"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I55302922",
+      "display_name": "The University of Texas Medical Branch at Galveston",
+      "ror": "https://ror.org/016tfm930",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Gregg Milligan",
+    "raw_affiliation_strings": [
+     "Department of Microbiology and Immunology, University of Texas Medical Branch, Galveston, TX 77555, United States",
+     "Department of Pediatrics, University of Texas Medical Branch, Galveston, TX 77555, United States",
+     "Sealy Center for Vaccine Development, University of Texas Medical Branch, Galveston, TX 77555, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Microbiology and Immunology, University of Texas Medical Branch, Galveston, TX 77555, United States",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pediatrics, University of Texas Medical Branch, Galveston, TX 77555, United States",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sealy Center for Vaccine Development, University of Texas Medical Branch, Galveston, TX 77555, United States",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5004940255",
+     "display_name": "Nigel Bourne",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I55302922",
+      "display_name": "The University of Texas Medical Branch at Galveston",
+      "ror": "https://ror.org/016tfm930",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Nigel Bourne",
+    "raw_affiliation_strings": [
+     "Department of Microbiology and Immunology, University of Texas Medical Branch, Galveston, TX 77555, United States",
+     "Department of Pediatrics, University of Texas Medical Branch, Galveston, TX 77555, United States",
+     "Sealy Center for Vaccine Development, University of Texas Medical Branch, Galveston, TX 77555, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Microbiology and Immunology, University of Texas Medical Branch, Galveston, TX 77555, United States",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pediatrics, University of Texas Medical Branch, Galveston, TX 77555, United States",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sealy Center for Vaccine Development, University of Texas Medical Branch, Galveston, TX 77555, United States",
+      "institution_ids": [
+       "https://openalex.org/I55302922"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 1.8153
+ },
+ {
+  "id": "https://openalex.org/W2021624946",
+  "doi": "https://doi.org/10.1046/j.1365-2567.2000.00080.x",
+  "title": "Immunity to vaginal herpes simplex virus‐2 infection in B‐cell knockout mice",
+  "publication_year": 2000,
+  "type": "article",
+  "cited_by_count": 36,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 19,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5079462858",
+     "display_name": "Margaret B. Parr",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I110378019",
+      "display_name": "Southern Illinois University Carbondale",
+      "ror": "https://ror.org/049kefs16",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I110378019",
+       "https://openalex.org/I2801502357"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I196729704",
+      "display_name": "Southern Illinois University School of Medicine",
+      "ror": "https://ror.org/0232r4451",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I196729704",
+       "https://openalex.org/I2801502357"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "M. B. Parr",
+    "raw_affiliation_strings": [
+     "Southern Illinois University, School of Medicine, Carbondale, IL 62901, USA",
+     "Southern Illinois University, School of Medicine, Carbondale, IL, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Southern Illinois University, School of Medicine, Carbondale, IL 62901, USA",
+      "institution_ids": [
+       "https://openalex.org/I110378019"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Southern Illinois University, School of Medicine, Carbondale, IL, USA",
+      "institution_ids": [
+       "https://openalex.org/I110378019",
+       "https://openalex.org/I196729704"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5059059125",
+     "display_name": "Earl L. Parr",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I110378019",
+      "display_name": "Southern Illinois University Carbondale",
+      "ror": "https://ror.org/049kefs16",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I110378019",
+       "https://openalex.org/I2801502357"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I196729704",
+      "display_name": "Southern Illinois University School of Medicine",
+      "ror": "https://ror.org/0232r4451",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I196729704",
+       "https://openalex.org/I2801502357"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "E. L. Parr",
+    "raw_affiliation_strings": [
+     "Southern Illinois University, School of Medicine, Carbondale, IL, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Southern Illinois University, School of Medicine, Carbondale, IL, USA",
+      "institution_ids": [
+       "https://openalex.org/I110378019",
+       "https://openalex.org/I196729704"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 1.7089
+ },
+ {
+  "id": "https://openalex.org/W1499118667",
+  "doi": "https://doi.org/10.1016/b978-0-12-415847-4.00110-5",
+  "title": "Endocrine Regulation of the Mucosal Immune System in the Female Reproductive Tract",
+  "publication_year": 2015,
+  "type": "book-chapter",
+  "cited_by_count": 31,
+  "primary_topic": {
+   "id": "https://openalex.org/T11510",
+   "display_name": "Reproductive System and Pregnancy",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2403",
+    "display_name": "Immunology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/24",
+    "display_name": "Immunology and Microbiology"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/1",
+    "display_name": "Life Sciences"
+   }
+  },
+  "referenced_works_count": 175,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5017248220",
+     "display_name": "Charles R. Wira",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107672454",
+      "display_name": "Dartmouth College",
+      "ror": "https://ror.org/049s0rh22",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I107672454"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Charles R. Wira",
+    "raw_affiliation_strings": [
+     "Geisel School of Medicine at Dartmouth, Lebanon, NH, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Geisel School of Medicine at Dartmouth, Lebanon, NH, USA",
+      "institution_ids": [
+       "https://openalex.org/I107672454"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5091407768",
+     "display_name": "Marta Rodríguez‐García",
+     "orcid": "https://orcid.org/0000-0003-3336-8285"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107672454",
+      "display_name": "Dartmouth College",
+      "ror": "https://ror.org/049s0rh22",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I107672454"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Marta Rodriguez-Garcia",
+    "raw_affiliation_strings": [
+     "Geisel School of Medicine at Dartmouth, Lebanon, NH, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Geisel School of Medicine at Dartmouth, Lebanon, NH, USA",
+      "institution_ids": [
+       "https://openalex.org/I107672454"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5075967066",
+     "display_name": "Mickey V. Patel",
+     "orcid": "https://orcid.org/0000-0001-5963-1534"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107672454",
+      "display_name": "Dartmouth College",
+      "ror": "https://ror.org/049s0rh22",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I107672454"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Mickey V. Patel",
+    "raw_affiliation_strings": [
+     "Geisel School of Medicine at Dartmouth, Lebanon, NH, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Geisel School of Medicine at Dartmouth, Lebanon, NH, USA",
+      "institution_ids": [
+       "https://openalex.org/I107672454"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5023861406",
+     "display_name": "Nabanita Biswas",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107672454",
+      "display_name": "Dartmouth College",
+      "ror": "https://ror.org/049s0rh22",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I107672454"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Nabanita Biswas",
+    "raw_affiliation_strings": [
+     "Geisel School of Medicine at Dartmouth, Lebanon, NH, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Geisel School of Medicine at Dartmouth, Lebanon, NH, USA",
+      "institution_ids": [
+       "https://openalex.org/I107672454"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5003141492",
+     "display_name": "John V. Fahey",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I107672454",
+      "display_name": "Dartmouth College",
+      "ror": "https://ror.org/049s0rh22",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I107672454"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "John V. Fahey",
+    "raw_affiliation_strings": [
+     "Geisel School of Medicine at Dartmouth, Lebanon, NH, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Geisel School of Medicine at Dartmouth, Lebanon, NH, USA",
+      "institution_ids": [
+       "https://openalex.org/I107672454"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 1.3735
+ },
+ {
+  "id": "https://openalex.org/W163980445",
+  "doi": null,
+  "title": "An update on short-course episodic and prevention therapies for herpes genitalis.",
+  "publication_year": 2007,
+  "type": "article",
+  "cited_by_count": 18,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 20,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5061167455",
+     "display_name": "Lawrence Corey",
+     "orcid": "https://orcid.org/0000-0002-2179-2436"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210089486",
+      "display_name": "Fred Hutch Cancer Center",
+      "ror": "https://ror.org/007ps6h72",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210089486"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Lawrence Corey",
+    "raw_affiliation_strings": [
+     "Fred Hutchinson Cancer Research Center, Seattle, WA, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Fred Hutchinson Cancer Research Center, Seattle, WA, USA",
+      "institution_ids": [
+       "https://openalex.org/I4210089486"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5021366417",
+     "display_name": "Neil Bodsworth",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Neil Bodsworth",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5019395957",
+     "display_name": "Adrian Mindel",
+     "orcid": "https://orcid.org/0000-0002-8780-9982"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Adrian Mindel",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5110221031",
+     "display_name": "Raj Patel",
+     "orcid": "https://orcid.org/0009-0006-8828-2293"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Raj Patel",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5028046454",
+     "display_name": "Timothy W. Schacker",
+     "orcid": "https://orcid.org/0000-0002-2451-9937"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Timothy Schacker",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5010917744",
+     "display_name": "Lawrence R. Stanberry",
+     "orcid": "https://orcid.org/0000-0001-7302-4407"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Lawrence Stanberry",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   }
+  ],
+  "fwci": 1.6867
+ },
+ {
+  "id": "https://openalex.org/W3022905821",
+  "doi": "https://doi.org/10.1016/b978-012491543-5/50101-7",
+  "title": "Endocrine Regulation of the Mucosal Immune System in the Female Reproductive Tract",
+  "publication_year": 2005,
+  "type": "book-chapter",
+  "cited_by_count": 18,
+  "primary_topic": {
+   "id": "https://openalex.org/T11510",
+   "display_name": "Reproductive System and Pregnancy",
+   "score": 0.9995999932289124,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2403",
+    "display_name": "Immunology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/24",
+    "display_name": "Immunology and Microbiology"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/1",
+    "display_name": "Life Sciences"
+   }
+  },
+  "referenced_works_count": 100,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5017248220",
+     "display_name": "Charles R. Wira",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210120259",
+      "display_name": "Dartmouth Psychiatric Research Center",
+      "ror": "https://ror.org/02td3ps96",
+      "country_code": "US",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210120259"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Charles R. Wira",
+    "raw_affiliation_strings": [
+     "Department of Physiology, Dartmouth Medical School Lebanon, New Hampshire"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Physiology, Dartmouth Medical School Lebanon, New Hampshire",
+      "institution_ids": [
+       "https://openalex.org/I4210120259"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5029068666",
+     "display_name": "Mardi A. Crane‐Godreau",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210120259",
+      "display_name": "Dartmouth Psychiatric Research Center",
+      "ror": "https://ror.org/02td3ps96",
+      "country_code": "US",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210120259"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Mardi A. Crane-Godreau",
+    "raw_affiliation_strings": [
+     "Department of Physiology, Dartmouth Medical School Lebanon, New Hampshire"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Physiology, Dartmouth Medical School Lebanon, New Hampshire",
+      "institution_ids": [
+       "https://openalex.org/I4210120259"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5063082099",
+     "display_name": "Katherine S. Grant",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210120259",
+      "display_name": "Dartmouth Psychiatric Research Center",
+      "ror": "https://ror.org/02td3ps96",
+      "country_code": "US",
+      "type": "facility",
+      "lineage": [
+       "https://openalex.org/I4210120259"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Katherine S. Grant",
+    "raw_affiliation_strings": [
+     "Department of Physiology, Dartmouth Medical School Lebanon, New Hampshire"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Physiology, Dartmouth Medical School Lebanon, New Hampshire",
+      "institution_ids": [
+       "https://openalex.org/I4210120259"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 2.3095
+ },
+ {
+  "id": "https://openalex.org/W2101233551",
+  "doi": "https://doi.org/10.1071/sh05041",
+  "title": "Genital herpes vaccines—cause for cautious optimism",
+  "publication_year": 2006,
+  "type": "article",
+  "cited_by_count": 15,
+  "primary_topic": {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 24,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5074817491",
+     "display_name": "Lewis Haddow",
+     "orcid": "https://orcid.org/0000-0003-3016-2986"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2803024705",
+      "display_name": "Westmead Hospital",
+      "ror": "https://ror.org/04gp5yv64",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2803024705",
+       "https://openalex.org/I4405259172"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Lewis J. Haddow",
+    "raw_affiliation_strings": [
+     "ASexually Transmitted Infections Research Centre, Marian Villa, Westmead Hospital and University of Sydney, Westmead, NSW 2145, Australia",
+     "Sexually Transmitted Infections Research Centre, Marian Villa, Westmead Hospital and University of Sydney, Westmead, NSW 2145, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "ASexually Transmitted Infections Research Centre, Marian Villa, Westmead Hospital and University of Sydney, Westmead, NSW 2145, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2803024705"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sexually Transmitted Infections Research Centre, Marian Villa, Westmead Hospital and University of Sydney, Westmead, NSW 2145, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2803024705"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5019395957",
+     "display_name": "Adrian Mindel",
+     "orcid": "https://orcid.org/0000-0002-8780-9982"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2802949983",
+      "display_name": "Western Maryland Health System",
+      "ror": "https://ror.org/055dxk232",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2802949983"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2803024705",
+      "display_name": "Westmead Hospital",
+      "ror": "https://ror.org/04gp5yv64",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2803024705",
+       "https://openalex.org/I4405259172"
+      ]
+     }
+    ],
+    "countries": [
+     "AU",
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Adrian Mindel",
+    "raw_affiliation_strings": [
+     "ASexually Transmitted Infections Research Centre, Marian Villa, Westmead Hospital and University of Sydney, Westmead, NSW 2145, Australia",
+     "BCorresponding author. Email: adrianm@icpmr.wsahs.nsw.gov.au",
+     "Sexually Transmitted Infections Research Centre, Marian Villa, Westmead Hospital and University of Sydney, Westmead, NSW 2145, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "ASexually Transmitted Infections Research Centre, Marian Villa, Westmead Hospital and University of Sydney, Westmead, NSW 2145, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2803024705"
+      ]
+     },
+     {
+      "raw_affiliation_string": "BCorresponding author. Email: adrianm@icpmr.wsahs.nsw.gov.au",
+      "institution_ids": [
+       "https://openalex.org/I2802949983"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sexually Transmitted Infections Research Centre, Marian Villa, Westmead Hospital and University of Sydney, Westmead, NSW 2145, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2803024705"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 1.7332
+ }
+]

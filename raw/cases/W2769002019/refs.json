@@ -1,0 +1,3912 @@
+[
+ {
+  "id": "https://openalex.org/W2132450469",
+  "doi": "https://doi.org/10.1016/s0140-6736(10)61193-2",
+  "title": "Risk assessment for respiratory complications in paediatric anaesthesia: a prospective cohort study",
+  "publication_year": 2010,
+  "type": "article",
+  "cited_by_count": 600,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.16740000247955322,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 41,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5052979844",
+     "display_name": "Britta S. von Ungern‐Sternberg",
+     "orcid": "https://orcid.org/0000-0002-8043-8541"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I175234967",
+      "display_name": "The Kids Research Institute Australia",
+      "ror": "https://ror.org/01dbmzx78",
+      "country_code": "AU",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I175234967"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I177877127",
+      "display_name": "The University of Western Australia",
+      "ror": "https://ror.org/047272k79",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I177877127"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800419323",
+      "display_name": "Princess Margaret Hospital for Children",
+      "ror": "https://ror.org/04ec98z42",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799506148",
+       "https://openalex.org/I2800419323",
+       "https://openalex.org/I2800882159"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Britta S von Ungern-Sternberg",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, WA, Australia. bvonungern@uhbs.ch",
+     "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, WA, Australia",
+     "Division of Clinical Sciences, Telethon Institute for Child Health Research, and Centre for Child Health Research, University of Western Australia, Perth, WA, Australia",
+     "School of Medicine and Pharmacology, University of Western Australia, Perth, WA, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, WA, Australia. bvonungern@uhbs.ch",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Clinical Sciences, Telethon Institute for Child Health Research, and Centre for Child Health Research, University of Western Australia, Perth, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I175234967",
+       "https://openalex.org/I177877127"
+      ]
+     },
+     {
+      "raw_affiliation_string": "School of Medicine and Pharmacology, University of Western Australia, Perth, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I177877127"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5085069712",
+     "display_name": "Krisztina Boda",
+     "orcid": "https://orcid.org/0000-0002-9937-0460"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I227486990",
+      "display_name": "University of Szeged",
+      "ror": "https://ror.org/01pnej532",
+      "country_code": "HU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I227486990"
+      ]
+     }
+    ],
+    "countries": [
+     "HU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Krisztina Boda",
+    "raw_affiliation_strings": [
+     "Department of Medical Informatics, University of Szeged, Szeged, Hungary",
+     "Department of Medical Informatics, University of Szeged, Szeged (Hungary)"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Medical Informatics, University of Szeged, Szeged, Hungary",
+      "institution_ids": [
+       "https://openalex.org/I227486990"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Medical Informatics, University of Szeged, Szeged (Hungary)",
+      "institution_ids": [
+       "https://openalex.org/I227486990"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5108403325",
+     "display_name": "NEIL A. CHAMBERS",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2800419323",
+      "display_name": "Princess Margaret Hospital for Children",
+      "ror": "https://ror.org/04ec98z42",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799506148",
+       "https://openalex.org/I2800419323",
+       "https://openalex.org/I2800882159"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Neil A Chambers",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, WA, Australia",
+     "Department of Anaesthesia, Princess Margaret Hospital For Children, Perth, WA, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital For Children, Perth, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5034630728",
+     "display_name": "Claudia Rebmann",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2800419323",
+      "display_name": "Princess Margaret Hospital for Children",
+      "ror": "https://ror.org/04ec98z42",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799506148",
+       "https://openalex.org/I2800419323",
+       "https://openalex.org/I2800882159"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Claudia Rebmann",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, WA, Australia",
+     "Department of Anaesthesia, Princess Margaret Hospital For Children, Perth, WA, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital For Children, Perth, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5042185704",
+     "display_name": "Chris Johnson",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2800419323",
+      "display_name": "Princess Margaret Hospital for Children",
+      "ror": "https://ror.org/04ec98z42",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799506148",
+       "https://openalex.org/I2800419323",
+       "https://openalex.org/I2800882159"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Chris Johnson",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, WA, Australia",
+     "Department of Anaesthesia, Princess Margaret Hospital For Children, Perth, WA, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital For Children, Perth, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5048175603",
+     "display_name": "Peter D. Sly",
+     "orcid": "https://orcid.org/0000-0001-6305-2201"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I175234967",
+      "display_name": "The Kids Research Institute Australia",
+      "ror": "https://ror.org/01dbmzx78",
+      "country_code": "AU",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I175234967"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I177877127",
+      "display_name": "The University of Western Australia",
+      "ror": "https://ror.org/047272k79",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I177877127"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Peter D Sly",
+    "raw_affiliation_strings": [
+     "Division of Clinical Sciences, Telethon Institute for Child Health Research, and Centre for Child Health Research, University of Western Australia, Perth, WA, Australia",
+     "Division of Clinical Sciences, Telethon Institute for Child Health Research and Centre for Child Health Research, University of Western Australia, Perth, WA, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Division of Clinical Sciences, Telethon Institute for Child Health Research, and Centre for Child Health Research, University of Western Australia, Perth, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I175234967",
+       "https://openalex.org/I177877127"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Clinical Sciences, Telethon Institute for Child Health Research and Centre for Child Health Research, University of Western Australia, Perth, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I175234967",
+       "https://openalex.org/I177877127"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5033097793",
+     "display_name": "Walid Habre",
+     "orcid": "https://orcid.org/0000-0002-6521-5091"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I114457229",
+      "display_name": "University of Geneva",
+      "ror": "https://ror.org/01swzsf04",
+      "country_code": "CH",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I114457229"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210106256",
+      "display_name": "University Hospital of Geneva",
+      "ror": "https://ror.org/01m1pv723",
+      "country_code": "CH",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210106256"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Walid Habre",
+    "raw_affiliation_strings": [
+     "Paediatric Anaesthesia Unit, Geneva Children's Hospital, University of Geneva, Geneva, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Paediatric Anaesthesia Unit, Geneva Children's Hospital, University of Geneva, Geneva, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I114457229",
+       "https://openalex.org/I4210106256"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 24.0392
+ },
+ {
+  "id": "https://openalex.org/W2028497084",
+  "doi": "https://doi.org/10.1097/00000542-199703000-00015",
+  "title": "Comparison of Cuffed and Uncuffed Endotracheal Tubes in Young Children during General Anesthesia",
+  "publication_year": 1997,
+  "type": "article",
+  "cited_by_count": 479,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.9677000045776367,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 10,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5005987355",
+     "display_name": "Henry H. Khine",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I149251103",
+      "display_name": "Thomas Jefferson University",
+      "ror": "https://ror.org/00ysqcn41",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I149251103"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2801344670",
+      "display_name": "Community Health Systems - Dupont Hospital",
+      "ror": "https://ror.org/03753r186",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801344670",
+       "https://openalex.org/I4405259010"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Henry H. Khine",
+    "raw_affiliation_strings": [
+     "duPont Hospital for Children, Wilmington, Delaware 19899, USA",
+     "Clinical Instructor of Anesthesia, Jefferson Medical College, Thomas Jefferson University, Philadelphia, Pennsylvania",
+     "Staff Anesthesiologist, duPont Hospital for Children, Wilmington, Delaware"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "duPont Hospital for Children, Wilmington, Delaware 19899, USA",
+      "institution_ids": [
+       "https://openalex.org/I2801344670"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Clinical Instructor of Anesthesia, Jefferson Medical College, Thomas Jefferson University, Philadelphia, Pennsylvania",
+      "institution_ids": [
+       "https://openalex.org/I149251103"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Staff Anesthesiologist, duPont Hospital for Children, Wilmington, Delaware",
+      "institution_ids": [
+       "https://openalex.org/I2801344670"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5024882244",
+     "display_name": "David H. Corddry",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1326254912",
+      "display_name": "Alfred I. duPont Hospital for Children",
+      "ror": "https://ror.org/00jyx0v10",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1326254912",
+       "https://openalex.org/I4210108049"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2801344670",
+      "display_name": "Community Health Systems - Dupont Hospital",
+      "ror": "https://ror.org/03753r186",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801344670",
+       "https://openalex.org/I4405259010"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I858669146",
+      "display_name": "Jefferson College",
+      "ror": "https://ror.org/04fcaga30",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I858669146"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "David H. Corddry",
+    "raw_affiliation_strings": [
+     "Chairman, Department of Anesthesiology and Critical Care, duPont Hospital for Children, Wilmington, Delaware; Assistant Professor of Anesthesia and Pediatrics, Jefferson Medical College",
+     "Assistant Professor of Anesthesia and Pediatrics, Jefferson Medical College",
+     "Chairman, Department of Anesthesiology and Critical Care, duPont Hospital for Children, Wilmington, Delaware"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Chairman, Department of Anesthesiology and Critical Care, duPont Hospital for Children, Wilmington, Delaware; Assistant Professor of Anesthesia and Pediatrics, Jefferson Medical College",
+      "institution_ids": [
+       "https://openalex.org/I1326254912",
+       "https://openalex.org/I2801344670"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Assistant Professor of Anesthesia and Pediatrics, Jefferson Medical College",
+      "institution_ids": [
+       "https://openalex.org/I858669146"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Chairman, Department of Anesthesiology and Critical Care, duPont Hospital for Children, Wilmington, Delaware",
+      "institution_ids": [
+       "https://openalex.org/I2801344670"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5001972716",
+     "display_name": "Robert G. Kettrick",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210158181",
+      "display_name": "Nemours Children's Clinic",
+      "ror": "https://ror.org/050hscv31",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210108049",
+       "https://openalex.org/I4210158181"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I858669146",
+      "display_name": "Jefferson College",
+      "ror": "https://ror.org/04fcaga30",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I858669146"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Robert G. Kettrick",
+    "raw_affiliation_strings": [
+     "Medical Director, Nemours Children's Clinic, Jacksonville, Florida; Clinical Professor of Anesthesia, Jefferson Medical College",
+     "Clinical Professor of Anesthesia, Jefferson Medical College",
+     "Medical Director, Nemours Children's Clinic, Jacksonville, Florida"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Medical Director, Nemours Children's Clinic, Jacksonville, Florida; Clinical Professor of Anesthesia, Jefferson Medical College",
+      "institution_ids": [
+       "https://openalex.org/I4210158181"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Clinical Professor of Anesthesia, Jefferson Medical College",
+      "institution_ids": [
+       "https://openalex.org/I858669146"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Medical Director, Nemours Children's Clinic, Jacksonville, Florida",
+      "institution_ids": [
+       "https://openalex.org/I4210158181"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5110073391",
+     "display_name": "Thalia M. Martin",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801344670",
+      "display_name": "Community Health Systems - Dupont Hospital",
+      "ror": "https://ror.org/03753r186",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801344670",
+       "https://openalex.org/I4405259010"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I858669146",
+      "display_name": "Jefferson College",
+      "ror": "https://ror.org/04fcaga30",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I858669146"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Thalia M. Martin",
+    "raw_affiliation_strings": [
+     "Staff Anesthesiologist, duPont Hospital for Children, Wilmington, Delaware; Clinical Assistant Professor of Anesthesia, Jefferson Medical College",
+     "Clinical Assistant Professor of Anesthesia, Jefferson Medical College",
+     "Staff Anesthesiologist, duPont Hospital for Children, Wilmington, Delaware"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Staff Anesthesiologist, duPont Hospital for Children, Wilmington, Delaware; Clinical Assistant Professor of Anesthesia, Jefferson Medical College",
+      "institution_ids": [
+       "https://openalex.org/I2801344670"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Clinical Assistant Professor of Anesthesia, Jefferson Medical College",
+      "institution_ids": [
+       "https://openalex.org/I858669146"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Staff Anesthesiologist, duPont Hospital for Children, Wilmington, Delaware",
+      "institution_ids": [
+       "https://openalex.org/I2801344670"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5031917193",
+     "display_name": "John McCloskey",
+     "orcid": "https://orcid.org/0000-0002-2855-9653"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "John J. McCloskey",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5017893063",
+     "display_name": "John B. Rose",
+     "orcid": "https://orcid.org/0000-0002-4890-8881"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "John B. Rose",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5046695124",
+     "display_name": "Mary C. Theroux",
+     "orcid": "https://orcid.org/0000-0003-3480-8211"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Mary C. Theroux",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5060633995",
+     "display_name": "Michael Zagnoev",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Michael Zagnoev",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   }
+  ],
+  "fwci": 7.7809
+ },
+ {
+  "id": "https://openalex.org/W2098355134",
+  "doi": "https://doi.org/10.1093/bja/aep290",
+  "title": "Prospective randomized controlled multi-centre trial of cuffed or uncuffed endotracheal tubes in small children",
+  "publication_year": 2009,
+  "type": "article",
+  "cited_by_count": 362,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.9452999830245972,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 39,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": null,
+     "display_name": "M. Weiss",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210128593",
+      "display_name": "University Children's Hospital Zurich",
+      "ror": "https://ror.org/035vb3h42",
+      "country_code": "CH",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210128593"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "M. Weiss",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, University Children's Hospital Zurich, Zurich, Switzerland. markus.weiss@kispi.uzh.ch",
+     "Department of Anaesthesia, University Children’s Hospital Zurich, Steinwiessstrasse 75, CH 8032 Zurich, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, University Children's Hospital Zurich, Zurich, Switzerland. markus.weiss@kispi.uzh.ch",
+      "institution_ids": [
+       "https://openalex.org/I4210128593"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, University Children’s Hospital Zurich, Steinwiessstrasse 75, CH 8032 Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210128593"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5087285151",
+     "display_name": "Alexander Dullenkopf",
+     "orcid": "https://orcid.org/0000-0002-1456-6457"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210128593",
+      "display_name": "University Children's Hospital Zurich",
+      "ror": "https://ror.org/035vb3h42",
+      "country_code": "CH",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210128593"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "A. Dullenkopf",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, University Children’s Hospital Zurich, Steinwiessstrasse 75, CH 8032 Zurich, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, University Children’s Hospital Zurich, Steinwiessstrasse 75, CH 8032 Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210128593"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5046372853",
+     "display_name": "Joachim E. Fischer",
+     "orcid": "https://orcid.org/0000-0002-7543-1820"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I177802217",
+      "display_name": "University of Mannheim",
+      "ror": "https://ror.org/031bsb921",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I177802217"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I223822909",
+      "display_name": "Heidelberg University",
+      "ror": "https://ror.org/038t36y30",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I223822909"
+      ]
+     }
+    ],
+    "countries": [
+     "DE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "J.E. Fischer",
+    "raw_affiliation_strings": [
+     "Mannheim Institute of Public Health, University of Heidelberg, Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Mannheim Institute of Public Health, University of Heidelberg, Germany",
+      "institution_ids": [
+       "https://openalex.org/I177802217",
+       "https://openalex.org/I223822909"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5059307506",
+     "display_name": "C. Keller",
+     "orcid": "https://orcid.org/0000-0002-4779-2928"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210112317",
+      "display_name": "Schulthess-Klinik",
+      "ror": "https://ror.org/01xm3qq33",
+      "country_code": "CH",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210112317"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "C. Keller",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, Schulthess Clinic, Zurich, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Schulthess Clinic, Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210112317"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5109039647",
+     "display_name": "Andreas Gerber",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210128593",
+      "display_name": "University Children's Hospital Zurich",
+      "ror": "https://ror.org/035vb3h42",
+      "country_code": "CH",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210128593"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "A.C. Gerber",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, University Children’s Hospital Zurich, Steinwiessstrasse 75, CH 8032 Zurich, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, University Children’s Hospital Zurich, Steinwiessstrasse 75, CH 8032 Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210128593"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 19.8827
+ },
+ {
+  "id": "https://openalex.org/W1967213291",
+  "doi": "https://doi.org/10.1016/s0022-3476(94)70121-0",
+  "title": "Cuffed endotracheal tubes in pediatric intensive care",
+  "publication_year": 1994,
+  "type": "article",
+  "cited_by_count": 239,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 19,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5088901472",
+     "display_name": "Timothy Deakers",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1336910626",
+      "display_name": "Children's Hospital of Los Angeles",
+      "ror": "https://ror.org/00412ts95",
+      "country_code": "US",
+      "type": "funder",
+      "lineage": [
+       "https://openalex.org/I1336910626"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Timothy W. Deakers",
+    "raw_affiliation_strings": [
+     "Division of Pediatric Intensive Care, Children's Hospital of Los Angeles, University of Southern California School of Medicine 90027"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Division of Pediatric Intensive Care, Children's Hospital of Los Angeles, University of Southern California School of Medicine 90027",
+      "institution_ids": [
+       "https://openalex.org/I1336910626"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5103622709",
+     "display_name": "George Reynolds",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "George Reynolds",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5075950614",
+     "display_name": "Mark Stretton",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Mark Stretton",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5108717829",
+     "display_name": "Christopher J. L. Newth",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Christopher J.L. Newth",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   }
+  ],
+  "fwci": 6.0945
+ },
+ {
+  "id": "https://openalex.org/W2079617022",
+  "doi": "https://doi.org/10.1097/00000542-200301000-00006",
+  "title": "Effects of Recruitment Maneuver on Atelectasis in Anesthetized Children",
+  "publication_year": 2003,
+  "type": "article",
+  "cited_by_count": 210,
+  "primary_topic": {
+   "id": "https://openalex.org/T10549",
+   "display_name": "Neonatal Respiratory Health Research",
+   "score": 0.43540000915527344,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 25,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5052230436",
+     "display_name": "Gerardo Tusman",
+     "orcid": "https://orcid.org/0000-0003-3893-4418"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210103449",
+      "display_name": "Hospital Privado de Comunidad",
+      "ror": "https://ror.org/01jxef645",
+      "country_code": "AR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210103449"
+      ]
+     }
+    ],
+    "countries": [
+     "AR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Gerardo Tusman",
+    "raw_affiliation_strings": [
+     "Staff Anesthesiologist, Department of Anesthesiology",
+     "Department of Anesthesiology, Hospital Privado de Comunidad, Mar del Plata, Buenos Aires, Argentina. gtusman2hotmail.com"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Staff Anesthesiologist, Department of Anesthesiology",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "Department of Anesthesiology, Hospital Privado de Comunidad, Mar del Plata, Buenos Aires, Argentina. gtusman2hotmail.com",
+      "institution_ids": [
+       "https://openalex.org/I4210103449"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5111414275",
+     "display_name": "Stephan H. Böhm",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I159176309",
+      "display_name": "Universität Hamburg",
+      "ror": "https://ror.org/00g30e956",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I159176309"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210108711",
+      "display_name": "University Medical Center Hamburg-Eppendorf",
+      "ror": "https://ror.org/01zgy1s35",
+      "country_code": "DE",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I159176309",
+       "https://openalex.org/I4210108711"
+      ]
+     }
+    ],
+    "countries": [
+     "DE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Stephan H. Böhm",
+    "raw_affiliation_strings": [
+     "Clinical and Research Fellow, Department of Anesthesiology, University Hospital Eppendorf, Hamburg, Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Clinical and Research Fellow, Department of Anesthesiology, University Hospital Eppendorf, Hamburg, Germany",
+      "institution_ids": [
+       "https://openalex.org/I159176309",
+       "https://openalex.org/I4210108711"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5055321291",
+     "display_name": "Alejandro Tempra",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210160893",
+      "display_name": "Associated Radiologists",
+      "ror": "https://ror.org/05tt6ka81",
+      "country_code": "US",
+      "type": "other",
+      "lineage": [
+       "https://openalex.org/I4210160893"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Alejandro Tempra",
+    "raw_affiliation_strings": [
+     "Staff Radiologist, Department of Radiology"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Staff Radiologist, Department of Radiology",
+      "institution_ids": [
+       "https://openalex.org/I4210160893"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5023404067",
+     "display_name": "Fernando Melkun",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Fernando Melkun",
+    "raw_affiliation_strings": [
+     "Staff Anesthesiologist, Department of Anesthesiology"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Staff Anesthesiologist, Department of Anesthesiology",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5030882758",
+     "display_name": "Eduardo Lombardía García",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210160893",
+      "display_name": "Associated Radiologists",
+      "ror": "https://ror.org/05tt6ka81",
+      "country_code": "US",
+      "type": "other",
+      "lineage": [
+       "https://openalex.org/I4210160893"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Eduardo García",
+    "raw_affiliation_strings": [
+     "Staff Radiologist, Department of Radiology"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Staff Radiologist, Department of Radiology",
+      "institution_ids": [
+       "https://openalex.org/I4210160893"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5085212362",
+     "display_name": "Elsio Turchetto",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210103449",
+      "display_name": "Hospital Privado de Comunidad",
+      "ror": "https://ror.org/01jxef645",
+      "country_code": "AR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210103449"
+      ]
+     }
+    ],
+    "countries": [
+     "AR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Elsio Turchetto",
+    "raw_affiliation_strings": [
+     "Staff Intensivist, Department of Critical Care Medicine, Hospital Privado de Comunidad, Mar del Plata"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Staff Intensivist, Department of Critical Care Medicine, Hospital Privado de Comunidad, Mar del Plata",
+      "institution_ids": [
+       "https://openalex.org/I4210103449"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5035223402",
+     "display_name": "Paul Mulder",
+     "orcid": "https://orcid.org/0000-0002-5936-5704"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210101190",
+      "display_name": "Cancer Research And Biostatistics",
+      "ror": "https://ror.org/01575p865",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I4210101190"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210152479",
+      "display_name": "Statistical Service",
+      "ror": "https://ror.org/05vydvf11",
+      "country_code": "CY",
+      "type": "government",
+      "lineage": [
+       "https://openalex.org/I4210152479"
+      ]
+     }
+    ],
+    "countries": [
+     "CY",
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Paul G. H. Mulder",
+    "raw_affiliation_strings": [
+     "Associated Professor and Staff Statistician, Department of Biostatistics"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Associated Professor and Staff Statistician, Department of Biostatistics",
+      "institution_ids": [
+       "https://openalex.org/I4210101190",
+       "https://openalex.org/I4210152479"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5111848788",
+     "display_name": "Burkhard Lachmann",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I913958620",
+      "display_name": "Erasmus University Rotterdam",
+      "ror": "https://ror.org/057w15z03",
+      "country_code": "NL",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I913958620"
+      ]
+     }
+    ],
+    "countries": [
+     "NL"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Burkhard Lachmann",
+    "raw_affiliation_strings": [
+     "Professor of Experimental Anesthesiology, Department of Anesthesiology, Erasmus University Rotterdam, Rotterdam, The Netherlands"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Professor of Experimental Anesthesiology, Department of Anesthesiology, Erasmus University Rotterdam, Rotterdam, The Netherlands",
+      "institution_ids": [
+       "https://openalex.org/I913958620"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 7.6072
+ },
+ {
+  "id": "https://openalex.org/W2124679575",
+  "doi": "https://doi.org/10.1111/j.1460-9592.2009.02968.x",
+  "title": "Impact of laryngeal mask airway cuff pressures on the incidence of sore throat in children",
+  "publication_year": 2009,
+  "type": "article",
+  "cited_by_count": 101,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.9948999881744385,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 22,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5018684937",
+     "display_name": "JUSTIN GIN LEONG WONG",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2800419323",
+      "display_name": "Princess Margaret Hospital for Children",
+      "ror": "https://ror.org/04ec98z42",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799506148",
+       "https://openalex.org/I2800419323",
+       "https://openalex.org/I2800882159"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "JUSTIN GIN LEONG WONG",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, Princess Margaret Hospital for Children, Subiaco, WA 6008, Australia",
+     "Department of Anaesthesia, Princess Margaret Hospital for Children, Subiaco, WA, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Subiaco, WA 6008, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Subiaco, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5036334379",
+     "display_name": "Mairead Heaney",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2800419323",
+      "display_name": "Princess Margaret Hospital for Children",
+      "ror": "https://ror.org/04ec98z42",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799506148",
+       "https://openalex.org/I2800419323",
+       "https://openalex.org/I2800882159"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "MAIREAD HEANEY",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, Princess Margaret Hospital for Children, Subiaco, WA, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Subiaco, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5108403325",
+     "display_name": "NEIL A. CHAMBERS",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2800419323",
+      "display_name": "Princess Margaret Hospital for Children",
+      "ror": "https://ror.org/04ec98z42",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799506148",
+       "https://openalex.org/I2800419323",
+       "https://openalex.org/I2800882159"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "NEIL A. CHAMBERS",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, Princess Margaret Hospital for Children, Subiaco, WA, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Subiaco, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5065408565",
+     "display_name": "Thomas O. Erb",
+     "orcid": "https://orcid.org/0000-0001-9263-2352"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210126115",
+      "display_name": "University Children’s Hospital Basel",
+      "ror": "https://ror.org/02nhqek82",
+      "country_code": "CH",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210126115"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "THOMAS O. ERB",
+    "raw_affiliation_strings": [
+     "Division of Anaesthesia, University Hospital for Children, Basel, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Division of Anaesthesia, University Hospital for Children, Basel, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210126115"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5052979844",
+     "display_name": "Britta S. von Ungern‐Sternberg",
+     "orcid": "https://orcid.org/0000-0002-8043-8541"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I175234967",
+      "display_name": "The Kids Research Institute Australia",
+      "ror": "https://ror.org/01dbmzx78",
+      "country_code": "AU",
+      "type": "nonprofit",
+      "lineage": [
+       "https://openalex.org/I175234967"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800419323",
+      "display_name": "Princess Margaret Hospital for Children",
+      "ror": "https://ror.org/04ec98z42",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799506148",
+       "https://openalex.org/I2800419323",
+       "https://openalex.org/I2800882159"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "BRITTA S. VON UNGERN‐STERNBERG",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, Princess Margaret Hospital for Children, Subiaco, WA, Australia",
+     "Division of Clinical Sciences, Telethon Institute for Child Health Research, Roberts Road, Subiaco, WA, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Subiaco, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Division of Clinical Sciences, Telethon Institute for Child Health Research, Roberts Road, Subiaco, WA, Australia",
+      "institution_ids": [
+       "https://openalex.org/I175234967"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 7.6262
+ },
+ {
+  "id": "https://openalex.org/W2071901407",
+  "doi": "https://doi.org/10.1007/s001340101105",
+  "title": "The influence of endotracheal tube leak on the assessment of respiratory function in ventilated children",
+  "publication_year": 2001,
+  "type": "article",
+  "cited_by_count": 96,
+  "primary_topic": {
+   "id": "https://openalex.org/T10322",
+   "display_name": "Respiratory Support and Mechanisms",
+   "score": 0.5601000189781189,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 23,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5046443679",
+     "display_name": "Eleanor Main",
+     "orcid": "https://orcid.org/0000-0002-9739-3167"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2800129641",
+      "display_name": "Great Ormond Street Hospital",
+      "ror": "https://ror.org/00zn2c847",
+      "country_code": "GB",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2800129641",
+       "https://openalex.org/I2800349819"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I45129253",
+      "display_name": "University College London",
+      "ror": "https://ror.org/02jx3x895",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I124357947",
+       "https://openalex.org/I45129253"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Eleanor Main",
+    "raw_affiliation_strings": [
+     "Physiotherapy Department, Great Ormond Street Hospital for Children NHS Trust, Great Ormond Street, London WC1 N 3JH, UK. E.Main@ich.ucl.ac.uk",
+     "Portex Anaesthesia Intensive Therapy and Respiratory Medicine Unit, Institute of Child Health, 30 Guilford Street, London WC1N 1EH"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Physiotherapy Department, Great Ormond Street Hospital for Children NHS Trust, Great Ormond Street, London WC1 N 3JH, UK. E.Main@ich.ucl.ac.uk",
+      "institution_ids": [
+       "https://openalex.org/I2800129641",
+       "https://openalex.org/I45129253"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Portex Anaesthesia Intensive Therapy and Respiratory Medicine Unit, Institute of Child Health, 30 Guilford Street, London WC1N 1EH",
+      "institution_ids": [
+       "https://openalex.org/I45129253"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5109169154",
+     "display_name": "Rosemary Castle",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I45129253",
+      "display_name": "University College London",
+      "ror": "https://ror.org/02jx3x895",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I124357947",
+       "https://openalex.org/I45129253"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Rosemary Castle",
+    "raw_affiliation_strings": [
+     "Portex Anaesthesia Intensive Therapy and Respiratory Medicine Unit, Institute of Child Health, 30 Guilford Street, London WC1N 1EH, UK",
+     "Portex Anaesthesia Intensive Therapy and Respiratory Medicine Unit, Institute of Child Health, 30 Guilford Street, London WC1N 1EH"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Portex Anaesthesia Intensive Therapy and Respiratory Medicine Unit, Institute of Child Health, 30 Guilford Street, London WC1N 1EH, UK",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "Portex Anaesthesia Intensive Therapy and Respiratory Medicine Unit, Institute of Child Health, 30 Guilford Street, London WC1N 1EH",
+      "institution_ids": [
+       "https://openalex.org/I45129253"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5108107485",
+     "display_name": "Janet Stocks",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I45129253",
+      "display_name": "University College London",
+      "ror": "https://ror.org/02jx3x895",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I124357947",
+       "https://openalex.org/I45129253"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Janet Stocks",
+    "raw_affiliation_strings": [
+     "Portex Anaesthesia Intensive Therapy and Respiratory Medicine Unit, Institute of Child Health, 30 Guilford Street, London WC1N 1EH, UK",
+     "Portex Anaesthesia Intensive Therapy and Respiratory Medicine Unit, Institute of Child Health, 30 Guilford Street, London WC1N 1EH"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Portex Anaesthesia Intensive Therapy and Respiratory Medicine Unit, Institute of Child Health, 30 Guilford Street, London WC1N 1EH, UK",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "Portex Anaesthesia Intensive Therapy and Respiratory Medicine Unit, Institute of Child Health, 30 Guilford Street, London WC1N 1EH",
+      "institution_ids": [
+       "https://openalex.org/I45129253"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5114054553",
+     "display_name": "Ian James",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2800129641",
+      "display_name": "Great Ormond Street Hospital",
+      "ror": "https://ror.org/00zn2c847",
+      "country_code": "GB",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2800129641",
+       "https://openalex.org/I2800349819"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I45129253",
+      "display_name": "University College London",
+      "ror": "https://ror.org/02jx3x895",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I124357947",
+       "https://openalex.org/I45129253"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Ian James",
+    "raw_affiliation_strings": [
+     "Cardiorespiratory and Critical Care Unit, Great Ormond Street Hospital for Children NHS Trust, Great Ormond Street, London WC1 N 3JH, UK",
+     "Cardiorespiratory and Critical Care Unit, Great Ormond Street Hospital for Children NHS Trust, Great Ormond Street, London WC1 N 3JH"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Cardiorespiratory and Critical Care Unit, Great Ormond Street Hospital for Children NHS Trust, Great Ormond Street, London WC1 N 3JH, UK",
+      "institution_ids": [
+       "https://openalex.org/I2800129641",
+       "https://openalex.org/I45129253"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Cardiorespiratory and Critical Care Unit, Great Ormond Street Hospital for Children NHS Trust, Great Ormond Street, London WC1 N 3JH",
+      "institution_ids": [
+       "https://openalex.org/I2800129641",
+       "https://openalex.org/I45129253"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5109321649",
+     "display_name": "David Hatch",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I45129253",
+      "display_name": "University College London",
+      "ror": "https://ror.org/02jx3x895",
+      "country_code": "GB",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I124357947",
+       "https://openalex.org/I45129253"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "David Hatch",
+    "raw_affiliation_strings": [
+     "Portex Anaesthesia Intensive Therapy and Respiratory Medicine Unit, Institute of Child Health, 30 Guilford Street, London WC1N 1EH, UK",
+     "Portex Anaesthesia Intensive Therapy and Respiratory Medicine Unit, Institute of Child Health, 30 Guilford Street, London WC1N 1EH"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Portex Anaesthesia Intensive Therapy and Respiratory Medicine Unit, Institute of Child Health, 30 Guilford Street, London WC1N 1EH, UK",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "Portex Anaesthesia Intensive Therapy and Respiratory Medicine Unit, Institute of Child Health, 30 Guilford Street, London WC1N 1EH",
+      "institution_ids": [
+       "https://openalex.org/I45129253"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 2.529
+ },
+ {
+  "id": "https://openalex.org/W2048485328",
+  "doi": "https://doi.org/10.1046/j.1460-9592.2001.0774d.x",
+  "title": "Cuffed tubes in children: a 3‐year experience in a single institution",
+  "publication_year": 2001,
+  "type": "article",
+  "cited_by_count": 92,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.9997000098228455,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 2,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5108705576",
+     "display_name": "I. Murat",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210105722",
+      "display_name": "Hôpital d'Enfants",
+      "ror": "https://ror.org/01gvaa828",
+      "country_code": "FR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210105722"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "I. Murat",
+    "raw_affiliation_strings": [
+     "Service d’Anesthésie Réanimation, Hôpital d’enfants Armand Trousseau, 75571 Paris, France",
+     "Service d’Anesthésie Réanimation, Hôpital d’enfants Armand Trousseau, 75571 Paris, France"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Service d’Anesthésie Réanimation, Hôpital d’enfants Armand Trousseau, 75571 Paris, France",
+      "institution_ids": [
+       "https://openalex.org/I4210105722"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Service d’Anesthésie Réanimation, Hôpital d’enfants Armand Trousseau, 75571 Paris, France",
+      "institution_ids": [
+       "https://openalex.org/I4210105722"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 3.5287
+ },
+ {
+  "id": "https://openalex.org/W1903712712",
+  "doi": "https://doi.org/10.1111/j.1651-2227.2007.00578.x",
+  "title": "Assessment of the prevalence of microaspiration by gastric pepsin in the airway of ventilated children",
+  "publication_year": 2007,
+  "type": "article",
+  "cited_by_count": 74,
+  "primary_topic": {
+   "id": "https://openalex.org/T11681",
+   "display_name": "Nosocomial Infections in ICU",
+   "score": 0.8191999793052673,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2706",
+    "display_name": "Critical Care and Intensive Care Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 33,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5007442905",
+     "display_name": "Vani Gopalareddy",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210127752",
+      "display_name": "Levine Children's Hospital",
+      "ror": "https://ror.org/03032jm09",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1334069289",
+       "https://openalex.org/I4210127752"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Vani Gopalareddy",
+    "raw_affiliation_strings": [
+     "Gastroenterology, Levine Children's Hospital, Charlotte, NC, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Gastroenterology, Levine Children's Hospital, Charlotte, NC, USA",
+      "institution_ids": [
+       "https://openalex.org/I4210127752"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5084861913",
+     "display_name": "Zhaoping He",
+     "orcid": "https://orcid.org/0000-0002-4722-1674"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1316910977",
+      "display_name": "DuPont (United States)",
+      "ror": "https://ror.org/03g3m1w62",
+      "country_code": "US",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1316910977"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I1326254912",
+      "display_name": "Alfred I. duPont Hospital for Children",
+      "ror": "https://ror.org/00jyx0v10",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1326254912",
+       "https://openalex.org/I4210108049"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Zhaoping He",
+    "raw_affiliation_strings": [
+     "Nemours Biomedical Research, Alfred I DuPont Hospital for Children, Wilmington, DE, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nemours Biomedical Research, Alfred I DuPont Hospital for Children, Wilmington, DE, USA",
+      "institution_ids": [
+       "https://openalex.org/I1316910977",
+       "https://openalex.org/I1326254912"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5089390497",
+     "display_name": "Sam Soundar",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1316910977",
+      "display_name": "DuPont (United States)",
+      "ror": "https://ror.org/03g3m1w62",
+      "country_code": "US",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1316910977"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I1326254912",
+      "display_name": "Alfred I. duPont Hospital for Children",
+      "ror": "https://ror.org/00jyx0v10",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1326254912",
+       "https://openalex.org/I4210108049"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Sam Soundar",
+    "raw_affiliation_strings": [
+     "Nemours Biomedical Research, Alfred I DuPont Hospital for Children, Wilmington, DE, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nemours Biomedical Research, Alfred I DuPont Hospital for Children, Wilmington, DE, USA",
+      "institution_ids": [
+       "https://openalex.org/I1316910977",
+       "https://openalex.org/I1326254912"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5064318692",
+     "display_name": "Laura Bolling",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1316910977",
+      "display_name": "DuPont (United States)",
+      "ror": "https://ror.org/03g3m1w62",
+      "country_code": "US",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1316910977"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I1326254912",
+      "display_name": "Alfred I. duPont Hospital for Children",
+      "ror": "https://ror.org/00jyx0v10",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1326254912",
+       "https://openalex.org/I4210108049"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Laura Bolling",
+    "raw_affiliation_strings": [
+     "Nemours Biomedical Research, Alfred I DuPont Hospital for Children, Wilmington, DE, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nemours Biomedical Research, Alfred I DuPont Hospital for Children, Wilmington, DE, USA",
+      "institution_ids": [
+       "https://openalex.org/I1316910977",
+       "https://openalex.org/I1326254912"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5000703445",
+     "display_name": "Mansi Shah",
+     "orcid": "https://orcid.org/0000-0001-8884-3085"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1316910977",
+      "display_name": "DuPont (United States)",
+      "ror": "https://ror.org/03g3m1w62",
+      "country_code": "US",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I1316910977"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I1326254912",
+      "display_name": "Alfred I. duPont Hospital for Children",
+      "ror": "https://ror.org/00jyx0v10",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1326254912",
+       "https://openalex.org/I4210108049"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Mansi Shah",
+    "raw_affiliation_strings": [
+     "Nemours Biomedical Research, Alfred I DuPont Hospital for Children, Wilmington, DE, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Nemours Biomedical Research, Alfred I DuPont Hospital for Children, Wilmington, DE, USA",
+      "institution_ids": [
+       "https://openalex.org/I1316910977",
+       "https://openalex.org/I1326254912"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5001873979",
+     "display_name": "Scott Penfil",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1326254912",
+      "display_name": "Alfred I. duPont Hospital for Children",
+      "ror": "https://ror.org/00jyx0v10",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1326254912",
+       "https://openalex.org/I4210108049"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Scott Penfil",
+    "raw_affiliation_strings": [
+     "Critical Care, Alfred I. duPont Hospital for Children, Wilmington, DE, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Critical Care, Alfred I. duPont Hospital for Children, Wilmington, DE, USA",
+      "institution_ids": [
+       "https://openalex.org/I1326254912"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5031917193",
+     "display_name": "John McCloskey",
+     "orcid": "https://orcid.org/0000-0002-2855-9653"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1335321130",
+      "display_name": "Children's Hospital of Philadelphia",
+      "ror": "https://ror.org/01z7r7q48",
+      "country_code": "US",
+      "type": "funder",
+      "lineage": [
+       "https://openalex.org/I1335321130"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "John J McCloskey",
+    "raw_affiliation_strings": [
+     "Anesthesiology/Critical Care, Children's Hospital of Philadelphia, Philadelphia, PA, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Anesthesiology/Critical Care, Children's Hospital of Philadelphia, Philadelphia, PA, USA",
+      "institution_ids": [
+       "https://openalex.org/I1335321130"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5103402201",
+     "display_name": "Devendra I. Mehta",
+     "orcid": "https://orcid.org/0000-0002-2267-866X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210157309",
+      "display_name": "Nemours Children's Clinic",
+      "ror": "https://ror.org/04hma4w69",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210108049",
+       "https://openalex.org/I4210157309"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Devendra I Mehta",
+    "raw_affiliation_strings": [
+     "Gastroenterology/Nutrition, Nemours Children's Clinic, Orlando, FL, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Gastroenterology/Nutrition, Nemours Children's Clinic, Orlando, FL, USA",
+      "institution_ids": [
+       "https://openalex.org/I4210157309"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 0.7259
+ },
+ {
+  "id": "https://openalex.org/W1510468914",
+  "doi": "https://doi.org/10.1111/j.1399-6576.2010.02261.x",
+  "title": "Cuffed endotracheal tubes in children reduce sevoflurane and medical gas consumption and related costs",
+  "publication_year": 2010,
+  "type": "article",
+  "cited_by_count": 69,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.42739999294281006,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 12,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5020199223",
+     "display_name": "Stephan Eschertzhuber",
+     "orcid": "https://orcid.org/0000-0002-9647-5902"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I143397708",
+      "display_name": "Innsbruck Medical University",
+      "ror": "https://ror.org/03pt86f80",
+      "country_code": "AT",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I143397708"
+      ]
+     }
+    ],
+    "countries": [
+     "AT"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "S. ESCHERTZHUBER",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia and Intensive Care, Innsbruck Medical University, Innsbruck, Austria"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia and Intensive Care, Innsbruck Medical University, Innsbruck, Austria",
+      "institution_ids": [
+       "https://openalex.org/I143397708"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5004182693",
+     "display_name": "B. Salgo",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1288882113",
+      "display_name": "Boston Children's Hospital",
+      "ror": "https://ror.org/00dvg7y05",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1288882113"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210128593",
+      "display_name": "University Children's Hospital Zurich",
+      "ror": "https://ror.org/035vb3h42",
+      "country_code": "CH",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210128593"
+      ]
+     }
+    ],
+    "countries": [
+     "CH",
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "B. SALGO",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, University Children's Hospital, Zurich, Switzerland",
+     "Dept. of Anaesthesia University Children’s Hospital Zurich Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, University Children's Hospital, Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210128593"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Dept. of Anaesthesia University Children’s Hospital Zurich Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I1288882113"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5029616220",
+     "display_name": "A. Schmitz",
+     "orcid": "https://orcid.org/0000-0001-5759-7264"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1288882113",
+      "display_name": "Boston Children's Hospital",
+      "ror": "https://ror.org/00dvg7y05",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1288882113"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210128593",
+      "display_name": "University Children's Hospital Zurich",
+      "ror": "https://ror.org/035vb3h42",
+      "country_code": "CH",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210128593"
+      ]
+     }
+    ],
+    "countries": [
+     "CH",
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "A. SCHMITZ",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, University Children's Hospital, Zurich, Switzerland",
+     "Dept. of Anaesthesia University Children’s Hospital Zurich Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, University Children's Hospital, Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210128593"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Dept. of Anaesthesia University Children’s Hospital Zurich Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I1288882113"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5065958624",
+     "display_name": "Winfried Roth",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "W. ROTH",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, General Hospital, Traunstein, Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, General Hospital, Traunstein, Germany",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5010774822",
+     "display_name": "Angela Frotzler",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1288882113",
+      "display_name": "Boston Children's Hospital",
+      "ror": "https://ror.org/00dvg7y05",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1288882113"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210128593",
+      "display_name": "University Children's Hospital Zurich",
+      "ror": "https://ror.org/035vb3h42",
+      "country_code": "CH",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210128593"
+      ]
+     }
+    ],
+    "countries": [
+     "CH",
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "A. FROTZLER",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, University Children's Hospital, Zurich, Switzerland",
+     "Dept. of Anaesthesia University Children’s Hospital Zurich Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, University Children's Hospital, Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210128593"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Dept. of Anaesthesia University Children’s Hospital Zurich Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I1288882113"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5059307506",
+     "display_name": "C. Keller",
+     "orcid": "https://orcid.org/0000-0002-4779-2928"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210112317",
+      "display_name": "Schulthess-Klinik",
+      "ror": "https://ror.org/01xm3qq33",
+      "country_code": "CH",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210112317"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "C. H. KELLER",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, Schulthess Clinic, Zurich, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Schulthess Clinic, Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210112317"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5109039647",
+     "display_name": "Andreas Gerber",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1288882113",
+      "display_name": "Boston Children's Hospital",
+      "ror": "https://ror.org/00dvg7y05",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1288882113"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210128593",
+      "display_name": "University Children's Hospital Zurich",
+      "ror": "https://ror.org/035vb3h42",
+      "country_code": "CH",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210128593"
+      ]
+     }
+    ],
+    "countries": [
+     "CH",
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "A. C. GERBER",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, University Children's Hospital, Zurich, Switzerland",
+     "Dept. of Anaesthesia University Children’s Hospital Zurich Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, University Children's Hospital, Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210128593"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Dept. of Anaesthesia University Children’s Hospital Zurich Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I1288882113"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": null,
+     "display_name": "M. WEISS",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1288882113",
+      "display_name": "Boston Children's Hospital",
+      "ror": "https://ror.org/00dvg7y05",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1288882113"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210128593",
+      "display_name": "University Children's Hospital Zurich",
+      "ror": "https://ror.org/035vb3h42",
+      "country_code": "CH",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210128593"
+      ]
+     }
+    ],
+    "countries": [
+     "CH",
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "M. WEISS",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, University Children's Hospital, Zurich, Switzerland",
+     "Dept. of Anaesthesia University Children’s Hospital Zurich Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, University Children's Hospital, Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210128593"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Dept. of Anaesthesia University Children’s Hospital Zurich Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I1288882113"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 3.4342
+ },
+ {
+  "id": "https://openalex.org/W1893088443",
+  "doi": "https://doi.org/10.1111/j.1460-9592.2011.03727.x",
+  "title": "Predictors of postoperative sore throat in intubated children",
+  "publication_year": 2011,
+  "type": "article",
+  "cited_by_count": 49,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.9706000089645386,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 25,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5070272255",
+     "display_name": "Alyson Calder",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2800419323",
+      "display_name": "Princess Margaret Hospital for Children",
+      "ror": "https://ror.org/04ec98z42",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799506148",
+       "https://openalex.org/I2800419323",
+       "https://openalex.org/I2800882159"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Alyson Calder",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia and Pain Management, Princess Margaret Hospital for Children, Perth, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia and Pain Management, Princess Margaret Hospital for Children, Perth, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5053808161",
+     "display_name": "Mary Hegarty",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2800419323",
+      "display_name": "Princess Margaret Hospital for Children",
+      "ror": "https://ror.org/04ec98z42",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799506148",
+       "https://openalex.org/I2800419323",
+       "https://openalex.org/I2800882159"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Mary Hegarty",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia and Pain Management, Princess Margaret Hospital for Children, Perth, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia and Pain Management, Princess Margaret Hospital for Children, Perth, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5065408565",
+     "display_name": "Thomas O. Erb",
+     "orcid": "https://orcid.org/0000-0001-9263-2352"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1288882113",
+      "display_name": "Boston Children's Hospital",
+      "ror": "https://ror.org/00dvg7y05",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1288882113"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210126115",
+      "display_name": "University Children’s Hospital Basel",
+      "ror": "https://ror.org/02nhqek82",
+      "country_code": "CH",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210126115"
+      ]
+     }
+    ],
+    "countries": [
+     "CH",
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Thomas O. Erb",
+    "raw_affiliation_strings": [
+     "Division of Anaesthesia, University Children’s Hospital, Basel, Switzerland",
+     " Division of Anaesthesia, University Children’s Hospital, Basel, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Division of Anaesthesia, University Children’s Hospital, Basel, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210126115"
+      ]
+     },
+     {
+      "raw_affiliation_string": " Division of Anaesthesia, University Children’s Hospital, Basel, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I1288882113"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5052979844",
+     "display_name": "Britta S. von Ungern‐Sternberg",
+     "orcid": "https://orcid.org/0000-0002-8043-8541"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I177877127",
+      "display_name": "The University of Western Australia",
+      "ror": "https://ror.org/047272k79",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I177877127"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2800419323",
+      "display_name": "Princess Margaret Hospital for Children",
+      "ror": "https://ror.org/04ec98z42",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799506148",
+       "https://openalex.org/I2800419323",
+       "https://openalex.org/I2800882159"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Britta S. von Ungern‐Sternberg",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia and Pain Management, Princess Margaret Hospital for Children, Perth, Australia",
+     "School of Medicine and Pharmacology, The University of Western Australia, Perth, Australia",
+     "Department of Anaesthesia and Pain Management; Princess Margaret Hospital for Children; Perth Australia",
+     "School of Medicine and Pharmacology; The University of Western Australia; Perth Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia and Pain Management, Princess Margaret Hospital for Children, Perth, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     },
+     {
+      "raw_affiliation_string": "School of Medicine and Pharmacology, The University of Western Australia, Perth, Australia",
+      "institution_ids": [
+       "https://openalex.org/I177877127"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anaesthesia and Pain Management; Princess Margaret Hospital for Children; Perth Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800419323"
+      ]
+     },
+     {
+      "raw_affiliation_string": "School of Medicine and Pharmacology; The University of Western Australia; Perth Australia",
+      "institution_ids": [
+       "https://openalex.org/I177877127"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 1.7956
+ },
+ {
+  "id": "https://openalex.org/W2008999150",
+  "doi": "https://doi.org/10.1097/pcc.0b013e3181e89834",
+  "title": "Tracheal tube airleak in clinical practice and impact on tidal volume measurement in ventilated neonates*",
+  "publication_year": 2010,
+  "type": "article",
+  "cited_by_count": 41,
+  "primary_topic": {
+   "id": "https://openalex.org/T10549",
+   "display_name": "Neonatal Respiratory Health Research",
+   "score": 0.9998000264167786,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 33,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5037849680",
+     "display_name": "Ramadan Mahmoud",
+     "orcid": "https://orcid.org/0000-0002-7310-7795"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I7877124",
+      "display_name": "Charité - Universitätsmedizin Berlin",
+      "ror": "https://ror.org/001w7jn25",
+      "country_code": "DE",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I7877124"
+      ]
+     }
+    ],
+    "countries": [
+     "DE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Ramadan A. Mahmoud",
+    "raw_affiliation_strings": [
+     "Department of Neonatology, Charité University Medical Center, Berlin, Germany",
+     "Egypt",
+     "Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Neonatology, Charité University Medical Center, Berlin, Germany",
+      "institution_ids": [
+       "https://openalex.org/I7877124"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Egypt",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "Germany",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5045943156",
+     "display_name": "Hans Proquitté",
+     "orcid": "https://orcid.org/0000-0003-1327-5970"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I7877124",
+      "display_name": "Charité - Universitätsmedizin Berlin",
+      "ror": "https://ror.org/001w7jn25",
+      "country_code": "DE",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I7877124"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I97455420",
+      "display_name": "Sohag University",
+      "ror": "https://ror.org/02wgx3e98",
+      "country_code": "EG",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I97455420"
+      ]
+     }
+    ],
+    "countries": [
+     "DE",
+     "EG"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Hans Proquitté",
+    "raw_affiliation_strings": [
+     "From the Department of Neonatology (RAM, HP, CB, GS), Charité University Medical Center, Berlin, Germany",
+     "Sohag Faculty of Medicine (RAM, NF), Sohag University, Sohag, Egypt",
+     "Egypt",
+     "Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Neonatology (RAM, HP, CB, GS), Charité University Medical Center, Berlin, Germany",
+      "institution_ids": [
+       "https://openalex.org/I7877124"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sohag Faculty of Medicine (RAM, NF), Sohag University, Sohag, Egypt",
+      "institution_ids": [
+       "https://openalex.org/I97455420"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Egypt",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "Germany",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5085226677",
+     "display_name": "Naglaa Fawzy",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I7877124",
+      "display_name": "Charité - Universitätsmedizin Berlin",
+      "ror": "https://ror.org/001w7jn25",
+      "country_code": "DE",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I7877124"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I97455420",
+      "display_name": "Sohag University",
+      "ror": "https://ror.org/02wgx3e98",
+      "country_code": "EG",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I97455420"
+      ]
+     }
+    ],
+    "countries": [
+     "DE",
+     "EG"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Naglaa Fawzy",
+    "raw_affiliation_strings": [
+     "From the Department of Neonatology (RAM, HP, CB, GS), Charité University Medical Center, Berlin, Germany",
+     "Sohag Faculty of Medicine (RAM, NF), Sohag University, Sohag, Egypt",
+     "Egypt",
+     "Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Neonatology (RAM, HP, CB, GS), Charité University Medical Center, Berlin, Germany",
+      "institution_ids": [
+       "https://openalex.org/I7877124"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sohag Faculty of Medicine (RAM, NF), Sohag University, Sohag, Egypt",
+      "institution_ids": [
+       "https://openalex.org/I97455420"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Egypt",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "Germany",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5080212801",
+     "display_name": "Christoph Bührer",
+     "orcid": "https://orcid.org/0000-0002-9950-414X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I7877124",
+      "display_name": "Charité - Universitätsmedizin Berlin",
+      "ror": "https://ror.org/001w7jn25",
+      "country_code": "DE",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I7877124"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I97455420",
+      "display_name": "Sohag University",
+      "ror": "https://ror.org/02wgx3e98",
+      "country_code": "EG",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I97455420"
+      ]
+     }
+    ],
+    "countries": [
+     "DE",
+     "EG"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Christoph Bührer",
+    "raw_affiliation_strings": [
+     "From the Department of Neonatology (RAM, HP, CB, GS), Charité University Medical Center, Berlin, Germany",
+     "Sohag Faculty of Medicine (RAM, NF), Sohag University, Sohag, Egypt",
+     "Egypt",
+     "Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Neonatology (RAM, HP, CB, GS), Charité University Medical Center, Berlin, Germany",
+      "institution_ids": [
+       "https://openalex.org/I7877124"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sohag Faculty of Medicine (RAM, NF), Sohag University, Sohag, Egypt",
+      "institution_ids": [
+       "https://openalex.org/I97455420"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Egypt",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "Germany",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5025830839",
+     "display_name": "Gerd Schmalisch",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I7877124",
+      "display_name": "Charité - Universitätsmedizin Berlin",
+      "ror": "https://ror.org/001w7jn25",
+      "country_code": "DE",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I7877124"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I97455420",
+      "display_name": "Sohag University",
+      "ror": "https://ror.org/02wgx3e98",
+      "country_code": "EG",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I97455420"
+      ]
+     }
+    ],
+    "countries": [
+     "DE",
+     "EG"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Gerd Schmalisch",
+    "raw_affiliation_strings": [
+     "From the Department of Neonatology (RAM, HP, CB, GS), Charité University Medical Center, Berlin, Germany",
+     "Sohag Faculty of Medicine (RAM, NF), Sohag University, Sohag, Egypt",
+     "Egypt",
+     "Germany"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From the Department of Neonatology (RAM, HP, CB, GS), Charité University Medical Center, Berlin, Germany",
+      "institution_ids": [
+       "https://openalex.org/I7877124"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Sohag Faculty of Medicine (RAM, NF), Sohag University, Sohag, Egypt",
+      "institution_ids": [
+       "https://openalex.org/I97455420"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Egypt",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "Germany",
+      "institution_ids": []
+     }
+    ]
+   }
+  ],
+  "fwci": 1.3353
+ },
+ {
+  "id": "https://openalex.org/W2080791174",
+  "doi": "https://doi.org/10.1615/critrevbiomedeng.v39.i4.40",
+  "title": "Role of Airway Recruitment and Derecruitment in Lung Injury",
+  "publication_year": 2011,
+  "type": "article",
+  "cited_by_count": 37,
+  "primary_topic": {
+   "id": "https://openalex.org/T10549",
+   "display_name": "Neonatal Respiratory Health Research",
+   "score": 0.9994000196456909,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 109,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5010154615",
+     "display_name": "Samir N. Ghadiali",
+     "orcid": "https://orcid.org/0000-0002-6845-774X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I52357470",
+      "display_name": "The Ohio State University",
+      "ror": "https://ror.org/00rs6vg23",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I52357470"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Samir Ghadiali",
+    "raw_affiliation_strings": [
+     "Department of Biomedical Engineering, The Ohio State University, Columbus, Ohio 43221, USA. ghadiali.1@osu.edu",
+     "The Ohio State University"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Biomedical Engineering, The Ohio State University, Columbus, Ohio 43221, USA. ghadiali.1@osu.edu",
+      "institution_ids": [
+       "https://openalex.org/I52357470"
+      ]
+     },
+     {
+      "raw_affiliation_string": "The Ohio State University",
+      "institution_ids": [
+       "https://openalex.org/I52357470"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5101980340",
+     "display_name": "Yan Huang",
+     "orcid": "https://orcid.org/0000-0003-4822-5615"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I52357470",
+      "display_name": "The Ohio State University",
+      "ror": "https://ror.org/00rs6vg23",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I52357470"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Y. Huang",
+    "raw_affiliation_strings": [
+     "Department of Biomedical Engineering, Ohio State University, Columbus, Ohio;  Davis Heart &amp; Lung Research Institute, Ohio State University, Columbus, Ohio",
+     "Davis Heart &amp",
+     "Department of Biomedical Engineering, Ohio State University, Columbus, Ohio",
+     "Lung Research Institute, Ohio State University, Columbus, Ohio"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Biomedical Engineering, Ohio State University, Columbus, Ohio;  Davis Heart &amp; Lung Research Institute, Ohio State University, Columbus, Ohio",
+      "institution_ids": [
+       "https://openalex.org/I52357470"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Davis Heart &amp",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "Department of Biomedical Engineering, Ohio State University, Columbus, Ohio",
+      "institution_ids": [
+       "https://openalex.org/I52357470"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Lung Research Institute, Ohio State University, Columbus, Ohio",
+      "institution_ids": []
+     }
+    ]
+   }
+  ],
+  "fwci": 1.3666
+ },
+ {
+  "id": "https://openalex.org/W2075556575",
+  "doi": "https://doi.org/10.1016/j.ijporl.2012.02.055",
+  "title": "Effect of cuffed and uncuffed endotracheal tubes on the oropharyngeal oxygen and volatile anesthetic agent concentration in children",
+  "publication_year": 2012,
+  "type": "article",
+  "cited_by_count": 21,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.9697999954223633,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 10,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5021501823",
+     "display_name": "Vidya T. Raman",
+     "orcid": "https://orcid.org/0000-0001-9438-7813"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1314135232",
+      "display_name": "Nationwide Children's Hospital",
+      "ror": "https://ror.org/003rfsp33",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Vidya Raman",
+    "raw_affiliation_strings": [
+     "Department of Anesthesiology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH 43205, USA",
+     "Department of Anesthesiology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesiology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH 43205, USA",
+      "institution_ids": [
+       "https://openalex.org/I1314135232"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anesthesiology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States",
+      "institution_ids": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5048394709",
+     "display_name": "Joseph D. Tobias",
+     "orcid": "https://orcid.org/0000-0003-0550-6951"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1314135232",
+      "display_name": "Nationwide Children's Hospital",
+      "ror": "https://ror.org/003rfsp33",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Joseph D. Tobias",
+    "raw_affiliation_strings": [
+     "Department of Anesthesiology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States",
+     "Department of Pediatrics, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesiology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States",
+      "institution_ids": [
+       "https://openalex.org/I1314135232"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Pediatrics, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States",
+      "institution_ids": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5032625296",
+     "display_name": "Jason Bryant",
+     "orcid": "https://orcid.org/0000-0003-0373-3923"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1314135232",
+      "display_name": "Nationwide Children's Hospital",
+      "ror": "https://ror.org/003rfsp33",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Jason Bryant",
+    "raw_affiliation_strings": [
+     "Department of Anesthesiology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesiology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States",
+      "institution_ids": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5013332825",
+     "display_name": "Julie Rice",
+     "orcid": "https://orcid.org/0000-0002-1555-655X"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1314135232",
+      "display_name": "Nationwide Children's Hospital",
+      "ror": "https://ror.org/003rfsp33",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Julie Rice",
+    "raw_affiliation_strings": [
+     "Department of Anesthesiology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesiology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States",
+      "institution_ids": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5050996890",
+     "display_name": "Kris R. Jatana",
+     "orcid": "https://orcid.org/0000-0002-8475-9780"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1314135232",
+      "display_name": "Nationwide Children's Hospital",
+      "ror": "https://ror.org/003rfsp33",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Kris Jatana",
+    "raw_affiliation_strings": [
+     "Department of Otolaryngology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Otolaryngology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States",
+      "institution_ids": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5076940195",
+     "display_name": "M Merz",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1314135232",
+      "display_name": "Nationwide Children's Hospital",
+      "ror": "https://ror.org/003rfsp33",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Meredith Merz",
+    "raw_affiliation_strings": [
+     "Department of Otolaryngology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Otolaryngology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States",
+      "institution_ids": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5088897592",
+     "display_name": "Charles Elmaraghy",
+     "orcid": "https://orcid.org/0000-0002-1890-2876"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1314135232",
+      "display_name": "Nationwide Children's Hospital",
+      "ror": "https://ror.org/003rfsp33",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Charles Elmaraghy",
+    "raw_affiliation_strings": [
+     "Department of Otolaryngology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Otolaryngology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States",
+      "institution_ids": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5111646262",
+     "display_name": "D. Richard Kang",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1314135232",
+      "display_name": "Nationwide Children's Hospital",
+      "ror": "https://ror.org/003rfsp33",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "D. Richard Kang",
+    "raw_affiliation_strings": [
+     "Department of Otolaryngology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Otolaryngology, Nationwide Children's Hospital and the Ohio State University, Columbus, OH, United States",
+      "institution_ids": [
+       "https://openalex.org/I1314135232"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 3.1791
+ },
+ {
+  "id": "https://openalex.org/W2402761191",
+  "doi": "https://doi.org/10.1055/s-0032-1310411",
+  "title": "Geblockte Tuben bei Kindern - Rationaler und sicherer Einsatz",
+  "publication_year": 2012,
+  "type": "article",
+  "cited_by_count": 20,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.9987999796867371,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 0,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5078177293",
+     "display_name": "Markus Weiß",
+     "orcid": "https://orcid.org/0000-0002-5822-9591"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I202697423",
+      "display_name": "University of Zurich",
+      "ror": "https://ror.org/02crff812",
+      "country_code": "CH",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I202697423"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Markus Weiss",
+    "raw_affiliation_strings": [
+     "Universität Zürich. markus.weiss@kispi.uzh.ch"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Universität Zürich. markus.weiss@kispi.uzh.ch",
+      "institution_ids": [
+       "https://openalex.org/I202697423"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5109039647",
+     "display_name": "Andreas Gerber",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": true,
+    "raw_author_name": "Andreas Gerber",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   }
+  ],
+  "fwci": 0.9537
+ }
+]

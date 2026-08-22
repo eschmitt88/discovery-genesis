@@ -1,0 +1,1025 @@
+{
+ "id": "https://openalex.org/W2769002019",
+ "doi": "https://doi.org/10.1111/anae.14113",
+ "title": "Cuffed vs. uncuffed tracheal tubes in children: a randomised controlled trial comparing leak, tidal volume and complications",
+ "display_name": "Cuffed vs. uncuffed tracheal tubes in children: a randomised controlled trial comparing leak, tidal volume and complications",
+ "publication_year": 2017,
+ "publication_date": "2017-11-23",
+ "type": "article",
+ "cited_by_count": 169,
+ "citation_normalized_percentile": {
+  "value": 0.9981295,
+  "is_in_top_1_percent": true,
+  "is_in_top_10_percent": true
+ },
+ "cited_by_percentile_year": {
+  "min": 90,
+  "max": 100
+ },
+ "referenced_works": [
+  "https://openalex.org/W1510468914",
+  "https://openalex.org/W1893088443",
+  "https://openalex.org/W1903712712",
+  "https://openalex.org/W1967213291",
+  "https://openalex.org/W2008999150",
+  "https://openalex.org/W2028497084",
+  "https://openalex.org/W2048485328",
+  "https://openalex.org/W2071901407",
+  "https://openalex.org/W2075556575",
+  "https://openalex.org/W2079617022",
+  "https://openalex.org/W2080791174",
+  "https://openalex.org/W2098355134",
+  "https://openalex.org/W2124679575",
+  "https://openalex.org/W2132450469",
+  "https://openalex.org/W2402761191"
+ ],
+ "referenced_works_count": 15,
+ "related_works": [
+  "https://openalex.org/W1988236659",
+  "https://openalex.org/W2400692514",
+  "https://openalex.org/W2353626282",
+  "https://openalex.org/W2896886387",
+  "https://openalex.org/W2808713707",
+  "https://openalex.org/W2218521284",
+  "https://openalex.org/W1968288846",
+  "https://openalex.org/W2080656369",
+  "https://openalex.org/W2530735232",
+  "https://openalex.org/W3134108530"
+ ],
+ "primary_topic": {
+  "id": "https://openalex.org/T10830",
+  "display_name": "Airway Management and Intubation Techniques",
+  "score": 1.0,
+  "subfield": {
+   "id": "https://openalex.org/subfields/2703",
+   "display_name": "Anesthesiology and Pain Medicine"
+  },
+  "field": {
+   "id": "https://openalex.org/fields/27",
+   "display_name": "Medicine"
+  },
+  "domain": {
+   "id": "https://openalex.org/domains/4",
+   "display_name": "Health Sciences"
+  }
+ },
+ "topics": [
+  {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T10322",
+   "display_name": "Respiratory Support and Mechanisms",
+   "score": 0.9994000196456909,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T10436",
+   "display_name": "Anesthesia and Sedative Agents",
+   "score": 0.9966999888420105,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  }
+ ],
+ "keywords": [
+  {
+   "id": "https://openalex.org/keywords/medicine",
+   "display_name": "Medicine",
+   "score": 0.8789680004119873
+  },
+  {
+   "id": "https://openalex.org/keywords/tracheal-tube",
+   "display_name": "Tracheal tube",
+   "score": 0.8224585056304932
+  },
+  {
+   "id": "https://openalex.org/keywords/tidal-volume",
+   "display_name": "Tidal volume",
+   "score": 0.7746257781982422
+  },
+  {
+   "id": "https://openalex.org/keywords/leak",
+   "display_name": "Leak",
+   "score": 0.7061548233032227
+  },
+  {
+   "id": "https://openalex.org/keywords/anesthesia",
+   "display_name": "Anesthesia",
+   "score": 0.7058743238449097
+  },
+  {
+   "id": "https://openalex.org/keywords/tracheal-intubation",
+   "display_name": "Tracheal intubation",
+   "score": 0.6803516149520874
+  },
+  {
+   "id": "https://openalex.org/keywords/mechanical-ventilation",
+   "display_name": "Mechanical ventilation",
+   "score": 0.5383656024932861
+  },
+  {
+   "id": "https://openalex.org/keywords/ventilation",
+   "display_name": "Ventilation (architecture)",
+   "score": 0.5109168887138367
+  },
+  {
+   "id": "https://openalex.org/keywords/intubation",
+   "display_name": "Intubation",
+   "score": 0.5015945434570312
+  },
+  {
+   "id": "https://openalex.org/keywords/elective-surgery",
+   "display_name": "Elective surgery",
+   "score": 0.4537449777126312
+  },
+  {
+   "id": "https://openalex.org/keywords/surgery",
+   "display_name": "Surgery",
+   "score": 0.36188653111457825
+  },
+  {
+   "id": "https://openalex.org/keywords/respiratory-system",
+   "display_name": "Respiratory system",
+   "score": 0.34582725167274475
+  },
+  {
+   "id": "https://openalex.org/keywords/internal-medicine",
+   "display_name": "Internal medicine",
+   "score": 0.12111315131187439
+  }
+ ],
+ "concepts": [
+  {
+   "id": "https://openalex.org/C71924100",
+   "wikidata": "https://www.wikidata.org/wiki/Q11190",
+   "display_name": "Medicine",
+   "level": 0,
+   "score": 0.8789680004119873
+  },
+  {
+   "id": "https://openalex.org/C2778112660",
+   "wikidata": "https://www.wikidata.org/wiki/Q1340889",
+   "display_name": "Tracheal tube",
+   "level": 3,
+   "score": 0.8224585056304932
+  },
+  {
+   "id": "https://openalex.org/C2777257755",
+   "wikidata": "https://www.wikidata.org/wiki/Q3493813",
+   "display_name": "Tidal volume",
+   "level": 3,
+   "score": 0.7746257781982422
+  },
+  {
+   "id": "https://openalex.org/C2780378346",
+   "wikidata": "https://www.wikidata.org/wiki/Q1349983",
+   "display_name": "Leak",
+   "level": 2,
+   "score": 0.7061548233032227
+  },
+  {
+   "id": "https://openalex.org/C42219234",
+   "wikidata": "https://www.wikidata.org/wiki/Q131130",
+   "display_name": "Anesthesia",
+   "level": 1,
+   "score": 0.7058743238449097
+  },
+  {
+   "id": "https://openalex.org/C2778029997",
+   "wikidata": "https://www.wikidata.org/wiki/Q750195",
+   "display_name": "Tracheal intubation",
+   "level": 3,
+   "score": 0.6803516149520874
+  },
+  {
+   "id": "https://openalex.org/C2777080012",
+   "wikidata": "https://www.wikidata.org/wiki/Q3766250",
+   "display_name": "Mechanical ventilation",
+   "level": 2,
+   "score": 0.5383656024932861
+  },
+  {
+   "id": "https://openalex.org/C200457457",
+   "wikidata": "https://www.wikidata.org/wiki/Q584049",
+   "display_name": "Ventilation (architecture)",
+   "level": 2,
+   "score": 0.5109168887138367
+  },
+  {
+   "id": "https://openalex.org/C2778716859",
+   "wikidata": "https://www.wikidata.org/wiki/Q939018",
+   "display_name": "Intubation",
+   "level": 2,
+   "score": 0.5015945434570312
+  },
+  {
+   "id": "https://openalex.org/C2781312054",
+   "wikidata": "https://www.wikidata.org/wiki/Q5354947",
+   "display_name": "Elective surgery",
+   "level": 2,
+   "score": 0.4537449777126312
+  },
+  {
+   "id": "https://openalex.org/C141071460",
+   "wikidata": "https://www.wikidata.org/wiki/Q40821",
+   "display_name": "Surgery",
+   "level": 1,
+   "score": 0.36188653111457825
+  },
+  {
+   "id": "https://openalex.org/C534529494",
+   "wikidata": "https://www.wikidata.org/wiki/Q7891",
+   "display_name": "Respiratory system",
+   "level": 2,
+   "score": 0.34582725167274475
+  },
+  {
+   "id": "https://openalex.org/C126322002",
+   "wikidata": "https://www.wikidata.org/wiki/Q11180",
+   "display_name": "Internal medicine",
+   "level": 1,
+   "score": 0.12111315131187439
+  },
+  {
+   "id": "https://openalex.org/C87717796",
+   "wikidata": "https://www.wikidata.org/wiki/Q146326",
+   "display_name": "Environmental engineering",
+   "level": 1,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C78519656",
+   "wikidata": "https://www.wikidata.org/wiki/Q101333",
+   "display_name": "Mechanical engineering",
+   "level": 1,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C127413603",
+   "wikidata": "https://www.wikidata.org/wiki/Q11023",
+   "display_name": "Engineering",
+   "level": 0,
+   "score": 0.0
+  }
+ ],
+ "open_access": {
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null,
+  "any_repository_has_fulltext": false
+ },
+ "locations": [
+  {
+   "id": "doi:10.1111/anae.14113",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1111/anae.14113",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S7689096",
+    "display_name": "Anaesthesia",
+    "issn_l": "0003-2409",
+    "issn": [
+     "0003-2409",
+     "1365-2044"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "host_organization": "https://openalex.org/P4310320595",
+    "host_organization_name": "Wiley",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320595"
+    ],
+    "host_organization_lineage_names": [
+     "Wiley"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Anaesthesia",
+   "raw_type": "journal-article"
+  },
+  {
+   "id": "pmid:29168575",
+   "is_oa": false,
+   "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/29168575",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306525036",
+    "display_name": "PubMed",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I1299303238",
+    "host_organization_name": "National Institutes of Health",
+    "host_organization_lineage": [
+     "https://openalex.org/I1299303238"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Anaesthesia",
+   "raw_type": "Journal Article"
+  },
+  {
+   "id": "pmh:oai:pure.atira.dk:publications/224d48f8-bcd2-4999-bc37-43409a3e18a8",
+   "is_oa": false,
+   "landing_page_url": "https://research-repository.uwa.edu.au/en/publications/224d48f8-bcd2-4999-bc37-43409a3e18a8",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306402523",
+    "display_name": "UWA Profiles and Research Repository (University of Western Australia)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I177877127",
+    "host_organization_name": "The University of Western Australia",
+    "host_organization_lineage": [
+     "https://openalex.org/I177877127"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "Chambers, N A, Ramgolam, A, Sommerfield, D, Zhang, G, Ledowski, T, Thurm, M, Lethbridge, M, Hegarty, M K & von Ungern-Sternberg, B S 2018, 'Cuffed vs. uncuffed tracheal tubes in children : a randomised controlled trial comparing leak, tidal volume and complications', Anaesthesia, vol. 73, no. 2, pp. 160-168. https://doi.org/10.1111/anae.14113",
+   "raw_type": "info:eu-repo/semantics/article"
+  },
+  {
+   "id": "pmh:oai:espace.curtin.edu.au:20.500.11937/66654",
+   "is_oa": false,
+   "landing_page_url": "http://hdl.handle.net/20.500.11937/66654",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306401790",
+    "display_name": "eSpace (Curtin University)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I205640436",
+    "host_organization_name": "Curtin University",
+    "host_organization_lineage": [
+     "https://openalex.org/I205640436"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Journal Article"
+  }
+ ],
+ "best_oa_location": null,
+ "authorships": [
+  {
+   "author_position": "first",
+   "author": {
+    "id": "https://openalex.org/A5108447536",
+    "display_name": "N. A. Chambers",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I177877127",
+     "display_name": "The University of Western Australia",
+     "ror": "https://ror.org/047272k79",
+     "country_code": "AU",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I177877127"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I2800419323",
+     "display_name": "Princess Margaret Hospital for Children",
+     "ror": "https://ror.org/04ec98z42",
+     "country_code": "AU",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I2799506148",
+      "https://openalex.org/I2800419323",
+      "https://openalex.org/I2800882159"
+     ]
+    }
+   ],
+   "countries": [
+    "AU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "N. A. Chambers",
+   "raw_affiliation_strings": [
+    "Department of Anaesthesia Princess Margaret Hospital for Children Perth Australia",
+    "School of Medicine and Pharmacology The University of Western Australia Perth Australia",
+    "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, Australia",
+    "School of Medicine and Pharmacology, The University of Western Australia, Perth, Australia"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department of Anaesthesia Princess Margaret Hospital for Children Perth Australia",
+     "institution_ids": [
+      "https://openalex.org/I2800419323"
+     ]
+    },
+    {
+     "raw_affiliation_string": "School of Medicine and Pharmacology The University of Western Australia Perth Australia",
+     "institution_ids": [
+      "https://openalex.org/I177877127"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, Australia",
+     "institution_ids": [
+      "https://openalex.org/I2800419323"
+     ]
+    },
+    {
+     "raw_affiliation_string": "School of Medicine and Pharmacology, The University of Western Australia, Perth, Australia",
+     "institution_ids": [
+      "https://openalex.org/I177877127"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5014897087",
+    "display_name": "Anoop Ramgolam",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I175234967",
+     "display_name": "The Kids Research Institute Australia",
+     "ror": "https://ror.org/01dbmzx78",
+     "country_code": "AU",
+     "type": "nonprofit",
+     "lineage": [
+      "https://openalex.org/I175234967"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I2800419323",
+     "display_name": "Princess Margaret Hospital for Children",
+     "ror": "https://ror.org/04ec98z42",
+     "country_code": "AU",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I2799506148",
+      "https://openalex.org/I2800419323",
+      "https://openalex.org/I2800882159"
+     ]
+    }
+   ],
+   "countries": [
+    "AU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "A. Ramgolam",
+   "raw_affiliation_strings": [
+    "Children's Lung Health Telethon Kids Institute Perth Australia",
+    "Department of Anaesthesia Princess Margaret Hospital for Children Perth Australia",
+    "Children's Lung Health, Telethon Kids Institute, Perth, Australia",
+    "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, Australia"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Children's Lung Health Telethon Kids Institute Perth Australia",
+     "institution_ids": [
+      "https://openalex.org/I175234967"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Department of Anaesthesia Princess Margaret Hospital for Children Perth Australia",
+     "institution_ids": [
+      "https://openalex.org/I2800419323"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Children's Lung Health, Telethon Kids Institute, Perth, Australia",
+     "institution_ids": [
+      "https://openalex.org/I175234967"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, Australia",
+     "institution_ids": [
+      "https://openalex.org/I2800419323"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5086666911",
+    "display_name": "David Sommerfield",
+    "orcid": "https://orcid.org/0000-0003-3600-1315"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I2800419323",
+     "display_name": "Princess Margaret Hospital for Children",
+     "ror": "https://ror.org/04ec98z42",
+     "country_code": "AU",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I2799506148",
+      "https://openalex.org/I2800419323",
+      "https://openalex.org/I2800882159"
+     ]
+    }
+   ],
+   "countries": [
+    "AU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "D. Sommerfield",
+   "raw_affiliation_strings": [
+    "Department of Anaesthesia Princess Margaret Hospital for Children Perth Australia",
+    "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, Australia"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department of Anaesthesia Princess Margaret Hospital for Children Perth Australia",
+     "institution_ids": [
+      "https://openalex.org/I2800419323"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, Australia",
+     "institution_ids": [
+      "https://openalex.org/I2800419323"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5005014348",
+    "display_name": "Guicheng Zhang",
+    "orcid": "https://orcid.org/0000-0001-9888-5385"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I177877127",
+     "display_name": "The University of Western Australia",
+     "ror": "https://ror.org/047272k79",
+     "country_code": "AU",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I177877127"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I205640436",
+     "display_name": "Curtin University",
+     "ror": "https://ror.org/02n415q13",
+     "country_code": "AU",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I205640436"
+     ]
+    }
+   ],
+   "countries": [
+    "AU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "G. Zhang",
+   "raw_affiliation_strings": [
+    "School of Public Health Centre for Genetic Origins of Health and Disease Curtin University and University of Western Australia Australia",
+    "School of Public Health, Centre for Genetic Origins of Health and Disease, Curtin University and University of Western Australia, Australia"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "School of Public Health Centre for Genetic Origins of Health and Disease Curtin University and University of Western Australia Australia",
+     "institution_ids": [
+      "https://openalex.org/I177877127",
+      "https://openalex.org/I205640436"
+     ]
+    },
+    {
+     "raw_affiliation_string": "School of Public Health, Centre for Genetic Origins of Health and Disease, Curtin University and University of Western Australia, Australia",
+     "institution_ids": [
+      "https://openalex.org/I177877127",
+      "https://openalex.org/I205640436"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5026057684",
+    "display_name": "Thomas Ledowski",
+    "orcid": "https://orcid.org/0000-0002-1837-3601"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I2799740997",
+     "display_name": "Royal Perth Hospital",
+     "ror": "https://ror.org/00zc2xc51",
+     "country_code": "AU",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I2799506148",
+      "https://openalex.org/I2799506148",
+      "https://openalex.org/I2799740997",
+      "https://openalex.org/I2800882159",
+      "https://openalex.org/I2800882159",
+      "https://openalex.org/I4388446364",
+      "https://openalex.org/I4388446364",
+      "https://openalex.org/I4405257575"
+     ]
+    }
+   ],
+   "countries": [
+    "AU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "T. Ledowski",
+   "raw_affiliation_strings": [
+    "Department of Anaesthesia Royal Perth Hospital Perth Australia",
+    "Department of Anaesthesia, Royal Perth Hospital, Perth, Australia"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department of Anaesthesia Royal Perth Hospital Perth Australia",
+     "institution_ids": [
+      "https://openalex.org/I2799740997"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Department of Anaesthesia, Royal Perth Hospital, Perth, Australia",
+     "institution_ids": [
+      "https://openalex.org/I2799740997"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5038597006",
+    "display_name": "Mascha Thurm",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I2800419323",
+     "display_name": "Princess Margaret Hospital for Children",
+     "ror": "https://ror.org/04ec98z42",
+     "country_code": "AU",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I2799506148",
+      "https://openalex.org/I2800419323",
+      "https://openalex.org/I2800882159"
+     ]
+    }
+   ],
+   "countries": [
+    "AU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "M. Thurm",
+   "raw_affiliation_strings": [
+    "Department of Anaesthesia Princess Margaret Hospital for Children Perth Australia",
+    "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, Australia"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department of Anaesthesia Princess Margaret Hospital for Children Perth Australia",
+     "institution_ids": [
+      "https://openalex.org/I2800419323"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, Australia",
+     "institution_ids": [
+      "https://openalex.org/I2800419323"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5051094939",
+    "display_name": "M. Lethbridge",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I2800419323",
+     "display_name": "Princess Margaret Hospital for Children",
+     "ror": "https://ror.org/04ec98z42",
+     "country_code": "AU",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I2799506148",
+      "https://openalex.org/I2800419323",
+      "https://openalex.org/I2800882159"
+     ]
+    }
+   ],
+   "countries": [
+    "AU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "M. Lethbridge",
+   "raw_affiliation_strings": [
+    "Department of Anaesthesia Princess Margaret Hospital for Children Perth Australia",
+    "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, Australia"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department of Anaesthesia Princess Margaret Hospital for Children Perth Australia",
+     "institution_ids": [
+      "https://openalex.org/I2800419323"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, Australia",
+     "institution_ids": [
+      "https://openalex.org/I2800419323"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5053808161",
+    "display_name": "Mary Hegarty",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I2800419323",
+     "display_name": "Princess Margaret Hospital for Children",
+     "ror": "https://ror.org/04ec98z42",
+     "country_code": "AU",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I2799506148",
+      "https://openalex.org/I2800419323",
+      "https://openalex.org/I2800882159"
+     ]
+    }
+   ],
+   "countries": [
+    "AU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "M. Hegarty",
+   "raw_affiliation_strings": [
+    "Department of Anaesthesia Princess Margaret Hospital for Children Perth Australia",
+    "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, Australia"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department of Anaesthesia Princess Margaret Hospital for Children Perth Australia",
+     "institution_ids": [
+      "https://openalex.org/I2800419323"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, Australia",
+     "institution_ids": [
+      "https://openalex.org/I2800419323"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "last",
+   "author": {
+    "id": "https://openalex.org/A5052979844",
+    "display_name": "Britta S. von Ungern‐Sternberg",
+    "orcid": "https://orcid.org/0000-0002-8043-8541"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I177877127",
+     "display_name": "The University of Western Australia",
+     "ror": "https://ror.org/047272k79",
+     "country_code": "AU",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I177877127"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I2800419323",
+     "display_name": "Princess Margaret Hospital for Children",
+     "ror": "https://ror.org/04ec98z42",
+     "country_code": "AU",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I2799506148",
+      "https://openalex.org/I2800419323",
+      "https://openalex.org/I2800882159"
+     ]
+    }
+   ],
+   "countries": [
+    "AU"
+   ],
+   "is_corresponding": true,
+   "raw_author_name": "B. S. von Ungern‐Sternberg",
+   "raw_affiliation_strings": [
+    "Department of Anaesthesia Princess Margaret Hospital for Children Perth Australia",
+    "School of Medicine and Pharmacology The University of Western Australia Perth Australia",
+    "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, Australia",
+    "School of Medicine and Pharmacology, The University of Western Australia, Perth, Australia"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department of Anaesthesia Princess Margaret Hospital for Children Perth Australia",
+     "institution_ids": [
+      "https://openalex.org/I2800419323"
+     ]
+    },
+    {
+     "raw_affiliation_string": "School of Medicine and Pharmacology The University of Western Australia Perth Australia",
+     "institution_ids": [
+      "https://openalex.org/I177877127"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Department of Anaesthesia, Princess Margaret Hospital for Children, Perth, Australia",
+     "institution_ids": [
+      "https://openalex.org/I2800419323"
+     ]
+    },
+    {
+     "raw_affiliation_string": "School of Medicine and Pharmacology, The University of Western Australia, Perth, Australia",
+     "institution_ids": [
+      "https://openalex.org/I177877127"
+     ]
+    }
+   ]
+  }
+ ],
+ "biblio": {
+  "volume": "73",
+  "issue": "2",
+  "first_page": "160",
+  "last_page": "168"
+ },
+ "ids": {
+  "openalex": "https://openalex.org/W2769002019",
+  "doi": "https://doi.org/10.1111/anae.14113",
+  "mag": "2769002019",
+  "pmid": "https://pubmed.ncbi.nlm.nih.gov/29168575"
+ },
+ "is_retracted": false,
+ "counts_by_year": [
+  {
+   "year": 2026,
+   "cited_by_count": 2
+  },
+  {
+   "year": 2025,
+   "cited_by_count": 8
+  },
+  {
+   "year": 2024,
+   "cited_by_count": 7
+  },
+  {
+   "year": 2023,
+   "cited_by_count": 8
+  },
+  {
+   "year": 2022,
+   "cited_by_count": 13
+  },
+  {
+   "year": 2021,
+   "cited_by_count": 15
+  },
+  {
+   "year": 2020,
+   "cited_by_count": 9
+  },
+  {
+   "year": 2019,
+   "cited_by_count": 99
+  },
+  {
+   "year": 2018,
+   "cited_by_count": 7
+  },
+  {
+   "year": 2017,
+   "cited_by_count": 1
+  }
+ ],
+ "primary_location": {
+  "id": "doi:10.1111/anae.14113",
+  "is_oa": false,
+  "landing_page_url": "https://doi.org/10.1111/anae.14113",
+  "pdf_url": null,
+  "source": {
+   "id": "https://openalex.org/S7689096",
+   "display_name": "Anaesthesia",
+   "issn_l": "0003-2409",
+   "issn": [
+    "0003-2409",
+    "1365-2044"
+   ],
+   "is_oa": false,
+   "is_in_doaj": false,
+   "is_core": true,
+   "host_organization": "https://openalex.org/P4310320595",
+   "host_organization_name": "Wiley",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310320595"
+   ],
+   "host_organization_lineage_names": [
+    "Wiley"
+   ],
+   "type": "journal"
+  },
+  "license": null,
+  "license_id": null,
+  "version": "publishedVersion",
+  "is_accepted": true,
+  "is_published": true,
+  "raw_source_name": "Anaesthesia",
+  "raw_type": "journal-article"
+ },
+ "language": "en",
+ "fwci": 32.7957,
+ "abstract": "Summary Cuffed tracheal tubes are increasingly used in paediatric anaesthetic practice. This study compared tidal volume and leakage around cuffed and uncuffed tracheal tubes in children who required standardised mechanical ventilation of their lungs in the operating theatre. Children (0–16 years) undergoing elective surgery requiring tracheal intubation were randomly assigned to receive either a cuffed or an uncuffed tracheal tube. Assessments were made at five different time‐points: during volume‐controlled ventilation 6 ml.kg −1 , PEEP 5 cmH 2 O and during pressure‐controlled ventilation 10 cmH 2 O / PEEP 5 cmH 2 O. The pressure‐controlled ventilation measurement time‐points were: just before a standardised recruitment manoeuvre; just after recruitment manoeuvre; 10 min; and 30 min after the recruitment manoeuvre. Problems and complications were recorded. During volume‐controlled ventilation, leakage was significantly less with cuffed tracheal tubes than with uncuffed tracheal tubes; in ml.kg −1 , median (IQR [range]) 0.20 (0.13–0.39 [0.04–0.60]) vs. 0.82 (0.58–1.38 [0.24–4.85]), respectively, p < 0.001. With pressure‐controlled ventilation, leakage was less with cuffed tracheal tubes and stayed unchanged over a 30‐min period, whereas with uncuffed tracheal tubes, leakage was higher and increased further over the 30‐min period. Tidal volumes were higher in the cuffed group and increased over time, but in the uncuffed group were lower and decreased over time. Both groups showed an increase in tidal volumes following recruitment manoeuvres. There were more short‐term complications with uncuffed tracheal tubes, but no major complications were recorded in either group at long‐term follow‐up. With standardised ventilator settings, cuffed tracheal tubes produced better ventilation characteristics compared with uncuffed tracheal tubes during general anaesthesia for routine elective surgery."
+}

@@ -1,0 +1,669 @@
+{
+ "id": "https://openalex.org/W2095690595",
+ "doi": "https://doi.org/10.1109/twc.2010.04.090553",
+ "title": "Coordinated linear beamforming in downlink multi-cell wireless networks",
+ "display_name": "Coordinated linear beamforming in downlink multi-cell wireless networks",
+ "publication_year": 2010,
+ "publication_date": "2010-04-01",
+ "type": "article",
+ "cited_by_count": 192,
+ "citation_normalized_percentile": {
+  "value": 0.99669811,
+  "is_in_top_1_percent": true,
+  "is_in_top_10_percent": true
+ },
+ "cited_by_percentile_year": {
+  "min": 89,
+  "max": 100
+ },
+ "referenced_works": [
+  "https://openalex.org/W1974891392",
+  "https://openalex.org/W1976109068",
+  "https://openalex.org/W1997834106",
+  "https://openalex.org/W2001538423",
+  "https://openalex.org/W2030546921",
+  "https://openalex.org/W2036504595",
+  "https://openalex.org/W2049532134",
+  "https://openalex.org/W2098660254",
+  "https://openalex.org/W2099003693",
+  "https://openalex.org/W2099111195",
+  "https://openalex.org/W2099654130",
+  "https://openalex.org/W2101348158",
+  "https://openalex.org/W2101493165",
+  "https://openalex.org/W2101727634",
+  "https://openalex.org/W2105147296",
+  "https://openalex.org/W2109005286",
+  "https://openalex.org/W2109870918",
+  "https://openalex.org/W2112389289",
+  "https://openalex.org/W2124358875",
+  "https://openalex.org/W2130716918",
+  "https://openalex.org/W2131350052",
+  "https://openalex.org/W2132881059",
+  "https://openalex.org/W2138511162",
+  "https://openalex.org/W2139771702",
+  "https://openalex.org/W2147891089",
+  "https://openalex.org/W2149258241",
+  "https://openalex.org/W2149787135",
+  "https://openalex.org/W2151896803",
+  "https://openalex.org/W2154163615",
+  "https://openalex.org/W2156262554",
+  "https://openalex.org/W2159637866",
+  "https://openalex.org/W2296319761",
+  "https://openalex.org/W2546079873",
+  "https://openalex.org/W4250589301",
+  "https://openalex.org/W6682907010",
+  "https://openalex.org/W6729195342"
+ ],
+ "referenced_works_count": 36,
+ "related_works": [
+  "https://openalex.org/W2103423687",
+  "https://openalex.org/W3087844490",
+  "https://openalex.org/W3090699061",
+  "https://openalex.org/W2059624282",
+  "https://openalex.org/W2051762234",
+  "https://openalex.org/W2201703892",
+  "https://openalex.org/W2055634632",
+  "https://openalex.org/W2787827467",
+  "https://openalex.org/W2131408743",
+  "https://openalex.org/W4367031485"
+ ],
+ "primary_topic": {
+  "id": "https://openalex.org/T10148",
+  "display_name": "Advanced MIMO Systems Optimization",
+  "score": 1.0,
+  "subfield": {
+   "id": "https://openalex.org/subfields/2208",
+   "display_name": "Electrical and Electronic Engineering"
+  },
+  "field": {
+   "id": "https://openalex.org/fields/22",
+   "display_name": "Engineering"
+  },
+  "domain": {
+   "id": "https://openalex.org/domains/3",
+   "display_name": "Physical Sciences"
+  }
+ },
+ "topics": [
+  {
+   "id": "https://openalex.org/T10148",
+   "display_name": "Advanced MIMO Systems Optimization",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T10575",
+   "display_name": "Wireless Communication Networks Research",
+   "score": 0.9997000098228455,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1705",
+    "display_name": "Computer Networks and Communications"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/17",
+    "display_name": "Computer Science"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T10125",
+   "display_name": "Advanced Wireless Communication Techniques",
+   "score": 0.9991000294685364,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2208",
+    "display_name": "Electrical and Electronic Engineering"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/22",
+    "display_name": "Engineering"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  }
+ ],
+ "keywords": [
+  {
+   "id": "https://openalex.org/keywords/beamforming",
+   "display_name": "Beamforming",
+   "score": 0.7846674919128418
+  },
+  {
+   "id": "https://openalex.org/keywords/telecommunications-link",
+   "display_name": "Telecommunications link",
+   "score": 0.7804853916168213
+  },
+  {
+   "id": "https://openalex.org/keywords/computer-science",
+   "display_name": "Computer science",
+   "score": 0.7038179039955139
+  },
+  {
+   "id": "https://openalex.org/keywords/base-station",
+   "display_name": "Base station",
+   "score": 0.6979461908340454
+  },
+  {
+   "id": "https://openalex.org/keywords/mathematical-optimization",
+   "display_name": "Mathematical optimization",
+   "score": 0.5784972310066223
+  },
+  {
+   "id": "https://openalex.org/keywords/wireless",
+   "display_name": "Wireless",
+   "score": 0.5655907392501831
+  },
+  {
+   "id": "https://openalex.org/keywords/space-division-multiple-access",
+   "display_name": "Space-division multiple access",
+   "score": 0.49460718035697937
+  },
+  {
+   "id": "https://openalex.org/keywords/optimization-problem",
+   "display_name": "Optimization problem",
+   "score": 0.47946226596832275
+  },
+  {
+   "id": "https://openalex.org/keywords/wireless-network",
+   "display_name": "Wireless network",
+   "score": 0.4673699736595154
+  },
+  {
+   "id": "https://openalex.org/keywords/iterative-method",
+   "display_name": "Iterative method",
+   "score": 0.465656578540802
+  },
+  {
+   "id": "https://openalex.org/keywords/transmitter-power-output",
+   "display_name": "Transmitter power output",
+   "score": 0.4422626793384552
+  },
+  {
+   "id": "https://openalex.org/keywords/orthogonal-frequency-division-multiple-access",
+   "display_name": "Orthogonal frequency-division multiple access",
+   "score": 0.42260003089904785
+  },
+  {
+   "id": "https://openalex.org/keywords/convex-optimization",
+   "display_name": "Convex optimization",
+   "score": 0.41382133960723877
+  },
+  {
+   "id": "https://openalex.org/keywords/transmitter",
+   "display_name": "Transmitter",
+   "score": 0.37822672724723816
+  },
+  {
+   "id": "https://openalex.org/keywords/channel",
+   "display_name": "Channel (broadcasting)",
+   "score": 0.3724321126937866
+  },
+  {
+   "id": "https://openalex.org/keywords/algorithm",
+   "display_name": "Algorithm",
+   "score": 0.3527393937110901
+  },
+  {
+   "id": "https://openalex.org/keywords/telecommunications",
+   "display_name": "Telecommunications",
+   "score": 0.2458798885345459
+  },
+  {
+   "id": "https://openalex.org/keywords/orthogonal-frequency-division-multiplexing",
+   "display_name": "Orthogonal frequency-division multiplexing",
+   "score": 0.23794683814048767
+  },
+  {
+   "id": "https://openalex.org/keywords/mathematics",
+   "display_name": "Mathematics",
+   "score": 0.218950092792511
+  },
+  {
+   "id": "https://openalex.org/keywords/regular-polygon",
+   "display_name": "Regular polygon",
+   "score": 0.16624176502227783
+  }
+ ],
+ "concepts": [
+  {
+   "id": "https://openalex.org/C54197355",
+   "wikidata": "https://www.wikidata.org/wiki/Q5782992",
+   "display_name": "Beamforming",
+   "level": 2,
+   "score": 0.7846674919128418
+  },
+  {
+   "id": "https://openalex.org/C138660444",
+   "wikidata": "https://www.wikidata.org/wiki/Q5607897",
+   "display_name": "Telecommunications link",
+   "level": 2,
+   "score": 0.7804853916168213
+  },
+  {
+   "id": "https://openalex.org/C41008148",
+   "wikidata": "https://www.wikidata.org/wiki/Q21198",
+   "display_name": "Computer science",
+   "level": 0,
+   "score": 0.7038179039955139
+  },
+  {
+   "id": "https://openalex.org/C68649174",
+   "wikidata": "https://www.wikidata.org/wiki/Q1379116",
+   "display_name": "Base station",
+   "level": 2,
+   "score": 0.6979461908340454
+  },
+  {
+   "id": "https://openalex.org/C126255220",
+   "wikidata": "https://www.wikidata.org/wiki/Q141495",
+   "display_name": "Mathematical optimization",
+   "level": 1,
+   "score": 0.5784972310066223
+  },
+  {
+   "id": "https://openalex.org/C555944384",
+   "wikidata": "https://www.wikidata.org/wiki/Q249",
+   "display_name": "Wireless",
+   "level": 2,
+   "score": 0.5655907392501831
+  },
+  {
+   "id": "https://openalex.org/C2778140939",
+   "wikidata": "https://www.wikidata.org/wiki/Q3494197",
+   "display_name": "Space-division multiple access",
+   "level": 3,
+   "score": 0.49460718035697937
+  },
+  {
+   "id": "https://openalex.org/C137836250",
+   "wikidata": "https://www.wikidata.org/wiki/Q984063",
+   "display_name": "Optimization problem",
+   "level": 2,
+   "score": 0.47946226596832275
+  },
+  {
+   "id": "https://openalex.org/C108037233",
+   "wikidata": "https://www.wikidata.org/wiki/Q11375",
+   "display_name": "Wireless network",
+   "level": 3,
+   "score": 0.4673699736595154
+  },
+  {
+   "id": "https://openalex.org/C159694833",
+   "wikidata": "https://www.wikidata.org/wiki/Q2321565",
+   "display_name": "Iterative method",
+   "level": 2,
+   "score": 0.465656578540802
+  },
+  {
+   "id": "https://openalex.org/C65422117",
+   "wikidata": "https://www.wikidata.org/wiki/Q358527",
+   "display_name": "Transmitter power output",
+   "level": 4,
+   "score": 0.4422626793384552
+  },
+  {
+   "id": "https://openalex.org/C2775907427",
+   "wikidata": "https://www.wikidata.org/wiki/Q2697649",
+   "display_name": "Orthogonal frequency-division multiple access",
+   "level": 4,
+   "score": 0.42260003089904785
+  },
+  {
+   "id": "https://openalex.org/C157972887",
+   "wikidata": "https://www.wikidata.org/wiki/Q463359",
+   "display_name": "Convex optimization",
+   "level": 3,
+   "score": 0.41382133960723877
+  },
+  {
+   "id": "https://openalex.org/C47798520",
+   "wikidata": "https://www.wikidata.org/wiki/Q190157",
+   "display_name": "Transmitter",
+   "level": 3,
+   "score": 0.37822672724723816
+  },
+  {
+   "id": "https://openalex.org/C127162648",
+   "wikidata": "https://www.wikidata.org/wiki/Q16858953",
+   "display_name": "Channel (broadcasting)",
+   "level": 2,
+   "score": 0.3724321126937866
+  },
+  {
+   "id": "https://openalex.org/C11413529",
+   "wikidata": "https://www.wikidata.org/wiki/Q8366",
+   "display_name": "Algorithm",
+   "level": 1,
+   "score": 0.3527393937110901
+  },
+  {
+   "id": "https://openalex.org/C76155785",
+   "wikidata": "https://www.wikidata.org/wiki/Q418",
+   "display_name": "Telecommunications",
+   "level": 1,
+   "score": 0.2458798885345459
+  },
+  {
+   "id": "https://openalex.org/C40409654",
+   "wikidata": "https://www.wikidata.org/wiki/Q375889",
+   "display_name": "Orthogonal frequency-division multiplexing",
+   "level": 3,
+   "score": 0.23794683814048767
+  },
+  {
+   "id": "https://openalex.org/C33923547",
+   "wikidata": "https://www.wikidata.org/wiki/Q395",
+   "display_name": "Mathematics",
+   "level": 0,
+   "score": 0.218950092792511
+  },
+  {
+   "id": "https://openalex.org/C112680207",
+   "wikidata": "https://www.wikidata.org/wiki/Q714886",
+   "display_name": "Regular polygon",
+   "level": 2,
+   "score": 0.16624176502227783
+  },
+  {
+   "id": "https://openalex.org/C2524010",
+   "wikidata": "https://www.wikidata.org/wiki/Q8087",
+   "display_name": "Geometry",
+   "level": 1,
+   "score": 0.0
+  }
+ ],
+ "open_access": {
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null,
+  "any_repository_has_fulltext": false
+ },
+ "locations": [
+  {
+   "id": "doi:10.1109/twc.2010.04.090553",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1109/twc.2010.04.090553",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S63459445",
+    "display_name": "IEEE Transactions on Wireless Communications",
+    "issn_l": "1536-1276",
+    "issn": [
+     "1536-1276",
+     "1558-2248"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "host_organization": "https://openalex.org/P4310319808",
+    "host_organization_name": "Institute of Electrical and Electronics Engineers",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310319808"
+    ],
+    "host_organization_lineage_names": [
+     "Institute of Electrical and Electronics Engineers"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "IEEE Transactions on Wireless Communications",
+   "raw_type": "journal-article"
+  }
+ ],
+ "best_oa_location": null,
+ "authorships": [
+  {
+   "author_position": "first",
+   "author": {
+    "id": "https://openalex.org/A5058791560",
+    "display_name": "Luca Venturino",
+    "orcid": "https://orcid.org/0000-0002-7742-4835"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I186995768",
+     "display_name": "Università degli studi di Cassino e del Lazio Meridionale",
+     "ror": "https://ror.org/04nxkaq16",
+     "country_code": "IT",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I186995768"
+     ]
+    }
+   ],
+   "countries": [
+    "IT"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Luca Venturino",
+   "raw_affiliation_strings": [
+    "DAEIMI, Università degli Studi di Cassino, Frosinone, Italy",
+    "DAEIMI, Univ. degli Studi di Cassino, Cassino, Italy"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "DAEIMI, Università degli Studi di Cassino, Frosinone, Italy",
+     "institution_ids": [
+      "https://openalex.org/I186995768"
+     ]
+    },
+    {
+     "raw_affiliation_string": "DAEIMI, Univ. degli Studi di Cassino, Cassino, Italy",
+     "institution_ids": [
+      "https://openalex.org/I186995768"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5030412310",
+    "display_name": "Narayan Prasad",
+    "orcid": "https://orcid.org/0000-0002-1105-2370"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I20089843",
+     "display_name": "Princeton University",
+     "ror": "https://ror.org/00hx57361",
+     "country_code": "US",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I20089843"
+     ]
+    }
+   ],
+   "countries": [
+    "US"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Narayan Prasad",
+   "raw_affiliation_strings": [
+    "NEC Laboratories of America, Inc., Princeton, NJ, USA",
+    "NEC-Labs America, Princeton, NJ, USA"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "NEC Laboratories of America, Inc., Princeton, NJ, USA",
+     "institution_ids": []
+    },
+    {
+     "raw_affiliation_string": "NEC-Labs America, Princeton, NJ, USA",
+     "institution_ids": [
+      "https://openalex.org/I20089843"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "last",
+   "author": {
+    "id": "https://openalex.org/A5100382658",
+    "display_name": "Xiaodong Wang",
+    "orcid": "https://orcid.org/0000-0002-2945-9240"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I78577930",
+     "display_name": "Columbia University",
+     "ror": "https://ror.org/00hj8s172",
+     "country_code": "US",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I78577930"
+     ]
+    }
+   ],
+   "countries": [
+    "US"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Xiaodong Wang",
+   "raw_affiliation_strings": [
+    "Electrical Engineering Department, Columbia University, New York, NY, USA",
+    "Electr. Eng. Dept., Columbia Univ., New York, NY, USA#TAB#"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Electrical Engineering Department, Columbia University, New York, NY, USA",
+     "institution_ids": [
+      "https://openalex.org/I78577930"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Electr. Eng. Dept., Columbia Univ., New York, NY, USA#TAB#",
+     "institution_ids": [
+      "https://openalex.org/I78577930"
+     ]
+    }
+   ]
+  }
+ ],
+ "biblio": {
+  "volume": "9",
+  "issue": "4",
+  "first_page": "1451",
+  "last_page": "1461"
+ },
+ "ids": {
+  "openalex": "https://openalex.org/W2095690595",
+  "doi": "https://doi.org/10.1109/twc.2010.04.090553",
+  "mag": "2095690595"
+ },
+ "is_retracted": false,
+ "counts_by_year": [
+  {
+   "year": 2024,
+   "cited_by_count": 1
+  },
+  {
+   "year": 2023,
+   "cited_by_count": 1
+  },
+  {
+   "year": 2022,
+   "cited_by_count": 3
+  },
+  {
+   "year": 2021,
+   "cited_by_count": 2
+  },
+  {
+   "year": 2020,
+   "cited_by_count": 2
+  },
+  {
+   "year": 2019,
+   "cited_by_count": 8
+  },
+  {
+   "year": 2018,
+   "cited_by_count": 6
+  },
+  {
+   "year": 2017,
+   "cited_by_count": 13
+  },
+  {
+   "year": 2016,
+   "cited_by_count": 10
+  },
+  {
+   "year": 2015,
+   "cited_by_count": 16
+  },
+  {
+   "year": 2014,
+   "cited_by_count": 36
+  },
+  {
+   "year": 2013,
+   "cited_by_count": 39
+  },
+  {
+   "year": 2012,
+   "cited_by_count": 33
+  }
+ ],
+ "primary_location": {
+  "id": "doi:10.1109/twc.2010.04.090553",
+  "is_oa": false,
+  "landing_page_url": "https://doi.org/10.1109/twc.2010.04.090553",
+  "pdf_url": null,
+  "source": {
+   "id": "https://openalex.org/S63459445",
+   "display_name": "IEEE Transactions on Wireless Communications",
+   "issn_l": "1536-1276",
+   "issn": [
+    "1536-1276",
+    "1558-2248"
+   ],
+   "is_oa": false,
+   "is_in_doaj": false,
+   "is_core": true,
+   "host_organization": "https://openalex.org/P4310319808",
+   "host_organization_name": "Institute of Electrical and Electronics Engineers",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310319808"
+   ],
+   "host_organization_lineage_names": [
+    "Institute of Electrical and Electronics Engineers"
+   ],
+   "type": "journal"
+  },
+  "license": null,
+  "license_id": null,
+  "version": "publishedVersion",
+  "is_accepted": true,
+  "is_published": true,
+  "raw_source_name": "IEEE Transactions on Wireless Communications",
+  "raw_type": "journal-article"
+ },
+ "language": "en",
+ "fwci": 23.9896,
+ "abstract": "We consider a multi-cell wireless network with universal frequency reuse and treat the problem of co-channel interference mitigation in the downlink channel. Assuming that each base station serves multiple single-antenna mobiles via space-division multiple-access, we jointly optimize the linear beam-vectors across a set of coordinated cells and resource slots: the objective function to be maximized is the instantaneous weighted sum-rate subject to per-base-station power constraints. After deriving the general structure of the optimal beam-vectors, a novel iterative algorithm is presented which attempts to solve the Karush-Kuhn-Tucker conditions of the non-convex problem at hand. The proposed algorithm admits a distributed implementation which we illustrate. Also, various approaches to choose the initial beam-vectors are considered, one of which maximizes the signal-to-leakage-plus-noise ratio. Finally, simulation results are provided to assess the performance of the proposed algorithm."
+}

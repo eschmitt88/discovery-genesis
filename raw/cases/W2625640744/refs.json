@@ -1,0 +1,3704 @@
+[
+ {
+  "id": "https://openalex.org/W1999960402",
+  "doi": "https://doi.org/10.1136/bmj.288.6422.965",
+  "title": "Endotracheal cuff pressure and tracheal mucosal blood flow: endoscopic study of effects of four large volume cuffs.",
+  "publication_year": 1984,
+  "type": "article",
+  "cited_by_count": 605,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.9994999766349792,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 12,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5074221163",
+     "display_name": "R.D. Seegobin",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801388914",
+      "display_name": "Southampton General Hospital",
+      "ror": "https://ror.org/011cztj49",
+      "country_code": "GB",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801388914",
+       "https://openalex.org/I2802965805"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "R D Seegobin",
+    "raw_affiliation_strings": [
+     "Shackleton Department of Anaesthetics, Southampton General Hospital, Shirley, Southampton S09 4XY"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Shackleton Department of Anaesthetics, Southampton General Hospital, Shirley, Southampton S09 4XY",
+      "institution_ids": [
+       "https://openalex.org/I2801388914"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5112622117",
+     "display_name": "G. L. VAN HASSELT",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2801388914",
+      "display_name": "Southampton General Hospital",
+      "ror": "https://ror.org/011cztj49",
+      "country_code": "GB",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801388914",
+       "https://openalex.org/I2802965805"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "G L van Hasselt",
+    "raw_affiliation_strings": [
+     "Shackleton Department of Anaesthetics, Southampton General Hospital, Shirley, Southampton S09 4XY"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Shackleton Department of Anaesthetics, Southampton General Hospital, Shirley, Southampton S09 4XY",
+      "institution_ids": [
+       "https://openalex.org/I2801388914"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 4.5075
+ },
+ {
+  "id": "https://openalex.org/W101081755",
+  "doi": "https://doi.org/10.1007/s00134-002-1563-4",
+  "title": "Post-extubation stridor in intensive care unit patients",
+  "publication_year": 2003,
+  "type": "article",
+  "cited_by_count": 219,
+  "primary_topic": {
+   "id": "https://openalex.org/T10322",
+   "display_name": "Respiratory Support and Mechanisms",
+   "score": 0.5841000080108643,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 17,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5064508525",
+     "display_name": "Samir Jaber",
+     "orcid": "https://orcid.org/0000-0002-7257-8069"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210143740",
+      "display_name": "Hôpital Saint Eloi",
+      "ror": "https://ror.org/04pwyfk22",
+      "country_code": "FR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210093292",
+       "https://openalex.org/I4210143740"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Samir Jaber",
+    "raw_affiliation_strings": [
+     "Department of Anesthesiology, Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France. s-jaber@chu-montpellier.fr",
+     "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France,"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesiology, Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France. s-jaber@chu-montpellier.fr",
+      "institution_ids": [
+       "https://openalex.org/I4210143740"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France,",
+      "institution_ids": [
+       "https://openalex.org/I4210143740"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5113624615",
+     "display_name": "Gérald Chanques",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210143740",
+      "display_name": "Hôpital Saint Eloi",
+      "ror": "https://ror.org/04pwyfk22",
+      "country_code": "FR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210093292",
+       "https://openalex.org/I4210143740"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Gérald Chanques",
+    "raw_affiliation_strings": [
+     "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France, , , , ,",
+     "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France,"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France, , , , ,",
+      "institution_ids": [
+       "https://openalex.org/I4210143740"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France,",
+      "institution_ids": [
+       "https://openalex.org/I4210143740"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5115600648",
+     "display_name": "Stéfan Matecki",
+     "orcid": "https://orcid.org/0000-0002-1878-0936"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210147545",
+      "display_name": "Hôpital Arnaud de Villeneuve",
+      "ror": "https://ror.org/04m6sq715",
+      "country_code": "FR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210093292",
+       "https://openalex.org/I4210147545"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Stefan Matecki",
+    "raw_affiliation_strings": [
+     "Service central de Physiologie Clinique, Chu de Montpellier Hopital Arnaud de Villeneuve, 371, avenue du Doyen Gaston Giraud, 34295 Montpellier Cedex 5, France, , , , ,",
+     "Service central de Physiologie Clinique, Chu de Montpellier Hopital Arnaud de Villeneuve, 371, avenue du Doyen Gaston Giraud, 34295 Montpellier Cedex 5, France,"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Service central de Physiologie Clinique, Chu de Montpellier Hopital Arnaud de Villeneuve, 371, avenue du Doyen Gaston Giraud, 34295 Montpellier Cedex 5, France, , , , ,",
+      "institution_ids": [
+       "https://openalex.org/I4210147545"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Service central de Physiologie Clinique, Chu de Montpellier Hopital Arnaud de Villeneuve, 371, avenue du Doyen Gaston Giraud, 34295 Montpellier Cedex 5, France,",
+      "institution_ids": [
+       "https://openalex.org/I4210147545"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5103360570",
+     "display_name": "Michèle Ramonatxo",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210147545",
+      "display_name": "Hôpital Arnaud de Villeneuve",
+      "ror": "https://ror.org/04m6sq715",
+      "country_code": "FR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210093292",
+       "https://openalex.org/I4210147545"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Michèle Ramonatxo",
+    "raw_affiliation_strings": [
+     "Service central de Physiologie Clinique, Chu de Montpellier Hopital Arnaud de Villeneuve, 371, avenue du Doyen Gaston Giraud, 34295 Montpellier Cedex 5, France, , , , ,",
+     "Service central de Physiologie Clinique, Chu de Montpellier Hopital Arnaud de Villeneuve, 371, avenue du Doyen Gaston Giraud, 34295 Montpellier Cedex 5, France,"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Service central de Physiologie Clinique, Chu de Montpellier Hopital Arnaud de Villeneuve, 371, avenue du Doyen Gaston Giraud, 34295 Montpellier Cedex 5, France, , , , ,",
+      "institution_ids": [
+       "https://openalex.org/I4210147545"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Service central de Physiologie Clinique, Chu de Montpellier Hopital Arnaud de Villeneuve, 371, avenue du Doyen Gaston Giraud, 34295 Montpellier Cedex 5, France,",
+      "institution_ids": [
+       "https://openalex.org/I4210147545"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5075641959",
+     "display_name": "Christine Vergne",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210147545",
+      "display_name": "Hôpital Arnaud de Villeneuve",
+      "ror": "https://ror.org/04m6sq715",
+      "country_code": "FR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210093292",
+       "https://openalex.org/I4210147545"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Christine Vergne",
+    "raw_affiliation_strings": [
+     "Department of Biostatistics, Faculty of Medicine, Chu de Montpellier Hopital Arnaud de Villeneuve, 371, avenue du Doyen Gaston Giraud, 34295 Montpellier Cedex 5, France, , , , ,",
+     "Department of Biostatistics, Faculty of Medicine, Chu de Montpellier Hopital Arnaud de Villeneuve, 371, avenue du Doyen Gaston Giraud, 34295 Montpellier Cedex 5, France,"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Biostatistics, Faculty of Medicine, Chu de Montpellier Hopital Arnaud de Villeneuve, 371, avenue du Doyen Gaston Giraud, 34295 Montpellier Cedex 5, France, , , , ,",
+      "institution_ids": [
+       "https://openalex.org/I4210147545"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Biostatistics, Faculty of Medicine, Chu de Montpellier Hopital Arnaud de Villeneuve, 371, avenue du Doyen Gaston Giraud, 34295 Montpellier Cedex 5, France,",
+      "institution_ids": [
+       "https://openalex.org/I4210147545"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5067911584",
+     "display_name": "Bruno Souche",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210143740",
+      "display_name": "Hôpital Saint Eloi",
+      "ror": "https://ror.org/04pwyfk22",
+      "country_code": "FR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210093292",
+       "https://openalex.org/I4210143740"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Bruno Souche",
+    "raw_affiliation_strings": [
+     "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France, , , , ,",
+     "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France,"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France, , , , ,",
+      "institution_ids": [
+       "https://openalex.org/I4210143740"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France,",
+      "institution_ids": [
+       "https://openalex.org/I4210143740"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5110127149",
+     "display_name": "Pierre-François Pérrigault",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210143740",
+      "display_name": "Hôpital Saint Eloi",
+      "ror": "https://ror.org/04pwyfk22",
+      "country_code": "FR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210093292",
+       "https://openalex.org/I4210143740"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Pierre-François Perrigault",
+    "raw_affiliation_strings": [
+     "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France, , , , ,",
+     "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France,"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France, , , , ,",
+      "institution_ids": [
+       "https://openalex.org/I4210143740"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France,",
+      "institution_ids": [
+       "https://openalex.org/I4210143740"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5026139306",
+     "display_name": "Jean‐Jacques Eledjam",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210143740",
+      "display_name": "Hôpital Saint Eloi",
+      "ror": "https://ror.org/04pwyfk22",
+      "country_code": "FR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210093292",
+       "https://openalex.org/I4210143740"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Jean-Jacques Eledjam",
+    "raw_affiliation_strings": [
+     "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France, , , , ,",
+     "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France,"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France, , , , ,",
+      "institution_ids": [
+       "https://openalex.org/I4210143740"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anesthesiology. Intensive Care and Transplantation Unit (DAR B), Chu de Montpellier Hopital Saint Eloi, 80, avenue Augustin Fliche, 34295 Montpellier Cedex 5, France,",
+      "institution_ids": [
+       "https://openalex.org/I4210143740"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 7.1317
+ },
+ {
+  "id": "https://openalex.org/W1921089931",
+  "doi": "https://doi.org/10.1002/lary.23997",
+  "title": "Determination of Legal Responsibility in Iatrogenic Tracheal and Laryngeal Stenosis",
+  "publication_year": 2013,
+  "type": "article",
+  "cited_by_count": 38,
+  "primary_topic": {
+   "id": "https://openalex.org/T11260",
+   "display_name": "Tracheal and airway disorders",
+   "score": 0.8122000098228455,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 16,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5080274706",
+     "display_name": "Peter F. Svider",
+     "orcid": "https://orcid.org/0000-0001-5791-9585"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I102322142",
+      "display_name": "Rutgers, The State University of New Jersey",
+      "ror": "https://ror.org/05vt9qd57",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I102322142"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4402554120",
+      "display_name": "Rutgers New Jersey Medical School",
+      "ror": "https://ror.org/014ye1258",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I4390039302",
+       "https://openalex.org/I4402554120"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Peter F. Svider",
+    "raw_affiliation_strings": [
+     "Department of Otolaryngology–Head and Neck Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "University of Medicine and Dentistry of New Jersey Robert Wood Johnson Medical School New Brunswick New Jersey U.S.A",
+     "University of Medicine and Dentistry of New Jersey, Robert Wood Johnson Medical School, New Brunswick, New Jersey, U.S.A"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Otolaryngology–Head and Neck Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I4402554120"
+      ]
+     },
+     {
+      "raw_affiliation_string": "University of Medicine and Dentistry of New Jersey Robert Wood Johnson Medical School New Brunswick New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I102322142"
+      ]
+     },
+     {
+      "raw_affiliation_string": "University of Medicine and Dentistry of New Jersey, Robert Wood Johnson Medical School, New Brunswick, New Jersey, U.S.A",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5032864665",
+     "display_name": "Anna A. Pashkova",
+     "orcid": "https://orcid.org/0009-0002-9026-7763"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I102322142",
+      "display_name": "Rutgers, The State University of New Jersey",
+      "ror": "https://ror.org/05vt9qd57",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I102322142"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Anna A. Pashkova",
+    "raw_affiliation_strings": [
+     "University of Medicine and Dentistry of New Jersey Robert Wood Johnson Medical School New Brunswick New Jersey U.S.A",
+     "University of Medicine and Dentistry of New Jersey, Robert Wood Johnson Medical School, New Brunswick, New Jersey, U.S.A"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "University of Medicine and Dentistry of New Jersey Robert Wood Johnson Medical School New Brunswick New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I102322142"
+      ]
+     },
+     {
+      "raw_affiliation_string": "University of Medicine and Dentistry of New Jersey, Robert Wood Johnson Medical School, New Brunswick, New Jersey, U.S.A",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5085436718",
+     "display_name": "Qasim Husain",
+     "orcid": "https://orcid.org/0000-0002-3794-4393"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4402554120",
+      "display_name": "Rutgers New Jersey Medical School",
+      "ror": "https://ror.org/014ye1258",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I4390039302",
+       "https://openalex.org/I4402554120"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Qasim Husain",
+    "raw_affiliation_strings": [
+     "Department of Otolaryngology–Head and Neck Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Otolaryngology–Head and Neck Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I4402554120"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5051890674",
+     "display_name": "Andrew C. Mauro",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I27837315",
+      "display_name": "University of Michigan",
+      "ror": "https://ror.org/00jmfr291",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I27837315"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Andrew C. Mauro",
+    "raw_affiliation_strings": [
+     "University of Michigan Law School Ann Arbor Michigan U.S.A",
+     "University of Michigan Law School, Ann Arbor, Michigan, U.S.A"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "University of Michigan Law School Ann Arbor Michigan U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I27837315"
+      ]
+     },
+     {
+      "raw_affiliation_string": "University of Michigan Law School, Ann Arbor, Michigan, U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I27837315"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5084514891",
+     "display_name": "Jean Daniel Eloy",
+     "orcid": "https://orcid.org/0000-0002-3555-9432"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I102322142",
+      "display_name": "Rutgers, The State University of New Jersey",
+      "ror": "https://ror.org/05vt9qd57",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I102322142"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2801683584",
+      "display_name": "University Hospital, Newark",
+      "ror": "https://ror.org/02snf5j61",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801683584"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210157890",
+      "display_name": "Neurological Surgery",
+      "ror": "https://ror.org/04r0gp612",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210157890"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4402554120",
+      "display_name": "Rutgers New Jersey Medical School",
+      "ror": "https://ror.org/014ye1258",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I4390039302",
+       "https://openalex.org/I4402554120"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Jean Daniel Eloy",
+    "raw_affiliation_strings": [
+     "Center for Skull Base and Pituitary Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Department of Anesthesiology University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Department of Neurological Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Department of Otolaryngology–Head and Neck Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Department of Anesthesiology, University of Medicine and Dentistry of New Jersey, New Jersey Medical School, Newark, New Jersey, U.S.A"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Skull Base and Pituitary Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I4402554120"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anesthesiology University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I2801683584"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Neurological Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I4210157890",
+       "https://openalex.org/I4402554120"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Otolaryngology–Head and Neck Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I4402554120"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anesthesiology, University of Medicine and Dentistry of New Jersey, New Jersey Medical School, Newark, New Jersey, U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I4402554120"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5084514891",
+     "display_name": "Jean Daniel Eloy",
+     "orcid": "https://orcid.org/0000-0002-3555-9432"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I102322142",
+      "display_name": "Rutgers, The State University of New Jersey",
+      "ror": "https://ror.org/05vt9qd57",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I102322142"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2801683584",
+      "display_name": "University Hospital, Newark",
+      "ror": "https://ror.org/02snf5j61",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801683584"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210157890",
+      "display_name": "Neurological Surgery",
+      "ror": "https://ror.org/04r0gp612",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210157890"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4402554120",
+      "display_name": "Rutgers New Jersey Medical School",
+      "ror": "https://ror.org/014ye1258",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I4390039302",
+       "https://openalex.org/I4402554120"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Jean Daniel Eloy",
+    "raw_affiliation_strings": [
+     "Center for Skull Base and Pituitary Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Department of Anesthesiology University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Department of Neurological Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Department of Otolaryngology–Head and Neck Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Skull Base and Pituitary Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I4402554120"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anesthesiology University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I2801683584"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Neurological Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I4210157890",
+       "https://openalex.org/I4402554120"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Otolaryngology–Head and Neck Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I4402554120"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5048198481",
+     "display_name": "Soly Baredes",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I102322142",
+      "display_name": "Rutgers, The State University of New Jersey",
+      "ror": "https://ror.org/05vt9qd57",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I102322142"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210157890",
+      "display_name": "Neurological Surgery",
+      "ror": "https://ror.org/04r0gp612",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210157890"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4402554120",
+      "display_name": "Rutgers New Jersey Medical School",
+      "ror": "https://ror.org/014ye1258",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I4390039302",
+       "https://openalex.org/I4402554120"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Soly Baredes",
+    "raw_affiliation_strings": [
+     "Center for Skull Base and Pituitary Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Department of Otolaryngology–Head and Neck Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Center for Skull Base and Pituitary Surgery, University of Medicine and Dentistry of New Jersey, New Jersey Medical School, Newark, New Jersey, U.S.A",
+     "Department of Neurological Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Skull Base and Pituitary Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I4402554120"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Otolaryngology–Head and Neck Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I4402554120"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Center for Skull Base and Pituitary Surgery, University of Medicine and Dentistry of New Jersey, New Jersey Medical School, Newark, New Jersey, U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I4402554120"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Neurological Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I4210157890",
+       "https://openalex.org/I4402554120"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5084514891",
+     "display_name": "Jean Daniel Eloy",
+     "orcid": "https://orcid.org/0000-0002-3555-9432"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I102322142",
+      "display_name": "Rutgers, The State University of New Jersey",
+      "ror": "https://ror.org/05vt9qd57",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I102322142"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2801683584",
+      "display_name": "University Hospital, Newark",
+      "ror": "https://ror.org/02snf5j61",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801683584"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210157890",
+      "display_name": "Neurological Surgery",
+      "ror": "https://ror.org/04r0gp612",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210157890"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4402554120",
+      "display_name": "Rutgers New Jersey Medical School",
+      "ror": "https://ror.org/014ye1258",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I4390039302",
+       "https://openalex.org/I4402554120"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Jean Anderson Eloy",
+    "raw_affiliation_strings": [
+     "Center for Skull Base and Pituitary Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Department of Anesthesiology University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Department of Neurological Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Department of Otolaryngology–Head and Neck Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Skull Base and Pituitary Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I4402554120"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anesthesiology University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I2801683584"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Neurological Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I4210157890",
+       "https://openalex.org/I4402554120"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Otolaryngology–Head and Neck Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I4402554120"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5015266583",
+     "display_name": "Jean Anderson Eloy",
+     "orcid": "https://orcid.org/0000-0003-2893-7818"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I102322142",
+      "display_name": "Rutgers, The State University of New Jersey",
+      "ror": "https://ror.org/05vt9qd57",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I102322142"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I2801683584",
+      "display_name": "University Hospital, Newark",
+      "ror": "https://ror.org/02snf5j61",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2801683584"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210157890",
+      "display_name": "Neurological Surgery",
+      "ror": "https://ror.org/04r0gp612",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210157890"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4402554120",
+      "display_name": "Rutgers New Jersey Medical School",
+      "ror": "https://ror.org/014ye1258",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I4390039302",
+       "https://openalex.org/I4402554120"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Jean Anderson Eloy",
+    "raw_affiliation_strings": [
+     "Center for Skull Base and Pituitary Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Department of Anesthesiology University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Department of Neurological Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+     "Department of Otolaryngology–Head and Neck Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Center for Skull Base and Pituitary Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I4402554120"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anesthesiology University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I102322142",
+       "https://openalex.org/I2801683584"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Neurological Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I4210157890",
+       "https://openalex.org/I4402554120"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Otolaryngology–Head and Neck Surgery University of Medicine and Dentistry of New Jersey New Jersey Medical School Newark New Jersey U.S.A",
+      "institution_ids": [
+       "https://openalex.org/I4402554120"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 6.8036
+ },
+ {
+  "id": "https://openalex.org/W1996822821",
+  "doi": "https://doi.org/10.1097/00003246-198305000-00009",
+  "title": "Laryngotracheal injury due to endotracheal intubation",
+  "publication_year": 1983,
+  "type": "article",
+  "cited_by_count": 263,
+  "primary_topic": {
+   "id": "https://openalex.org/T11260",
+   "display_name": "Tracheal and airway disorders",
+   "score": 0.9993000030517578,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 0,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5040321805",
+     "display_name": "Nikos Kastanos",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210115097",
+      "display_name": "Hospital Clínic de Barcelona",
+      "ror": "https://ror.org/02a2kzf50",
+      "country_code": "ES",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210115097"
+      ]
+     }
+    ],
+    "countries": [
+     "ES"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "NIKOS KASTANOS",
+    "raw_affiliation_strings": [
+     "Respiratory Department and Respiratory Intensive Care Unit, Hospital Clinic, Barcelona, Spain"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Respiratory Department and Respiratory Intensive Care Unit, Hospital Clinic, Barcelona, Spain",
+      "institution_ids": [
+       "https://openalex.org/I4210115097"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5013607482",
+     "display_name": "Ramón Miró",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210115097",
+      "display_name": "Hospital Clínic de Barcelona",
+      "ror": "https://ror.org/02a2kzf50",
+      "country_code": "ES",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210115097"
+      ]
+     }
+    ],
+    "countries": [
+     "ES"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "RAMON ESTOPÁ MIRÓ",
+    "raw_affiliation_strings": [
+     "Respiratory Department and Respiratory Intensive Care Unit, Hospital Clinic, Barcelona, Spain"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Respiratory Department and Respiratory Intensive Care Unit, Hospital Clinic, Barcelona, Spain",
+      "institution_ids": [
+       "https://openalex.org/I4210115097"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5026548747",
+     "display_name": "ALBERTO MARÍN PEREZ",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210115097",
+      "display_name": "Hospital Clínic de Barcelona",
+      "ror": "https://ror.org/02a2kzf50",
+      "country_code": "ES",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210115097"
+      ]
+     }
+    ],
+    "countries": [
+     "ES"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "ALBERTO MARÍN PEREZ",
+    "raw_affiliation_strings": [
+     "Respiratory Department and Respiratory Intensive Care Unit, Hospital Clinic, Barcelona, Spain"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Respiratory Department and Respiratory Intensive Care Unit, Hospital Clinic, Barcelona, Spain",
+      "institution_ids": [
+       "https://openalex.org/I4210115097"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5044065028",
+     "display_name": "ANTONIO XAUBET MIR",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210115097",
+      "display_name": "Hospital Clínic de Barcelona",
+      "ror": "https://ror.org/02a2kzf50",
+      "country_code": "ES",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210115097"
+      ]
+     }
+    ],
+    "countries": [
+     "ES"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "ANTONIO XAUBET MIR",
+    "raw_affiliation_strings": [
+     "Respiratory Department and Respiratory Intensive Care Unit, Hospital Clinic, Barcelona, Spain"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Respiratory Department and Respiratory Intensive Care Unit, Hospital Clinic, Barcelona, Spain",
+      "institution_ids": [
+       "https://openalex.org/I4210115097"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5111642203",
+     "display_name": "A Agustí-Vidal",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210115097",
+      "display_name": "Hospital Clínic de Barcelona",
+      "ror": "https://ror.org/02a2kzf50",
+      "country_code": "ES",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210115097"
+      ]
+     }
+    ],
+    "countries": [
+     "ES"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "ALBERTO AGUSTÍ-VIDAL",
+    "raw_affiliation_strings": [
+     "Respiratory Department and Respiratory Intensive Care Unit, Hospital Clinic, Barcelona, Spain"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Respiratory Department and Respiratory Intensive Care Unit, Hospital Clinic, Barcelona, Spain",
+      "institution_ids": [
+       "https://openalex.org/I4210115097"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 2.9521
+ },
+ {
+  "id": "https://openalex.org/W2016143533",
+  "doi": "https://doi.org/10.1111/j.1399-6576.1977.tb01198.x",
+  "title": "Blood Flow in the Rabbit Tracheal Mucosa under Normal Conditions and under the Influence of Tracheal Intubation",
+  "publication_year": 1977,
+  "type": "article",
+  "cited_by_count": 157,
+  "primary_topic": {
+   "id": "https://openalex.org/T11260",
+   "display_name": "Tracheal and airway disorders",
+   "score": 0.9987999796867371,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 35,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5013500312",
+     "display_name": "U. Nordin",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1342360035",
+      "display_name": "Uppsala University Hospital",
+      "ror": "https://ror.org/01apvbh93",
+      "country_code": "SE",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1342360035"
+      ]
+     }
+    ],
+    "countries": [
+     "SE"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "U. Nordin",
+    "raw_affiliation_strings": [
+     "Department of Otorhinolaryngology, University Hospital, Uppsala, and Institute of Physiology and Medical Physics, University of Uppsala, Sweden"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Otorhinolaryngology, University Hospital, Uppsala, and Institute of Physiology and Medical Physics, University of Uppsala, Sweden",
+      "institution_ids": [
+       "https://openalex.org/I1342360035"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5113636552",
+     "display_name": "Carl‐Eric Lindholm",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1342360035",
+      "display_name": "Uppsala University Hospital",
+      "ror": "https://ror.org/01apvbh93",
+      "country_code": "SE",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1342360035"
+      ]
+     }
+    ],
+    "countries": [
+     "SE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "C.‐E. Lindholm",
+    "raw_affiliation_strings": [
+     "Department of Otorhinolaryngology, University Hospital, Uppsala, and Institute of Physiology and Medical Physics, University of Uppsala, Sweden"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Otorhinolaryngology, University Hospital, Uppsala, and Institute of Physiology and Medical Physics, University of Uppsala, Sweden",
+      "institution_ids": [
+       "https://openalex.org/I1342360035"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5085300641",
+     "display_name": "M. Wolgast",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1342360035",
+      "display_name": "Uppsala University Hospital",
+      "ror": "https://ror.org/01apvbh93",
+      "country_code": "SE",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1342360035"
+      ]
+     }
+    ],
+    "countries": [
+     "SE"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "M. Wolgast",
+    "raw_affiliation_strings": [
+     "Department of Otorhinolaryngology, University Hospital, Uppsala, and Institute of Physiology and Medical Physics, University of Uppsala, Sweden"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Otorhinolaryngology, University Hospital, Uppsala, and Institute of Physiology and Medical Physics, University of Uppsala, Sweden",
+      "institution_ids": [
+       "https://openalex.org/I1342360035"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 4.4801
+ },
+ {
+  "id": "https://openalex.org/W2089426876",
+  "doi": "https://doi.org/10.1016/j.ajem.2004.04.012",
+  "title": "Tracheal rupture complicating emergent endotracheal intubation",
+  "publication_year": 2004,
+  "type": "article",
+  "cited_by_count": 118,
+  "primary_topic": {
+   "id": "https://openalex.org/T11951",
+   "display_name": "Trauma Management and Diagnosis",
+   "score": 0.9998000264167786,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2746",
+    "display_name": "Surgery"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 10,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5105406585",
+     "display_name": "Chieh‐Min Fan",
+     "orcid": "https://orcid.org/0000-0002-3858-1344"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210131804",
+      "display_name": "National Taiwan University Hospital",
+      "ror": "https://ror.org/03nteze27",
+      "country_code": "TW",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210131804"
+      ]
+     }
+    ],
+    "countries": [
+     "TW"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Chieh-Min Fan",
+    "raw_affiliation_strings": [
+     "Department of Emergency Medicine, National Taiwan University Hospital, No. 7 Chung-Shan South Road, Taipei, Taiwan 100, ROC"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Emergency Medicine, National Taiwan University Hospital, No. 7 Chung-Shan South Road, Taipei, Taiwan 100, ROC",
+      "institution_ids": [
+       "https://openalex.org/I4210131804"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5020994311",
+     "display_name": "Patrick Chow‐In Ko",
+     "orcid": "https://orcid.org/0000-0002-1696-1936"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Patrick Chow-In Ko",
+    "raw_affiliation_strings": [
+     "Department of Emergency Medicine, Taiwan, People’s Republic of China"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Emergency Medicine, Taiwan, People’s Republic of China",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5044153669",
+     "display_name": "Kuang-Chao Tsai",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Kuang-Chao Tsai",
+    "raw_affiliation_strings": [
+     "Department of Emergency Medicine, Taiwan, People’s Republic of China"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Emergency Medicine, Taiwan, People’s Republic of China",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5009600690",
+     "display_name": "Wen‐Chu Chiang",
+     "orcid": "https://orcid.org/0000-0001-8620-7982"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Wen-Chun Chiang",
+    "raw_affiliation_strings": [
+     "Department of Emergency Medicine, Taiwan, People’s Republic of China"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Emergency Medicine, Taiwan, People’s Republic of China",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5061148129",
+     "display_name": "Yeun‐Chung Chang",
+     "orcid": "https://orcid.org/0000-0001-9984-5713"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210131804",
+      "display_name": "National Taiwan University Hospital",
+      "ror": "https://ror.org/03nteze27",
+      "country_code": "TW",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210131804"
+      ]
+     }
+    ],
+    "countries": [
+     "TW"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Yun-Chung Chang",
+    "raw_affiliation_strings": [
+     "Department of Radiology, National Taiwan University Hospital, Taipei, Taiwan, People’s Republic of China"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Radiology, National Taiwan University Hospital, Taipei, Taiwan, People’s Republic of China",
+      "institution_ids": [
+       "https://openalex.org/I4210131804"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5022214679",
+     "display_name": "Wen‐Jone Chen",
+     "orcid": "https://orcid.org/0000-0002-2098-5922"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Wen-Jone Chen",
+    "raw_affiliation_strings": [
+     "Department of Emergency Medicine, Taiwan, People’s Republic of China"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Emergency Medicine, Taiwan, People’s Republic of China",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5032742125",
+     "display_name": "Ang Yuan",
+     "orcid": "https://orcid.org/0000-0002-5664-1339"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": true,
+    "raw_author_name": "Ang Yuan",
+    "raw_affiliation_strings": [
+     "Department of Emergency Medicine, Taiwan, People’s Republic of China"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Emergency Medicine, Taiwan, People’s Republic of China",
+      "institution_ids": []
+     }
+    ]
+   }
+  ],
+  "fwci": 5.6851
+ },
+ {
+  "id": "https://openalex.org/W2044578991",
+  "doi": "https://doi.org/10.1046/j.1365-2044.2002.2404_3.x",
+  "title": "Measurement of tracheal tube cuff pressure in critical care",
+  "publication_year": 2002,
+  "type": "article",
+  "cited_by_count": 91,
+  "primary_topic": {
+   "id": "https://openalex.org/T11260",
+   "display_name": "Tracheal and airway disorders",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 9,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5083061521",
+     "display_name": "Deepa Vyas",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1295121038",
+      "display_name": "Leeds General Infirmary",
+      "ror": "https://ror.org/04hrjej96",
+      "country_code": "GB",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1295121038",
+       "https://openalex.org/I2799390153"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "D. Vyas",
+    "raw_affiliation_strings": [
+     "Department of Anaesthesia, Leeds General Infirmary, UK",
+     "Specialist Registrar in Anaesthesia and"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anaesthesia, Leeds General Infirmary, UK",
+      "institution_ids": [
+       "https://openalex.org/I1295121038"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Specialist Registrar in Anaesthesia and",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5027019265",
+     "display_name": "Ken Inweregbu",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "K. Inweregbu",
+    "raw_affiliation_strings": [
+     "Specialist Registrar in Anaesthesia and"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Specialist Registrar in Anaesthesia and",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5063271176",
+     "display_name": "Alison Pittard",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1295121038",
+      "display_name": "Leeds General Infirmary",
+      "ror": "https://ror.org/04hrjej96",
+      "country_code": "GB",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1295121038",
+       "https://openalex.org/I2799390153"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "A. Pittard",
+    "raw_affiliation_strings": [
+     "Consultant Anaesthetist, Department of Anaesthesia, Leeds General Infirmary, Leeds LS1 3EX, UK",
+     "Consultant Anaesthetist, Department of Anaesthesia, Leeds General Infirmary, Leeds LS1 3EX, UK"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Consultant Anaesthetist, Department of Anaesthesia, Leeds General Infirmary, Leeds LS1 3EX, UK",
+      "institution_ids": [
+       "https://openalex.org/I1295121038"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Consultant Anaesthetist, Department of Anaesthesia, Leeds General Infirmary, Leeds LS1 3EX, UK",
+      "institution_ids": [
+       "https://openalex.org/I1295121038"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 0.7327
+ },
+ {
+  "id": "https://openalex.org/W2036837938",
+  "doi": "https://doi.org/10.1016/s0736-4679(99)00159-6",
+  "title": "Acute tracheal rupture related to endotracheal intubation: case report",
+  "publication_year": 2000,
+  "type": "article",
+  "cited_by_count": 74,
+  "primary_topic": {
+   "id": "https://openalex.org/T11260",
+   "display_name": "Tracheal and airway disorders",
+   "score": 0.9998000264167786,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 14,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5112842179",
+     "display_name": "Roger Harris",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2800079252",
+      "display_name": "Royal North Shore Hospital",
+      "ror": "https://ror.org/02gs2e959",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2800079252"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Roger Harris",
+    "raw_affiliation_strings": [
+     "Emergency Medicine, Royal North Shore Hospital, NSW, Sydney, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Emergency Medicine, Royal North Shore Hospital, NSW, Sydney, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800079252"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5101669258",
+     "display_name": "Anthony Joseph",
+     "orcid": "https://orcid.org/0000-0002-2829-8203"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2800079252",
+      "display_name": "Royal North Shore Hospital",
+      "ror": "https://ror.org/02gs2e959",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2800079252"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Anthony Joseph",
+    "raw_affiliation_strings": [
+     "Staff Specialist, Emergency Medicine, Royal North Shore Hospital, St Leonards, Sydney, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Staff Specialist, Emergency Medicine, Royal North Shore Hospital, St Leonards, Sydney, Australia",
+      "institution_ids": [
+       "https://openalex.org/I2800079252"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 1.4915
+ },
+ {
+  "id": "https://openalex.org/W1986990628",
+  "doi": "https://doi.org/10.1007/s00134-012-2750-6",
+  "title": "Intubation-related tracheal ischemic lesions: incidence, risk factors, and outcome",
+  "publication_year": 2012,
+  "type": "article",
+  "cited_by_count": 72,
+  "primary_topic": {
+   "id": "https://openalex.org/T11260",
+   "display_name": "Tracheal and airway disorders",
+   "score": 0.9625999927520752,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 27,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5076804812",
+     "display_name": "Lylia Touat",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210098263",
+      "display_name": "Hôpital Albert Calmette",
+      "ror": "https://ror.org/00w81q081",
+      "country_code": "FR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210098263"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Lylia Touat",
+    "raw_affiliation_strings": [
+     "Intensive Care Unit, Calmette Hospital, University Hospital of Lille, CHRU, Boulevard du Pr Leclercq, 59037, Lille cedex, France",
+     "Intensive Care Unit, Calmette Hospital, University Hospital of Lille, CHRU, Lille cedex, France"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Intensive Care Unit, Calmette Hospital, University Hospital of Lille, CHRU, Boulevard du Pr Leclercq, 59037, Lille cedex, France",
+      "institution_ids": [
+       "https://openalex.org/I4210098263"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Intensive Care Unit, Calmette Hospital, University Hospital of Lille, CHRU, Lille cedex, France",
+      "institution_ids": [
+       "https://openalex.org/I4210098263"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5051650691",
+     "display_name": "C. Fournier",
+     "orcid": "https://orcid.org/0000-0002-5360-6263"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210098263",
+      "display_name": "Hôpital Albert Calmette",
+      "ror": "https://ror.org/00w81q081",
+      "country_code": "FR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210098263"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Clément Fournier",
+    "raw_affiliation_strings": [
+     "Pulmonary Diseases Department, Calmette Hospital, University Hospital of Lille, Boulevard du Pr Leclercq, 59037, Lille cedex, France",
+     "Pulmonary Diseases Department, Calmette Hospital, University Hospital of Lille, Lille cedex, France"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Pulmonary Diseases Department, Calmette Hospital, University Hospital of Lille, Boulevard du Pr Leclercq, 59037, Lille cedex, France",
+      "institution_ids": [
+       "https://openalex.org/I4210098263"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Pulmonary Diseases Department, Calmette Hospital, University Hospital of Lille, Lille cedex, France",
+      "institution_ids": [
+       "https://openalex.org/I4210098263"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5104266869",
+     "display_name": "Philippe Ramon",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210098263",
+      "display_name": "Hôpital Albert Calmette",
+      "ror": "https://ror.org/00w81q081",
+      "country_code": "FR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210098263"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Philippe Ramon",
+    "raw_affiliation_strings": [
+     "Pulmonary Diseases Department, Calmette Hospital, University Hospital of Lille, Boulevard du Pr Leclercq, 59037, Lille cedex, France",
+     "Pulmonary Diseases Department, Calmette Hospital, University Hospital of Lille, Lille cedex, France"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Pulmonary Diseases Department, Calmette Hospital, University Hospital of Lille, Boulevard du Pr Leclercq, 59037, Lille cedex, France",
+      "institution_ids": [
+       "https://openalex.org/I4210098263"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Pulmonary Diseases Department, Calmette Hospital, University Hospital of Lille, Lille cedex, France",
+      "institution_ids": [
+       "https://openalex.org/I4210098263"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5075141136",
+     "display_name": "Julia Salleron",
+     "orcid": "https://orcid.org/0000-0002-7921-4583"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2279609970",
+      "display_name": "Université de Lille",
+      "ror": "https://ror.org/02kzqn938",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I2279609970"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I3018718406",
+      "display_name": "Centre Hospitalier Universitaire de Lille",
+      "ror": "https://ror.org/02ppyfa04",
+      "country_code": "FR",
+      "type": "funder",
+      "lineage": [
+       "https://openalex.org/I3018718406"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I59807433",
+      "display_name": "Université Lille Nord de France",
+      "ror": "https://ror.org/03btvgn05",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I59807433"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Julia Salleron",
+    "raw_affiliation_strings": [
+     "Department of Biostatistics, CHU Lille, Univ Lille Nord de France, 59000, Lille, France",
+     "Department of Biostatistics, CHU Lille, Univ Lille Nord de France, Lille, France"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Biostatistics, CHU Lille, Univ Lille Nord de France, 59000, Lille, France",
+      "institution_ids": [
+       "https://openalex.org/I2279609970",
+       "https://openalex.org/I3018718406",
+       "https://openalex.org/I59807433"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Biostatistics, CHU Lille, Univ Lille Nord de France, Lille, France",
+      "institution_ids": [
+       "https://openalex.org/I2279609970",
+       "https://openalex.org/I3018718406",
+       "https://openalex.org/I59807433"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5111810760",
+     "display_name": "Alain Durocher",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2279609970",
+      "display_name": "Université de Lille",
+      "ror": "https://ror.org/02kzqn938",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I2279609970"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210098263",
+      "display_name": "Hôpital Albert Calmette",
+      "ror": "https://ror.org/00w81q081",
+      "country_code": "FR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210098263"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I59807433",
+      "display_name": "Université Lille Nord de France",
+      "ror": "https://ror.org/03btvgn05",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I59807433"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Alain Durocher",
+    "raw_affiliation_strings": [
+     "Intensive Care Unit, Calmette Hospital, University Hospital of Lille, CHRU, Boulevard du Pr Leclercq, 59037, Lille cedex, France",
+     "Medical Assessment Laboratory, EA 2694, Univ Lille Nord de France, 59000, Lille, France",
+     "Intensive Care Unit, Calmette Hospital, University Hospital of Lille, CHRU, Lille cedex, France",
+     "Medical Assessment Laboratory, EA 2694, Univ Lille Nord de France, Lille, France"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Intensive Care Unit, Calmette Hospital, University Hospital of Lille, CHRU, Boulevard du Pr Leclercq, 59037, Lille cedex, France",
+      "institution_ids": [
+       "https://openalex.org/I4210098263"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Medical Assessment Laboratory, EA 2694, Univ Lille Nord de France, 59000, Lille, France",
+      "institution_ids": [
+       "https://openalex.org/I2279609970",
+       "https://openalex.org/I59807433"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Intensive Care Unit, Calmette Hospital, University Hospital of Lille, CHRU, Lille cedex, France",
+      "institution_ids": [
+       "https://openalex.org/I4210098263"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Medical Assessment Laboratory, EA 2694, Univ Lille Nord de France, Lille, France",
+      "institution_ids": [
+       "https://openalex.org/I2279609970",
+       "https://openalex.org/I59807433"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5064736877",
+     "display_name": "Saad Nseir",
+     "orcid": "https://orcid.org/0000-0002-7618-0357"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2279609970",
+      "display_name": "Université de Lille",
+      "ror": "https://ror.org/02kzqn938",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I2279609970"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210098263",
+      "display_name": "Hôpital Albert Calmette",
+      "ror": "https://ror.org/00w81q081",
+      "country_code": "FR",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210098263"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I59807433",
+      "display_name": "Université Lille Nord de France",
+      "ror": "https://ror.org/03btvgn05",
+      "country_code": "FR",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I59807433"
+      ]
+     }
+    ],
+    "countries": [
+     "FR"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Saad Nseir",
+    "raw_affiliation_strings": [
+     "Intensive Care Unit, Calmette Hospital, University Hospital of Lille, CHRU, Boulevard du Pr Leclercq, 59037, Lille cedex, France",
+     "Medical Assessment Laboratory, EA 2694, Univ Lille Nord de France, 59000, Lille, France",
+     "Intensive Care Unit, Calmette Hospital, University Hospital of Lille, CHRU, Lille cedex, France",
+     "Medical Assessment Laboratory, EA 2694, Univ Lille Nord de France, Lille, France"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Intensive Care Unit, Calmette Hospital, University Hospital of Lille, CHRU, Boulevard du Pr Leclercq, 59037, Lille cedex, France",
+      "institution_ids": [
+       "https://openalex.org/I4210098263"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Medical Assessment Laboratory, EA 2694, Univ Lille Nord de France, 59000, Lille, France",
+      "institution_ids": [
+       "https://openalex.org/I2279609970",
+       "https://openalex.org/I59807433"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Intensive Care Unit, Calmette Hospital, University Hospital of Lille, CHRU, Lille cedex, France",
+      "institution_ids": [
+       "https://openalex.org/I4210098263"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Medical Assessment Laboratory, EA 2694, Univ Lille Nord de France, Lille, France",
+      "institution_ids": [
+       "https://openalex.org/I2279609970",
+       "https://openalex.org/I59807433"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 3.3141
+ },
+ {
+  "id": "https://openalex.org/W1994240218",
+  "doi": "https://doi.org/10.1016/j.ajem.2006.09.001",
+  "title": "Endotracheal intracuff pressures in the ED and prehospital setting: is there a problem?",
+  "publication_year": 2006,
+  "type": "article",
+  "cited_by_count": 61,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.8978999853134155,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 18,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5063567769",
+     "display_name": "James E. Svenson",
+     "orcid": "https://orcid.org/0000-0001-6331-9391"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I135310074",
+      "display_name": "University of Wisconsin–Madison",
+      "ror": "https://ror.org/01y2jtd41",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I135310074"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "James E. Svenson",
+    "raw_affiliation_strings": [
+     "Section of Emergency Medicine, University of Wisconsin, Madison, WI 53792, USA. jes@medicine.wisc.edu",
+     "Section of Emergency Medicine, University of Wisconsin, Madison, WI 53792, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Section of Emergency Medicine, University of Wisconsin, Madison, WI 53792, USA. jes@medicine.wisc.edu",
+      "institution_ids": [
+       "https://openalex.org/I135310074"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Section of Emergency Medicine, University of Wisconsin, Madison, WI 53792, USA",
+      "institution_ids": [
+       "https://openalex.org/I135310074"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5052293809",
+     "display_name": "Max Lindsay",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I135310074",
+      "display_name": "University of Wisconsin–Madison",
+      "ror": "https://ror.org/01y2jtd41",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I135310074"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "M. Bruce Lindsay",
+    "raw_affiliation_strings": [
+     "Section of Emergency Medicine, University of Wisconsin, Madison, WI 53792, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Section of Emergency Medicine, University of Wisconsin, Madison, WI 53792, USA",
+      "institution_ids": [
+       "https://openalex.org/I135310074"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5009743401",
+     "display_name": "Jill E. O'Connor",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I135310074",
+      "display_name": "University of Wisconsin–Madison",
+      "ror": "https://ror.org/01y2jtd41",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I135310074"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Jill E. O'Connor",
+    "raw_affiliation_strings": [
+     "Med Flight, University of Wisconsin, Madison, WI 53792, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Med Flight, University of Wisconsin, Madison, WI 53792, USA",
+      "institution_ids": [
+       "https://openalex.org/I135310074"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 1.7847
+ },
+ {
+  "id": "https://openalex.org/W2007737063",
+  "doi": "https://doi.org/10.1016/j.annemergmed.2010.01.025",
+  "title": "Endotracheal Tube Intracuff Pressure During Helicopter Transport",
+  "publication_year": 2010,
+  "type": "article",
+  "cited_by_count": 46,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.503600001335144,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 12,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5103218349",
+     "display_name": "Marco Bassi",
+     "orcid": "https://orcid.org/0000-0002-2429-4803"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2802542264",
+      "display_name": "University Hospital of Basel",
+      "ror": "https://ror.org/04k51q396",
+      "country_code": "CH",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2802542264"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Marco Bassi",
+    "raw_affiliation_strings": [
+     "Department of Anesthesia, University Hospital Basel, Switzerland",
+     "Department of Anesthesia University Hospital, Basel, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesia, University Hospital Basel, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I2802542264"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anesthesia University Hospital, Basel, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I2802542264"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5111711470",
+     "display_name": "Mathias Zuercher",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210086658",
+      "display_name": "Zürich Airport (Switzerland)",
+      "ror": "https://ror.org/002g3kz75",
+      "country_code": "CH",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I4210086658"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Mathias Zuercher",
+    "raw_affiliation_strings": [
+     "Department of Anesthesia, University Hospital Basel, Basel, and the Swiss Air Rescue Organisation, Zurich, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesia, University Hospital Basel, Basel, and the Swiss Air Rescue Organisation, Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210086658"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5014353286",
+     "display_name": "Jean-Jacques Erne",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210086658",
+      "display_name": "Zürich Airport (Switzerland)",
+      "ror": "https://ror.org/002g3kz75",
+      "country_code": "CH",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I4210086658"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Jean-Jacques Erne",
+    "raw_affiliation_strings": [
+     "Department of Anesthesia, University Hospital Basel, Basel, and the Swiss Air Rescue Organisation, Zurich, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesia, University Hospital Basel, Basel, and the Swiss Air Rescue Organisation, Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210086658"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5108570387",
+     "display_name": "Wolfgang Ummenhofer",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210086658",
+      "display_name": "Zürich Airport (Switzerland)",
+      "ror": "https://ror.org/002g3kz75",
+      "country_code": "CH",
+      "type": "company",
+      "lineage": [
+       "https://openalex.org/I4210086658"
+      ]
+     }
+    ],
+    "countries": [
+     "CH"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Wolfgang Ummenhofer",
+    "raw_affiliation_strings": [
+     "Department of Anesthesia, University Hospital Basel, Basel, and the Swiss Air Rescue Organisation, Zurich, Switzerland"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesia, University Hospital Basel, Basel, and the Swiss Air Rescue Organisation, Zurich, Switzerland",
+      "institution_ids": [
+       "https://openalex.org/I4210086658"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 3.7464
+ },
+ {
+  "id": "https://openalex.org/W2023190855",
+  "doi": "https://doi.org/10.1097/pec.0b013e3181db224d",
+  "title": "Endotracheal Tube Cuff Pressures in Pediatric Patients Intubated Before Aeromedical Transport",
+  "publication_year": 2010,
+  "type": "article",
+  "cited_by_count": 16,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 12,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5051240879",
+     "display_name": "William W. Tollefsen",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1283280774",
+      "display_name": "Brigham and Women's Hospital",
+      "ror": "https://ror.org/04b6nzv94",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1283280774",
+       "https://openalex.org/I48633490"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I4210087915",
+      "display_name": "Massachusetts General Hospital",
+      "ror": "https://ror.org/002pd6e78",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210087915",
+       "https://openalex.org/I48633490"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "William W. Tollefsen",
+    "raw_affiliation_strings": [
+     "Harvard Affiliated Emergency Medicine, Brigham and Women's Hospital/Massachusetts General Hospital, 75 Francis St, Neville House-236A, Boston, MA 02115, USA. wtollefsen@partners.org"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Harvard Affiliated Emergency Medicine, Brigham and Women's Hospital/Massachusetts General Hospital, 75 Francis St, Neville House-236A, Boston, MA 02115, USA. wtollefsen@partners.org",
+      "institution_ids": [
+       "https://openalex.org/I1283280774",
+       "https://openalex.org/I4210087915"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5109426359",
+     "display_name": "Jacob Chapman",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210087915",
+      "display_name": "Massachusetts General Hospital",
+      "ror": "https://ror.org/002pd6e78",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210087915",
+       "https://openalex.org/I48633490"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Jacob Chapman",
+    "raw_affiliation_strings": [
+     "Department of Emergency Medicine, Massachusetts General Hospital"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Emergency Medicine, Massachusetts General Hospital",
+      "institution_ids": [
+       "https://openalex.org/I4210087915"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5001930102",
+     "display_name": "Michael A. Frakes",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Michael Frakes",
+    "raw_affiliation_strings": [
+     "Boston MedFlight, Boston, MA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Boston MedFlight, Boston, MA",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5042210468",
+     "display_name": "Michael Gallagher",
+     "orcid": "https://orcid.org/0000-0002-0221-9386"
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": false,
+    "raw_author_name": "Michael Gallagher",
+    "raw_affiliation_strings": [
+     "Boston MedFlight, Boston, MA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Boston MedFlight, Boston, MA",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5082966207",
+     "display_name": "Melissa L. Shear",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210087915",
+      "display_name": "Massachusetts General Hospital",
+      "ror": "https://ror.org/002pd6e78",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210087915",
+       "https://openalex.org/I48633490"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Melissa Shear",
+    "raw_affiliation_strings": [
+     "Department of Emergency Medicine, Massachusetts General Hospital"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Emergency Medicine, Massachusetts General Hospital",
+      "institution_ids": [
+       "https://openalex.org/I4210087915"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5053921290",
+     "display_name": "Stephen H. Thomas",
+     "orcid": "https://orcid.org/0000-0003-2833-5921"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I8692664",
+      "display_name": "University of Oklahoma",
+      "ror": "https://ror.org/02aqsxs83",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I8692664"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Stephen H. Thomas",
+    "raw_affiliation_strings": [
+     "Boston MedFlight, Boston, MA",
+     "Department of Emergency Medicine, University of Oklahoma School of Community Medicine, Tulsa, OK"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Boston MedFlight, Boston, MA",
+      "institution_ids": []
+     },
+     {
+      "raw_affiliation_string": "Department of Emergency Medicine, University of Oklahoma School of Community Medicine, Tulsa, OK",
+      "institution_ids": [
+       "https://openalex.org/I8692664"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 2.4976
+ },
+ {
+  "id": "https://openalex.org/W1977474817",
+  "doi": "https://doi.org/10.1111/j.1365-2044.2004.03609.x",
+  "title": "Pressures within air‐filled tracheal cuffs at altitude – an in vivo study",
+  "publication_year": 2004,
+  "type": "article",
+  "cited_by_count": 24,
+  "primary_topic": {
+   "id": "https://openalex.org/T11260",
+   "display_name": "Tracheal and airway disorders",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2740",
+    "display_name": "Pulmonary and Respiratory Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 7,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5110114831",
+     "display_name": "J. Henning",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2799661921",
+      "display_name": "Selly Oak Hospital",
+      "ror": "https://ror.org/041jyhr41",
+      "country_code": "GB",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2799661921"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "J. Henning",
+    "raw_affiliation_strings": [
+     "Royal Centre for Defence Medicine, Selly Oak Hospital, Birmingham, B29 6JD, UK. jhenning@doctors.net.uk",
+     "Specialist Registrar in Anaesthesia and Intensive Care Medicine, Royal Centre for Defence Medicine, Selly Oak Hospital, Birmingham, B29 6JD, UK"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Royal Centre for Defence Medicine, Selly Oak Hospital, Birmingham, B29 6JD, UK. jhenning@doctors.net.uk",
+      "institution_ids": [
+       "https://openalex.org/I2799661921"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Specialist Registrar in Anaesthesia and Intensive Care Medicine, Royal Centre for Defence Medicine, Selly Oak Hospital, Birmingham, B29 6JD, UK",
+      "institution_ids": [
+       "https://openalex.org/I2799661921"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5067966230",
+     "display_name": "Peter Sharley",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1320133117",
+      "display_name": "Royal Adelaide Hospital",
+      "ror": "https://ror.org/00carf720",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1320133117",
+       "https://openalex.org/I4392738059"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "P. Sharley",
+    "raw_affiliation_strings": [
+     "Director, Retrieval Service, Royal Adelaide Hospital"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Director, Retrieval Service, Royal Adelaide Hospital",
+      "institution_ids": [
+       "https://openalex.org/I1320133117"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5012613674",
+     "display_name": "Robert J. Young",
+     "orcid": "https://orcid.org/0000-0001-7003-3017"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I1320133117",
+      "display_name": "Royal Adelaide Hospital",
+      "ror": "https://ror.org/00carf720",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I1320133117",
+       "https://openalex.org/I4392738059"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "R. Young",
+    "raw_affiliation_strings": [
+     "Consultant, Intensive Care Unit, Royal Adelaide Hospital, Intensive Care Unit, Royal Adelaide Hospital, North Terrace, Adelaide, SA 5000, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Consultant, Intensive Care Unit, Royal Adelaide Hospital, Intensive Care Unit, Royal Adelaide Hospital, North Terrace, Adelaide, SA 5000, Australia",
+      "institution_ids": [
+       "https://openalex.org/I1320133117"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 0.7238
+ },
+ {
+  "id": "https://openalex.org/W2082504977",
+  "doi": "https://doi.org/10.1136/bmj.288.6425.1237-a",
+  "title": "Endotracheal cuff pressure and tracheal mucosal blood flow: endoscopic study of effects of four large volume cuffs",
+  "publication_year": 1984,
+  "type": "article",
+  "cited_by_count": 24,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.9911999702453613,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 1,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5106668255",
+     "display_name": "D. Honeybourne",
+     "orcid": null
+    },
+    "institutions": [],
+    "countries": [],
+    "is_corresponding": true,
+    "raw_author_name": "D Honeybourne",
+    "raw_affiliation_strings": [],
+    "raw_orcid": null,
+    "affiliations": []
+   }
+  ],
+  "fwci": 0.5634
+ },
+ {
+  "id": "https://openalex.org/W2042887382",
+  "doi": "https://doi.org/10.3109/10903127.2012.744787",
+  "title": "Endotracheal Tube Cuff Pressure before, during, and after Fixed-Wing Air Medical Retrieval",
+  "publication_year": 2012,
+  "type": "article",
+  "cited_by_count": 16,
+  "primary_topic": {
+   "id": "https://openalex.org/T10645",
+   "display_name": "Cardiac Arrest and Resuscitation",
+   "score": 0.9991000294685364,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2711",
+    "display_name": "Emergency Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 16,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5030876829",
+     "display_name": "Peter Brendt",
+     "orcid": "https://orcid.org/0000-0003-0567-8446"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210096471",
+      "display_name": "Dubbo Hospital",
+      "ror": "https://ror.org/00v907w21",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210096471"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Peter Brendt",
+    "raw_affiliation_strings": [
+     "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\rDubbo, NSW, Australia; and the School of Rural Health Dubbo, University of Sydney (PB, MS, KP, AB, KM),\rDubbo, NSW, Australia",
+     "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\nDubbo, NSW, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\rDubbo, NSW, Australia; and the School of Rural Health Dubbo, University of Sydney (PB, MS, KP, AB, KM),\rDubbo, NSW, Australia",
+      "institution_ids": [
+       "https://openalex.org/I4210096471"
+      ]
+     },
+     {
+      "raw_affiliation_string": "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\nDubbo, NSW, Australia",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5040814576",
+     "display_name": "Marc Schnekenburger",
+     "orcid": "https://orcid.org/0000-0001-6583-8865"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210096471",
+      "display_name": "Dubbo Hospital",
+      "ror": "https://ror.org/00v907w21",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210096471"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Marc Schnekenburger",
+    "raw_affiliation_strings": [
+     "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\rDubbo, NSW, Australia; and the School of Rural Health Dubbo, University of Sydney (PB, MS, KP, AB, KM),\rDubbo, NSW, Australia",
+     "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\nDubbo, NSW, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\rDubbo, NSW, Australia; and the School of Rural Health Dubbo, University of Sydney (PB, MS, KP, AB, KM),\rDubbo, NSW, Australia",
+      "institution_ids": [
+       "https://openalex.org/I4210096471"
+      ]
+     },
+     {
+      "raw_affiliation_string": "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\nDubbo, NSW, Australia",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5005312513",
+     "display_name": "Karen Paxton",
+     "orcid": "https://orcid.org/0000-0001-7537-3731"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210096471",
+      "display_name": "Dubbo Hospital",
+      "ror": "https://ror.org/00v907w21",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210096471"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Karen Paxton",
+    "raw_affiliation_strings": [
+     "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\rDubbo, NSW, Australia; and the School of Rural Health Dubbo, University of Sydney (PB, MS, KP, AB, KM),\rDubbo, NSW, Australia",
+     "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\nDubbo, NSW, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\rDubbo, NSW, Australia; and the School of Rural Health Dubbo, University of Sydney (PB, MS, KP, AB, KM),\rDubbo, NSW, Australia",
+      "institution_ids": [
+       "https://openalex.org/I4210096471"
+      ]
+     },
+     {
+      "raw_affiliation_string": "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\nDubbo, NSW, Australia",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5001645931",
+     "display_name": "Anthony Brown",
+     "orcid": "https://orcid.org/0000-0002-1448-0899"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210096471",
+      "display_name": "Dubbo Hospital",
+      "ror": "https://ror.org/00v907w21",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210096471"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Anthony Brown",
+    "raw_affiliation_strings": [
+     "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\rDubbo, NSW, Australia; and the School of Rural Health Dubbo, University of Sydney (PB, MS, KP, AB, KM),\rDubbo, NSW, Australia",
+     "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\nDubbo, NSW, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\rDubbo, NSW, Australia; and the School of Rural Health Dubbo, University of Sydney (PB, MS, KP, AB, KM),\rDubbo, NSW, Australia",
+      "institution_ids": [
+       "https://openalex.org/I4210096471"
+      ]
+     },
+     {
+      "raw_affiliation_string": "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\nDubbo, NSW, Australia",
+      "institution_ids": []
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5018103095",
+     "display_name": "Kumara Mendis",
+     "orcid": "https://orcid.org/0000-0003-2668-3404"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I4210096471",
+      "display_name": "Dubbo Hospital",
+      "ror": "https://ror.org/00v907w21",
+      "country_code": "AU",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I4210096471"
+      ]
+     }
+    ],
+    "countries": [
+     "AU"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Kumara Mendis",
+    "raw_affiliation_strings": [
+     "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\rDubbo, NSW, Australia; and the School of Rural Health Dubbo, University of Sydney (PB, MS, KP, AB, KM),\rDubbo, NSW, Australia",
+     "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\nDubbo, NSW, Australia"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\rDubbo, NSW, Australia; and the School of Rural Health Dubbo, University of Sydney (PB, MS, KP, AB, KM),\rDubbo, NSW, Australia",
+      "institution_ids": [
+       "https://openalex.org/I4210096471"
+      ]
+     },
+     {
+      "raw_affiliation_string": "From Royal Flying Doctor Service Australia, South Eastern Section (PB, MS),\nDubbo, NSW, Australia",
+      "institution_ids": []
+     }
+    ]
+   }
+  ],
+  "fwci": 0.9623
+ },
+ {
+  "id": "https://openalex.org/W2028027594",
+  "doi": "https://doi.org/10.1213/00000539-199305000-00030",
+  "title": "Canine Tracheal Blood Flow After Endotracheal Tube Cuff Inflation During Normotension and Hypotension",
+  "publication_year": 1993,
+  "type": "article",
+  "cited_by_count": 56,
+  "primary_topic": {
+   "id": "https://openalex.org/T10830",
+   "display_name": "Airway Management and Intubation Techniques",
+   "score": 0.9998999834060669,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2703",
+    "display_name": "Anesthesiology and Pain Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 0,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5111826400",
+     "display_name": "Leonid Bunegin",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I165951966",
+      "display_name": "The University of Texas at San Antonio Health Science Center",
+      "ror": "https://ror.org/02f6dcw23",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I165951966",
+       "https://openalex.org/I45438204"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "Leonid Bunegin",
+    "raw_affiliation_strings": [
+     "Department of Anesthesiology, University of Texas Health Science Center, San Antonio 78284-7838",
+     "Department of Anesthesiology, University of Texas Health Science Center, San Antonio, Texas",
+     "reprint requests to L. Bunegin, B.S., Department of Anesthesiology, The University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, Texas 78284-7838"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesiology, University of Texas Health Science Center, San Antonio 78284-7838",
+      "institution_ids": [
+       "https://openalex.org/I165951966"
+      ]
+     },
+     {
+      "raw_affiliation_string": "Department of Anesthesiology, University of Texas Health Science Center, San Antonio, Texas",
+      "institution_ids": [
+       "https://openalex.org/I165951966"
+      ]
+     },
+     {
+      "raw_affiliation_string": "reprint requests to L. Bunegin, B.S., Department of Anesthesiology, The University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, Texas 78284-7838",
+      "institution_ids": [
+       "https://openalex.org/I165951966"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "middle",
+    "author": {
+     "id": "https://openalex.org/A5103526993",
+     "display_name": "Maurice S. Albin",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I165951966",
+      "display_name": "The University of Texas at San Antonio Health Science Center",
+      "ror": "https://ror.org/02f6dcw23",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I165951966",
+       "https://openalex.org/I45438204"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "Maurice S. Albin",
+    "raw_affiliation_strings": [
+     "Department of Anesthesiology, University of Texas Health Science Center, San Antonio, Texas",
+     "and reprint requests to L. Bunegin, B.S., Department of Anesthesiology, The University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, Texas 78284-7838",
+     "reprint requests to L. Bunegin, B.S., Department of Anesthesiology, The University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, Texas 78284-7838"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesiology, University of Texas Health Science Center, San Antonio, Texas",
+      "institution_ids": [
+       "https://openalex.org/I165951966"
+      ]
+     },
+     {
+      "raw_affiliation_string": "and reprint requests to L. Bunegin, B.S., Department of Anesthesiology, The University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, Texas 78284-7838",
+      "institution_ids": [
+       "https://openalex.org/I165951966"
+      ]
+     },
+     {
+      "raw_affiliation_string": "reprint requests to L. Bunegin, B.S., Department of Anesthesiology, The University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, Texas 78284-7838",
+      "institution_ids": [
+       "https://openalex.org/I165951966"
+      ]
+     }
+    ]
+   },
+   {
+    "author_position": "last",
+    "author": {
+     "id": "https://openalex.org/A5058802076",
+     "display_name": "R. Brian Smith",
+     "orcid": null
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I165951966",
+      "display_name": "The University of Texas at San Antonio Health Science Center",
+      "ror": "https://ror.org/02f6dcw23",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I165951966",
+       "https://openalex.org/I45438204"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": false,
+    "raw_author_name": "R. Brian Smith",
+    "raw_affiliation_strings": [
+     "Department of Anesthesiology, University of Texas Health Science Center, San Antonio, Texas",
+     "and reprint requests to L. Bunegin, B.S., Department of Anesthesiology, The University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, Texas 78284-7838",
+     "reprint requests to L. Bunegin, B.S., Department of Anesthesiology, The University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, Texas 78284-7838"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Anesthesiology, University of Texas Health Science Center, San Antonio, Texas",
+      "institution_ids": [
+       "https://openalex.org/I165951966"
+      ]
+     },
+     {
+      "raw_affiliation_string": "and reprint requests to L. Bunegin, B.S., Department of Anesthesiology, The University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, Texas 78284-7838",
+      "institution_ids": [
+       "https://openalex.org/I165951966"
+      ]
+     },
+     {
+      "raw_affiliation_string": "reprint requests to L. Bunegin, B.S., Department of Anesthesiology, The University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, Texas 78284-7838",
+      "institution_ids": [
+       "https://openalex.org/I165951966"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 0.6613
+ },
+ {
+  "id": "https://openalex.org/W2326274628",
+  "doi": "https://doi.org/10.1016/0736-4679(92)90370-9",
+  "title": "The clinical practice of emergency medicine",
+  "publication_year": 1992,
+  "type": "article",
+  "cited_by_count": 16,
+  "primary_topic": {
+   "id": "https://openalex.org/T11095",
+   "display_name": "Emergency and Acute Care Studies",
+   "score": 0.9467999935150146,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2711",
+    "display_name": "Emergency Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 0,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5065322559",
+     "display_name": "John C. Sakles",
+     "orcid": "https://orcid.org/0000-0003-0719-7363"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I63135867",
+      "display_name": "University of Cincinnati",
+      "ror": "https://ror.org/01e3m7079",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+       "https://openalex.org/I63135867"
+      ]
+     },
+     {
+      "id": "https://openalex.org/I92156820",
+      "display_name": "University of Cincinnati Medical Center",
+      "ror": "https://ror.org/02p72h367",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I92156820"
+      ]
+     }
+    ],
+    "countries": [
+     "US"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "John C. Sakles",
+    "raw_affiliation_strings": [
+     "Department of Emergency Medicine University of Cincinnati Medical Center, USA"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Department of Emergency Medicine University of Cincinnati Medical Center, USA",
+      "institution_ids": [
+       "https://openalex.org/I63135867",
+       "https://openalex.org/I92156820"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 1.0664
+ },
+ {
+  "id": "https://openalex.org/W2077667105",
+  "doi": "https://doi.org/10.1136/emj.2007.048884",
+  "title": "Effects of altitude on endotracheal tube cuff pressures",
+  "publication_year": 2007,
+  "type": "article",
+  "cited_by_count": 3,
+  "primary_topic": {
+   "id": "https://openalex.org/T10645",
+   "display_name": "Cardiac Arrest and Resuscitation",
+   "score": 0.9969000220298767,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2711",
+    "display_name": "Emergency Medicine"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  "referenced_works_count": 8,
+  "authorships": [
+   {
+    "author_position": "first",
+    "author": {
+     "id": "https://openalex.org/A5066951535",
+     "display_name": "Philip Kaye",
+     "orcid": "https://orcid.org/0000-0002-0972-5978"
+    },
+    "institutions": [
+     {
+      "id": "https://openalex.org/I2800549715",
+      "display_name": "Royal United Hospital",
+      "ror": "https://ror.org/00a858n67",
+      "country_code": "GB",
+      "type": "healthcare",
+      "lineage": [
+       "https://openalex.org/I2800549715",
+       "https://openalex.org/I4210161895"
+      ]
+     }
+    ],
+    "countries": [
+     "GB"
+    ],
+    "is_corresponding": true,
+    "raw_author_name": "P. Kaye",
+    "raw_affiliation_strings": [
+     "Emergency Department, Royal United Hospital, Bath, UK"
+    ],
+    "raw_orcid": null,
+    "affiliations": [
+     {
+      "raw_affiliation_string": "Emergency Department, Royal United Hospital, Bath, UK",
+      "institution_ids": [
+       "https://openalex.org/I2800549715"
+      ]
+     }
+    ]
+   }
+  ],
+  "fwci": 0.2894
+ }
+]

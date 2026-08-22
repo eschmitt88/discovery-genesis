@@ -1,0 +1,1149 @@
+{
+ "id": "https://openalex.org/W2092406095",
+ "doi": "https://doi.org/10.1016/s1473-3099(10)70222-x",
+ "title": "Causes of encephalitis and differences in their clinical presentations in England: a multicentre, population-based prospective study",
+ "display_name": "Causes of encephalitis and differences in their clinical presentations in England: a multicentre, population-based prospective study",
+ "publication_year": 2010,
+ "publication_date": "2010-10-18",
+ "type": "article",
+ "cited_by_count": 1369,
+ "citation_normalized_percentile": {
+  "value": 0.99863986,
+  "is_in_top_1_percent": true,
+  "is_in_top_10_percent": true
+ },
+ "cited_by_percentile_year": {
+  "min": 99,
+  "max": 100
+ },
+ "referenced_works": [
+  "https://openalex.org/W54703682",
+  "https://openalex.org/W1874700596",
+  "https://openalex.org/W1964649969",
+  "https://openalex.org/W1973647109",
+  "https://openalex.org/W1977179445",
+  "https://openalex.org/W2004775359",
+  "https://openalex.org/W2006051718",
+  "https://openalex.org/W2006795308",
+  "https://openalex.org/W2009802670",
+  "https://openalex.org/W2032049067",
+  "https://openalex.org/W2047312613",
+  "https://openalex.org/W2049082974",
+  "https://openalex.org/W2058022954",
+  "https://openalex.org/W2065557665",
+  "https://openalex.org/W2077934868",
+  "https://openalex.org/W2087363103",
+  "https://openalex.org/W2105600079",
+  "https://openalex.org/W2118067546",
+  "https://openalex.org/W2121799179",
+  "https://openalex.org/W2126835932",
+  "https://openalex.org/W2131625303",
+  "https://openalex.org/W2133197143",
+  "https://openalex.org/W2137311953",
+  "https://openalex.org/W2146199022",
+  "https://openalex.org/W2149150328",
+  "https://openalex.org/W2149239333",
+  "https://openalex.org/W2149507482",
+  "https://openalex.org/W2154286617",
+  "https://openalex.org/W2155108682",
+  "https://openalex.org/W2169075035",
+  "https://openalex.org/W2248382434",
+  "https://openalex.org/W2336900894",
+  "https://openalex.org/W4239341883",
+  "https://openalex.org/W4299631805",
+  "https://openalex.org/W6691561972"
+ ],
+ "referenced_works_count": 35,
+ "related_works": [
+  "https://openalex.org/W2806061655",
+  "https://openalex.org/W2545586532",
+  "https://openalex.org/W1955737261",
+  "https://openalex.org/W2775573077",
+  "https://openalex.org/W2911461202",
+  "https://openalex.org/W2349995396",
+  "https://openalex.org/W1978706664",
+  "https://openalex.org/W4386111123",
+  "https://openalex.org/W2376871212",
+  "https://openalex.org/W2020278142"
+ ],
+ "primary_topic": {
+  "id": "https://openalex.org/T10625",
+  "display_name": "Herpesvirus Infections and Treatments",
+  "score": 0.45500001311302185,
+  "subfield": {
+   "id": "https://openalex.org/subfields/2713",
+   "display_name": "Epidemiology"
+  },
+  "field": {
+   "id": "https://openalex.org/fields/27",
+   "display_name": "Medicine"
+  },
+  "domain": {
+   "id": "https://openalex.org/domains/4",
+   "display_name": "Health Sciences"
+  }
+ },
+ "topics": [
+  {
+   "id": "https://openalex.org/T10625",
+   "display_name": "Herpesvirus Infections and Treatments",
+   "score": 0.45500001311302185,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T11627",
+   "display_name": "Autoimmune Neurological Disorders and Treatments",
+   "score": 0.4390000104904175,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2728",
+    "display_name": "Neurology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T10981",
+   "display_name": "Cytomegalovirus and herpesvirus research",
+   "score": 0.05889999866485596,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2713",
+    "display_name": "Epidemiology"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/27",
+    "display_name": "Medicine"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/4",
+    "display_name": "Health Sciences"
+   }
+  }
+ ],
+ "keywords": [
+  {
+   "id": "https://openalex.org/keywords/medicine",
+   "display_name": "Medicine",
+   "score": 0.8831677436828613
+  },
+  {
+   "id": "https://openalex.org/keywords/encephalitis",
+   "display_name": "Encephalitis",
+   "score": 0.797843337059021
+  },
+  {
+   "id": "https://openalex.org/keywords/varicella-zoster-virus",
+   "display_name": "Varicella zoster virus",
+   "score": 0.5269337892532349
+  },
+  {
+   "id": "https://openalex.org/keywords/pediatrics",
+   "display_name": "Pediatrics",
+   "score": 0.5224360823631287
+  },
+  {
+   "id": "https://openalex.org/keywords/case-fatality-rate",
+   "display_name": "Case fatality rate",
+   "score": 0.47511181235313416
+  },
+  {
+   "id": "https://openalex.org/keywords/population",
+   "display_name": "Population",
+   "score": 0.4647355079650879
+  },
+  {
+   "id": "https://openalex.org/keywords/tuberculosis",
+   "display_name": "Tuberculosis",
+   "score": 0.4511137306690216
+  },
+  {
+   "id": "https://openalex.org/keywords/japanese-encephalitis",
+   "display_name": "Japanese encephalitis",
+   "score": 0.41162121295928955
+  },
+  {
+   "id": "https://openalex.org/keywords/internal-medicine",
+   "display_name": "Internal medicine",
+   "score": 0.3924139142036438
+  },
+  {
+   "id": "https://openalex.org/keywords/immunology",
+   "display_name": "Immunology",
+   "score": 0.35238415002822876
+  },
+  {
+   "id": "https://openalex.org/keywords/virus",
+   "display_name": "Virus",
+   "score": 0.32571470737457275
+  },
+  {
+   "id": "https://openalex.org/keywords/epidemiology",
+   "display_name": "Epidemiology",
+   "score": 0.3082270622253418
+  },
+  {
+   "id": "https://openalex.org/keywords/pathology",
+   "display_name": "Pathology",
+   "score": 0.11619898676872253
+  }
+ ],
+ "concepts": [
+  {
+   "id": "https://openalex.org/C71924100",
+   "wikidata": "https://www.wikidata.org/wiki/Q11190",
+   "display_name": "Medicine",
+   "level": 0,
+   "score": 0.8831677436828613
+  },
+  {
+   "id": "https://openalex.org/C83455156",
+   "wikidata": "https://www.wikidata.org/wiki/Q199615",
+   "display_name": "Encephalitis",
+   "level": 3,
+   "score": 0.797843337059021
+  },
+  {
+   "id": "https://openalex.org/C2776159415",
+   "wikidata": "https://www.wikidata.org/wiki/Q6868",
+   "display_name": "Varicella zoster virus",
+   "level": 3,
+   "score": 0.5269337892532349
+  },
+  {
+   "id": "https://openalex.org/C187212893",
+   "wikidata": "https://www.wikidata.org/wiki/Q123028",
+   "display_name": "Pediatrics",
+   "level": 1,
+   "score": 0.5224360823631287
+  },
+  {
+   "id": "https://openalex.org/C187316915",
+   "wikidata": "https://www.wikidata.org/wiki/Q92307203",
+   "display_name": "Case fatality rate",
+   "level": 3,
+   "score": 0.47511181235313416
+  },
+  {
+   "id": "https://openalex.org/C2908647359",
+   "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+   "display_name": "Population",
+   "level": 2,
+   "score": 0.4647355079650879
+  },
+  {
+   "id": "https://openalex.org/C2781069245",
+   "wikidata": "https://www.wikidata.org/wiki/Q12204",
+   "display_name": "Tuberculosis",
+   "level": 2,
+   "score": 0.4511137306690216
+  },
+  {
+   "id": "https://openalex.org/C2779141303",
+   "wikidata": "https://www.wikidata.org/wiki/Q738292",
+   "display_name": "Japanese encephalitis",
+   "level": 4,
+   "score": 0.41162121295928955
+  },
+  {
+   "id": "https://openalex.org/C126322002",
+   "wikidata": "https://www.wikidata.org/wiki/Q11180",
+   "display_name": "Internal medicine",
+   "level": 1,
+   "score": 0.3924139142036438
+  },
+  {
+   "id": "https://openalex.org/C203014093",
+   "wikidata": "https://www.wikidata.org/wiki/Q101929",
+   "display_name": "Immunology",
+   "level": 1,
+   "score": 0.35238415002822876
+  },
+  {
+   "id": "https://openalex.org/C2522874641",
+   "wikidata": "https://www.wikidata.org/wiki/Q808",
+   "display_name": "Virus",
+   "level": 2,
+   "score": 0.32571470737457275
+  },
+  {
+   "id": "https://openalex.org/C107130276",
+   "wikidata": "https://www.wikidata.org/wiki/Q133805",
+   "display_name": "Epidemiology",
+   "level": 2,
+   "score": 0.3082270622253418
+  },
+  {
+   "id": "https://openalex.org/C142724271",
+   "wikidata": "https://www.wikidata.org/wiki/Q7208",
+   "display_name": "Pathology",
+   "level": 1,
+   "score": 0.11619898676872253
+  },
+  {
+   "id": "https://openalex.org/C99454951",
+   "wikidata": "https://www.wikidata.org/wiki/Q932068",
+   "display_name": "Environmental health",
+   "level": 1,
+   "score": 0.0
+  }
+ ],
+ "open_access": {
+  "is_oa": true,
+  "oa_status": "hybrid",
+  "oa_url": "https://doi.org/10.1016/s1473-3099(10)70222-x",
+  "any_repository_has_fulltext": false
+ },
+ "locations": [
+  {
+   "id": "doi:10.1016/s1473-3099(10)70222-x",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.1016/s1473-3099(10)70222-x",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S23772524",
+    "display_name": "The Lancet Infectious Diseases",
+    "issn_l": "1473-3099",
+    "issn": [
+     "1473-3099",
+     "1474-4457"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "host_organization": "https://openalex.org/P4310320990",
+    "host_organization_name": "Elsevier BV",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320990"
+    ],
+    "host_organization_lineage_names": [
+     "Elsevier BV"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "The Lancet Infectious Diseases",
+   "raw_type": "journal-article"
+  },
+  {
+   "id": "pmid:20952256",
+   "is_oa": false,
+   "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/20952256",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306525036",
+    "display_name": "PubMed",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I1299303238",
+    "host_organization_name": "National Institutes of Health",
+    "host_organization_lineage": [
+     "https://openalex.org/I1299303238"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "The Lancet. Infectious diseases",
+   "raw_type": "Journal Article"
+  },
+  {
+   "id": "pmh:oai:eprints.ucl.ac.uk.OAI2:1400035",
+   "is_oa": false,
+   "landing_page_url": "http://discovery.ucl.ac.uk/1400035/",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400024",
+    "display_name": "UCL Discovery (University College London)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I45129253",
+    "host_organization_name": "University College London",
+    "host_organization_lineage": [
+     "https://openalex.org/I45129253"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "LANCET INFECTIOUS DISEASES , 10 (12) pp. 835-844. (2010)",
+   "raw_type": "Article"
+  },
+  {
+   "id": "pmh:oai:kclpure.kcl.ac.uk:publications/320a446b-df2d-4b04-a04e-c0eb4871164f",
+   "is_oa": false,
+   "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/320a446b-df2d-4b04-a04e-c0eb4871164f",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400216",
+    "display_name": "Research Portal (King's College London)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I183935753",
+    "host_organization_name": "King's College London",
+    "host_organization_lineage": [
+     "https://openalex.org/I183935753"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "Granerod, J, Ambrose, H E, Davies, N W S, Clewley, J P, Walsh, A L, Morgan, D, Cunningham, R, Zuckerman, M, Mutton, K J, Solomon, T, Ward, K N, Lunn, M P T, Irani, S R, Vincent, A, Brown, D W G & Crowcroft, N S 2010, 'Causes of encephalitis and differences in their clinical presentations in England: a multicentre, population-based prospective study', Lancet Infectious Diseases, vol. 10, no. 12, pp. 835 - 844. https://doi.org/10.1016/S1473-3099(10)70222-X",
+   "raw_type": "info:eu-repo/semantics/article"
+  },
+  {
+   "id": "pmh:oai:ora.ox.ac.uk:uuid:943365d2-1da1-4f37-bc76-2a740affe525",
+   "is_oa": false,
+   "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:943365d2-1da1-4f37-bc76-2a740affe525",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306402636",
+    "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I40120149",
+    "host_organization_name": "University of Oxford",
+    "host_organization_lineage": [
+     "https://openalex.org/I40120149"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "Symplectic Elements at Oxford",
+   "raw_type": "Journal article"
+  }
+ ],
+ "best_oa_location": {
+  "id": "doi:10.1016/s1473-3099(10)70222-x",
+  "is_oa": true,
+  "landing_page_url": "https://doi.org/10.1016/s1473-3099(10)70222-x",
+  "pdf_url": null,
+  "source": {
+   "id": "https://openalex.org/S23772524",
+   "display_name": "The Lancet Infectious Diseases",
+   "issn_l": "1473-3099",
+   "issn": [
+    "1473-3099",
+    "1474-4457"
+   ],
+   "is_oa": false,
+   "is_in_doaj": false,
+   "is_core": true,
+   "host_organization": "https://openalex.org/P4310320990",
+   "host_organization_name": "Elsevier BV",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310320990"
+   ],
+   "host_organization_lineage_names": [
+    "Elsevier BV"
+   ],
+   "type": "journal"
+  },
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "version": "publishedVersion",
+  "is_accepted": true,
+  "is_published": true,
+  "raw_source_name": "The Lancet Infectious Diseases",
+  "raw_type": "journal-article"
+ },
+ "authorships": [
+  {
+   "author_position": "first",
+   "author": {
+    "id": "https://openalex.org/A5005748460",
+    "display_name": "Julia Granerød",
+    "orcid": null
+   },
+   "institutions": [],
+   "countries": [],
+   "is_corresponding": false,
+   "raw_author_name": "Julia Granerod",
+   "raw_affiliation_strings": [
+    "Centre for Infections, Health Protection Agency, London, UK. julia.granerod@hpa.org.uk",
+    "Centre for Infections, Health Protection Agency, London, UK"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Centre for Infections, Health Protection Agency, London, UK. julia.granerod@hpa.org.uk",
+     "institution_ids": []
+    },
+    {
+     "raw_affiliation_string": "Centre for Infections, Health Protection Agency, London, UK",
+     "institution_ids": []
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5029359449",
+    "display_name": "Helen E. Ambrose",
+    "orcid": null
+   },
+   "institutions": [],
+   "countries": [],
+   "is_corresponding": false,
+   "raw_author_name": "Helen E Ambrose",
+   "raw_affiliation_strings": [
+    "Centre for Infections, Health Protection Agency, London, UK"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Centre for Infections, Health Protection Agency, London, UK",
+     "institution_ids": []
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5023555465",
+    "display_name": "Nicholas Davies",
+    "orcid": "https://orcid.org/0000-0003-4095-4549"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I31746571",
+     "display_name": "UNSW Sydney",
+     "ror": "https://ror.org/03r8z3t63",
+     "country_code": "AU",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I31746571"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I4210087110",
+     "display_name": "St Vincent's Hospital Melbourne",
+     "ror": "https://ror.org/001kjn539",
+     "country_code": "AU",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I4210087110",
+      "https://openalex.org/I4210098850"
+     ]
+    }
+   ],
+   "countries": [
+    "AU"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Nicholas WS Davies",
+   "raw_affiliation_strings": [
+    "St. Vincent's Hospital and University of New South Wales Sydney Australia"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "St. Vincent's Hospital and University of New South Wales Sydney Australia",
+     "institution_ids": [
+      "https://openalex.org/I31746571",
+      "https://openalex.org/I4210087110"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5067780933",
+    "display_name": "Jonathan P. Clewley",
+    "orcid": null
+   },
+   "institutions": [],
+   "countries": [],
+   "is_corresponding": false,
+   "raw_author_name": "Jonathan P Clewley",
+   "raw_affiliation_strings": [
+    "Centre for Infections, Health Protection Agency, London, UK"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Centre for Infections, Health Protection Agency, London, UK",
+     "institution_ids": []
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5050764672",
+    "display_name": "Amanda L. Walsh",
+    "orcid": "https://orcid.org/0000-0003-4310-6967"
+   },
+   "institutions": [],
+   "countries": [],
+   "is_corresponding": false,
+   "raw_author_name": "Amanda L Walsh",
+   "raw_affiliation_strings": [
+    "Centre for Infections, Health Protection Agency, London, UK"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Centre for Infections, Health Protection Agency, London, UK",
+     "institution_ids": []
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5046263207",
+    "display_name": "Dilys Morgan",
+    "orcid": null
+   },
+   "institutions": [],
+   "countries": [],
+   "is_corresponding": false,
+   "raw_author_name": "Dilys Morgan",
+   "raw_affiliation_strings": [
+    "Centre for Infections, Health Protection Agency, London, UK"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Centre for Infections, Health Protection Agency, London, UK",
+     "institution_ids": []
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5052940001",
+    "display_name": "Richard Cunningham",
+    "orcid": "https://orcid.org/0000-0002-6081-2153"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I125671874",
+     "display_name": "National Health Service",
+     "ror": "https://ror.org/02wnqcb97",
+     "country_code": "GB",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I125671874",
+      "https://openalex.org/I1311074006"
+     ]
+    }
+   ],
+   "countries": [
+    "GB"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Richard Cunningham",
+   "raw_affiliation_strings": [
+    "Plymouth Hospitals National Health Service Trust, Plymouth, UK"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Plymouth Hospitals National Health Service Trust, Plymouth, UK",
+     "institution_ids": [
+      "https://openalex.org/I125671874"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5077595049",
+    "display_name": "Mark Zuckerman",
+    "orcid": "https://orcid.org/0000-0003-0384-3970"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I4210153400",
+     "display_name": "King's College Hospital",
+     "ror": "https://ror.org/044nptt90",
+     "country_code": "GB",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I4210111135",
+      "https://openalex.org/I4210153400"
+     ]
+    }
+   ],
+   "countries": [
+    "GB"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Mark Zuckerman",
+   "raw_affiliation_strings": [
+    "King’s College Hospital, London, UK,"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "King’s College Hospital, London, UK,",
+     "institution_ids": [
+      "https://openalex.org/I4210153400"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5011628620",
+    "display_name": "Ken Mutton",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I2801926401",
+     "display_name": "Manchester Royal Infirmary",
+     "ror": "https://ror.org/03kr30n36",
+     "country_code": "GB",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I2801926401",
+      "https://openalex.org/I4210092852"
+     ]
+    }
+   ],
+   "countries": [
+    "GB"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Ken J Mutton",
+   "raw_affiliation_strings": [
+    "Manchester Royal Infirmary Manchester, UK"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Manchester Royal Infirmary Manchester, UK",
+     "institution_ids": [
+      "https://openalex.org/I2801926401"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5008592726",
+    "display_name": "Tom Solomon",
+    "orcid": "https://orcid.org/0000-0001-7266-6547"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I146655781",
+     "display_name": "University of Liverpool",
+     "ror": "https://ror.org/04xs57h96",
+     "country_code": "GB",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I146655781"
+     ]
+    }
+   ],
+   "countries": [
+    "GB"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Tom Solomon",
+   "raw_affiliation_strings": [
+    "Institute of Infection and Global Health, University of Liverpool, Liverpool, UK"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Institute of Infection and Global Health, University of Liverpool, Liverpool, UK",
+     "institution_ids": [
+      "https://openalex.org/I146655781"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5005306517",
+    "display_name": "Katherine N. Ward",
+    "orcid": "https://orcid.org/0000-0001-9887-343X"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I1289784979",
+     "display_name": "University College Hospital",
+     "ror": "https://ror.org/00wrevg56",
+     "country_code": "GB",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I1289784979",
+      "https://openalex.org/I1340918713"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I45129253",
+     "display_name": "University College London",
+     "ror": "https://ror.org/02jx3x895",
+     "country_code": "GB",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I124357947",
+      "https://openalex.org/I45129253"
+     ]
+    }
+   ],
+   "countries": [
+    "GB"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Katherine N Ward",
+   "raw_affiliation_strings": [
+    "University College Hospital London UK"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "University College Hospital London UK",
+     "institution_ids": [
+      "https://openalex.org/I1289784979",
+      "https://openalex.org/I45129253"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5071194530",
+    "display_name": "Michael P. Lunn",
+    "orcid": "https://orcid.org/0000-0003-3174-6027"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I4210151618",
+     "display_name": "National Hospital for Neurology and Neurosurgery",
+     "ror": "https://ror.org/048b34d51",
+     "country_code": "GB",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I1340918713",
+      "https://openalex.org/I4210151618"
+     ]
+    },
+    {
+     "id": "https://openalex.org/I45129253",
+     "display_name": "University College London",
+     "ror": "https://ror.org/02jx3x895",
+     "country_code": "GB",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I124357947",
+      "https://openalex.org/I45129253"
+     ]
+    }
+   ],
+   "countries": [
+    "GB"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Michael PT Lunn",
+   "raw_affiliation_strings": [
+    "National Hospital for Neurology and Neurosurgery London UK"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "National Hospital for Neurology and Neurosurgery London UK",
+     "institution_ids": [
+      "https://openalex.org/I4210151618",
+      "https://openalex.org/I45129253"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5045704773",
+    "display_name": "Sarosh R. Irani",
+    "orcid": "https://orcid.org/0000-0002-7667-9748"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I2802742124",
+     "display_name": "John Radcliffe Hospital",
+     "ror": "https://ror.org/0080acb59",
+     "country_code": "GB",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I2802742124",
+      "https://openalex.org/I4210127145",
+      "https://openalex.org/I4210147381"
+     ]
+    }
+   ],
+   "countries": [
+    "GB"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Sarosh R Irani",
+   "raw_affiliation_strings": [
+    "Department of Clinical Neurology John Radcliffe Hospital Oxford UK"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department of Clinical Neurology John Radcliffe Hospital Oxford UK",
+     "institution_ids": [
+      "https://openalex.org/I2802742124"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5062939642",
+    "display_name": "Angela Vincent",
+    "orcid": "https://orcid.org/0000-0003-2395-8695"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I2802742124",
+     "display_name": "John Radcliffe Hospital",
+     "ror": "https://ror.org/0080acb59",
+     "country_code": "GB",
+     "type": "healthcare",
+     "lineage": [
+      "https://openalex.org/I2802742124",
+      "https://openalex.org/I4210127145",
+      "https://openalex.org/I4210147381"
+     ]
+    }
+   ],
+   "countries": [
+    "GB"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Angela Vincent",
+   "raw_affiliation_strings": [
+    "Department of Clinical Neurology John Radcliffe Hospital Oxford UK"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department of Clinical Neurology John Radcliffe Hospital Oxford UK",
+     "institution_ids": [
+      "https://openalex.org/I2802742124"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5012005202",
+    "display_name": "David Brown",
+    "orcid": "https://orcid.org/0000-0002-3869-2351"
+   },
+   "institutions": [],
+   "countries": [],
+   "is_corresponding": false,
+   "raw_author_name": "David WG Brown",
+   "raw_affiliation_strings": [
+    "Centre for Infections, Health Protection Agency, London, UK"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Centre for Infections, Health Protection Agency, London, UK",
+     "institution_ids": []
+    }
+   ]
+  },
+  {
+   "author_position": "last",
+   "author": {
+    "id": "https://openalex.org/A5073669305",
+    "display_name": "Natasha S. Crowcroft",
+    "orcid": "https://orcid.org/0000-0002-6761-8783"
+   },
+   "institutions": [],
+   "countries": [],
+   "is_corresponding": false,
+   "raw_author_name": "Natasha S Crowcroft",
+   "raw_affiliation_strings": [
+    "Centre for Infections, Health Protection Agency, London, UK"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Centre for Infections, Health Protection Agency, London, UK",
+     "institution_ids": []
+    }
+   ]
+  }
+ ],
+ "biblio": {
+  "volume": "10",
+  "issue": "12",
+  "first_page": "835",
+  "last_page": "844"
+ },
+ "ids": {
+  "openalex": "https://openalex.org/W2092406095",
+  "doi": "https://doi.org/10.1016/s1473-3099(10)70222-x",
+  "mag": "2092406095",
+  "pmid": "https://pubmed.ncbi.nlm.nih.gov/20952256"
+ },
+ "is_retracted": false,
+ "counts_by_year": [
+  {
+   "year": 2026,
+   "cited_by_count": 41
+  },
+  {
+   "year": 2025,
+   "cited_by_count": 80
+  },
+  {
+   "year": 2024,
+   "cited_by_count": 78
+  },
+  {
+   "year": 2023,
+   "cited_by_count": 97
+  },
+  {
+   "year": 2022,
+   "cited_by_count": 105
+  },
+  {
+   "year": 2021,
+   "cited_by_count": 109
+  },
+  {
+   "year": 2020,
+   "cited_by_count": 106
+  },
+  {
+   "year": 2019,
+   "cited_by_count": 119
+  },
+  {
+   "year": 2018,
+   "cited_by_count": 100
+  },
+  {
+   "year": 2017,
+   "cited_by_count": 91
+  },
+  {
+   "year": 2016,
+   "cited_by_count": 98
+  },
+  {
+   "year": 2015,
+   "cited_by_count": 88
+  },
+  {
+   "year": 2014,
+   "cited_by_count": 69
+  },
+  {
+   "year": 2013,
+   "cited_by_count": 65
+  },
+  {
+   "year": 2012,
+   "cited_by_count": 63
+  }
+ ],
+ "primary_location": {
+  "id": "doi:10.1016/s1473-3099(10)70222-x",
+  "is_oa": true,
+  "landing_page_url": "https://doi.org/10.1016/s1473-3099(10)70222-x",
+  "pdf_url": null,
+  "source": {
+   "id": "https://openalex.org/S23772524",
+   "display_name": "The Lancet Infectious Diseases",
+   "issn_l": "1473-3099",
+   "issn": [
+    "1473-3099",
+    "1474-4457"
+   ],
+   "is_oa": false,
+   "is_in_doaj": false,
+   "is_core": true,
+   "host_organization": "https://openalex.org/P4310320990",
+   "host_organization_name": "Elsevier BV",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310320990"
+   ],
+   "host_organization_lineage_names": [
+    "Elsevier BV"
+   ],
+   "type": "journal"
+  },
+  "license": "cc-by",
+  "license_id": "https://openalex.org/licenses/cc-by",
+  "version": "publishedVersion",
+  "is_accepted": true,
+  "is_published": true,
+  "raw_source_name": "The Lancet Infectious Diseases",
+  "raw_type": "journal-article"
+ },
+ "language": "en",
+ "fwci": 31.382,
+ "abstract": "BACKGROUND: Encephalitis has many causes, but for most patients the cause is unknown. We aimed to establish the cause and identify the clinical differences between causes in patients with encephalitis in England. METHODS: Patients of all ages and with symptoms suggestive of encephalitis were actively recruited for 2 years (staged start between October, 2005, and November, 2006) from 24 hospitals by clinical staff. Systematic laboratory testing included PCR and antibody assays for all commonly recognised causes of infectious encephalitis, investigation for less commonly recognised causes in immunocompromised patients, and testing for travel-related causes if indicated. We also tested for non-infectious causes for acute encephalitis including autoimmunity. A multidisciplinary expert team reviewed clinical presentation and hospital tests and directed further investigations. Patients were followed up for 6 months after discharge from hospital. FINDINGS: We identified 203 patients with encephalitis. Median age was 30 years (range 0-87). 86 patients (42%, 95% CI 35-49) had infectious causes, including 38 (19%, 14-25) herpes simplex virus, ten (5%, 2-9) varicella zoster virus, and ten (5%, 2-9) Mycobacterium tuberculosis; 75 (37%, 30-44) had unknown causes. 42 patients (21%, 15-27) had acute immune-mediated encephalitis. 24 patients (12%, 8-17) died, with higher case fatality for infections from M tuberculosis (three patients; 30%, 7-65) and varicella zoster virus (two patients; 20%, 2-56). The 16 patients with antibody-associated encephalitis had the worst outcome of all groups-nine (56%, 30-80) either died or had severe disabilities. Patients who died were more likely to be immunocompromised than were those who survived (OR = 3·44). INTERPRETATION: Early diagnosis of encephalitis is crucial to ensure that the right treatment is given on time. Extensive testing substantially reduced the proportion with unknown cause, but the proportion of cases with unknown cause was higher than that for any specific identified cause. FUNDING: The Policy Research Programme, Department of Health, UK."
+}

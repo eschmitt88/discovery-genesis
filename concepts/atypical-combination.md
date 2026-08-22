@@ -3,8 +3,8 @@ kind: concept
 name: "atypical combination"
 status: seedling
 added: "2026-08-22"
-sources: []
-related_concepts: ["novelty-vs-impact", "move-taxonomy", "adjacent-possible"]
+sources: ["uzzi2013atypical", "wang2017bias"]
+related_concepts: ["novelty-vs-impact", "move-taxonomy", "adjacent-possible", "recombinant-uncertainty"]
 related_experiments: []
 tags: ["metric", "h1"]
 ---
@@ -35,3 +35,7 @@ far citations that do the work.
 - Measures the *reference list*, not the contribution — a paper can cite
   atypically and do nothing with it. The card's `ingredients` field is
   the check.
+- Wang, Veugelers & Stephan (2017) give an independent, journal-pair-
+  first-occurrence operationalization of novelty and show short citation
+  windows penalize it — a second measure to triangulate against, and a
+  caution for the project's 2010-2019 sampling window.

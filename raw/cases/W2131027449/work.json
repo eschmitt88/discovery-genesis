@@ -1,0 +1,937 @@
+{
+ "id": "https://openalex.org/W2131027449",
+ "doi": "https://doi.org/10.1021/ja507807v",
+ "title": "Status of Reactive Non-Heme Metal–Oxygen Intermediates in Chemical and Enzymatic Reactions",
+ "display_name": "Status of Reactive Non-Heme Metal–Oxygen Intermediates in Chemical and Enzymatic Reactions",
+ "publication_year": 2014,
+ "publication_date": "2014-09-29",
+ "type": "article",
+ "cited_by_count": 480,
+ "citation_normalized_percentile": {
+  "value": 0.9961714,
+  "is_in_top_1_percent": true,
+  "is_in_top_10_percent": true
+ },
+ "cited_by_percentile_year": {
+  "min": 99,
+  "max": 100
+ },
+ "referenced_works": [
+  "https://openalex.org/W172213682",
+  "https://openalex.org/W185512658",
+  "https://openalex.org/W591957651",
+  "https://openalex.org/W1526215777",
+  "https://openalex.org/W1582030318",
+  "https://openalex.org/W1586122318",
+  "https://openalex.org/W1597140389",
+  "https://openalex.org/W1964025188",
+  "https://openalex.org/W1965497564",
+  "https://openalex.org/W1966357114",
+  "https://openalex.org/W1966436672",
+  "https://openalex.org/W1966856386",
+  "https://openalex.org/W1967161172",
+  "https://openalex.org/W1967319266",
+  "https://openalex.org/W1967700647",
+  "https://openalex.org/W1969474820",
+  "https://openalex.org/W1970559837",
+  "https://openalex.org/W1970713347",
+  "https://openalex.org/W1971849888",
+  "https://openalex.org/W1972846946",
+  "https://openalex.org/W1973351165",
+  "https://openalex.org/W1973721002",
+  "https://openalex.org/W1975262546",
+  "https://openalex.org/W1975614402",
+  "https://openalex.org/W1978412128",
+  "https://openalex.org/W1979833573",
+  "https://openalex.org/W1981060411",
+  "https://openalex.org/W1981233092",
+  "https://openalex.org/W1981641123",
+  "https://openalex.org/W1983515750",
+  "https://openalex.org/W1984184890",
+  "https://openalex.org/W1984747771",
+  "https://openalex.org/W1985499128",
+  "https://openalex.org/W1986531390",
+  "https://openalex.org/W1986576432",
+  "https://openalex.org/W1988534538",
+  "https://openalex.org/W1988726984",
+  "https://openalex.org/W1988746161",
+  "https://openalex.org/W1988949059",
+  "https://openalex.org/W1988967303",
+  "https://openalex.org/W1989052747",
+  "https://openalex.org/W1989508750",
+  "https://openalex.org/W1990385937",
+  "https://openalex.org/W1990768518",
+  "https://openalex.org/W1991739242",
+  "https://openalex.org/W1992498958",
+  "https://openalex.org/W1993106126",
+  "https://openalex.org/W1993284652",
+  "https://openalex.org/W1995879115",
+  "https://openalex.org/W1997254796",
+  "https://openalex.org/W1997259321",
+  "https://openalex.org/W1999568159",
+  "https://openalex.org/W1999760359",
+  "https://openalex.org/W2001480972",
+  "https://openalex.org/W2001557961",
+  "https://openalex.org/W2002560667",
+  "https://openalex.org/W2003160909",
+  "https://openalex.org/W2004238512",
+  "https://openalex.org/W2005592771",
+  "https://openalex.org/W2006202862",
+  "https://openalex.org/W2007103020",
+  "https://openalex.org/W2008111737",
+  "https://openalex.org/W2009050720",
+  "https://openalex.org/W2009223752",
+  "https://openalex.org/W2009317764",
+  "https://openalex.org/W2010065309",
+  "https://openalex.org/W2012211558",
+  "https://openalex.org/W2013034718",
+  "https://openalex.org/W2013787274",
+  "https://openalex.org/W2013945680",
+  "https://openalex.org/W2015239581",
+  "https://openalex.org/W2016119066",
+  "https://openalex.org/W2017117062",
+  "https://openalex.org/W2017583902",
+  "https://openalex.org/W2018128616",
+  "https://openalex.org/W2018746065",
+  "https://openalex.org/W2019023779",
+  "https://openalex.org/W2019476459",
+  "https://openalex.org/W2020100815",
+  "https://openalex.org/W2020551149",
+  "https://openalex.org/W2021426561",
+  "https://openalex.org/W2021706863",
+  "https://openalex.org/W2021713602",
+  "https://openalex.org/W2021784937",
+  "https://openalex.org/W2023928666",
+  "https://openalex.org/W2024968710",
+  "https://openalex.org/W2025884726",
+  "https://openalex.org/W2026294244",
+  "https://openalex.org/W2027220042",
+  "https://openalex.org/W2028047546",
+  "https://openalex.org/W2028462347",
+  "https://openalex.org/W2029181830",
+  "https://openalex.org/W2029298516",
+  "https://openalex.org/W2029571935",
+  "https://openalex.org/W2029847377",
+  "https://openalex.org/W2030052639",
+  "https://openalex.org/W2031927281",
+  "https://openalex.org/W2032087185",
+  "https://openalex.org/W2032753263",
+  "https://openalex.org/W2034402828",
+  "https://openalex.org/W2034844831",
+  "https://openalex.org/W2034890453",
+  "https://openalex.org/W2035264580",
+  "https://openalex.org/W2036223583",
+  "https://openalex.org/W2038980565",
+  "https://openalex.org/W2039018268",
+  "https://openalex.org/W2039485473",
+  "https://openalex.org/W2039771131",
+  "https://openalex.org/W2039893089",
+  "https://openalex.org/W2040299058",
+  "https://openalex.org/W2041315640",
+  "https://openalex.org/W2041721340",
+  "https://openalex.org/W2041781232",
+  "https://openalex.org/W2042545763",
+  "https://openalex.org/W2043162858",
+  "https://openalex.org/W2044327748",
+  "https://openalex.org/W2044952194",
+  "https://openalex.org/W2047246306",
+  "https://openalex.org/W2047601015",
+  "https://openalex.org/W2048486609",
+  "https://openalex.org/W2049474126",
+  "https://openalex.org/W2049557754",
+  "https://openalex.org/W2051841173",
+  "https://openalex.org/W2052272072",
+  "https://openalex.org/W2052352527",
+  "https://openalex.org/W2053663504",
+  "https://openalex.org/W2054103349",
+  "https://openalex.org/W2054418569",
+  "https://openalex.org/W2054950973",
+  "https://openalex.org/W2055256934",
+  "https://openalex.org/W2055283831",
+  "https://openalex.org/W2055548616",
+  "https://openalex.org/W2055628071",
+  "https://openalex.org/W2056132893",
+  "https://openalex.org/W2057331738",
+  "https://openalex.org/W2057960152",
+  "https://openalex.org/W2058206851",
+  "https://openalex.org/W2058949520",
+  "https://openalex.org/W2060146407",
+  "https://openalex.org/W2060408358",
+  "https://openalex.org/W2060884603",
+  "https://openalex.org/W2061017523",
+  "https://openalex.org/W2061342207",
+  "https://openalex.org/W2062128824",
+  "https://openalex.org/W2062193741",
+  "https://openalex.org/W2062847668",
+  "https://openalex.org/W2063796154",
+  "https://openalex.org/W2065168135",
+  "https://openalex.org/W2066311520",
+  "https://openalex.org/W2067291828",
+  "https://openalex.org/W2067443840",
+  "https://openalex.org/W2068185427",
+  "https://openalex.org/W2068648274",
+  "https://openalex.org/W2069024509",
+  "https://openalex.org/W2069866716",
+  "https://openalex.org/W2070305843",
+  "https://openalex.org/W2073025326",
+  "https://openalex.org/W2074023228",
+  "https://openalex.org/W2076047438",
+  "https://openalex.org/W2076587517",
+  "https://openalex.org/W2077621515",
+  "https://openalex.org/W2077749836",
+  "https://openalex.org/W2078537861",
+  "https://openalex.org/W2078575717",
+  "https://openalex.org/W2079199633",
+  "https://openalex.org/W2080144753",
+  "https://openalex.org/W2080470337",
+  "https://openalex.org/W2081085006",
+  "https://openalex.org/W2082155847",
+  "https://openalex.org/W2082174525",
+  "https://openalex.org/W2082520498",
+  "https://openalex.org/W2082635962",
+  "https://openalex.org/W2083280040",
+  "https://openalex.org/W2084460084",
+  "https://openalex.org/W2084530725",
+  "https://openalex.org/W2085831526",
+  "https://openalex.org/W2086346170",
+  "https://openalex.org/W2088126034",
+  "https://openalex.org/W2088645007",
+  "https://openalex.org/W2088954596",
+  "https://openalex.org/W2089612572",
+  "https://openalex.org/W2090027364",
+  "https://openalex.org/W2092054562",
+  "https://openalex.org/W2094068415",
+  "https://openalex.org/W2094169939",
+  "https://openalex.org/W2094709506",
+  "https://openalex.org/W2095344145",
+  "https://openalex.org/W2097532911",
+  "https://openalex.org/W2099507005",
+  "https://openalex.org/W2100449328",
+  "https://openalex.org/W2100917452",
+  "https://openalex.org/W2102776090",
+  "https://openalex.org/W2103477311",
+  "https://openalex.org/W2104395874",
+  "https://openalex.org/W2105326535",
+  "https://openalex.org/W2106487454",
+  "https://openalex.org/W2107070695",
+  "https://openalex.org/W2108135957",
+  "https://openalex.org/W2108812250",
+  "https://openalex.org/W2109756675",
+  "https://openalex.org/W2110352313",
+  "https://openalex.org/W2111770307",
+  "https://openalex.org/W2111919469",
+  "https://openalex.org/W2112441679",
+  "https://openalex.org/W2112757438",
+  "https://openalex.org/W2112880344",
+  "https://openalex.org/W2113248394",
+  "https://openalex.org/W2115309774",
+  "https://openalex.org/W2116542858",
+  "https://openalex.org/W2116756257",
+  "https://openalex.org/W2117938431",
+  "https://openalex.org/W2118038611",
+  "https://openalex.org/W2118582406",
+  "https://openalex.org/W2121061700",
+  "https://openalex.org/W2124523054",
+  "https://openalex.org/W2125930374",
+  "https://openalex.org/W2126676230",
+  "https://openalex.org/W2127527817",
+  "https://openalex.org/W2128158948",
+  "https://openalex.org/W2128375602",
+  "https://openalex.org/W2128427027",
+  "https://openalex.org/W2128586767",
+  "https://openalex.org/W2129588263",
+  "https://openalex.org/W2129652151",
+  "https://openalex.org/W2129774902",
+  "https://openalex.org/W2130336595",
+  "https://openalex.org/W2132423857",
+  "https://openalex.org/W2132612804",
+  "https://openalex.org/W2132879814",
+  "https://openalex.org/W2132934971",
+  "https://openalex.org/W2137044168",
+  "https://openalex.org/W2138012263",
+  "https://openalex.org/W2138582177",
+  "https://openalex.org/W2142419145",
+  "https://openalex.org/W2143120654",
+  "https://openalex.org/W2144025618",
+  "https://openalex.org/W2144314860",
+  "https://openalex.org/W2145900208",
+  "https://openalex.org/W2146255254",
+  "https://openalex.org/W2147434133",
+  "https://openalex.org/W2147899939",
+  "https://openalex.org/W2149370026",
+  "https://openalex.org/W2150993288",
+  "https://openalex.org/W2151130802",
+  "https://openalex.org/W2151374444",
+  "https://openalex.org/W2153815361",
+  "https://openalex.org/W2156433726",
+  "https://openalex.org/W2156960663",
+  "https://openalex.org/W2159677696",
+  "https://openalex.org/W2159843762",
+  "https://openalex.org/W2160026651",
+  "https://openalex.org/W2162519162",
+  "https://openalex.org/W2164102479",
+  "https://openalex.org/W2166458040",
+  "https://openalex.org/W2168667189",
+  "https://openalex.org/W2170020637",
+  "https://openalex.org/W2171093931",
+  "https://openalex.org/W2172150348",
+  "https://openalex.org/W2313033797",
+  "https://openalex.org/W2313035794",
+  "https://openalex.org/W2313985706",
+  "https://openalex.org/W2317873538",
+  "https://openalex.org/W2318300525",
+  "https://openalex.org/W2320452819",
+  "https://openalex.org/W2321076905",
+  "https://openalex.org/W2323606224",
+  "https://openalex.org/W2326828585",
+  "https://openalex.org/W2329181046",
+  "https://openalex.org/W2329826685",
+  "https://openalex.org/W2333283825",
+  "https://openalex.org/W2338151994",
+  "https://openalex.org/W2501637817",
+  "https://openalex.org/W2506778711",
+  "https://openalex.org/W2950146215",
+  "https://openalex.org/W2951037201",
+  "https://openalex.org/W2952988108",
+  "https://openalex.org/W4248461567",
+  "https://openalex.org/W4255324350"
+ ],
+ "referenced_works_count": 278,
+ "related_works": [
+  "https://openalex.org/W2326439437",
+  "https://openalex.org/W1970320922",
+  "https://openalex.org/W2349657250",
+  "https://openalex.org/W4210628558",
+  "https://openalex.org/W4205814902",
+  "https://openalex.org/W2380273243",
+  "https://openalex.org/W2009359832",
+  "https://openalex.org/W2144148716",
+  "https://openalex.org/W2014758785",
+  "https://openalex.org/W1897560069"
+ ],
+ "primary_topic": {
+  "id": "https://openalex.org/T11747",
+  "display_name": "Metal-Catalyzed Oxygenation Mechanisms",
+  "score": 1.0,
+  "subfield": {
+   "id": "https://openalex.org/subfields/1604",
+   "display_name": "Inorganic Chemistry"
+  },
+  "field": {
+   "id": "https://openalex.org/fields/16",
+   "display_name": "Chemistry"
+  },
+  "domain": {
+   "id": "https://openalex.org/domains/3",
+   "display_name": "Physical Sciences"
+  }
+ },
+ "topics": [
+  {
+   "id": "https://openalex.org/T11747",
+   "display_name": "Metal-Catalyzed Oxygenation Mechanisms",
+   "score": 1.0,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1604",
+    "display_name": "Inorganic Chemistry"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/16",
+    "display_name": "Chemistry"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T10903",
+   "display_name": "Porphyrin and Phthalocyanine Chemistry",
+   "score": 0.9975000023841858,
+   "subfield": {
+    "id": "https://openalex.org/subfields/2505",
+    "display_name": "Materials Chemistry"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/25",
+    "display_name": "Materials Science"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  },
+  {
+   "id": "https://openalex.org/T11989",
+   "display_name": "Oxidative Organic Chemistry Reactions",
+   "score": 0.9975000023841858,
+   "subfield": {
+    "id": "https://openalex.org/subfields/1605",
+    "display_name": "Organic Chemistry"
+   },
+   "field": {
+    "id": "https://openalex.org/fields/16",
+    "display_name": "Chemistry"
+   },
+   "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+   }
+  }
+ ],
+ "keywords": [
+  {
+   "id": "https://openalex.org/keywords/chemistry",
+   "display_name": "Chemistry",
+   "score": 0.9426443576812744
+  },
+  {
+   "id": "https://openalex.org/keywords/manganese",
+   "display_name": "Manganese",
+   "score": 0.6145612001419067
+  },
+  {
+   "id": "https://openalex.org/keywords/context",
+   "display_name": "Context (archaeology)",
+   "score": 0.6135649085044861
+  },
+  {
+   "id": "https://openalex.org/keywords/transition-metal",
+   "display_name": "Transition metal",
+   "score": 0.5347707867622375
+  },
+  {
+   "id": "https://openalex.org/keywords/reactive-intermediate",
+   "display_name": "Reactive intermediate",
+   "score": 0.5269309282302856
+  },
+  {
+   "id": "https://openalex.org/keywords/combinatorial-chemistry",
+   "display_name": "Combinatorial chemistry",
+   "score": 0.5245999097824097
+  },
+  {
+   "id": "https://openalex.org/keywords/metal",
+   "display_name": "Metal",
+   "score": 0.5184383392333984
+  },
+  {
+   "id": "https://openalex.org/keywords/surface-modification",
+   "display_name": "Surface modification",
+   "score": 0.46324315667152405
+  },
+  {
+   "id": "https://openalex.org/keywords/heme",
+   "display_name": "Heme",
+   "score": 0.45663148164749146
+  },
+  {
+   "id": "https://openalex.org/keywords/oxygen",
+   "display_name": "Oxygen",
+   "score": 0.45119544863700867
+  },
+  {
+   "id": "https://openalex.org/keywords/copper",
+   "display_name": "Copper",
+   "score": 0.44265204668045044
+  },
+  {
+   "id": "https://openalex.org/keywords/redox",
+   "display_name": "Redox",
+   "score": 0.4376089572906494
+  },
+  {
+   "id": "https://openalex.org/keywords/catalysis",
+   "display_name": "Catalysis",
+   "score": 0.4365345537662506
+  },
+  {
+   "id": "https://openalex.org/keywords/photochemistry",
+   "display_name": "Photochemistry",
+   "score": 0.38759660720825195
+  },
+  {
+   "id": "https://openalex.org/keywords/organic-chemistry",
+   "display_name": "Organic chemistry",
+   "score": 0.3115260601043701
+  },
+  {
+   "id": "https://openalex.org/keywords/enzyme",
+   "display_name": "Enzyme",
+   "score": 0.2870752215385437
+  }
+ ],
+ "concepts": [
+  {
+   "id": "https://openalex.org/C185592680",
+   "wikidata": "https://www.wikidata.org/wiki/Q2329",
+   "display_name": "Chemistry",
+   "level": 0,
+   "score": 0.9426443576812744
+  },
+  {
+   "id": "https://openalex.org/C528890316",
+   "wikidata": "https://www.wikidata.org/wiki/Q731",
+   "display_name": "Manganese",
+   "level": 2,
+   "score": 0.6145612001419067
+  },
+  {
+   "id": "https://openalex.org/C2779343474",
+   "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+   "display_name": "Context (archaeology)",
+   "level": 2,
+   "score": 0.6135649085044861
+  },
+  {
+   "id": "https://openalex.org/C106773901",
+   "wikidata": "https://www.wikidata.org/wiki/Q19588",
+   "display_name": "Transition metal",
+   "level": 3,
+   "score": 0.5347707867622375
+  },
+  {
+   "id": "https://openalex.org/C192937433",
+   "wikidata": "https://www.wikidata.org/wiki/Q2134627",
+   "display_name": "Reactive intermediate",
+   "level": 3,
+   "score": 0.5269309282302856
+  },
+  {
+   "id": "https://openalex.org/C21951064",
+   "wikidata": "https://www.wikidata.org/wiki/Q899212",
+   "display_name": "Combinatorial chemistry",
+   "level": 1,
+   "score": 0.5245999097824097
+  },
+  {
+   "id": "https://openalex.org/C544153396",
+   "wikidata": "https://www.wikidata.org/wiki/Q11426",
+   "display_name": "Metal",
+   "level": 2,
+   "score": 0.5184383392333984
+  },
+  {
+   "id": "https://openalex.org/C115537861",
+   "wikidata": "https://www.wikidata.org/wiki/Q7645993",
+   "display_name": "Surface modification",
+   "level": 2,
+   "score": 0.46324315667152405
+  },
+  {
+   "id": "https://openalex.org/C2776217839",
+   "wikidata": "https://www.wikidata.org/wiki/Q189621",
+   "display_name": "Heme",
+   "level": 3,
+   "score": 0.45663148164749146
+  },
+  {
+   "id": "https://openalex.org/C540031477",
+   "wikidata": "https://www.wikidata.org/wiki/Q629",
+   "display_name": "Oxygen",
+   "level": 2,
+   "score": 0.45119544863700867
+  },
+  {
+   "id": "https://openalex.org/C544778455",
+   "wikidata": "https://www.wikidata.org/wiki/Q753",
+   "display_name": "Copper",
+   "level": 2,
+   "score": 0.44265204668045044
+  },
+  {
+   "id": "https://openalex.org/C55904794",
+   "wikidata": "https://www.wikidata.org/wiki/Q82682",
+   "display_name": "Redox",
+   "level": 2,
+   "score": 0.4376089572906494
+  },
+  {
+   "id": "https://openalex.org/C161790260",
+   "wikidata": "https://www.wikidata.org/wiki/Q82264",
+   "display_name": "Catalysis",
+   "level": 2,
+   "score": 0.4365345537662506
+  },
+  {
+   "id": "https://openalex.org/C75473681",
+   "wikidata": "https://www.wikidata.org/wiki/Q188651",
+   "display_name": "Photochemistry",
+   "level": 1,
+   "score": 0.38759660720825195
+  },
+  {
+   "id": "https://openalex.org/C178790620",
+   "wikidata": "https://www.wikidata.org/wiki/Q11351",
+   "display_name": "Organic chemistry",
+   "level": 1,
+   "score": 0.3115260601043701
+  },
+  {
+   "id": "https://openalex.org/C181199279",
+   "wikidata": "https://www.wikidata.org/wiki/Q8047",
+   "display_name": "Enzyme",
+   "level": 2,
+   "score": 0.2870752215385437
+  },
+  {
+   "id": "https://openalex.org/C86803240",
+   "wikidata": "https://www.wikidata.org/wiki/Q420",
+   "display_name": "Biology",
+   "level": 0,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C151730666",
+   "wikidata": "https://www.wikidata.org/wiki/Q7205",
+   "display_name": "Paleontology",
+   "level": 1,
+   "score": 0.0
+  },
+  {
+   "id": "https://openalex.org/C147789679",
+   "wikidata": "https://www.wikidata.org/wiki/Q11372",
+   "display_name": "Physical chemistry",
+   "level": 1,
+   "score": 0.0
+  }
+ ],
+ "open_access": {
+  "is_oa": false,
+  "oa_status": "closed",
+  "oa_url": null,
+  "any_repository_has_fulltext": false
+ },
+ "locations": [
+  {
+   "id": "doi:10.1021/ja507807v",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1021/ja507807v",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S111155417",
+    "display_name": "Journal of the American Chemical Society",
+    "issn_l": "0002-7863",
+    "issn": [
+     "0002-7863",
+     "1520-5126",
+     "1943-2984"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "host_organization": "https://openalex.org/P4310320006",
+    "host_organization_name": "American Chemical Society",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320006"
+    ],
+    "host_organization_lineage_names": [
+     "American Chemical Society"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of the American Chemical Society",
+   "raw_type": "journal-article"
+  },
+  {
+   "id": "pmid:25215462",
+   "is_oa": false,
+   "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/25215462",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306525036",
+    "display_name": "PubMed",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "host_organization": "https://openalex.org/I1299303238",
+    "host_organization_name": "National Institutes of Health",
+    "host_organization_lineage": [
+     "https://openalex.org/I1299303238"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of the American Chemical Society",
+   "raw_type": "Journal Article"
+  }
+ ],
+ "best_oa_location": null,
+ "authorships": [
+  {
+   "author_position": "first",
+   "author": {
+    "id": "https://openalex.org/A5081835575",
+    "display_name": "Kallol Ray",
+    "orcid": "https://orcid.org/0000-0003-2074-8844"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I39343248",
+     "display_name": "Humboldt-Universität zu Berlin",
+     "ror": "https://ror.org/01hcx6992",
+     "country_code": "DE",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I39343248"
+     ]
+    }
+   ],
+   "countries": [
+    "DE"
+   ],
+   "is_corresponding": true,
+   "raw_author_name": "Kallol Ray",
+   "raw_affiliation_strings": [
+    "Department\rof Chemistry, Humboldt-Universität zu Berlin, 12489 Berlin, Germany"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department\rof Chemistry, Humboldt-Universität zu Berlin, 12489 Berlin, Germany",
+     "institution_ids": [
+      "https://openalex.org/I39343248"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5112533426",
+    "display_name": "Florian Felix Pfaff",
+    "orcid": null
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I39343248",
+     "display_name": "Humboldt-Universität zu Berlin",
+     "ror": "https://ror.org/01hcx6992",
+     "country_code": "DE",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I39343248"
+     ]
+    }
+   ],
+   "countries": [
+    "DE"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Florian Felix Pfaff",
+   "raw_affiliation_strings": [
+    "Department\rof Chemistry, Humboldt-Universität zu Berlin, 12489 Berlin, Germany"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department\rof Chemistry, Humboldt-Universität zu Berlin, 12489 Berlin, Germany",
+     "institution_ids": [
+      "https://openalex.org/I39343248"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "middle",
+   "author": {
+    "id": "https://openalex.org/A5100616236",
+    "display_name": "Bin Wang",
+    "orcid": "https://orcid.org/0000-0002-7331-2959"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I138925566",
+     "display_name": "Ewha Womans University",
+     "ror": "https://ror.org/053fp5c05",
+     "country_code": "KR",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I138925566"
+     ]
+    }
+   ],
+   "countries": [
+    "KR"
+   ],
+   "is_corresponding": false,
+   "raw_author_name": "Bin Wang",
+   "raw_affiliation_strings": [
+    "Department\rof Chemistry and Nano Science, Ewha Womans University, Seoul 120-750, Korea",
+    "Department#R#of Chemistry and Nano Science, Ewha Womans University, Seoul, 120-750, Korea"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department\rof Chemistry and Nano Science, Ewha Womans University, Seoul 120-750, Korea",
+     "institution_ids": [
+      "https://openalex.org/I138925566"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Department#R#of Chemistry and Nano Science, Ewha Womans University, Seoul, 120-750, Korea",
+     "institution_ids": [
+      "https://openalex.org/I138925566"
+     ]
+    }
+   ]
+  },
+  {
+   "author_position": "last",
+   "author": {
+    "id": "https://openalex.org/A5081854202",
+    "display_name": "Wonwoo Nam",
+    "orcid": "https://orcid.org/0000-0001-8592-4867"
+   },
+   "institutions": [
+    {
+     "id": "https://openalex.org/I138925566",
+     "display_name": "Ewha Womans University",
+     "ror": "https://ror.org/053fp5c05",
+     "country_code": "KR",
+     "type": "education",
+     "lineage": [
+      "https://openalex.org/I138925566"
+     ]
+    }
+   ],
+   "countries": [
+    "KR"
+   ],
+   "is_corresponding": true,
+   "raw_author_name": "Wonwoo Nam",
+   "raw_affiliation_strings": [
+    "Department\rof Chemistry and Nano Science, Ewha Womans University, Seoul 120-750, Korea",
+    "Department#R#of Chemistry and Nano Science, Ewha Womans University, Seoul, 120-750, Korea"
+   ],
+   "raw_orcid": null,
+   "affiliations": [
+    {
+     "raw_affiliation_string": "Department\rof Chemistry and Nano Science, Ewha Womans University, Seoul 120-750, Korea",
+     "institution_ids": [
+      "https://openalex.org/I138925566"
+     ]
+    },
+    {
+     "raw_affiliation_string": "Department#R#of Chemistry and Nano Science, Ewha Womans University, Seoul, 120-750, Korea",
+     "institution_ids": [
+      "https://openalex.org/I138925566"
+     ]
+    }
+   ]
+  }
+ ],
+ "biblio": {
+  "volume": "136",
+  "issue": "40",
+  "first_page": "13942",
+  "last_page": "13958"
+ },
+ "ids": {
+  "openalex": "https://openalex.org/W2131027449",
+  "doi": "https://doi.org/10.1021/ja507807v",
+  "mag": "2131027449",
+  "pmid": "https://pubmed.ncbi.nlm.nih.gov/25215462"
+ },
+ "is_retracted": false,
+ "counts_by_year": [
+  {
+   "year": 2026,
+   "cited_by_count": 15
+  },
+  {
+   "year": 2025,
+   "cited_by_count": 32
+  },
+  {
+   "year": 2024,
+   "cited_by_count": 39
+  },
+  {
+   "year": 2023,
+   "cited_by_count": 22
+  },
+  {
+   "year": 2022,
+   "cited_by_count": 39
+  },
+  {
+   "year": 2021,
+   "cited_by_count": 51
+  },
+  {
+   "year": 2020,
+   "cited_by_count": 46
+  },
+  {
+   "year": 2019,
+   "cited_by_count": 48
+  },
+  {
+   "year": 2018,
+   "cited_by_count": 45
+  },
+  {
+   "year": 2017,
+   "cited_by_count": 51
+  },
+  {
+   "year": 2016,
+   "cited_by_count": 44
+  },
+  {
+   "year": 2015,
+   "cited_by_count": 48
+  }
+ ],
+ "primary_location": {
+  "id": "doi:10.1021/ja507807v",
+  "is_oa": false,
+  "landing_page_url": "https://doi.org/10.1021/ja507807v",
+  "pdf_url": null,
+  "source": {
+   "id": "https://openalex.org/S111155417",
+   "display_name": "Journal of the American Chemical Society",
+   "issn_l": "0002-7863",
+   "issn": [
+    "0002-7863",
+    "1520-5126",
+    "1943-2984"
+   ],
+   "is_oa": false,
+   "is_in_doaj": false,
+   "is_core": true,
+   "host_organization": "https://openalex.org/P4310320006",
+   "host_organization_name": "American Chemical Society",
+   "host_organization_lineage": [
+    "https://openalex.org/P4310320006"
+   ],
+   "host_organization_lineage_names": [
+    "American Chemical Society"
+   ],
+   "type": "journal"
+  },
+  "license": null,
+  "license_id": null,
+  "version": "publishedVersion",
+  "is_accepted": true,
+  "is_published": true,
+  "raw_source_name": "Journal of the American Chemical Society",
+  "raw_type": "journal-article"
+ },
+ "language": "en",
+ "fwci": 18.7455,
+ "abstract": "Selective functionalization of unactivated C-H bonds, water oxidation, and dioxygen reduction are extremely important reactions in the context of finding energy carriers and conversion processes that are alternatives to the current fossil-based oil for energy. A range of metalloenzymes achieve these challenging tasks in biology by using cheap and abundant transition metals, such as iron, copper, and manganese. High-valent metal-oxo and metal-dioxygen (superoxo, peroxo, and hydroperoxo) cores act as active intermediates in many of these processes. The generation of well-described model compounds can provide vital insights into the mechanisms of such enzymatic reactions. This perspective provides a focused rather than comprehensive review of the recent advances in the chemistry of biomimetic high-valent metal-oxo and metal-dioxygen complexes, which can be related to our understanding of the biological systems."
+}
