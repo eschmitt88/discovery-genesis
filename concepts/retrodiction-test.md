@@ -3,7 +3,7 @@ kind: concept
 name: "retrodiction test"
 status: seedling
 added: "2026-08-22"
-sources: ["si2024can", "si2025ideation", "yang2024moose", "sinhahajari2026limits", "wang2023scimon", "li2024chain", "yamada2025aiscientistv2", "guo2024ideabench"]
+sources: ["si2024can", "si2025ideation", "yang2024moose", "sinhahajari2026limits", "wang2023scimon", "li2024chain", "yamada2025aiscientistv2", "guo2024ideabench", "sourati2023accelerating"]
 related_concepts: ["genesis-card", "move-taxonomy", "hindsight-narrative-bias", "novelty-mirage", "ideation-execution-gap"]
 related_experiments: []
 tags: ["evaluation", "h6"]
@@ -54,6 +54,14 @@ with the user's own problems).
   contribution among n generated candidates, read off its position) is a
   candidate alternative or supplement to a fixed 0–4 ladder — it may be
   more robust to judge miscalibration since it is relative, not absolute.
+- `[[sourati2023accelerating]]` is the closest existing precedent for the
+  test's basic shape (hide the future, show the model the prior state,
+  score whether it recovers what actually happened): human-aware models
+  that simulate what scientists could plausibly infer next outpredict
+  content-only models by up to 400% in future-discovery forecasting, and
+  the same machinery tuned to avoid the human-predicted crowd surfaces
+  "alien" hypotheses — a ready-made baseline family (human-aware /
+  content-only / alien) alongside SciMON and `/cross-pollinate`.
 - `[[wang2023scimon]]` and `[[li2024chain]]` are the two required baseline
   generator families (retrieval + iterative novelty-boosting; chain/
   progression extrapolation) H6 must run alongside the genesis-informed

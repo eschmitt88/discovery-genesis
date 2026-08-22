@@ -105,3 +105,66 @@ curated: 2026-08-22
 - type: paper
 - summary: A November 2025 (revised Feb 2026) survey organizing LLM-driven scientific ideation methods into five families (knowledge augmentation, prompt-based steering, inference-time scaling, multi-agent collaboration, parameter-level adaptation) through Boden's and Rhodes' creativity frameworks.
 - reason: The most recent dedicated survey of this exact literature; its five-family taxonomy is a useful cross-check against this project's own move-taxonomy (H2) to see whether "how ideas get generated" and "how papers actually arose" categorize similarly or reveal a mismatch worth noting.
+
+## Curation
+
+Curated by the LLM-idea-generation sub-curator. The ~8 most load-bearing
+items for H6 (retrodiction test) were ingested with full trust-signal
+frontmatter; the rest declined with a one-line reason. Sourati & Evans
+(#6) belongs to the theories-of-discovery sibling's ownership area but was
+found already ingested (parallel work) — marked as already in graph, not
+duplicated here.
+
+1. **Si, Yang & Hashimoto 2024** → ingested → `si2024can`. relevance 5,
+   credibility 5.
+2. **Ideation-Execution Gap (2025 follow-up)** → ingested → `si2025ideation`.
+   relevance 5, credibility 4.
+3. **MOOSE-Chem** → ingested → `yang2024moose`. relevance 5, credibility 5.
+4. **On the Limits of LLM-as-Judge for Scientific Novelty (RQ-Bench)** →
+   ingested → `sinhahajari2026limits`. relevance 5, credibility 3.
+5. **SciMON** → ingested → `wang2023scimon`. relevance 5, credibility 5.
+6. **Sourati & Evans, "Accelerating science with human-aware AI"** →
+   already in graph (sibling) → `sourati2023accelerating` (owned by the
+   theories-of-discovery curation; not re-ingested here).
+7. **SciMuse** → declined — large human-eval precedent, but not one of the
+   ~8 most load-bearing items for H6 this pass; revisit if judge/human
+   -calibration recruiting needs a model.
+8. **Predicting the Future of AI with AI (Science4Cast)** → declined —
+   frames retrodiction as graph link-prediction rather than free-text
+   generation, a structural alternative worth noting but not core to the
+   current H6 design.
+9. **Chain of Ideas** → ingested → `li2024chain`. relevance 4, credibility 5.
+10. **ResearchAgent** → declined — a third baseline architecture
+    (iterative self-review) redundant with the SciMON/Chain-of-
+    Ideas/MOOSE-Chem baseline trio already ingested; keeps the ingested
+    set to the most load-bearing items.
+11. **The AI Scientist-v2** → ingested → `yamada2025aiscientistv2`.
+    relevance 4, credibility 4.
+12. **IdeaBench** → ingested → `guo2024ideabench`. relevance 5,
+    credibility 3.
+13. **LiveIdeaBench** → declined — multi-judge-ensemble mitigation idea
+    overlaps with the judge-failure-mode material already covered in
+    depth by `sinhahajari2026limits`.
+14. **LLM ideation creativity survey (Nov 2025)** → declined — a useful
+    external taxonomy cross-check for move-taxonomy (H2) but secondary to
+    primary sources; revisit when H2's codebook is being drafted.
+
+**Ingested:** 8 (si2024can, si2025ideation, yang2024moose,
+sinhahajari2026limits, wang2023scimon, li2024chain, yamada2025aiscientistv2,
+guo2024ideabench).
+**Already in graph (sibling):** 1 (sourati2023accelerating).
+**Declined:** 5 (SciMuse, Science4Cast, ResearchAgent, LiveIdeaBench, survey).
+
+Concepts updated: `retrodiction-test` (all 8 citekeys added to `sources`,
+Connections extended, new "Reusable protocols" section added),
+`hindsight-narrative-bias` (added `yang2024moose`),
+`novelty-vs-impact` (added `si2025ideation`, minimal edit alongside
+sibling's existing content). New concepts seeded: `novelty-mirage`
+(sourced by `sinhahajari2026limits`, `si2024can`) and
+`ideation-execution-gap` (sourced by `si2025ideation`, `si2024can`,
+`yamada2025aiscientistv2`).
+
+`/promote-moc` was not run this pass — two sibling curators are still
+processing their own files concurrently, and a MoC synthesized before all
+three land would need immediate rework. Recommend running it once all
+three candidate files are archived.

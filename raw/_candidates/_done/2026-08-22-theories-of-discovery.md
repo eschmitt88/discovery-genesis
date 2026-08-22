@@ -5,6 +5,7 @@ discovered: 2026-08-22
 source: discover
 n_requested: 14
 n_returned: 16
+curated: "2026-08-22"
 ---
 
 ## 1. Atypical Combinations and Scientific Impact (Uzzi, Mukherjee, Stringer, Jones, 2013)
@@ -118,3 +119,93 @@ n_returned: 16
 - type: book
 - summary: A history-of-science account of twentieth-century particle physics as built from the interaction of three semi-autonomous subcultures — theory, experiment, and instrumentation — that communicate through local "trading zones" rather than one unified logic.
 - reason: The primary source for the means-first / instrument-driven genesis model at the level of a whole subfield rather than a single lab episode; its "trading zone" idea is a plausible candidate move (cross-subculture translation) for the H2 codebook.
+
+## Curation
+
+Ownership split across three parallel curators per the coordinating
+agent: this file's science-of-science bibliometrics items belong to the
+`science-of-science-novelty-impact` sibling and the LLM-ideation item to
+the `llm-idea-generation` sibling; both are recorded here as
+already-owned rather than re-decided. Remaining 13 items (theories of
+discovery proper) are this curator's.
+
+1. **Uzzi et al. 2013** — already in graph (sibling): owned by the
+   `science-of-science-novelty-impact` curator; not re-ingested here.
+2. **TRIZ inventive methodology exposition (arXiv 1608.00536)** —
+   declined: not in this batch's prioritised load-bearing set; TRIZ's
+   own lineage is already sourced via item 3's systematic review and the
+   `triz-lineage` concept's existing framing, and this exposition adds
+   illustration, not new evidence.
+3. **Ghane et al. 2023, Semantic TRIZ systematic review** — ingested →
+   `ghane2023semantictriz`. Note: on full read, this paper is a technical
+   review of AI/NLP automation of TRIZ tooling, **not** the epistemic
+   critique of TRIZ's evidence base the candidate summary and reason
+   claimed — flagged in the literature note and in `triz-lineage`'s
+   Connections; the actual "TRIZ taken on faith" critique remains
+   unsourced and is an open gap for a future `/discover` pass.
+4. **Boden 2009, Computer Models of Creativity** — declined: not in the
+   batch's prioritised load-bearing set (combinational/exploratory/
+   transformational taxonomy is a useful future cross-check but not
+   among the ~8–10 items this pass targets for H0/H2/H4).
+5. **Simonton 2010, BVSR** — ingested → `simonton2010bvsr`.
+6. **Sternberg 1999, Propulsion Model** — ingested → `sternberg1999propulsion`.
+   Full text paywalled (APA/SAGE, no OA per Unpaywall); ingested as
+   `status: skimmed` / `text: abstract-only` from the confirmed
+   bibliographic record plus cross-checked public summary, per curation
+   rule 4.
+7. **Dunbar 1997, How Scientists Think** — ingested → `dunbar1997scientists`.
+8. **Merton 1961, Singletons and Multiples** — ingested →
+   `merton1961singletons`. No OA full text found (pre-DOI 1961
+   proceedings piece, JSTOR-gated, absent from OpenAlex/Semantic
+   Scholar); ingested `status: skimmed` / abstract-only from the
+   confirmed HistCite bibliographic record plus a Wikipedia secondary
+   summary, per curation rule 4.
+9. **Swanson 1986, Fish Oil / Undiscovered Public Knowledge** — ingested
+   → `swanson1986fishoil`. No indexed abstract (pre-1996 MEDLINE record);
+   ingested abstract-only per rule 4. Also seeded a new concept,
+   [[literature-based-discovery]], since the ABC model is an atomic idea
+   none of the 12 seedlings covered directly.
+10. **Medawar 1963 (via Howitt & Wilson 2014 revisit)** — ingested →
+    `medawar1963fraud`. PMC gates full-text/PDF behind a client-side
+    proof-of-work challenge automated fetch cannot solve; ingested
+    abstract-only per rule 4 from the confirmed bibliographic record.
+11. **Tahamtan & Bornmann 2018** — ingested → `tahamtan2018creativity`.
+    Full text obtained via the arXiv preprint copy.
+12. **Tria/Loreto adjacent possible (arXiv 2208.00907)** — ingested →
+    `taalbi2022adjacent`. **Correction**: the candidate's attribution to
+    "Tria, Loreto, et al." is wrong — this arXiv ID's sole author is
+    Josef Taalbi (Lund University, Dept. of Economic History), confirmed
+    from the PDF title page and OpenAlex; there is no Tria/Loreto
+    co-authorship on this specific paper. Citekey and authorship
+    corrected in the literature note.
+13. **Sourati & Evans 2023** — ingested → `sourati2023accelerating`.
+14. **Si, Yang, Hashimoto 2024** — already in graph (sibling): owned by
+    the `llm-idea-generation` curator; not re-ingested here.
+15. **Thomas Kuhn (SEP)** — declined: not in the batch's prioritised
+    load-bearing set; anomaly-driven discovery is already represented
+    via Dunbar's "unexpected findings" evidence, which is primary-source
+    and empirical rather than a secondary encyclopedia entry.
+16. **Galison 1997, Image and Logic** — declined: not in the batch's
+    prioritised load-bearing set for this pass, despite being named
+    alongside Dunbar/Hacking in `docs/research-plan.md`'s means-first
+    row; a book-length source, best ingested via a dedicated SEP-style
+    or publisher-page summary in a follow-up pass rather than folded
+    into this batch's ~8–10 item budget.
+
+**Ingested this pass (10):** sourati2023accelerating, dunbar1997scientists,
+simonton2010bvsr, tahamtan2018creativity, merton1961singletons,
+swanson1986fishoil, sternberg1999propulsion, medawar1963fraud,
+taalbi2022adjacent, ghane2023semantictriz.
+
+**Concepts gained sources:** adjacent-possible, genesis-models,
+hindsight-narrative-bias, move-taxonomy, genesis-card, triz-lineage,
+retrodiction-test.
+
+**New concept seeded:** literature-based-discovery (source:
+swanson1986fishoil).
+
+**Declined (4, this curator's ownership):** TRIZ exposition (#2), Boden
+(#4), Kuhn SEP (#15), Galison (#16) — reasons above.
+
+**Already in graph / other curator's ownership (2):** Uzzi et al. 2013
+(#1), Si/Yang/Hashimoto 2024 (#14).
