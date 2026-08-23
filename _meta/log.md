@@ -45,3 +45,4 @@ skills; read by `/lint`.
 2026-08-22 18:58 promote-moc how-contributions-arise (7 concepts)
 2026-08-22 19:25 codebook v1 from 28 blind codings
 2026-08-22 19:56 wrap: H1 pilot B result, codebook v1, 26 ingests
+2026-08-23 02:39 codebook v1.1 frozen (kappa 0.73, 30 papers)

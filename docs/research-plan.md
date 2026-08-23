@@ -246,7 +246,16 @@ primary research only; held-out 5 pairs untouched).
   7/15 twins by ≥ 1 coder (Fisher p = 0.003; 7 discordant pairs, all
   twin-only, sign p = 0.008), under a *stricter* v1 definition (source in a
   different primary field). Bibliometrics and blind coding agree.
-- **Coding reliability (30 papers × 2 coders):** `genesis_model` κ = 0.63;
+- **Codebook v1.1 frozen (κ = 0.73 on `genesis_model`, 30 papers, fresh
+  blind coders).** Its gap-filling split is the pilot's sharpest move
+  contrast: `first-measurement` 10/15 cases vs 4/15 twins (p = 0.033),
+  `next-target` 2/15 vs 7/15 (p = 0.054). Under v1.1's strict definition
+  `transfer` attenuates to 1 vs 2 — the earlier 0-vs-7 was partly
+  cross-context reuse, which v1.1 calls `next-target`. Genesis model does
+  not discriminate roles. Recognition is asymmetric (7/15 cases, 0/15
+  twins), so H6's memorisation control must be structural.
+- **Coding reliability history (30 papers × 2 coders):** v0/v1 mixed
+  `genesis_model` κ = 0.63;
   closed `enabler` vocabulary κ = 0.79 (from 0.16); `transfer`'s tightened
   definition held. The means-first/problem-first boundary is the codebook's
   open problem — both coders named the same case (an established platform

@@ -1,7 +1,7 @@
 ---
 kind: concept
 name: "move taxonomy"
-status: seedling
+status: growing
 added: "2026-08-22"
 sources: ["dunbar1997scientists", "sternberg1999propulsion"]
 related_concepts: ["triz-lineage", "genesis-card", "atypical-combination", "novelty-vs-impact"]
@@ -35,6 +35,16 @@ stable across fields; H3 asks which entries are impact-enriched relative
 to twins. The enriched entries, with worked examples from `cases/`, become
 the body of the skill. An orthogonal *enabler* axis (new data / tool /
 compute / theory / collaboration / imported problem) is coded alongside.
+
+## Attested in the pilot (codebook v1.1, 30 papers × 2 coders)
+
+`gap-filling:first-measurement` 23 codings, `gap-filling:next-target` 14,
+`consolidation` 8, `gap-filling:bigger-n` 5, `instrument` 5, `transfer` 4,
+`formalisation` 4, `recombination` 4, `unification` 4, `gap-filling:other`
+2, `inversion` 1. Never used: scale, resource, simplification, relaxation,
+reformulation, anomaly. The taxonomy in use is ~8 wide. The role contrast
+lives inside gap-filling: impactful papers *first-measure* (10/15 vs 4/15),
+median papers *re-apply to the next target* (2/15 vs 7/15).
 
 ## Connections
 
