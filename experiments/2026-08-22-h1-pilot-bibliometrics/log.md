@@ -121,3 +121,14 @@
   reconstruct a plausible ingredient set in 90 % of cases", not as "the ideas
   came from the references". Distinguishing those needs the `external_story`
   field and full text, which this batch mostly lacked.
+- 2026-08-23 citers dripped for all 40 pilot-B works (3 s spacing, 0 failures;
+  5-year window). **Disruption is a null at n = 15**: `cd5_nok` case −0.64 vs
+  twin −0.33, 7 pairs one way and 8 the other, p = 0.30, δ −0.23. The 7-pair
+  reading of 2026-08-22 ("cases more consolidating", p = 0.078) does not
+  survive; it was the first-drawn pairs, not a random subset. Both members of
+  a pair are mildly consolidating, which is what CD-nok looks like for most
+  primary research. Novelty measured on the *outputs* (citers) therefore does
+  not distinguish impact here; novelty on the *inputs* (reference structure)
+  does — recency, hotness, and a *lower* cross-boundary share.
+- Background pools (`genesis.background`, 150 primary works per topic-year)
+  are being pulled for the velocity control and the atypicality null.
