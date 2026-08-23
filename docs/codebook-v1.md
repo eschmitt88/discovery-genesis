@@ -2,7 +2,7 @@
 kind: codebook
 name: codebook
 version: v1.1
-status: active
+status: frozen   # v1.1 — κ 0.73 on genesis_model over 30 papers, 2026-08-23
 added: "2026-08-22"
 supersedes: v0-open (prompts/open-code.md, pilot B open coding)
 derived_from: 28 blind codings (14 papers × 2 coders), cases/pilotB/
@@ -135,7 +135,13 @@ sentence for the surveillance bulletins.]**
 memorisation base rate for randomly drawn 2010s STEM papers
 ([[concepts/retrodiction-test]] must handle it structurally, not by hoping).
 
-## v1.1 — applied 2026-08-23 (from the second blind batch, 16 papers)
+## Blinding rule for batches (added 2026-08-23)
+
+A coder's batch must never contain both members of a pair: dossiers pair up
+by topic + year, and recognising one member reveals the other's role.
+Shuffle pairs across coders and batches.
+
+## v1.1 — applied 2026-08-23 (from the second blind batch, 16 papers); FROZEN after the 30-paper re-code
 
 The rules below **are in force**; the numbered issues they answer follow.
 

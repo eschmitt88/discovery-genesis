@@ -184,3 +184,37 @@
   return 200. Rule from here: **one OpenAlex consumer at a time** — the
   background pull and the citer drip running together is what tripped the
   long cooldown twice today.
+- 2026-08-23 **codebook v1.1 re-code, all 30 pilot-B papers, two fresh blind
+  coders** (`results/agreement-pilotB-v11.md`; cards in `cases/pilotB/v11/`).
+  - **κ = 0.73 on `genesis_model`** (v1 batch 0.52; v0 0.71), `is_primary`
+    0.82, `problem_age_specific` 0.71, `enabler_head` 0.55, move Jaccard
+    0.64. The gate (≥ 0.6) is cleared on the field that matters; **v1.1 is
+    frozen as the codebook for the main sample.**
+  - **The gap-filling split is the sharpest contrast in the pilot.** Paper
+    level, ≥ 1 coder: `gap-filling:first-measurement` on 10/15 cases vs 4/15
+    twins (both coders: 7 vs 2; Fisher p = 0.033); `gap-filling:next-target`
+    on 2/15 cases vs 7/15 twins (both coders: 0 vs 5; Fisher p = 0.054).
+    Sign tests on discordant pairs do not reach 0.05 at n = 15 (8–2,
+    p = 0.11; 1–6, p = 0.125). Reading: the impactful primary paper
+    *measures something for the first time in its system*; the median paper
+    *applies an established method to the next target*.
+  - **`transfer` attenuates under the strict v1.1 definition**: 1/15 cases
+    vs 2/15 twins (was 0 vs 7 under v0/v1). The earlier contrast was partly
+    animal→human and cross-context reuse being labelled transfer; v1.1 sends
+    those to `next-target`, where the contrast reappears. So the stable
+    finding is not "twins import from other fields" but "twins re-apply;
+    cases first-measure". The bibliometric breadth reversal stands on its own.
+  - `genesis_model` **does not discriminate roles**: problem-first 18 vs 16
+    codings, means-first 4 vs 3, idea-first 4 vs 5, accretion 4 vs 6. H0
+    holds (idea-first ≈ 13 % of codings either side); the v1.1 rule makes
+    problem-first the modal model for primary research on both sides.
+  - **Recognition is asymmetric: 7/15 cases vs 0/15 twins** recognised by
+    ≥ 1 coder in this pass (earlier passes: 2/14, 1/16 — recognition varies
+    by run). The memorisation floor for the retrodiction test is ~half of
+    *impactful* 2010s papers, not 14 % of papers. Excluding recognised cases
+    would bias H6 toward the less famous half; post-cutoff papers
+    (MOOSE-Chem style) are the cleaner control.
+  - **Blinding leak**: coder A noted the 30 dossiers resolve into 15 pairs
+    by topic + year. A coder who recognises one member can infer the other
+    is the twin. Mitigation for the main sample: each coder gets a shuffled
+    batch that never contains both members of a pair.
