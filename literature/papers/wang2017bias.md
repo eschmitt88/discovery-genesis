@@ -14,7 +14,7 @@ added: "2026-08-22"
 relevance: 5
 credibility: 5
 status: read
-related_experiments: []
+related_experiments: ["2026-08-22-h1-pilot-bibliometrics"]
 related_concepts: ["novelty-vs-impact", "atypical-combination"]
 tags: ["novelty", "bibliometrics", "h1", "citation-windows"]
 ---

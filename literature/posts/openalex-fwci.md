@@ -6,7 +6,7 @@ url: "https://help.openalex.org/hc/en-us/articles/24735753007895-Field-Weighted-
 source: "raw/web/openalex-help-fwci.md"
 added: "2026-08-22"
 relevance: 5
-related_experiments: []
+related_experiments: ["2026-08-22-h1-pilot-bibliometrics"]
 related_concepts: ["field-normalized-impact", "matched-control-twin"]
 tags: ["methodology", "sampling", "openalex", "documentation"]
 ---

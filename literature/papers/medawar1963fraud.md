@@ -14,7 +14,7 @@ added: "2026-08-22"
 relevance: 5
 credibility: 4
 status: skimmed
-related_experiments: []
+related_experiments: ["2026-08-22-h1-pilot-bibliometrics"]
 related_concepts: ["hindsight-narrative-bias", "genesis-models"]
 tags: ["h0", "against-clean-idea-step", "text:abstract-only"]
 ---

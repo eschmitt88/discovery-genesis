@@ -14,7 +14,7 @@ added: "2026-08-22"
 relevance: 3
 credibility: 4
 status: skimmed
-related_experiments: []
+related_experiments: ["2026-08-22-h1-pilot-bibliometrics"]
 related_concepts: ["move-taxonomy"]
 tags: ["h2", "taxonomy-cross-check", "text:abstract-only"]
 ---

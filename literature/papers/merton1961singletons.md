@@ -14,7 +14,7 @@ added: "2026-08-22"
 relevance: 5
 credibility: 4
 status: skimmed
-related_experiments: []
+related_experiments: ["2026-08-22-h1-pilot-bibliometrics"]
 related_concepts: ["adjacent-possible", "genesis-models"]
 tags: ["h0", "problem-first", "multiples", "text:abstract-only"]
 ---
