@@ -123,3 +123,47 @@ SessionEnd hook backstops this if you forget.
 - Drip the missing citers (`--citers-only --citer-delay`) once the OpenAlex
   cooldown lifts; recompute CD5 at n = 15.
 - Then scale: 150–300 pairs, closed coding, H3/H5.
+
+## 2026-08-23
+
+### Did
+
+- Citers dripped for all 40 pilot-B works; disruption (CD5) computed at n = 15.
+- Built `genesis.background` (topic-year pools: velocity control + subfield-
+  pair atypicality null) and the pool-relative features; 12/15 pools pulled.
+- Coded the remaining 8 pilot-B pairs under codebook v1 (2 blind coders);
+  agreement on v1 alone and on all 30 papers; paper-level `transfer`
+  contrast with Fisher + sign tests; H4 and H5 first passes from the cards.
+- Wrote codebook **v1.1** (means-first needs a capability new to the
+  authors; gap-filling split 4 ways; `problem_age_broad` dropped; second-
+  label restraint) and launched a full 30-paper blind re-code under it.
+- Drew (attempted) the 60-pair main sample; retry loop armed.
+
+### Findings
+
+- **Recency and hotness survive the velocity control** (vs own pool:
+  p = 0.012 / 0.042, δ ≈ 0.6). **Atypicality is null** — no hidden Uzzi
+  tail; impactful papers are simply more local. **CD5 is null** (7 vs 8).
+- **`transfer` only on twins at the full pilot**: 0/15 vs 7/15 papers,
+  Fisher p = 0.003, sign p = 0.008 — under a stricter definition than v0.
+- Reliability: `genesis_model` κ 0.63 over 30 papers; closed `enabler`
+  vocabulary took that field from κ 0.16 to 0.79. The unresolved boundary
+  is means-first vs problem-first for "established platform, next target"
+  (~⅓ of primary papers) — both coders named it independently; v1.1 rules
+  on it.
+- Idea-first is rare on both sides (1/12 agreed cases, 2/10 agreed twins);
+  the means/problem split flips between batches and is codebook-sensitive.
+- H4: 90 % of ingredients cited; identical across roles. H5: 5/15 pairs
+  share the primary move, 9/15 share a label.
+- OpenAlex throttles list queries independently of entity GETs and a
+  concurrent background pull + citer drip tripped a multi-hour cooldown
+  twice. One consumer at a time from now on (memory note written).
+
+### Next
+
+- Agreement on the v1.1 re-code (target κ ≥ 0.7 on `genesis_model`); if it
+  clears, v1.1 is the frozen codebook for the main sample.
+- Main sample: draw 60 pairs (10 held out) → fetch sequentially → background
+  pools → features → H1 at n = 50 → two-coder closed coding → H3/H5.
+- Refill the 3 missing pilot-B pools after the draw.
+- Write the first `skill/genesis/SKILL.md` draft only after H3 at n = 50.
