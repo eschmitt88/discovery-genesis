@@ -134,3 +134,39 @@ sentence for the surveillance bulletins.]**
 *both* coders recognised the same two — treat ~14 % as the working
 memorisation base rate for randomly drawn 2010s STEM papers
 ([[concepts/retrodiction-test]] must handle it structurally, not by hoping).
+
+## v1.1 — issues raised by the second blind batch (16 papers, 2026-08-23)
+
+Not yet applied; to be resolved before the next batch is coded.
+
+1. **Problem-first became a catch-all under the decision order** (κ on
+   `genesis_model` fell 0.71 → 0.52; every disagreement is problem-first ↔
+   means-first). Both coders named the same unresolved case: *a mature
+   assay/platform applied to the next target* — next gene, next cancer type,
+   next lattice geometry, next species. Proposed rule: **means-first requires
+   a capability new to the authors or the field**; serial reuse of one's own
+   established platform on a new target is **problem-first**, and the
+   dossier signature (the same method cited 4–8 times in the authors' own
+   prior work) is named explicitly as the tell. A worked example each way.
+2. **Drop `problem_age_broad`** (κ 0.08 on v1). Keep `problem_age_specific`
+   (κ 0.49 → reliable enough).
+3. **`abstract-only` also caps `genesis_confidence` at `low`** when the
+   means/idea distinction is what is at stake — the rule currently names only
+   `title+refs-only` and `tldr-only`.
+4. **Evidence labels**: "(via semanticscholar/europepmc/crossref)" marks the
+   authors' real abstract from another index and is `abstract-only`; only
+   "machine-generated summary" is `tldr-only`. (Prompt already updated.)
+5. **Cross-species translation** (animal → human) is neither `transfer`
+   (same primary field) nor obviously `recombination`. Add a worked example
+   under recombination, or a sub-tag `translation`, so biomedicine's most
+   common move is not coded inconsistently.
+6. **Framework-proposing papers with no data** (a stated model, e.g. COM-B):
+   `is_primary: partial — framework` and `genesis_model: idea-first` when the
+   proposition organises the design; distinguish from essay/perspective
+   (`no`) by whether a testable or applicable structure is delivered.
+7. **Reviews with an embedded unsignposted dataset**: default to the paper's
+   own abstract-level framing; note the dataset in `contribution`.
+8. **Label preference drift**: coder B used `recombination` 11×, coder A
+   `consolidation` 8×, on the same 16 papers (move Jaccard 0.70 → 0.43).
+   Both are being used as the "default second label". Rule: a second label
+   is listed only if removing it would make the card false.

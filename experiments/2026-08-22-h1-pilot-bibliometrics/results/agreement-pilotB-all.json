@@ -1,0 +1,84 @@
+{
+ "n": 30,
+ "coders": [
+  "coderA",
+  "coderB"
+ ],
+ "fields": {
+  "genesis_model": {
+   "raw": 0.733,
+   "kappa": 0.627
+  },
+  "is_primary": {
+   "raw": 0.833,
+   "kappa": 0.643
+  },
+  "problem_age": {
+   "raw": 0.933,
+   "kappa": 0.88
+  },
+  "problem_age_broad": {
+   "raw": 0.7,
+   "kappa": 0.553
+  },
+  "problem_age_specific": {
+   "raw": 0.8,
+   "kappa": 0.717
+  },
+  "enabler_head": {
+   "raw": 0.567,
+   "kappa": 0.502
+  },
+  "move_primary": {
+   "raw": 0.667,
+   "kappa": 0.582
+  }
+ },
+ "move_jaccard_mean": 0.556,
+ "move_any_overlap": 0.967,
+ "recognised": [
+  "W2078338131",
+  "W2136608905",
+  "W2149161770"
+ ],
+ "by_role": {
+  "case": {
+   "genesis_model": {
+    "idea-first": 3,
+    "problem-first": 15,
+    "means-first": 7,
+    "accretion": 5
+   },
+   "moves": {
+    "unification": 6,
+    "formalisation": 4,
+    "recombination": 11,
+    "gap-filling": 19,
+    "instrument": 3,
+    "consolidation": 10,
+    "scale": 1,
+    "anomaly": 1,
+    "resource": 1
+   }
+  },
+  "twin": {
+   "genesis_model": {
+    "means-first": 9,
+    "problem-first": 9,
+    "idea-first": 5,
+    "accretion": 7
+   },
+   "moves": {
+    "anomaly": 1,
+    "gap-filling": 15,
+    "recombination": 10,
+    "instrument": 5,
+    "transfer": 10,
+    "reformulation": 1,
+    "formalisation": 3,
+    "consolidation": 8,
+    "unification": 1
+   }
+  }
+ }
+}

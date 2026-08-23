@@ -60,8 +60,15 @@ ambiguity between two labels, a field-specific pattern.
 
 Rules
 - Code from the dossier only. No web search, no recall of the paper's later reception.
-- Some dossiers have no authors' abstract. If the Abstract section is labelled a
-  machine-generated summary, set `evidence: tldr-only` and lower
+- Some dossiers have no authors' abstract. An Abstract heading that says
+  "(via semanticscholar)" / "(via europepmc)" / "(via crossref)" is the
+  **authors' real abstract** from another index — treat it as `abstract-only`.
+  Only a heading that says **machine-generated summary (Semantic Scholar
+  TLDR)** is `tldr-only`. If full text is present, `evidence` is `full-text`
+  regardless of where the abstract came from. Cap `genesis_confidence` at
+  `low` for `abstract-only` too when the means-first / idea-first
+  distinction is what is at stake — it turns on the introduction's logic.
+  If the Abstract section is labelled a machine-generated summary, set `evidence: tldr-only` and lower
   `genesis_confidence` accordingly; if there is no abstract at all, use
   `title+refs-only`. A reference list plus citation intents still supports a
   defensible `problem` and `ingredients`; it rarely supports a confident
