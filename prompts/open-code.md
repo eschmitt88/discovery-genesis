@@ -1,6 +1,6 @@
 # Coding a genesis card
 
-**Codebook v1** — `docs/codebook-v1.md` is authoritative for the label
+**Codebook v1.1** — `docs/codebook-v1.md` (v1.1 rules at the end are in force) is authoritative for the label
 definitions, the decision order for `genesis_model`, the closed `enabler`
 vocabulary, and the `transfer` vs `recombination` boundary. Read it before
 coding; this file is the card *format* and the blinding rules.
@@ -26,7 +26,6 @@ recognised: <no | yes — what you recall, one line>
 evidence: <full-text | abstract+contexts | abstract-only | title+refs-only | tldr-only>
 is_primary: <yes | no — review / guideline / perspective / survey | partial — e.g. methods paper, dataset, framework>
 problem: "<one sentence: what was open or unsatisfactory before this paper>"
-problem_age_broad: "<new (<3 y) | established (3–15 y) | old (>15 y) | n/a>"
 problem_age_specific: "<new (<3 y) | established (3–15 y) | old (>15 y) | opened-by-this-paper | n/a>"
 ingredients:
   - what: "<component the contribution depends on>"
@@ -34,7 +33,7 @@ ingredients:
     year: <year of the ingredient or null>
     role: <method | data | theory | instrument | problem | result | framework-or-formalism | prior-finding>
 move: "<free text, one line: what the paper DID to the prior art — verb first>"
-move_candidates: [<1–3 short labels from: transfer, recombination, scale, instrument, resource, simplification, inversion, unification, relaxation, reformulation, anomaly, consolidation, gap-filling, formalisation, other:<label>>]
+move_candidates: [<1–3 labels, most central first, second/third only if removing them would make the card false. From: transfer, recombination, scale, instrument, resource, simplification, inversion, unification, relaxation, reformulation, anomaly, consolidation, formalisation, gap-filling:next-target, gap-filling:bigger-n, gap-filling:first-measurement, gap-filling:other, other:<label>>]
 enabler: "<one head term from codebook §3: new-instrument | new-assay-or-method | new-dataset-or-resource | existing-resource-repurposed | new-compute-or-scale | new-theory-or-formalism | new-collaboration-or-team | imported-problem | routine-data-wave | none-identifiable — then one clause of detail>"
 genesis_model: <idea-first | means-first | problem-first | accretion>
 genesis_confidence: <low | medium | high>
