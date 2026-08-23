@@ -31,7 +31,7 @@ import statistics as st
 import sys
 from pathlib import Path
 
-from .fetch import RAW, wid
+from .fetch import RAW, ROOT, wid
 
 
 def level(pt: dict | None, key: str):

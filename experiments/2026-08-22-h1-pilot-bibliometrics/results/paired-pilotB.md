@@ -15,8 +15,8 @@
 | n_authors | + | 7 | 4 | +2 | 9 | 4 | 0.051 | +0.34 |
 | n_institutions | + | 4 | 2 | **+3** | 9 | 4 | **0.035** | +0.44 |
 | n_refs | · | 42 | 34 | **+8** | 13 | 2 | **0.034** | +0.39 |
-| cd_nok | · | -0.578 | 0 | -0.273 | 2 | 5 | 0.078 | -0.55 |
-| cd5_nok | · | -0.677 | 0 | -0.193 | 2 | 5 | 0.078 | -0.59 |
+| cd_nok | · | -0.578 | 0 | -0.225 | 7 | 8 | 0.229 | -0.17 |
+| cd5_nok | · | -0.641 | -0.333 | -0.182 | 7 | 8 | 0.303 | -0.23 |
 
 Benjamini-Hochberg FDR over the 15 features tested (q < 0.05 survives): ref_hot_median q=0.025, ref_share_le3 q=0.025, ref_age_mean q=0.027, ref_age_median q=0.040, ref_cross_domain q=0.050
 
