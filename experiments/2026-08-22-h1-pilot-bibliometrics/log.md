@@ -169,3 +169,18 @@
     agreed twins) — H0 holds; the means/problem split is codebook-sensitive
     and cannot be read at this n.
   - Recognition: 3 of 30 papers recognised by ≥ 1 coder (10 %).
+- 2026-08-23 **H5 first pass** (30 cards, primary move = first listed):
+  5/15 pairs share the same primary move across case and twin; 9/15 share at
+  least one move label. In those pairs the move cannot be what separates
+  impact from non-impact — the residual is problem choice, timing, execution
+  or community, exactly what H5 predicts. Caveat: `gap-filling` is the
+  primary move on 12 of 30 papers, so label coarseness inflates sharing; a
+  v1.1 codebook that splits gap-filling (see below) is needed before H5 is
+  read quantitatively. The shared-move pairs (Smoking, Liver/TIPS,
+  Interferon/CIN, Cervical, Insect) are the first candidates for the
+  `twin` contrast paragraph on the card.
+- Main sample (60 pairs, 10 held out) draw failed at 0 pairs on an OpenAlex
+  list-query 429; a retry loop probes every 5 min and draws when list queries
+  return 200. Rule from here: **one OpenAlex consumer at a time** — the
+  background pull and the citer drip running together is what tripped the
+  long cooldown twice today.

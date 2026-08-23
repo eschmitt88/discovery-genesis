@@ -1,7 +1,7 @@
 ---
 kind: codebook
 name: codebook
-version: v1
+version: v1.1
 status: active
 added: "2026-08-22"
 supersedes: v0-open (prompts/open-code.md, pilot B open coding)
@@ -135,9 +135,36 @@ sentence for the surveillance bulletins.]**
 memorisation base rate for randomly drawn 2010s STEM papers
 ([[concepts/retrodiction-test]] must handle it structurally, not by hoping).
 
-## v1.1 — issues raised by the second blind batch (16 papers, 2026-08-23)
+## v1.1 — applied 2026-08-23 (from the second blind batch, 16 papers)
 
-Not yet applied; to be resolved before the next batch is coded.
+The rules below **are in force**; the numbered issues they answer follow.
+
+- **Means-first requires a capability new to the authors or the field.**
+  Serial reuse of the authors' own established platform on a new target
+  (next gene, next cancer type, next lattice geometry, next species) is
+  **problem-first**. Tell: the same method cited 4–8 times in the authors'
+  own prior work → problem-first. Tell for means-first: the capability is
+  introduced in this paper, or first cited ≤ 2 years before it, or the
+  authors' own prior work does not use it.
+- **`problem_age_broad` is dropped.** Keep `problem_age_specific`.
+- **`abstract-only` caps `genesis_confidence` at `low`** whenever the
+  decision is means-first vs idea-first.
+- **`gap-filling` is split.** It was the primary move on 12/30 papers and is
+  too coarse for H3/H5. Use exactly one of:
+  `gap-filling:next-target` (established method, new target/population/
+  species/material — includes animal→human translation),
+  `gap-filling:bigger-n` (same question, larger or longer sample — a
+  trial, a cohort, a survey wave),
+  `gap-filling:first-measurement` (a quantity or effect measured for the
+  first time in this system),
+  `gap-filling:other`.
+- **Second labels only if removing them would make the card false.** The
+  "default second label" habit (`recombination`, `consolidation`) is what
+  drove move Jaccard from 0.70 to 0.43.
+- **Framework papers with no data**: `is_primary: partial — framework`;
+  `idea-first` if the stated structure organises the design.
+- **Reviews with an embedded unsignposted dataset**: follow the abstract's
+  framing; note the dataset in `contribution`.
 
 1. **Problem-first became a catch-all under the decision order** (κ on
    `genesis_model` fell 0.71 → 0.52; every disagreement is problem-first ↔
