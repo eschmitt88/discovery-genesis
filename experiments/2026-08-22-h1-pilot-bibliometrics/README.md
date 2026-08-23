@@ -6,7 +6,7 @@ status: done     # running | done | abandoned
 hypothesis: "Impactful papers differ from matched topic-year twins in reference structure: more recent references, a conventional (within-topic) core, more cross-field tail, hotter references (H1)."
 result: "H1 partly confirmed on 15 pairs: impactful primary papers cite markedly more RECENT and more HIGHLY-CITED work, with larger multi-institution teams — but they cite LESS across topic/subfield/domain, not more. Five features survive BH-FDR."
 related_concepts: ["matched-control-twin", "atypical-combination", "disruption-index", "field-normalized-impact", "novelty-vs-impact"]
-related_literature: []
+related_literature: ["uzzi2013atypical", "wang2017bias", "funk2017dynamic", "park2023papers", "holst2024dataset", "petersen2023disruption", "fleming2001recombinant", "openalex-fwci", "dunbar1997scientists", "medawar1963fraud", "simonton2010bvsr", "tahamtan2018creativity", "merton1961singletons", "sternberg1999propulsion"]
 tags: ["h1", "pilot", "bibliometrics"]
 # members: only set when kind: ensemble — list parent experiment slugs.
 # parent:  only set when this experiment was produced via /propose --expand.

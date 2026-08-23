@@ -14,7 +14,7 @@ added: "2026-08-22"
 relevance: 4
 credibility: 4
 status: read
-related_experiments: []
+related_experiments: ["2026-08-22-h1-pilot-bibliometrics"]
 related_concepts: ["disruption-index"]
 tags: ["disruption", "bibliometrics", "cd-index", "critique", "dispute"]
 ---
