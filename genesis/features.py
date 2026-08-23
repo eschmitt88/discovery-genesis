@@ -42,7 +42,45 @@ def level(pt: dict | None, key: str):
     return (pt.get(key) or {}).get("id")
 
 
-def features_for(w: str) -> dict:
+BG = ROOT / "data" / "background"
+
+
+def load_background(topic_id: str, year: int) -> dict | None:
+    p = BG / f"{topic_id}-{year}.json"
+    return json.load(p.open()) if p.exists() else None
+
+
+def atypicality(refs: list[dict], bg: dict) -> dict:
+    """Map the focal paper's referenced subfield pairs onto the pool's pair z-table.
+    A pair both of whose subfields occur in the background but which never
+    co-occur there gets the z of obs = 0 (−sqrt(exp)); a pair involving a
+    subfield absent from the background is unscorable and dropped (counted)."""
+    from itertools import combinations
+    import math
+    sfs = sorted({((r.get("primary_topic") or {}).get("subfield") or {}).get("id", "").rsplit("/", 1)[-1]
+                  for r in refs if (r.get("primary_topic") or {}).get("subfield")})
+    sfs = [x for x in sfs if x]
+    zt, freq, n = bg["pairs"]["pair_z"], bg["pairs"]["subfield_freq"], bg["pairs"]["n_works"]
+    zs, unscorable = [], 0
+    for a, b in combinations(sfs, 2):
+        key = "|".join(sorted((a, b)))
+        if key in zt and zt[key] is not None:
+            zs.append(zt[key])
+        elif a in freq and b in freq and n:
+            exp = n * (freq[a] / n) * (freq[b] / n)
+            zs.append(round(-math.sqrt(exp), 3) if exp > 0 else 0.0)
+        else:
+            unscorable += 1
+    if not zs:
+        return {"atyp_n_pairs": 0, "atyp_unscorable": unscorable}
+    zs.sort()
+    return {"atyp_n_pairs": len(zs), "atyp_unscorable": unscorable,
+            "atyp_median_z": round(st.median(zs), 3),
+            "atyp_p10_z": round(zs[max(0, int(0.1 * len(zs)) - 1)] if len(zs) >= 10 else zs[0], 3),
+            "atyp_share_novel": round(sum(z < 0 for z in zs) / len(zs), 3)}
+
+
+def features_for(w: str, topic_id: str | None = None, year_hint: int | None = None) -> dict:
     d = RAW / w
     work = json.load((d / "work.json").open())
     refs = json.load((d / "refs.json").open()) if (d / "refs.json").exists() else []
@@ -94,6 +132,20 @@ def features_for(w: str) -> dict:
     ft = status.get("fulltext") or {}
     f["has_text"] = bool(ft.get("chars"))
     f["text_chars"] = ft.get("chars")
+
+    bg = load_background(topic_id, year) if topic_id else None
+    if bg:
+        ps = bg["stats"]
+        f["pool_ref_age_median"] = ps.get("pool_ref_age_median")
+        f["pool_ref_share_le3"] = ps.get("pool_ref_share_le3")
+        f["pool_ref_hot_median"] = ps.get("pool_ref_hot_median")
+        if f["ref_age_median"] is not None and ps.get("pool_ref_age_median") is not None:
+            f["ref_age_vs_pool"] = round(f["ref_age_median"] - ps["pool_ref_age_median"], 2)
+        if f["ref_share_le3"] is not None and ps.get("pool_ref_share_le3") is not None:
+            f["ref_share_le3_vs_pool"] = round(f["ref_share_le3"] - ps["pool_ref_share_le3"], 3)
+        if f["ref_hot_median"] is not None and ps.get("pool_ref_hot_median"):
+            f["ref_hot_vs_pool"] = round(f["ref_hot_median"] / ps["pool_ref_hot_median"], 3)
+        f.update(atypicality(refs, bg))
     return f
 
 
@@ -110,7 +162,7 @@ def main(argv=None):
             if not (RAW / w / "work.json").exists():
                 print(f"missing bundle {w}", file=sys.stderr); continue
             r = {"pair": k, "role": role, "topic": p["topic"], "domain": p["domain"]}
-            r.update(features_for(w)); rows.append(r)
+            r.update(features_for(w, p.get("topic_id"), p.get("year"))); rows.append(r)
     cols = list(rows[0].keys())
     for r in rows:
         for c in r:

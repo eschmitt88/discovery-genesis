@@ -28,6 +28,10 @@ PREDICTED = {                      # feature -> predicted sign of (case - twin);
     "ref_n_fields": +1, "ref_hot_median": +1, "ref_fwci_median": +1,
     "n_authors": +1, "n_institutions": +1, "n_refs": 0,
     "cd_nok": 0, "cd5_nok": 0, "s2_ref_method_share": 0,
+    # relative to the topic-year background pool (genesis.background)
+    "ref_age_vs_pool": -1, "ref_share_le3_vs_pool": +1, "ref_hot_vs_pool": +1,
+    # Uzzi-style: conventional core (median z higher) + atypical tail (p10 z lower)
+    "atyp_median_z": +1, "atyp_p10_z": -1, "atyp_share_novel": 0,
 }
 
 
