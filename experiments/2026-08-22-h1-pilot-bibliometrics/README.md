@@ -70,8 +70,31 @@ Disruption is unavailable for most pairs (OpenAlex `cites:` throttle) —
 on the 7 pairs with citers, `cd5_nok` runs *more negative* for cases
 (−0.68 vs 0.00, p = 0.078).
 
+**Controls (2026-08-23, 12 of 15 topic-year background pools, 150 primary
+works each — `genesis.background`):**
+
+| feature | case | twin | median Δ | pairs | p | Cliff δ |
+|---|---|---|---|---|---|---|
+| `ref_share_le3_vs_pool` | +0.08 | −0.09 | **+0.18** | 10/12 | 0.012 | +0.58 |
+| `ref_age_vs_pool` (years) | −2 | +2 | **−4** | 10/12 | 0.034 | −0.54 |
+| `ref_hot_vs_pool` (ratio) | 2.26 | 0.88 | **+1.25** | 9/11 | 0.042 | +0.62 |
+| `atyp_median_z` (conventional core) | 0.11 | 0.17 | 0 | 5/5 | 0.77 | −0.04 |
+| `atyp_p10_z` (atypical tail) | −0.32 | −0.45 | +0.15 | 7/5 | 0.47 | +0.24 |
+
+The recency and hotness effects **survive the velocity control**: a case's
+references are younger and hotter than its *own topic-year pool's*, and its
+twin's are older and colder than the same pool. Pool reference-age medians
+span 5–8 years, so field tempo varies, and the case–twin gap is not that
+variation. The **Uzzi-style atypicality is a null** on both the core and the
+tail; with a 150-work independence null at subfield level (median 15 scored
+pairs per paper) this is a weak test, and the tail is if anything slightly
+*less* atypical for cases. No hint of a hidden atypical tail behind the
+lower cross-boundary shares. Disruption (CD5, all 40 works' citers) is also
+null: 7 vs 8 pairs, p = 0.30.
+
 Numbers: `metrics.json`. Full tables: `results/paired-pilotB.md`,
-`results/agreement-pilotB.md`.
+`results/agreement-pilotB.md`, `results/agreement-pilotB-v1.md`,
+`results/agreement-pilotB-all.md`.
 
 ## Interpretation
 
@@ -89,13 +112,21 @@ direction Uzzi's conventional-core result predicts, and it agrees with the
 open-coding pass, where `transfer` (import from another field) was coded 8
 times on twins and 0 times on cases.
 
-Two things this does **not** show. (1) Uzzi's actual claim is a conventional
-core *plus an atypical tail*; a mean share cannot see a tail. The atypicality
-null model (`features --atypicality`, unbuilt) is what would test it, and it is
-now the highest-value missing feature. (2) Reference recency is partly
-mechanical: a paper with more citations tends to have been read more, and
-fast-moving subfields produce both young reference lists and high citation
-counts. A within-subfield-velocity control is needed before calling this causal.
+Both caveats from the first pass have now been tested. (1) The atypicality
+null model finds no atypical tail behind the lower cross-boundary shares —
+at this resolution the impactful papers are simply *more local*, not
+"local core plus exotic tail". (2) The velocity control removes the
+field-tempo explanation: recency is a property of the paper relative to its
+own pool. What remains untested is reverse causation at the paper level —
+a paper that became important may have been *edited* toward the live
+literature in review, or its authors may be the people who read the newest
+work because they are central. Neither is distinguishable without the
+authors' story.
+
+Coding adds a third line: `transfer` (a method or frame imported from a
+different primary field) was coded on 0/15 cases and 7/15 twins (Fisher
+p = 0.003). Bibliometrics and blind human-style coding agree: in this
+sample, crossing fields is what the *median* paper does.
 
 **What it means for the deliverable.** If it holds at n = 150, the skill's
 advice is not "import a mechanism from a distant field". It is closer to:
