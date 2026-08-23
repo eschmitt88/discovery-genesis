@@ -24,7 +24,7 @@ import re
 from collections import Counter, defaultdict
 from pathlib import Path
 
-FIELDS = ("genesis_model", "is_primary", "problem_age", "enabler_head")
+FIELDS = ("genesis_model", "is_primary", "problem_age", "problem_age_broad", "problem_age_specific", "enabler_head", "move_primary")
 
 
 def parse_card(p: Path) -> dict:
@@ -32,8 +32,9 @@ def parse_card(p: Path) -> dict:
     m = re.search(r"^---\n(.*?)\n---", txt, re.S)
     fm = m.group(1) if m else ""
     d = {"id": p.stem}
-    for key in ("coder", "genesis_model", "genesis_confidence", "is_primary",
-                "problem_age", "enabler", "move", "recognised", "evidence"):
+    for key in ("coder", "codebook", "genesis_model", "genesis_confidence", "is_primary",
+                "problem_age", "problem_age_broad", "problem_age_specific", "enabler", "move",
+                "recognised", "evidence"):
         mm = re.search(rf"^{key}:\s*(.*)$", fm, re.M)
         if mm:
             d[key] = mm.group(1).strip().strip('"').strip("'")
@@ -44,6 +45,8 @@ def parse_card(p: Path) -> dict:
     e = d.get("enabler", "")
     d["enabler_head"] = re.split(r"[—\-:|]", e)[0].strip().lower()[:24] if e else ""
     d["is_primary"] = (d.get("is_primary", "") or "").split()[0].rstrip("—-").strip().lower()
+    d["move_primary"] = d["move_candidates"][0] if d["move_candidates"] else ""
+    d["codebook"] = d.get("codebook", "v0-open")
     return d
 
 
@@ -67,12 +70,16 @@ def main(argv=None):
     ap.add_argument("cards_dir", help="directory holding coderA/ and coderB/")
     ap.add_argument("--sample", default=None, help="unblind roles from this sample file")
     ap.add_argument("--out", default=None)
+    ap.add_argument("--codebook", default=None, help="only cards whose `codebook:` matches (e.g. v1)")
     a = ap.parse_args(argv)
     root = Path(a.cards_dir)
     coders = sorted(d.name for d in root.iterdir() if d.is_dir() and d.name.startswith("coder"))
     if len(coders) < 2:
         raise SystemExit(f"need two coder dirs in {root}, found {coders}")
     A, B = ({p.stem: parse_card(p) for p in (root / c).glob("W*.md")} for c in coders[:2])
+    if a.codebook:
+        A = {k: v for k, v in A.items() if v.get("codebook", "").startswith(a.codebook)}
+        B = {k: v for k, v in B.items() if v.get("codebook", "").startswith(a.codebook)}
     ids = sorted(set(A) & set(B))
     L = [f"# Inter-coder agreement — {root}", "",
          f"Coders: {coders[0]} vs {coders[1]}; {len(ids)} papers coded by both "
@@ -81,6 +88,8 @@ def main(argv=None):
     L += ["| field | raw agreement | Cohen κ |", "|---|---|---|"]
     for f in FIELDS:
         va, vb = [A[i].get(f, "") for i in ids], [B[i].get(f, "") for i in ids]
+        if not any(va) and not any(vb):
+            continue
         raw = sum(x == y for x, y in zip(va, vb)) / len(ids) if ids else 0
         k = kappa(va, vb)
         out["fields"][f] = {"raw": round(raw, 3), "kappa": k}

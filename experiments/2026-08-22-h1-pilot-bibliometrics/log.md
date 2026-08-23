@@ -132,3 +132,40 @@
   does — recency, hotness, and a *lower* cross-boundary share.
 - Background pools (`genesis.background`, 150 primary works per topic-year)
   are being pulled for the velocity control and the atypicality null.
+- 2026-08-23 **pilot-B coding complete: 30 papers × 2 blind coders** (14 under
+  codebook v0, 16 under v1). `results/agreement-pilotB-v1.md`,
+  `results/agreement-pilotB-all.md`.
+  - Agreement, all 30: `genesis_model` κ = 0.63 (v0 batch 0.71, v1 batch
+    0.52); `is_primary` 0.64; `enabler_head` 0.50 overall but **0.79 on the
+    v1 batch** (the closed vocabulary fixed the worst field, 0.16 → 0.79);
+    `problem_age_specific` 0.72, `problem_age_broad` 0.55 (0.08 on v1 alone —
+    the "broad" question is not codable reliably and should go).
+    `move_candidates` Jaccard 0.56; 97 % of papers share ≥ 1 label.
+  - Why `genesis_model` κ fell under v1: the decision order
+    (accretion → means-first → problem-first → idea-first, first match wins)
+    made problem-first a catch-all for coder A (10/16) while coder B split the
+    same papers means/problem (5/7). All v1 disagreements are problem-first ↔
+    means-first. Both coders independently named the same unresolved case:
+    *an established assay or platform applied to the next target* (next gene,
+    next cancer type, next lattice geometry, next species) — means-first by
+    the "capability → observation" signature, problem-first by the paper's
+    own gap framing. That is ~5 of 16 papers and it is a real category, not a
+    coding failure. v1.1 needs a named label for it, or a rule that routine
+    reuse of a mature platform is problem-first and means-first is reserved
+    for a capability that is *new to the authors or the field*.
+  - **`transfer` is coded only on twins, at the full pilot.** Paper level:
+    0/15 cases vs 7/15 twins by ≥ 1 coder (3/15 by both); Fisher one-sided
+    p = 0.003; 7 discordant pairs, all twin-only, sign test p = 0.008. The
+    v1 `transfer` definition (source in a *different primary field*) is
+    stricter than v0's and the result survived the tightening. Both coders
+    noted that animal→human translation and same-field method reuse do *not*
+    count as transfer under v1; those went to gap-filling/recombination.
+  - **Genesis model by role is not stable across batches.** v0 batch: cases
+    means-first 6 vs 2; v1 batch: cases problem-first 12 vs 5 and twins
+    means-first 7 vs 1. At paper level with both coders agreeing: cases
+    problem-first 6, means-first 3, accretion 2, idea-first 1; twins
+    means-first 3, accretion 3, problem-first 2, idea-first 2. The only thing
+    stable is **idea-first is rare on both sides** (1/12 agreed cases, 2/10
+    agreed twins) — H0 holds; the means/problem split is codebook-sensitive
+    and cannot be read at this n.
+  - Recognition: 3 of 30 papers recognised by ≥ 1 coder (10 %).
