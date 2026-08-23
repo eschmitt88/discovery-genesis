@@ -237,9 +237,20 @@ primary research only; held-out 5 pairs untouched).
   were already cited by the paper; exactly 1 was new-here; 19 of 28 cards had
   every ingredient cited. Case and twin are indistinguishable on this
   (52/60 vs 53/57). Anchoring caveat in the experiment log.
-- **`transfer` was coded 8 times on twins and 0 times on cases** (7 pairs ×
-  2 coders). Weak evidence, two named confounds, but it points the same way
-  as the reversed breadth result.
+- **Controls hold (2026-08-23).** Recency and hotness survive a
+  topic-year velocity control (the case is younger/hotter than its *own
+  pool*, the twin older/colder; p = 0.012 / 0.042). A Uzzi-style subfield-
+  pair atypicality null finds no atypical tail (p = 0.47) — the impactful
+  papers are more local, full stop. CD5 disruption is null at n = 15.
+- **`transfer` is coded only on twins — at the full pilot.** 0/15 cases vs
+  7/15 twins by ≥ 1 coder (Fisher p = 0.003; 7 discordant pairs, all
+  twin-only, sign p = 0.008), under a *stricter* v1 definition (source in a
+  different primary field). Bibliometrics and blind coding agree.
+- **Coding reliability (30 papers × 2 coders):** `genesis_model` κ = 0.63;
+  closed `enabler` vocabulary κ = 0.79 (from 0.16); `transfer`'s tightened
+  definition held. The means-first/problem-first boundary is the codebook's
+  open problem — both coders named the same case (an established platform
+  applied to the next target), and it is ~⅓ of primary papers.
 - **Memorisation base rate 14 %**: both coders recognised the same 2 of 14
   randomly drawn 2010s papers.
 

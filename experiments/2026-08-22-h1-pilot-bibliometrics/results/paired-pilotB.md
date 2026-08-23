@@ -17,8 +17,14 @@
 | n_refs | · | 42 | 34 | **+8** | 13 | 2 | **0.034** | +0.39 |
 | cd_nok | · | -0.578 | 0 | -0.225 | 7 | 8 | 0.229 | -0.17 |
 | cd5_nok | · | -0.641 | -0.333 | -0.182 | 7 | 8 | 0.303 | -0.23 |
+| ref_age_vs_pool | − | -2 | 2 | **-4** | 2 | 10 | **0.034** | -0.54 |
+| ref_share_le3_vs_pool | + | 0.076 | -0.0865 | **+0.184** | 10 | 2 | **0.012** | +0.58 |
+| ref_hot_vs_pool | + | 2.26 | 0.882 | **+1.25** | 9 | 2 | **0.042** | +0.62 |
+| atyp_median_z | + | 0.11 | 0.172 | +0 | 5 | 5 | 0.770 | -0.04 |
+| atyp_p10_z | − | -0.316 | -0.454 | +0.153 | 7 | 5 | 0.470 | +0.24 |
+| atyp_share_novel | · | 0.282 | 0.304 | -0.0745 | 5 | 7 | 0.925 | -0.09 |
 
-Benjamini-Hochberg FDR over the 15 features tested (q < 0.05 survives): ref_hot_median q=0.025, ref_share_le3 q=0.025, ref_age_mean q=0.027, ref_age_median q=0.040, ref_cross_domain q=0.050
+Benjamini-Hochberg FDR over the 21 features tested (q < 0.05 survives): ref_hot_median q=0.035, ref_share_le3 q=0.035, ref_age_mean q=0.038
 
 
 Full text available: cases 3/15, twins 2/15.
