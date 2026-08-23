@@ -33,4 +33,4 @@ _meta/token_log.ndjson
 *.tar.gz
 *.zip
 raw/cases/
-data/fetch-*.log
+data/*.log
