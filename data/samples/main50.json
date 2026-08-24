@@ -1,0 +1,4570 @@
+{
+ "kind": "sample",
+ "date": "2026-08-24",
+ "seed": 1729883731402988666,
+ "xpol_record": {
+  "seed": 1729883731402988666,
+  "level": "topic",
+  "k": 180,
+  "stratify": "domain",
+  "population": 4516,
+  "band": null,
+  "exclude_home": true,
+  "eligible": 4516
+ },
+ "params": {
+  "years": [
+   2010,
+   2019
+  ],
+  "case_band": [
+   0.0,
+   0.010000000000000009
+  ],
+  "twin_band": [
+   0.4,
+   0.6
+  ],
+  "min_refs": 5,
+  "min_pool": 500,
+  "case_min_cites": 20,
+  "ranking": "own cited_by_count rank within primary_topic × year × type:article",
+  "primary_only": true,
+  "review_filter": "title/abstract/venue regex + openalex type (genesis.sample.classify)",
+  "domains": [
+   "Physical Sciences",
+   "Life Sciences",
+   "Health Sciences"
+  ],
+  "type": "article"
+ },
+ "n_pairs": 50,
+ "skipped_topics": [
+  "Copper Interconnects and Reliability",
+  "Menstrual Health and Disorders",
+  "Physical Education and Training Studies",
+  "AI-based Problem Solving and Planning",
+  "Problem Solving Skills Development",
+  "Agricultural and Food Production Studies",
+  "Otitis Media and Relapsing Polychondritis",
+  "Contact Mechanics and Variational Inequalities",
+  "Pharmacology and Obesity Treatment",
+  "Genome Rearrangement Algorithms",
+  "Natural Compounds in Disease Treatment",
+  "Autopsy Techniques and Outcomes",
+  "Machine Learning in Bioinformatics",
+  "Agricultural Development and Management",
+  "Biotechnology and Related Fields",
+  "Beetle Biology and Toxicology Studies",
+  "Ranque-Hilsch vortex tube",
+  "Xenotransplantation and immune response",
+  "Vascular anomalies and interventions",
+  "Climate Change and Sustainable Development",
+  "Engineering Education and Curriculum Development",
+  "Electrokinetic Soil Remediation Techniques",
+  "Agricultural Economics and Policy",
+  "Cellular Automata and Applications",
+  "Pericarditis and Cardiac Tamponade",
+  "Trigeminal Neuralgia and Treatments",
+  "HIV/AIDS oral health manifestations",
+  "Land Rights and Reforms",
+  "Time Series Analysis and Forecasting",
+  "Cancer Research and Treatment",
+  "Agriculture and Farm Safety",
+  "Advanced Synthetic Organic Chemistry",
+  "Actinomycetales infections and treatment",
+  "Inflammation biomarkers and pathways",
+  "Dermatological and COVID-19 studies",
+  "Hemoglobin structure and function",
+  "Wildlife-Road Interactions and Conservation",
+  "Nerve Injury and Rehabilitation",
+  "Karst Systems and Hydrogeology",
+  "Mathematical functions and polynomials",
+  "Occupational exposure and asthma",
+  "Orthoptera Research and Taxonomy",
+  "Cocoa and Sweet Potato Agronomy",
+  "Thermography and Photoacoustic Techniques",
+  "Women's cancer prevention and management",
+  "Cognitive Science and Education Research",
+  "Pain Management and Placebo Effect",
+  "Laser and Thermal Forming Techniques",
+  "Winter Sports Injuries and Performance",
+  "Fungal Plant Pathogen Control",
+  "Medicinal Plant Extracts Effects",
+  "Scientific Research and Studies",
+  "Origins and Evolution of Life",
+  "Embedded Systems and FPGA Design",
+  "Optimization and Packing Problems",
+  "Global Healthcare and Medical Tourism",
+  "Remote Sensing and Land Use"
+ ],
+ "pairs": [
+  {
+   "topic": "Health and Lifestyle Studies",
+   "topic_id": "T13861",
+   "path": "Health Sciences > Health Professions > General Health Professions > Health and Lifestyle Studies",
+   "domain": "Health Sciences",
+   "year": 2016,
+   "pool": 744,
+   "ranks": {
+    "case": 1,
+    "twin": 423,
+    "case_band": [
+     0,
+     6
+    ],
+    "twin_band": [
+     297,
+     445
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 7,
+     "n_review": 1,
+     "review_share": 0.143,
+     "reviews": [
+      {
+       "rank": 2,
+       "title": "Guías alimentarias para la población española (SENC, 2016); la nueva pirámide de",
+       "why": "abstract:meta-analysis"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 149,
+     "n_review": 6,
+     "review_share": 0.04
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W1979639801",
+    "doi": "https://doi.org/10.1016/s0212-6567(16)30186-x",
+    "title": "Recomendaciones sobre el estilo de vida",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 126,
+    "pct": 0.98862682,
+    "n_refs": 53,
+    "n_authors": 9,
+    "topic_id": "T13861",
+    "topic": "Health and Lifestyle Studies",
+    "topic_score": 0.9986000061035156,
+    "field": "Health Professions",
+    "domain": "Health Sciences",
+    "oa_url": "https://doi.org/10.1016/s0212-6567(16)30186-x",
+    "is_oa": true,
+    "venue": "Atención Primaria",
+    "rank": 1,
+    "pool": 744
+   },
+   "twin": {
+    "id": "W2339696061",
+    "doi": "https://doi.org/10.18004/rvspmi/2312-3893/2016.03(01)53-059",
+    "title": "Probabilidad de evento coronario en los próximos 10 años en pacientes diabéticos según la escala de Framingham - REGICOR",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 2,
+    "pct": 0.76622642,
+    "n_refs": 6,
+    "n_authors": 2,
+    "topic_id": "T13861",
+    "topic": "Health and Lifestyle Studies",
+    "topic_score": 0.9821000099182129,
+    "field": "Health Professions",
+    "domain": "Health Sciences",
+    "oa_url": "http://scielo.iics.una.py/pdf/spmi/v3n1/v3n1a06.pdf",
+    "is_oa": true,
+    "venue": "Revista Virtual de la Sociedad Paraguaya de Medicina Interna",
+    "rank": 423,
+    "pool": 744
+   }
+  },
+  {
+   "topic": "Vibrio bacteria research studies",
+   "topic_id": "T11684",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Endocrinology > Vibrio bacteria research studies",
+   "domain": "Life Sciences",
+   "year": 2019,
+   "pool": 885,
+   "ranks": {
+    "case": 1,
+    "twin": 431,
+    "case_band": [
+     0,
+     7
+    ],
+    "twin_band": [
+     354,
+     530
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 8,
+     "n_review": 4,
+     "review_share": 0.5,
+     "reviews": [
+      {
+       "rank": 3,
+       "title": "Relationship Between Quorum Sensing and Secretion Systems",
+       "why": "abstract:In this review"
+      },
+      {
+       "rank": 4,
+       "title": "Envelope stress responses: balancing damage repair and toxicity",
+       "why": "venue:Nature Reviews Microbiology"
+      },
+      {
+       "rank": 6,
+       "title": "Vibriosis in cultured marine fishes: a review",
+       "why": "title:review"
+      },
+      {
+       "rank": 7,
+       "title": "Induction, detection, formation, and resuscitation of viable but non‐culturable ",
+       "why": "abstract:In this review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 177,
+     "n_review": 7,
+     "review_share": 0.04
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2917815849",
+    "doi": "https://doi.org/10.1038/s41586-019-0953-5",
+    "title": "Bacterial cGAS-like enzymes synthesize diverse nucleotide signals",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 392,
+    "pct": 0.99935202,
+    "n_refs": 51,
+    "n_authors": 11,
+    "topic_id": "T11684",
+    "topic": "Vibrio bacteria research studies",
+    "topic_score": 0.9921000003814697,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.osti.gov/servlets/purl/1513006",
+    "is_oa": true,
+    "venue": "Nature",
+    "rank": 1,
+    "pool": 885
+   },
+   "twin": {
+    "id": "W2913469753",
+    "doi": "https://doi.org/10.1371/journal.pntd.0007057",
+    "title": "Bivalent oral cholera vaccination induces a memory B cell response to the V. cholerae O1-polysaccharide antigen in Haitian adults",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 17,
+    "pct": 0.78882591,
+    "n_refs": 27,
+    "n_authors": 13,
+    "topic_id": "T11684",
+    "topic": "Vibrio bacteria research studies",
+    "topic_score": 1.0,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0007057&type=printable",
+    "is_oa": true,
+    "venue": "PLoS neglected tropical diseases",
+    "rank": 431,
+    "pool": 885
+   }
+  },
+  {
+   "topic": "Anodic Oxide Films and Nanostructures",
+   "topic_id": "T12340",
+   "path": "Physical Sciences > Materials Science > Materials Chemistry > Anodic Oxide Films and Nanostructures",
+   "domain": "Physical Sciences",
+   "year": 2011,
+   "pool": 512,
+   "ranks": {
+    "case": 2,
+    "twin": 233,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     204,
+     306
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 1,
+     "review_share": 0.2,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Progress in Nano-Engineered Anodic Aluminum Oxide Membrane Development",
+       "why": "title:Progress"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 103,
+     "n_review": 0,
+     "review_share": 0.0
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2064056867",
+    "doi": "https://doi.org/10.1016/j.electacta.2011.02.002",
+    "title": "The role of electric field in pore formation during aluminum anodization",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 223,
+    "pct": 0.95935284,
+    "n_refs": 36,
+    "n_authors": 2,
+    "topic_id": "T12340",
+    "topic": "Anodic Oxide Films and Nanostructures",
+    "topic_score": 1.0,
+    "field": "Materials Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Electrochimica Acta",
+    "rank": 2,
+    "pool": 512
+   },
+   "twin": {
+    "id": "W4382023531",
+    "doi": "https://doi.org/10.1016/s1452-3981(23)15035-8",
+    "title": "Preparation of 6-Diallylamino-1,3,5-Triazine-2,4-Dithiol Functional Nanofilm by Electrochemical Polymerization Technique on Aluminum Surface",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 14,
+    "pct": 0.75502551,
+    "n_refs": 27,
+    "n_authors": 3,
+    "topic_id": "T12340",
+    "topic": "Anodic Oxide Films and Nanostructures",
+    "topic_score": 0.9968000054359436,
+    "field": "Materials Science",
+    "domain": "Physical Sciences",
+    "oa_url": "https://doi.org/10.1016/s1452-3981(23)15035-8",
+    "is_oa": true,
+    "venue": "International Journal of Electrochemical Science",
+    "rank": 233,
+    "pool": 512
+   }
+  },
+  {
+   "topic": "Viral Infectious Diseases and Gene Expression in Insects",
+   "topic_id": "T11663",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Molecular Biology > Viral Infectious Diseases and Gene Expression in Insects",
+   "domain": "Life Sciences",
+   "year": 2015,
+   "pool": 683,
+   "ranks": {
+    "case": 0,
+    "twin": 396,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     273,
+     408
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 6,
+     "n_review": 4,
+     "review_share": 0.667,
+     "reviews": [
+      {
+       "rank": 1,
+       "title": "Human cell lines for biopharmaceutical manufacturing: history, status, and futur",
+       "why": "title:status"
+      },
+      {
+       "rank": 2,
+       "title": "Production of Biopharmaceuticals in E. coli: Current Scenario and Future Perspec",
+       "why": "title:Perspectives"
+      },
+      {
+       "rank": 3,
+       "title": "The art of CHO cell engineering: A comprehensive retrospect and future perspecti",
+       "why": "title:A comprehensive"
+      },
+      {
+       "rank": 5,
+       "title": "The baculovirus expression vector system: A commercial manufacturing platform fo",
+       "why": "abstract:In this review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 136,
+     "n_review": 9,
+     "review_share": 0.066
+    }
+   },
+   "flags": [
+    "case_topic_score<0.7"
+   ],
+   "case": {
+    "id": "W2070451836",
+    "doi": "https://doi.org/10.1186/s12866-015-0376-x",
+    "title": "Critical aspects of using bacterial cell viability assays with the fluorophores SYTO9 and propidium iodide",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 717,
+    "pct": 0.99438021,
+    "n_refs": 30,
+    "n_authors": 4,
+    "topic_id": "T11663",
+    "topic": "Viral Infectious Diseases and Gene Expression in Insects",
+    "topic_score": 0.15929999947547913,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://bmcmicrobiol.biomedcentral.com/counter/pdf/10.1186/s12866-015-0376-x",
+    "is_oa": true,
+    "venue": "BMC Microbiology",
+    "rank": 0,
+    "pool": 683
+   },
+   "twin": {
+    "id": "W2190457155",
+    "doi": "https://doi.org/10.1371/journal.pone.0144224",
+    "title": "Endoplasmic Reticulum-Associated rht-PA Processing in CHO Cells: Influence of Mild Hypothermia and Specific Growth Rates in Batch and Chemostat Cultures",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 12,
+    "pct": 0.75077107,
+    "n_refs": 40,
+    "n_authors": 8,
+    "topic_id": "T11663",
+    "topic": "Viral Infectious Diseases and Gene Expression in Insects",
+    "topic_score": 0.9372000098228455,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0144224&type=printable",
+    "is_oa": true,
+    "venue": "PLoS ONE",
+    "rank": 396,
+    "pool": 683
+   }
+  },
+  {
+   "topic": "Transition Metal Oxide Nanomaterials",
+   "topic_id": "T11128",
+   "path": "Physical Sciences > Materials Science > Polymers and Plastics > Transition Metal Oxide Nanomaterials",
+   "domain": "Physical Sciences",
+   "year": 2016,
+   "pool": 917,
+   "ranks": {
+    "case": 8,
+    "twin": 477,
+    "case_band": [
+     0,
+     8
+    ],
+    "twin_band": [
+     366,
+     549
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 9,
+     "n_review": 4,
+     "review_share": 0.444,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Next-Generation Multifunctional Electrochromic Devices",
+       "why": "abstract:recent advances in"
+      },
+      {
+       "rank": 2,
+       "title": "Switchable Materials for Smart Windows",
+       "why": "abstract:This article reviews"
+      },
+      {
+       "rank": 4,
+       "title": "Recent progress in VO2 smart coatings: Strategies to improve the thermochromic p",
+       "why": "title:progress"
+      },
+      {
+       "rank": 5,
+       "title": "Tungsten Oxide Materials for Optoelectronic Applications",
+       "why": "abstract:recent progress in"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 184,
+     "n_review": 1,
+     "review_share": 0.005
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2292628419",
+    "doi": "https://doi.org/10.1021/acs.chemmater.5b04419",
+    "title": "Intelligent Multifunctional VO2/SiO2/TiO2 Coatings for Self-Cleaning, Energy-Saving Window Panels",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 252,
+    "pct": 0.99876769,
+    "n_refs": 51,
+    "n_authors": 8,
+    "topic_id": "T11128",
+    "topic": "Transition Metal Oxide Nanomaterials",
+    "topic_score": 0.9998999834060669,
+    "field": "Materials Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Chemistry of Materials",
+    "rank": 8,
+    "pool": 917
+   },
+   "twin": {
+    "id": "W2288936626",
+    "doi": "https://doi.org/10.1016/j.jssc.2016.03.002",
+    "title": "A first-principles study on new high-pressure metastable polymorphs of MoO2",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 20,
+    "pct": 0.81608805,
+    "n_refs": 47,
+    "n_authors": 2,
+    "topic_id": "T11128",
+    "topic": "Transition Metal Oxide Nanomaterials",
+    "topic_score": 0.9994000196456909,
+    "field": "Materials Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Solid State Chemistry",
+    "rank": 477,
+    "pool": 917
+   }
+  },
+  {
+   "topic": "Lepidoptera: Biology and Taxonomy",
+   "topic_id": "T11974",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Genetics > Lepidoptera: Biology and Taxonomy",
+   "domain": "Life Sciences",
+   "year": 2019,
+   "pool": 502,
+   "ranks": {
+    "case": 3,
+    "twin": 274,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     200,
+     300
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 1,
+     "review_share": 0.2,
+     "reviews": [
+      {
+       "rank": 1,
+       "title": "Review and Interpretation of Trends in DNA Barcoding",
+       "why": "title:Review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 101,
+     "n_review": 8,
+     "review_share": 0.079
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2954733066",
+    "doi": "https://doi.org/10.1111/mec.15153",
+    "title": "A mirage of cryptic species: Genomics uncover striking mitonuclear discordance in the butterfly Thymelicus sylvestris",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 118,
+    "pct": 0.98453723,
+    "n_refs": 60,
+    "n_authors": 7,
+    "topic_id": "T11974",
+    "topic": "Lepidoptera: Biology and Taxonomy",
+    "topic_score": 0.9998999834060669,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Molecular Ecology",
+    "rank": 3,
+    "pool": 502
+   },
+   "twin": {
+    "id": "W2963245931",
+    "doi": "https://doi.org/10.1080/23802359.2019.1644560",
+    "title": "The mitochondrial genome of Erannis ankeraria (Lepidoptera: Geometridae)",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 3,
+    "pct": 0.60071595,
+    "n_refs": 8,
+    "n_authors": 4,
+    "topic_id": "T11974",
+    "topic": "Lepidoptera: Biology and Taxonomy",
+    "topic_score": 0.9998999834060669,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/23802359.2019.1644560?needAccess=true",
+    "is_oa": true,
+    "venue": "Mitochondrial DNA Part B",
+    "rank": 274,
+    "pool": 502
+   }
+  },
+  {
+   "topic": "Astro and Planetary Science",
+   "topic_id": "T10325",
+   "path": "Physical Sciences > Physics and Astronomy > Astronomy and Astrophysics > Astro and Planetary Science",
+   "domain": "Physical Sciences",
+   "year": 2013,
+   "pool": 1458,
+   "ranks": {
+    "case": 0,
+    "twin": 762,
+    "case_band": [
+     0,
+     13
+    ],
+    "twin_band": [
+     583,
+     873
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 14,
+     "n_review": 1,
+     "review_share": 0.071,
+     "reviews": [
+      {
+       "rank": 6,
+       "title": "The Jovian Auroral Distributions Experiment (JADE) on the Juno Mission to Jupite",
+       "why": "venue:Space Science Reviews"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 291,
+     "n_review": 11,
+     "review_share": 0.038
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2109003093",
+    "doi": "https://doi.org/10.1126/science.1242642",
+    "title": "Chelyabinsk Airburst, Damage Assessment, Meteorite Recovery, and Characterization",
+    "year": 2013,
+    "type": "article",
+    "cited_by_count": 653,
+    "pct": 0.99790993,
+    "n_refs": 143,
+    "n_authors": 59,
+    "topic_id": "T10325",
+    "topic": "Astro and Planetary Science",
+    "topic_score": 0.9998999834060669,
+    "field": "Physics and Astronomy",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Science",
+    "rank": 0,
+    "pool": 1458
+   },
+   "twin": {
+    "id": "W1981899327",
+    "doi": "https://doi.org/10.1016/j.icarus.2013.11.033",
+    "title": "Experimental investigation of reduced volatile formation by high-temperature interactions among meteorite constituent materials, water, and nitrogen",
+    "year": 2013,
+    "type": "article",
+    "cited_by_count": 20,
+    "pct": 0.74699211,
+    "n_refs": 46,
+    "n_authors": 4,
+    "topic_id": "T10325",
+    "topic": "Astro and Planetary Science",
+    "topic_score": 0.9998999834060669,
+    "field": "Physics and Astronomy",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Icarus",
+    "rank": 762,
+    "pool": 1458
+   }
+  },
+  {
+   "topic": "Hearing Loss and Rehabilitation",
+   "topic_id": "T10283",
+   "path": "Life Sciences > Neuroscience > Cognitive Neuroscience > Hearing Loss and Rehabilitation",
+   "domain": "Life Sciences",
+   "year": 2019,
+   "pool": 1636,
+   "ranks": {
+    "case": 10,
+    "twin": 682,
+    "case_band": [
+     0,
+     15
+    ],
+    "twin_band": [
+     654,
+     980
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 16,
+     "n_review": 5,
+     "review_share": 0.312,
+     "reviews": [
+      {
+       "rank": 2,
+       "title": "Age-related hearing loss and tinnitus, dementia risk, and auditory amplification",
+       "why": "venue:Ageing Research Reviews"
+      },
+      {
+       "rank": 6,
+       "title": "Neuronal Development of Hearing and Language: Cochlear Implants and Critical Per",
+       "why": "abstract:in this review"
+      },
+      {
+       "rank": 9,
+       "title": "Age-related Hearing Loss and Dementia",
+       "why": "abstract:In this review"
+      },
+      {
+       "rank": 11,
+       "title": "Depression in elderly patients with hearing loss: current perspectives",
+       "why": "title:perspectives"
+      },
+      {
+       "rank": 12,
+       "title": "Auditory synaptopathy, auditory neuropathy, and cochlear implantation",
+       "why": "abstract:In this review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 327,
+     "n_review": 18,
+     "review_share": 0.055
+    }
+   },
+   "flags": [
+    "case_topic_score<0.7",
+    "twin_topic_score<0.7"
+   ],
+   "case": {
+    "id": "W2923326318",
+    "doi": "https://doi.org/10.1097/mao.0000000000002204",
+    "title": "Further Evidence of the Relationship Between Cochlear Implant Electrode Positioning and Hearing Outcomes",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 161,
+    "pct": 0.98104614,
+    "n_refs": 53,
+    "n_authors": 7,
+    "topic_id": "T10283",
+    "topic": "Hearing Loss and Rehabilitation",
+    "topic_score": 0.5928999781608582,
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6788798",
+    "is_oa": true,
+    "venue": "Otology & Neurotology",
+    "rank": 10,
+    "pool": 1636
+   },
+   "twin": {
+    "id": "W2787401765",
+    "doi": "https://doi.org/10.4103/nah.nah_41_17",
+    "title": "The test-retest reliability of questionnaires regarding attitudes and beliefs toward noise, hearing loss, and hearing protector devices in young adults.",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 15,
+    "pct": 0.69299148,
+    "n_refs": 28,
+    "n_authors": 4,
+    "topic_id": "T10283",
+    "topic": "Hearing Loss and Rehabilitation",
+    "topic_score": 0.5795999765396118,
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": "https://biblio.ugent.be/publication/8549987/file/8566957",
+    "is_oa": true,
+    "venue": "PubMed",
+    "rank": 682,
+    "pool": 1636
+   }
+  },
+  {
+   "topic": "Metal Alloys Wear and Properties",
+   "topic_id": "T12427",
+   "path": "Physical Sciences > Materials Science > Materials Chemistry > Metal Alloys Wear and Properties",
+   "domain": "Physical Sciences",
+   "year": 2015,
+   "pool": 512,
+   "ranks": {
+    "case": 2,
+    "twin": 234,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     204,
+     306
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 1,
+     "review_share": 0.2,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "A review of cryogenic treatment on cutting tools",
+       "why": "title:review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 103,
+     "n_review": 1,
+     "review_share": 0.01
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2018722914",
+    "doi": "https://doi.org/10.3390/met5010383",
+    "title": "Effects of Rare Earth on the Microstructure and Impact Toughness of H13 Steel",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 136,
+    "pct": 0.8978906,
+    "n_refs": 32,
+    "n_authors": 4,
+    "topic_id": "T12427",
+    "topic": "Metal Alloys Wear and Properties",
+    "topic_score": 0.9994000196456909,
+    "field": "Materials Science",
+    "domain": "Physical Sciences",
+    "oa_url": "https://www.mdpi.com/2075-4701/5/1/383/pdf?version=1426076828",
+    "is_oa": true,
+    "venue": "Metals",
+    "rank": 2,
+    "pool": 512
+   },
+   "twin": {
+    "id": "W1570262056",
+    "doi": "https://doi.org/10.1002/ls.1305",
+    "title": "Load-carrying capacity of WC/C-coated gears lubricated with a low-viscosity oil",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 7,
+    "pct": 0.42590393,
+    "n_refs": 25,
+    "n_authors": 1,
+    "topic_id": "T12427",
+    "topic": "Metal Alloys Wear and Properties",
+    "topic_score": 0.9979000091552734,
+    "field": "Materials Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Lubrication Science",
+    "rank": 234,
+    "pool": 512
+   }
+  },
+  {
+   "topic": "Sports injuries and prevention",
+   "topic_id": "T11246",
+   "path": "Health Sciences > Medicine > Orthopedics and Sports Medicine > Sports injuries and prevention",
+   "domain": "Health Sciences",
+   "year": 2011,
+   "pool": 593,
+   "ranks": {
+    "case": 4,
+    "twin": 262,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     237,
+     354
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 1,
+     "review_share": 0.2,
+     "reviews": [
+      {
+       "rank": 1,
+       "title": "A review of the acute effects of static and dynamic stretching on performance",
+       "why": "title:review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 118,
+     "n_review": 11,
+     "review_share": 0.093
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2126595565",
+    "doi": "https://doi.org/10.1136/bjsports-2011-090155",
+    "title": "Hamstring muscle injuries in professional football: the correlation of MRI findings with return to play",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 495,
+    "pct": 0.99399162,
+    "n_refs": 43,
+    "n_authors": 6,
+    "topic_id": "T11246",
+    "topic": "Sports injuries and prevention",
+    "topic_score": 0.9642999768257141,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://bjsm.bmj.com/content/bjsports/46/2/112.full.pdf",
+    "is_oa": true,
+    "venue": "British Journal of Sports Medicine",
+    "rank": 4,
+    "pool": 593
+   },
+   "twin": {
+    "id": "W2016739320",
+    "doi": "https://doi.org/10.1016/j.rh.2011.02.002",
+    "title": "Revisión bibliográfica de la efectividad del kinesiotaping",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 24,
+    "pct": 0.85571982,
+    "n_refs": 38,
+    "n_authors": 2,
+    "topic_id": "T11246",
+    "topic": "Sports injuries and prevention",
+    "topic_score": 0.9993000030517578,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Rehabilitación",
+    "rank": 262,
+    "pool": 593
+   }
+  },
+  {
+   "topic": "RNA Interference and Gene Delivery",
+   "topic_id": "T10725",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Molecular Biology > RNA Interference and Gene Delivery",
+   "domain": "Life Sciences",
+   "year": 2018,
+   "pool": 1762,
+   "ranks": {
+    "case": 5,
+    "twin": 768,
+    "case_band": [
+     0,
+     16
+    ],
+    "twin_band": [
+     704,
+     1056
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 17,
+     "n_review": 9,
+     "review_share": 0.529,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "mRNA vaccines — a new era in vaccinology",
+       "why": "venue:Nature Reviews Drug Discovery"
+      },
+      {
+       "rank": 1,
+       "title": "Advances in Biomaterials for Drug Delivery",
+       "why": "title:Advances"
+      },
+      {
+       "rank": 4,
+       "title": "Intracellular Delivery by Membrane Disruption: Mechanisms, Strategies, and Conce",
+       "why": "abstract:we review"
+      },
+      {
+       "rank": 6,
+       "title": "Tetrazolium salts and formazan products in Cell Biology: Viability assessment, f",
+       "why": "title:perspectives"
+      },
+      {
+       "rank": 9,
+       "title": "Lipid Nanoparticles Enabling Gene Therapies: From Concepts to Clinical Utility",
+       "why": "abstract:we review"
+      },
+      {
+       "rank": 11,
+       "title": "Cellular Uptake of Nanoparticles versus Small Molecules: A Matter of Size",
+       "why": "abstract:we review"
+      },
+      {
+       "rank": 14,
+       "title": "DNA Vaccines—How Far From Clinical Use?",
+       "why": "abstract:This review"
+      },
+      {
+       "rank": 15,
+       "title": "The great escape: how cationic polyplexes overcome the endosomal barrier",
+       "why": "abstract:This review"
+      },
+      {
+       "rank": 16,
+       "title": "Overcoming Endosomal Entrapment in Drug Delivery",
+       "why": "abstract:we provide an overview"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 353,
+     "n_review": 32,
+     "review_share": 0.091
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2803566305",
+    "doi": "https://doi.org/10.1089/nat.2018.0736",
+    "title": "GalNAc-siRNA Conjugates: Leading the Way for Delivery of RNAi Therapeutics",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 687,
+    "pct": 0.99467125,
+    "n_refs": 103,
+    "n_authors": 2,
+    "topic_id": "T10725",
+    "topic": "RNA Interference and Gene Delivery",
+    "topic_score": 1.0,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.liebertpub.com/doi/pdf/10.1089/nat.2018.0736",
+    "is_oa": true,
+    "venue": "Nucleic Acid Therapeutics",
+    "rank": 5,
+    "pool": 1762
+   },
+   "twin": {
+    "id": "W2903661111",
+    "doi": "https://doi.org/10.1038/s41598-018-36161-1",
+    "title": "Cloning and expression of L-asparaginase from Bacillus tequilensis PV9W and therapeutic efficacy of Solid Lipid Particle formulations against cancer",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 29,
+    "pct": 0.67786895,
+    "n_refs": 30,
+    "n_authors": 6,
+    "topic_id": "T10725",
+    "topic": "RNA Interference and Gene Delivery",
+    "topic_score": 0.9970999956130981,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.nature.com/articles/s41598-018-36161-1.pdf",
+    "is_oa": true,
+    "venue": "Scientific Reports",
+    "rank": 768,
+    "pool": 1762
+   }
+  },
+  {
+   "topic": "Rings, Modules, and Algebras",
+   "topic_id": "T11703",
+   "path": "Physical Sciences > Mathematics > Algebra and Number Theory > Rings, Modules, and Algebras",
+   "domain": "Physical Sciences",
+   "year": 2015,
+   "pool": 610,
+   "ranks": {
+    "case": 0,
+    "twin": 304,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     244,
+     365
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 6,
+     "n_review": 0,
+     "review_share": 0.0,
+     "reviews": []
+    },
+    "twin_band": {
+     "n_band": 122,
+     "n_review": 2,
+     "review_share": 0.016
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W1045711957",
+    "doi": "https://doi.org/10.1016/j.jpaa.2015.07.009",
+    "title": "Nil-clean and strongly nil-clean rings",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 97,
+    "pct": 0.99884793,
+    "n_refs": 34,
+    "n_authors": 3,
+    "topic_id": "T11703",
+    "topic": "Rings, Modules, and Algebras",
+    "topic_score": 0.9998999834060669,
+    "field": "Mathematics",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Pure and Applied Algebra",
+    "rank": 0,
+    "pool": 610
+   },
+   "twin": {
+    "id": "W2072407405",
+    "doi": "https://doi.org/10.1155/2015/736326",
+    "title": "On Reduced Zero-Divisor Graphs of Posets",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 2,
+    "pct": 0.10954677,
+    "n_refs": 13,
+    "n_authors": 2,
+    "topic_id": "T11703",
+    "topic": "Rings, Modules, and Algebras",
+    "topic_score": 1.0,
+    "field": "Mathematics",
+    "domain": "Physical Sciences",
+    "oa_url": "http://downloads.hindawi.com/archive/2015/736326.pdf",
+    "is_oa": true,
+    "venue": "Journal of Discrete Mathematics",
+    "rank": 304,
+    "pool": 610
+   }
+  },
+  {
+   "topic": "Fermentation and Sensory Analysis",
+   "topic_id": "T10750",
+   "path": "Life Sciences > Agricultural and Biological Sciences > Food Science > Fermentation and Sensory Analysis",
+   "domain": "Life Sciences",
+   "year": 2015,
+   "pool": 1069,
+   "ranks": {
+    "case": 5,
+    "twin": 612,
+    "case_band": [
+     0,
+     9
+    ],
+    "twin_band": [
+     427,
+     640
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 10,
+     "n_review": 2,
+     "review_share": 0.2,
+     "reviews": [
+      {
+       "rank": 2,
+       "title": "Brettanomyces yeasts — From spoilage organisms to valuable contributors to indus",
+       "why": "abstract:This review summarizes"
+      },
+      {
+       "rank": 4,
+       "title": "Wine microbiome: A dynamic world of microbial interactions",
+       "why": "abstract:In this review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 214,
+     "n_review": 9,
+     "review_share": 0.042
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W1774024296",
+    "doi": "https://doi.org/10.1016/j.micres.2015.10.005",
+    "title": "Microbial terroir and food innovation: The case of yeast biodiversity in wine",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 228,
+    "pct": 0.99624784,
+    "n_refs": 160,
+    "n_authors": 5,
+    "topic_id": "T10750",
+    "topic": "Fermentation and Sensory Analysis",
+    "topic_score": 0.9998999834060669,
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S0944501315300185/pdf",
+    "is_oa": true,
+    "venue": "Microbiological Research",
+    "rank": 5,
+    "pool": 1069
+   },
+   "twin": {
+    "id": "W1190150953",
+    "doi": "https://doi.org/10.1007/s00217-015-2523-x",
+    "title": "Physico-chemical properties of botrytised Chenin blanc grapes to assess the extent of noble rot",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 19,
+    "pct": 0.84487204,
+    "n_refs": 20,
+    "n_authors": 5,
+    "topic_id": "T10750",
+    "topic": "Fermentation and Sensory Analysis",
+    "topic_score": 0.9995999932289124,
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "European Food Research and Technology",
+    "rank": 612,
+    "pool": 1069
+   }
+  },
+  {
+   "topic": "Electric Power System Optimization",
+   "topic_id": "T10424",
+   "path": "Physical Sciences > Engineering > Electrical and Electronic Engineering > Electric Power System Optimization",
+   "domain": "Physical Sciences",
+   "year": 2011,
+   "pool": 650,
+   "ranks": {
+    "case": 5,
+    "twin": 321,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     260,
+     389
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 6,
+     "n_review": 0,
+     "review_share": 0.0,
+     "reviews": []
+    },
+    "twin_band": {
+     "n_band": 130,
+     "n_review": 6,
+     "review_share": 0.046
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2010892660",
+    "doi": "https://doi.org/10.1016/j.enpol.2011.03.084",
+    "title": "The impact of wind generation on the electricity spot-market price level and variance: The Texas experience",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 400,
+    "pct": 0.99057253,
+    "n_refs": 30,
+    "n_authors": 4,
+    "topic_id": "T10424",
+    "topic": "Electric Power System Optimization",
+    "topic_score": 0.9997000098228455,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Energy Policy",
+    "rank": 5,
+    "pool": 650
+   },
+   "twin": {
+    "id": "W2066936468",
+    "doi": "https://doi.org/10.1080/15325008.2010.528536",
+    "title": "A Novel Improved Particle Swarm Optimization Approach for Dynamic Economic Dispatch Incorporating Wind Power",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 18,
+    "pct": 0.83105849,
+    "n_refs": 31,
+    "n_authors": 3,
+    "topic_id": "T10424",
+    "topic": "Electric Power System Optimization",
+    "topic_score": 0.9998999834060669,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Electric Power Components and Systems",
+    "rank": 321,
+    "pool": 650
+   }
+  },
+  {
+   "topic": "Catalytic Cross-Coupling Reactions",
+   "topic_id": "T10548",
+   "path": "Physical Sciences > Chemistry > Organic Chemistry > Catalytic Cross-Coupling Reactions",
+   "domain": "Physical Sciences",
+   "year": 2018,
+   "pool": 807,
+   "ranks": {
+    "case": 5,
+    "twin": 403,
+    "case_band": [
+     0,
+     7
+    ],
+    "twin_band": [
+     322,
+     483
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 8,
+     "n_review": 4,
+     "review_share": 0.5,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Pd Metal Catalysts for Cross-Couplings and Related Reactions in the 21st Century",
+       "why": "title:A Critical"
+      },
+      {
+       "rank": 3,
+       "title": "Recent advances in the Suzuki–Miyaura cross-coupling reaction using efficient ca",
+       "why": "title:advances"
+      },
+      {
+       "rank": 4,
+       "title": "Palladium-Catalyzed Cross-Coupling Reactions: A Powerful Tool for the Synthesis ",
+       "why": "abstract:this review"
+      },
+      {
+       "rank": 6,
+       "title": "Buchwald-Hartwig reaction: An overview",
+       "why": "title:overview"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 162,
+     "n_review": 2,
+     "review_share": 0.012
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2890676278",
+    "doi": "https://doi.org/10.1021/acs.accounts.8b00410",
+    "title": "Well-Defined Palladium(II)–NHC Precatalysts for Cross-Coupling Reactions of Amides and Esters by Selective N–C/O–C Cleavage",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 394,
+    "pct": 0.99884463,
+    "n_refs": 73,
+    "n_authors": 3,
+    "topic_id": "T10548",
+    "topic": "Catalytic Cross-Coupling Reactions",
+    "topic_score": 0.9998000264167786,
+    "field": "Chemistry",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Accounts of Chemical Research",
+    "rank": 5,
+    "pool": 807
+   },
+   "twin": {
+    "id": "W2884792634",
+    "doi": "https://doi.org/10.1002/adsc.201800687",
+    "title": "Palladium‐Catalyzed Domino Heck/Silylation Reaction for the Synthesis of (2‐Oxoindolin‐3‐yl)methylsilanes via Trapping of the σ‐Alkylpalladium Intermediates with Disilanes",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 19,
+    "pct": 0.81318797,
+    "n_refs": 54,
+    "n_authors": 6,
+    "topic_id": "T10548",
+    "topic": "Catalytic Cross-Coupling Reactions",
+    "topic_score": 0.9995999932289124,
+    "field": "Chemistry",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Advanced Synthesis & Catalysis",
+    "rank": 403,
+    "pool": 807
+   }
+  },
+  {
+   "topic": "Pneumonia and Respiratory Infections",
+   "topic_id": "T10654",
+   "path": "Health Sciences > Medicine > Epidemiology > Pneumonia and Respiratory Infections",
+   "domain": "Health Sciences",
+   "year": 2010,
+   "pool": 1054,
+   "ranks": {
+    "case": 4,
+    "twin": 465,
+    "case_band": [
+     0,
+     9
+    ],
+    "twin_band": [
+     421,
+     631
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 10,
+     "n_review": 5,
+     "review_share": 0.5,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Clinical and economic burden of community-acquired pneumonia among adults in Eur",
+       "why": "abstract:This review"
+      },
+      {
+       "rank": 1,
+       "title": "Systematic Evaluation of Serotypes Causing Invasive Pneumococcal Disease among C",
+       "why": "title:Systematic"
+      },
+      {
+       "rank": 3,
+       "title": "Prevention of pneumococcal disease among infants and children - use of 13-valent",
+       "why": "title:recommendations"
+      },
+      {
+       "rank": 5,
+       "title": "Updated recommendations for prevention of invasive pneumococcal disease among ad",
+       "why": "title:recommendations"
+      },
+      {
+       "rank": 6,
+       "title": "Association of Serotype with Risk of Death Due to Pneumococcal Pneumonia: A Meta",
+       "why": "abstract:systematic review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 211,
+     "n_review": 9,
+     "review_share": 0.043
+    }
+   },
+   "flags": [
+    "twin_topic_score<0.7"
+   ],
+   "case": {
+    "id": "W2002459863",
+    "doi": "https://doi.org/10.1186/gb-2010-11-10-r107",
+    "title": "Structure and dynamics of the pan-genome of Streptococcus pneumoniae and closely related species",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 413,
+    "pct": 0.99457345,
+    "n_refs": 71,
+    "n_authors": 18,
+    "topic_id": "T10654",
+    "topic": "Pneumonia and Respiratory Infections",
+    "topic_score": 0.9865000247955322,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://genomebiology.biomedcentral.com/counter/pdf/10.1186/gb-2010-11-10-r107",
+    "is_oa": true,
+    "venue": "Genome biology",
+    "rank": 4,
+    "pool": 1054
+   },
+   "twin": {
+    "id": "W2041131478",
+    "doi": "https://doi.org/10.1007/s12245-010-0241-5",
+    "title": "Prevalence of undiagnosed hypoxemia in adults and children in an under-resourced district hospital in Zambia",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 23,
+    "pct": 0.58826911,
+    "n_refs": 23,
+    "n_authors": 7,
+    "topic_id": "T10654",
+    "topic": "Pneumonia and Respiratory Infections",
+    "topic_score": 0.20250000059604645,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://doi.org/10.1007/s12245-010-0241-5",
+    "is_oa": true,
+    "venue": "International Journal of Emergency Medicine",
+    "rank": 465,
+    "pool": 1054
+   }
+  },
+  {
+   "topic": "Fluid Dynamics and Heat Transfer",
+   "topic_id": "T11382",
+   "path": "Physical Sciences > Engineering > Computational Mechanics > Fluid Dynamics and Heat Transfer",
+   "domain": "Physical Sciences",
+   "year": 2014,
+   "pool": 541,
+   "ranks": {
+    "case": 1,
+    "twin": 263,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     216,
+     323
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 1,
+     "review_share": 0.2,
+     "reviews": [
+      {
+       "rank": 2,
+       "title": "Spray measurement technology: a review",
+       "why": "title:review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 108,
+     "n_review": 1,
+     "review_share": 0.009
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W1989920209",
+    "doi": "https://doi.org/10.1103/physrevlett.113.054301",
+    "title": "Universality of Tip Singularity Formation in Freezing Water Drops",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 291,
+    "pct": 0.98616803,
+    "n_refs": 15,
+    "n_authors": 5,
+    "topic_id": "T11382",
+    "topic": "Fluid Dynamics and Heat Transfer",
+    "topic_score": 0.9977999925613403,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.113.054301",
+    "is_oa": true,
+    "venue": "Physical Review Letters",
+    "rank": 1,
+    "pool": 541
+   },
+   "twin": {
+    "id": "W2020416394",
+    "doi": "https://doi.org/10.1063/1.4865402",
+    "title": "Production of a high-velocity water slug using an impacting technique",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 18,
+    "pct": 0.71993852,
+    "n_refs": 13,
+    "n_authors": 2,
+    "topic_id": "T11382",
+    "topic": "Fluid Dynamics and Heat Transfer",
+    "topic_score": 0.9926000237464905,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Review of Scientific Instruments",
+    "rank": 263,
+    "pool": 541
+   }
+  },
+  {
+   "topic": "Cleft Lip and Palate Research",
+   "topic_id": "T11374",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Genetics > Cleft Lip and Palate Research",
+   "domain": "Life Sciences",
+   "year": 2014,
+   "pool": 868,
+   "ranks": {
+    "case": 3,
+    "twin": 494,
+    "case_band": [
+     0,
+     7
+    ],
+    "twin_band": [
+     347,
+     519
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 8,
+     "n_review": 1,
+     "review_share": 0.125,
+     "reviews": [
+      {
+       "rank": 2,
+       "title": "Fistula Incidence after Primary Cleft Palate Repair",
+       "why": "abstract:this review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 173,
+     "n_review": 9,
+     "review_share": 0.052
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2128144746",
+    "doi": "https://doi.org/10.1597/14-027",
+    "title": "The Americleft Speech Project: A Training and Reliability Study",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 189,
+    "pct": 0.93793222,
+    "n_refs": 101,
+    "n_authors": 12,
+    "topic_id": "T11374",
+    "topic": "Cleft Lip and Palate Research",
+    "topic_score": 0.9973000288009644,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "The Cleft Palate-Craniofacial Journal",
+    "rank": 3,
+    "pool": 868
+   },
+   "twin": {
+    "id": "W2408915156",
+    "doi": "https://doi.org/10.7518/hxkq.2014.01.013",
+    "title": "[Influential factors affecting the postoperative velopharyngeal function among aged cleft palate patients].",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 7,
+    "pct": 0.65542819,
+    "n_refs": 11,
+    "n_authors": 6,
+    "topic_id": "T11374",
+    "topic": "Cleft Lip and Palate Research",
+    "topic_score": 0.9975000023841858,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7041052",
+    "is_oa": true,
+    "venue": "PubMed",
+    "rank": 494,
+    "pool": 868
+   }
+  },
+  {
+   "topic": "Pickering emulsions and particle stabilization",
+   "topic_id": "T11915",
+   "path": "Physical Sciences > Materials Science > Materials Chemistry > Pickering emulsions and particle stabilization",
+   "domain": "Physical Sciences",
+   "year": 2017,
+   "pool": 1058,
+   "ranks": {
+    "case": 1,
+    "twin": 566,
+    "case_band": [
+     0,
+     9
+    ],
+    "twin_band": [
+     423,
+     633
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 10,
+     "n_review": 5,
+     "review_share": 0.5,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "An Overview of Pickering Emulsions: Solid-Particle Materials, Classification, Mo",
+       "why": "title:Overview"
+      },
+      {
+       "rank": 3,
+       "title": "Janus Particle Synthesis, Assembly, and Application",
+       "why": "abstract:In this review"
+      },
+      {
+       "rank": 6,
+       "title": "Colloidal capsules: nano- and microcapsules with colloidal particle shells",
+       "why": "abstract:This review"
+      },
+      {
+       "rank": 7,
+       "title": "Nanocellulose-stabilized Pickering emulsions and their applications",
+       "why": "abstract:In this review"
+      },
+      {
+       "rank": 8,
+       "title": "Pickering emulsions in foods - opportunities and limitations",
+       "why": "abstract:this review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 211,
+     "n_review": 6,
+     "review_share": 0.028
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2739511401",
+    "doi": "https://doi.org/10.1016/j.foodhyd.2017.07.040",
+    "title": "Characterization of Pickering emulsion gels stabilized by zein/gum arabic complex colloidal nanoparticles",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 474,
+    "pct": 0.9928436,
+    "n_refs": 37,
+    "n_authors": 5,
+    "topic_id": "T11915",
+    "topic": "Pickering emulsions and particle stabilization",
+    "topic_score": 0.9998999834060669,
+    "field": "Materials Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Food Hydrocolloids",
+    "rank": 1,
+    "pool": 1058
+   },
+   "twin": {
+    "id": "W2729223875",
+    "doi": "https://doi.org/10.1007/s00604-017-2400-3",
+    "title": "Microfluidic fabrication of photonic encoding magnetized silica microspheres for aptamer-based enrichment of Ochratoxin A",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 21,
+    "pct": 0.77366259,
+    "n_refs": 35,
+    "n_authors": 11,
+    "topic_id": "T11915",
+    "topic": "Pickering emulsions and particle stabilization",
+    "topic_score": 0.9957000017166138,
+    "field": "Materials Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Microchimica Acta",
+    "rank": 566,
+    "pool": 1058
+   }
+  },
+  {
+   "topic": "Galectins and Cancer Biology",
+   "topic_id": "T12387",
+   "path": "Life Sciences > Immunology and Microbiology > Immunology > Galectins and Cancer Biology",
+   "domain": "Life Sciences",
+   "year": 2018,
+   "pool": 521,
+   "ranks": {
+    "case": 2,
+    "twin": 226,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     208,
+     311
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 2,
+     "review_share": 0.4,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "C-type lectins in immunity and homeostasis",
+       "why": "venue:Nature reviews. Immunology"
+      },
+      {
+       "rank": 1,
+       "title": "Galectins at a glance",
+       "why": "abstract:we summarise"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 104,
+     "n_review": 8,
+     "review_share": 0.077
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2789752648",
+    "doi": "https://doi.org/10.3390/ijms19020379",
+    "title": "Galectin-3: One Molecule for an Alphabet of Diseases, from A to Z",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 378,
+    "pct": 0.99183912,
+    "n_refs": 489,
+    "n_authors": 9,
+    "topic_id": "T12387",
+    "topic": "Galectins and Cancer Biology",
+    "topic_score": 1.0,
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences",
+    "oa_url": "https://doi.org/10.3390/ijms19020379",
+    "is_oa": true,
+    "venue": "International Journal of Molecular Sciences",
+    "rank": 2,
+    "pool": 521
+   },
+   "twin": {
+    "id": "W2893916093",
+    "doi": "https://doi.org/10.3390/diseases6040088",
+    "title": "The Predictive Value of Plasma Brain Natriuretic Peptide and Galectin-3 in Elderly Patients Admitted for Heart Failure",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 27,
+    "pct": 0.63575608,
+    "n_refs": 37,
+    "n_authors": 4,
+    "topic_id": "T12387",
+    "topic": "Galectins and Cancer Biology",
+    "topic_score": 0.9966999888420105,
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.mdpi.com/2079-9721/6/4/88/pdf?version=1538048273",
+    "is_oa": true,
+    "venue": "Diseases",
+    "rank": 226,
+    "pool": 521
+   }
+  },
+  {
+   "topic": "Advanced Fiber Laser Technologies",
+   "topic_id": "T10988",
+   "path": "Physical Sciences > Physics and Astronomy > Atomic and Molecular Physics, and Optics > Advanced Fiber Laser Technologies",
+   "domain": "Physical Sciences",
+   "year": 2012,
+   "pool": 965,
+   "ranks": {
+    "case": 8,
+    "twin": 571,
+    "case_band": [
+     0,
+     8
+    ],
+    "twin_band": [
+     386,
+     578
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 9,
+     "n_review": 0,
+     "review_share": 0.0,
+     "reviews": []
+    },
+    "twin_band": {
+     "n_band": 193,
+     "n_review": 5,
+     "review_share": 0.026
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2040371569",
+    "doi": "https://doi.org/10.1038/ncomms1762",
+    "title": "Demonstration of a stable ultrafast laser based on a nonlinear microcavity",
+    "year": 2012,
+    "type": "article",
+    "cited_by_count": 450,
+    "pct": 0.99499472,
+    "n_refs": 36,
+    "n_authors": 7,
+    "topic_id": "T10988",
+    "topic": "Advanced Fiber Laser Technologies",
+    "topic_score": 1.0,
+    "field": "Physics and Astronomy",
+    "domain": "Physical Sciences",
+    "oa_url": "https://www.nature.com/articles/ncomms1762.pdf",
+    "is_oa": true,
+    "venue": "Nature Communications",
+    "rank": 8,
+    "pool": 965
+   },
+   "twin": {
+    "id": "W2061124791",
+    "doi": "https://doi.org/10.1007/s00340-011-4867-7",
+    "title": "Spectral phase shift and residual angular dispersion of an acousto-optic programmable dispersive filter",
+    "year": 2012,
+    "type": "article",
+    "cited_by_count": 11,
+    "pct": 0.69105659,
+    "n_refs": 28,
+    "n_authors": 5,
+    "topic_id": "T10988",
+    "topic": "Advanced Fiber Laser Technologies",
+    "topic_score": 0.9983999729156494,
+    "field": "Physics and Astronomy",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Applied Physics B",
+    "rank": 571,
+    "pool": 965
+   }
+  },
+  {
+   "topic": "Mycobacterium research and diagnosis",
+   "topic_id": "T11316",
+   "path": "Health Sciences > Medicine > Epidemiology > Mycobacterium research and diagnosis",
+   "domain": "Health Sciences",
+   "year": 2018,
+   "pool": 1182,
+   "ranks": {
+    "case": 0,
+    "twin": 606,
+    "case_band": [
+     0,
+     10
+    ],
+    "twin_band": [
+     472,
+     708
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 11,
+     "n_review": 6,
+     "review_share": 0.545,
+     "reviews": [
+      {
+       "rank": 2,
+       "title": "Practical Guidance for Clinical Microbiology Laboratories: Mycobacteria",
+       "why": "abstract:This review"
+      },
+      {
+       "rank": 3,
+       "title": "Cutaneous Mycobacterial Infections",
+       "why": "venue:Clinical Microbiology Reviews"
+      },
+      {
+       "rank": 4,
+       "title": "NTM drug discovery: status, gaps and the way forward",
+       "why": "title:status"
+      },
+      {
+       "rank": 5,
+       "title": "Treatment outcome definitions in nontuberculous mycobacterial pulmonary disease:",
+       "why": "title:consensus"
+      },
+      {
+       "rank": 6,
+       "title": "The Role of Antibiotic-Target-Modifying and Antibiotic-Modifying Enzymes in Myco",
+       "why": "abstract:This article reviews"
+      },
+      {
+       "rank": 7,
+       "title": "MTBseq: a comprehensive pipeline for whole genome sequence analysis of Mycobacte",
+       "why": "title:a comprehensive"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 237,
+     "n_review": 27,
+     "review_share": 0.114
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2791765621",
+    "doi": "https://doi.org/10.3389/fmicb.2018.00067",
+    "title": "Phylogenomics and Comparative Genomic Studies Robustly Support Division of the Genus Mycobacterium into an Emended Genus Mycobacterium and Four Novel Genera",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 538,
+    "pct": 0.9997079,
+    "n_refs": 207,
+    "n_authors": 3,
+    "topic_id": "T11316",
+    "topic": "Mycobacterium research and diagnosis",
+    "topic_score": 1.0,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://doi.org/10.3389/fmicb.2018.00067",
+    "is_oa": true,
+    "venue": "Frontiers in Microbiology",
+    "rank": 0,
+    "pool": 1182
+   },
+   "twin": {
+    "id": "W2795063159",
+    "doi": "https://doi.org/10.1038/s41435-018-0023-2",
+    "title": "Human IL12RB1 expression is allele-biased and produces a novel IL12 response regulator",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 9,
+    "pct": 0.70598214,
+    "n_refs": 84,
+    "n_authors": 7,
+    "topic_id": "T11316",
+    "topic": "Mycobacterium research and diagnosis",
+    "topic_score": 0.9988999962806702,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6165718",
+    "is_oa": true,
+    "venue": "Genes and Immunity",
+    "rank": 606,
+    "pool": 1182
+   }
+  },
+  {
+   "topic": "Skin and Cellular Biology Research",
+   "topic_id": "T11650",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Cell Biology > Skin and Cellular Biology Research",
+   "domain": "Life Sciences",
+   "year": 2014,
+   "pool": 509,
+   "ranks": {
+    "case": 4,
+    "twin": 239,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     203,
+     304
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 3,
+     "review_share": 0.6,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Inherited epidermolysis bullosa: Updated recommendations on diagnosis and classi",
+       "why": "title:recommendations"
+      },
+      {
+       "rank": 1,
+       "title": "Post-translational modifications of intermediate filament proteins: mechanisms a",
+       "why": "venue:Nature Reviews Molecular Cell Biology"
+      },
+      {
+       "rank": 2,
+       "title": "Molecular architecture and function of the hemidesmosome",
+       "why": "abstract:we review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 102,
+     "n_review": 7,
+     "review_share": 0.069
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2147209470",
+    "doi": "https://doi.org/10.1016/j.jbiomech.2014.03.031",
+    "title": "Mechanotransduction and fibrosis",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 203,
+    "pct": 0.97993601,
+    "n_refs": 169,
+    "n_authors": 11,
+    "topic_id": "T11650",
+    "topic": "Skin and Cellular Biology Research",
+    "topic_score": 0.9991999864578247,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Biomechanics",
+    "rank": 4,
+    "pool": 509
+   },
+   "twin": {
+    "id": "W2018608811",
+    "doi": "https://doi.org/10.1111/bjd.13414",
+    "title": "Two novel mutations in the LOR gene in three families with loricrin keratoderma",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 12,
+    "pct": 0.58706581,
+    "n_refs": 12,
+    "n_authors": 6,
+    "topic_id": "T11650",
+    "topic": "Skin and Cellular Biology Research",
+    "topic_score": 0.9998000264167786,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "British Journal of Dermatology",
+    "rank": 239,
+    "pool": 509
+   }
+  },
+  {
+   "topic": "Foot and Ankle Surgery",
+   "topic_id": "T10455",
+   "path": "Health Sciences > Medicine > Orthopedics and Sports Medicine > Foot and Ankle Surgery",
+   "domain": "Health Sciences",
+   "year": 2013,
+   "pool": 1339,
+   "ranks": {
+    "case": 0,
+    "twin": 687,
+    "case_band": [
+     0,
+     12
+    ],
+    "twin_band": [
+     535,
+     802
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 13,
+     "n_review": 4,
+     "review_share": 0.308,
+     "reviews": [
+      {
+       "rank": 3,
+       "title": "Consensus in chronic ankle instability: Aetiology, assessment, surgical indicati",
+       "why": "title:Consensus"
+      },
+      {
+       "rank": 4,
+       "title": "The outcome of total ankle replacement",
+       "why": "abstract:systematic review"
+      },
+      {
+       "rank": 6,
+       "title": "Ankle Stability and Movement Coordination Impairments: Ankle Ligament Sprains",
+       "why": "abstract:clinical practice guidelines"
+      },
+      {
+       "rank": 8,
+       "title": "Use of Patient-Reported Outcome Measures in Foot and Ankle Research",
+       "why": "abstract:systematic review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 268,
+     "n_review": 17,
+     "review_share": 0.063
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2193011214",
+    "doi": "https://doi.org/10.1136/bjsports-2013-093175",
+    "title": "Selection criteria for patients with chronic ankle instability in controlled research: a position statement of the International Ankle Consortium",
+    "year": 2013,
+    "type": "article",
+    "cited_by_count": 788,
+    "pct": 0.99913818,
+    "n_refs": 53,
+    "n_authors": 15,
+    "topic_id": "T10455",
+    "topic": "Foot and Ankle Surgery",
+    "topic_score": 1.0,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://bjsm.bmj.com/content/bjsports/48/13/1014.full.pdf",
+    "is_oa": true,
+    "venue": "British Journal of Sports Medicine",
+    "rank": 0,
+    "pool": 1339
+   },
+   "twin": {
+    "id": "W2127508065",
+    "doi": "https://doi.org/10.7547/1030208",
+    "title": "Prevalence of Accessory Ossicles and Sesamoid Bones in Hallux Valgus",
+    "year": 2013,
+    "type": "article",
+    "cited_by_count": 16,
+    "pct": 0.59099397,
+    "n_refs": 29,
+    "n_authors": 6,
+    "topic_id": "T10455",
+    "topic": "Foot and Ankle Surgery",
+    "topic_score": 0.9983999729156494,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of the American Podiatric Medical Association",
+    "rank": 687,
+    "pool": 1339
+   }
+  },
+  {
+   "topic": "Memory Processes and Influences",
+   "topic_id": "T10918",
+   "path": "Life Sciences > Neuroscience > Cognitive Neuroscience > Memory Processes and Influences",
+   "domain": "Life Sciences",
+   "year": 2016,
+   "pool": 601,
+   "ranks": {
+    "case": 5,
+    "twin": 318,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     240,
+     359
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 6,
+     "n_review": 2,
+     "review_share": 0.333,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "The neural basis of reversal learning: An updated perspective",
+       "why": "title:perspective"
+      },
+      {
+       "rank": 1,
+       "title": "Learning from Errors",
+       "why": "venue:Annual Review of Psychology"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 120,
+     "n_review": 3,
+     "review_share": 0.025
+    }
+   },
+   "flags": [
+    "case_topic_score<0.7"
+   ],
+   "case": {
+    "id": "W2519712219",
+    "doi": "https://doi.org/10.1523/jneurosci.1492-16.2016",
+    "title": "Youthful Brains in Older Adults: Preserved Neuroanatomy in the Default Mode and Salience Networks Contributes to Youthful Memory in Superaging",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 200,
+    "pct": 0.98687486,
+    "n_refs": 60,
+    "n_authors": 6,
+    "topic_id": "T10918",
+    "topic": "Memory Processes and Influences",
+    "topic_score": 0.43299999833106995,
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.jneurosci.org/content/jneuro/36/37/9659.full.pdf",
+    "is_oa": true,
+    "venue": "Journal of Neuroscience",
+    "rank": 5,
+    "pool": 601
+   },
+   "twin": {
+    "id": "W2552051208",
+    "doi": "https://doi.org/10.1002/jnr.23973",
+    "title": "Sex, age, and sex hormones affect recall of words in a directed forgetting paradigm",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 14,
+    "pct": 0.71559841,
+    "n_refs": 57,
+    "n_authors": 6,
+    "topic_id": "T10918",
+    "topic": "Memory Processes and Influences",
+    "topic_score": 0.9988999962806702,
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jnr.23973",
+    "is_oa": true,
+    "venue": "Journal of Neuroscience Research",
+    "rank": 318,
+    "pool": 601
+   }
+  },
+  {
+   "topic": "Microbial Metabolites in Food Biotechnology",
+   "topic_id": "T12489",
+   "path": "Health Sciences > Nursing > Nutrition and Dietetics > Microbial Metabolites in Food Biotechnology",
+   "domain": "Health Sciences",
+   "year": 2015,
+   "pool": 654,
+   "ranks": {
+    "case": 3,
+    "twin": 369,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     261,
+     391
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 6,
+     "n_review": 3,
+     "review_share": 0.5,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Probiotics, prebiotics and synbiotics- a review",
+       "why": "title:review"
+      },
+      {
+       "rank": 1,
+       "title": "Inulin, a flexible oligosaccharide I: Review of its physicochemical characterist",
+       "why": "title:Review"
+      },
+      {
+       "rank": 2,
+       "title": "Prebiotics: why definitions matter",
+       "why": "venue:Current Opinion in Biotechnology"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 131,
+     "n_review": 6,
+     "review_share": 0.046
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2194583909",
+    "doi": "https://doi.org/10.1007/s00253-015-7172-2",
+    "title": "Production, properties, and industrial food application of lactic acid bacteria-derived exopolysaccharides",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 361,
+    "pct": 0.99393916,
+    "n_refs": 170,
+    "n_authors": 4,
+    "topic_id": "T12489",
+    "topic": "Microbial Metabolites in Food Biotechnology",
+    "topic_score": 0.9998000264167786,
+    "field": "Nursing",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Applied Microbiology and Biotechnology",
+    "rank": 3,
+    "pool": 654
+   },
+   "twin": {
+    "id": "W2256802547",
+    "doi": "https://doi.org/10.7732/kjpr.2015.28.3.305",
+    "title": "Antioxidant, Anti-inflammatory and Cytotoxicity on Human Lung Epithelial A549 Cells of Jerusalem artichoke (Helianthus tuberosus L.) Tuber",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 11,
+    "pct": 0.666347,
+    "n_refs": 27,
+    "n_authors": 2,
+    "topic_id": "T12489",
+    "topic": "Microbial Metabolites in Food Biotechnology",
+    "topic_score": 0.9984999895095825,
+    "field": "Nursing",
+    "domain": "Health Sciences",
+    "oa_url": "http://koreascience.or.kr:80/article/JAKO201525850294383.pdf",
+    "is_oa": true,
+    "venue": "한국자원식물학회지",
+    "rank": 369,
+    "pool": 654
+   }
+  },
+  {
+   "topic": "Aquaculture disease management and microbiota",
+   "topic_id": "T10506",
+   "path": "Life Sciences > Immunology and Microbiology > Immunology > Aquaculture disease management and microbiota",
+   "domain": "Life Sciences",
+   "year": 2010,
+   "pool": 1013,
+   "ranks": {
+    "case": 8,
+    "twin": 588,
+    "case_band": [
+     0,
+     9
+    ],
+    "twin_band": [
+     405,
+     606
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 10,
+     "n_review": 7,
+     "review_share": 0.7,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "The Genus Aeromonas : Taxonomy, Pathogenicity, and Infection",
+       "why": "venue:Clinical Microbiology Reviews"
+      },
+      {
+       "rank": 1,
+       "title": "Probiotics and immunity: A fish perspective",
+       "why": "title:perspective"
+      },
+      {
+       "rank": 2,
+       "title": "Role of gastrointestinal microbiota in fish",
+       "why": "abstract:This review"
+      },
+      {
+       "rank": 3,
+       "title": "The current status and future focus of probiotic and prebiotic applications for ",
+       "why": "title:status"
+      },
+      {
+       "rank": 5,
+       "title": "Chemical use in salmon aquaculture: A review of current practices and possible e",
+       "why": "title:review"
+      },
+      {
+       "rank": 7,
+       "title": "Prebiotics in aquaculture: a review",
+       "why": "title:review"
+      },
+      {
+       "rank": 9,
+       "title": "Emerging viral diseases of fish and shrimp",
+       "why": "abstract:This review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 202,
+     "n_review": 6,
+     "review_share": 0.03
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W1993065952",
+    "doi": "https://doi.org/10.1016/j.fsi.2010.09.001",
+    "title": "Teleost intestinal immunology",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 608,
+    "pct": 0.97549358,
+    "n_refs": 211,
+    "n_authors": 5,
+    "topic_id": "T10506",
+    "topic": "Aquaculture disease management and microbiota",
+    "topic_score": 1.0,
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences",
+    "oa_url": "https://research.wur.nl/en/publications/teleost-intestinal-immunology",
+    "is_oa": true,
+    "venue": "Fish & Shellfish Immunology",
+    "rank": 8,
+    "pool": 1013
+   },
+   "twin": {
+    "id": "W1990273311",
+    "doi": "https://doi.org/10.1016/j.fsi.2010.11.030",
+    "title": "Lymphocytes with T-cell-like properties express the Fas ligand in the Japanese flounder Paralichthys olivaceus",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 18,
+    "pct": 0.66616043,
+    "n_refs": 37,
+    "n_authors": 6,
+    "topic_id": "T10506",
+    "topic": "Aquaculture disease management and microbiota",
+    "topic_score": 0.9997000098228455,
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Fish & Shellfish Immunology",
+    "rank": 588,
+    "pool": 1013
+   }
+  },
+  {
+   "topic": "Facial Rejuvenation and Surgery Techniques",
+   "topic_id": "T11322",
+   "path": "Health Sciences > Medicine > Dermatology > Facial Rejuvenation and Surgery Techniques",
+   "domain": "Health Sciences",
+   "year": 2019,
+   "pool": 777,
+   "ranks": {
+    "case": 4,
+    "twin": 374,
+    "case_band": [
+     0,
+     6
+    ],
+    "twin_band": [
+     310,
+     465
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 7,
+     "n_review": 3,
+     "review_share": 0.429,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Update on Avoiding and Treating Blindness From Fillers: A Recent Review of the W",
+       "why": "title:Update"
+      },
+      {
+       "rank": 2,
+       "title": "Consensus Recommendations for the Use of Hyperdiluted Calcium Hydroxyapatite (Ra",
+       "why": "title:Consensus"
+      },
+      {
+       "rank": 5,
+       "title": "Arteries of the Face and Their Relevance for Minimally Invasive Facial Procedure",
+       "why": "title:Review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 156,
+     "n_review": 10,
+     "review_share": 0.064
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2914434557",
+    "doi": "https://doi.org/10.1111/ddg.13737",
+    "title": "Anatomy of the Facial Fat Compartments and their Relevance in Aesthetic Surgery",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 131,
+    "pct": 0.99221744,
+    "n_refs": 68,
+    "n_authors": 2,
+    "topic_id": "T11322",
+    "topic": "Facial Rejuvenation and Surgery Techniques",
+    "topic_score": 0.9603999853134155,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "JDDG Journal der Deutschen Dermatologischen Gesellschaft",
+    "rank": 4,
+    "pool": 777
+   },
+   "twin": {
+    "id": "W2994312635",
+    "doi": "https://doi.org/10.1097/iop.0000000000001510",
+    "title": "Predictability of the Phenylephrine Test With Regard to Eyelid Skin Appearance in Patients Who Undergo Müller Muscle–Conjunctival Resection Without Blepharoplasty",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 11,
+    "pct": 0.67006662,
+    "n_refs": 23,
+    "n_authors": 3,
+    "topic_id": "T11322",
+    "topic": "Facial Rejuvenation and Surgery Techniques",
+    "topic_score": 0.9919000267982483,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Ophthalmic Plastic and Reconstructive Surgery",
+    "rank": 374,
+    "pool": 777
+   }
+  },
+  {
+   "topic": "Culinary Culture and Tourism",
+   "topic_id": "T11925",
+   "path": "Life Sciences > Agricultural and Biological Sciences > Food Science > Culinary Culture and Tourism",
+   "domain": "Life Sciences",
+   "year": 2016,
+   "pool": 513,
+   "ranks": {
+    "case": 0,
+    "twin": 281,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     205,
+     306
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 0,
+     "review_share": 0.0,
+     "reviews": []
+    },
+    "twin_band": {
+     "n_band": 102,
+     "n_review": 6,
+     "review_share": 0.059
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2223380856",
+    "doi": "https://doi.org/10.1002/jtr.2070",
+    "title": "Memorable Tourist Experiences and Place Attachment When Consuming Local Food",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 515,
+    "pct": 0.99796188,
+    "n_refs": 102,
+    "n_authors": 1,
+    "topic_id": "T11925",
+    "topic": "Culinary Culture and Tourism",
+    "topic_score": 0.9994999766349792,
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "International Journal of Tourism Research",
+    "rank": 0,
+    "pool": 513
+   },
+   "twin": {
+    "id": "W2524393622",
+    "doi": "https://doi.org/10.5406/janimalethics.6.2.0188",
+    "title": "On Imitating the Regimen of Immortality or Facing the Diet of Mortal Reality: A Brief History of Abstinence from Flesh-Eating in Christianity",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 4,
+    "pct": 0.11100149,
+    "n_refs": 23,
+    "n_authors": 1,
+    "topic_id": "T11925",
+    "topic": "Culinary Culture and Tourism",
+    "topic_score": 0.9466000199317932,
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Animal Ethics",
+    "rank": 281,
+    "pool": 513
+   }
+  },
+  {
+   "topic": "Heavy metals in environment",
+   "topic_id": "T10139",
+   "path": "Physical Sciences > Environmental Science > Pollution > Heavy metals in environment",
+   "domain": "Physical Sciences",
+   "year": 2013,
+   "pool": 2275,
+   "ranks": {
+    "case": 2,
+    "twin": 1357,
+    "case_band": [
+     0,
+     21
+    ],
+    "twin_band": [
+     910,
+     1364
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 22,
+     "n_review": 6,
+     "review_share": 0.273,
+     "reviews": [
+      {
+       "rank": 1,
+       "title": "A review of soil heavy metal pollution from mines in China: Pollution and health",
+       "why": "title:review"
+      },
+      {
+       "rank": 6,
+       "title": "Biotechnological advances in bioremediation of heavy metals contaminated ecosyst",
+       "why": "title:advances"
+      },
+      {
+       "rank": 7,
+       "title": "Contaminated Sites in Europe: Review of the Current Situation Based on Data Coll",
+       "why": "title:Review"
+      },
+      {
+       "rank": 14,
+       "title": "Heavy metal pollution in coastal areas of South China: A review",
+       "why": "title:review"
+      },
+      {
+       "rank": 19,
+       "title": "Assessment and management of heavy metal pollution in the marine environment of ",
+       "why": "title:review"
+      },
+      {
+       "rank": 20,
+       "title": "Pollution status of the Bohai Sea: An overview of the environmental quality asse",
+       "why": "title:status"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 455,
+     "n_review": 22,
+     "review_share": 0.048
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W1999185871",
+    "doi": "https://doi.org/10.1016/j.jhazmat.2013.12.018",
+    "title": "Remediation of heavy metal(loid)s contaminated soils – To mobilize or to immobilize?",
+    "year": 2013,
+    "type": "article",
+    "cited_by_count": 2018,
+    "pct": 0.99946499,
+    "n_refs": 401,
+    "n_authors": 8,
+    "topic_id": "T10139",
+    "topic": "Heavy metals in environment",
+    "topic_score": 0.9997000098228455,
+    "field": "Environmental Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Hazardous Materials",
+    "rank": 2,
+    "pool": 2275
+   },
+   "twin": {
+    "id": "W2130334366",
+    "doi": "https://doi.org/10.3906/tar-1203-3",
+    "title": "Effect of sewage sludge on metal content of grassland soil and herbage in semiarid lands",
+    "year": 2013,
+    "type": "article",
+    "cited_by_count": 12,
+    "pct": 0.76529747,
+    "n_refs": 22,
+    "n_authors": 3,
+    "topic_id": "T10139",
+    "topic": "Heavy metals in environment",
+    "topic_score": 0.9833999872207642,
+    "field": "Environmental Science",
+    "domain": "Physical Sciences",
+    "oa_url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1652&context=agriculture",
+    "is_oa": true,
+    "venue": "TURKISH JOURNAL OF AGRICULTURE AND FORESTRY",
+    "rank": 1357,
+    "pool": 2275
+   }
+  },
+  {
+   "topic": "Immunodeficiency and Autoimmune Disorders",
+   "topic_id": "T11725",
+   "path": "Life Sciences > Immunology and Microbiology > Immunology > Immunodeficiency and Autoimmune Disorders",
+   "domain": "Life Sciences",
+   "year": 2016,
+   "pool": 699,
+   "ranks": {
+    "case": 3,
+    "twin": 349,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     279,
+     418
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 6,
+     "n_review": 2,
+     "review_share": 0.333,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Update on the use of immunoglobulin in human disease: A review of evidence",
+       "why": "title:Update"
+      },
+      {
+       "rank": 4,
+       "title": "PI3Kδ and primary immunodeficiencies",
+       "why": "venue:Nature reviews. Immunology"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 140,
+     "n_review": 11,
+     "review_share": 0.079
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2487528628",
+    "doi": "https://doi.org/10.7554/elife.16220",
+    "title": "Trisomy 21 consistently activates the interferon response",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 390,
+    "pct": 0.98256526,
+    "n_refs": 89,
+    "n_authors": 12,
+    "topic_id": "T11725",
+    "topic": "Immunodeficiency and Autoimmune Disorders",
+    "topic_score": 0.988099992275238,
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences",
+    "oa_url": "https://doi.org/10.7554/elife.16220",
+    "is_oa": true,
+    "venue": "eLife",
+    "rank": 3,
+    "pool": 699
+   },
+   "twin": {
+    "id": "W2473872168",
+    "doi": "https://doi.org/10.2340/00015555-2501",
+    "title": "Recurrent Cellulitis Caused by Helicobacter cinaedi in a Patient with X-linked Agammaglobulinaemia",
+    "year": 2016,
+    "type": "article",
+    "cited_by_count": 13,
+    "pct": 0.72229296,
+    "n_refs": 15,
+    "n_authors": 8,
+    "topic_id": "T11725",
+    "topic": "Immunodeficiency and Autoimmune Disorders",
+    "topic_score": 0.9919999837875366,
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.medicaljournals.se/acta/download/10.2340/00015555-2501/",
+    "is_oa": true,
+    "venue": "Acta Dermato Venereologica",
+    "rank": 349,
+    "pool": 699
+   }
+  },
+  {
+   "topic": "Advanced Antenna and Metasurface Technologies",
+   "topic_id": "T11383",
+   "path": "Physical Sciences > Engineering > Aerospace Engineering > Advanced Antenna and Metasurface Technologies",
+   "domain": "Physical Sciences",
+   "year": 2014,
+   "pool": 504,
+   "ranks": {
+    "case": 2,
+    "twin": 280,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     201,
+     301
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 0,
+     "review_share": 0.0,
+     "reviews": []
+    },
+    "twin_band": {
+     "n_band": 101,
+     "n_review": 8,
+     "review_share": 0.079
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2027918153",
+    "doi": "https://doi.org/10.1109/tap.2014.2367491",
+    "title": "Reconfigurable Folded Reflectarray Antenna Based Upon Liquid Crystal Technology",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 253,
+    "pct": 0.99955276,
+    "n_refs": 48,
+    "n_authors": 5,
+    "topic_id": "T11383",
+    "topic": "Advanced Antenna and Metasurface Technologies",
+    "topic_score": 1.0,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "IEEE Transactions on Antennas and Propagation",
+    "rank": 2,
+    "pool": 504
+   },
+   "twin": {
+    "id": "W2010048157",
+    "doi": "https://doi.org/10.1080/09205071.2014.981296",
+    "title": "Broadening bandwidth of the composite radar absorption material involving a frequency selective surface",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 8,
+    "pct": 0.98616675,
+    "n_refs": 13,
+    "n_authors": 6,
+    "topic_id": "T11383",
+    "topic": "Advanced Antenna and Metasurface Technologies",
+    "topic_score": 1.0,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Electromagnetic Waves and Applications",
+    "rank": 280,
+    "pool": 504
+   }
+  },
+  {
+   "topic": "Turtle Biology and Conservation",
+   "topic_id": "T11656",
+   "path": "Physical Sciences > Environmental Science > Nature and Landscape Conservation > Turtle Biology and Conservation",
+   "domain": "Physical Sciences",
+   "year": 2012,
+   "pool": 511,
+   "ranks": {
+    "case": 2,
+    "twin": 250,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     204,
+     305
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 0,
+     "review_share": 0.0,
+     "reviews": []
+    },
+    "twin_band": {
+     "n_band": 102,
+     "n_review": 5,
+     "review_share": 0.049
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2005712468",
+    "doi": "https://doi.org/10.1371/journal.pone.0040884",
+    "title": "To Eat or Not to Eat? Debris Selectivity by Marine Turtles",
+    "year": 2012,
+    "type": "article",
+    "cited_by_count": 173,
+    "pct": 0.98857116,
+    "n_refs": 56,
+    "n_authors": 4,
+    "topic_id": "T11656",
+    "topic": "Turtle Biology and Conservation",
+    "topic_score": 0.9994000196456909,
+    "field": "Environmental Science",
+    "domain": "Physical Sciences",
+    "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0040884&type=printable",
+    "is_oa": true,
+    "venue": "PLoS ONE",
+    "rank": 2,
+    "pool": 511
+   },
+   "twin": {
+    "id": "W1980373626",
+    "doi": "https://doi.org/10.1007/s10592-012-0419-x",
+    "title": "Effects of road proximity on genetic diversity and reproductive success of the painted turtle (Chrysemys picta)",
+    "year": 2012,
+    "type": "article",
+    "cited_by_count": 19,
+    "pct": 0.82828754,
+    "n_refs": 51,
+    "n_authors": 3,
+    "topic_id": "T11656",
+    "topic": "Turtle Biology and Conservation",
+    "topic_score": 0.9998999834060669,
+    "field": "Environmental Science",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Conservation Genetics",
+    "rank": 250,
+    "pool": 511
+   }
+  },
+  {
+   "topic": "Melanoma and MAPK Pathways",
+   "topic_id": "T11533",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Molecular Biology > Melanoma and MAPK Pathways",
+   "domain": "Life Sciences",
+   "year": 2013,
+   "pool": 727,
+   "ranks": {
+    "case": 4,
+    "twin": 424,
+    "case_band": [
+     0,
+     6
+    ],
+    "twin_band": [
+     290,
+     435
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 7,
+     "n_review": 1,
+     "review_share": 0.143,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Mitogen-activated protein kinases in innate immunity",
+       "why": "venue:Nature reviews. Immunology"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 146,
+     "n_review": 14,
+     "review_share": 0.096
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2033708806",
+    "doi": "https://doi.org/10.1016/j.ccr.2013.02.003",
+    "title": "Oncogenic BRAF Regulates Oxidative Metabolism via PGC1α and MITF",
+    "year": 2013,
+    "type": "article",
+    "cited_by_count": 823,
+    "pct": 0.99797666,
+    "n_refs": 79,
+    "n_authors": 15,
+    "topic_id": "T11533",
+    "topic": "Melanoma and MAPK Pathways",
+    "topic_score": 0.9998999834060669,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "http://www.cell.com/article/S1535610813000676/pdf",
+    "is_oa": true,
+    "venue": "Cancer Cell",
+    "rank": 4,
+    "pool": 727
+   },
+   "twin": {
+    "id": "W1991144222",
+    "doi": "https://doi.org/10.1007/s10585-013-9587-4",
+    "title": "Low BRAF and NRAS expression levels are associated with clinical benefit from DTIC therapy and prognosis in metastatic melanoma",
+    "year": 2013,
+    "type": "article",
+    "cited_by_count": 20,
+    "pct": 0.7580779,
+    "n_refs": 46,
+    "n_authors": 8,
+    "topic_id": "T11533",
+    "topic": "Melanoma and MAPK Pathways",
+    "topic_score": 0.9998999834060669,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10585-013-9587-4.pdf",
+    "is_oa": true,
+    "venue": "Clinical & Experimental Metastasis",
+    "rank": 424,
+    "pool": 727
+   }
+  },
+  {
+   "topic": "Asymmetric Hydrogenation and Catalysis",
+   "topic_id": "T11281",
+   "path": "Physical Sciences > Chemistry > Inorganic Chemistry > Asymmetric Hydrogenation and Catalysis",
+   "domain": "Physical Sciences",
+   "year": 2011,
+   "pool": 939,
+   "ranks": {
+    "case": 4,
+    "twin": 518,
+    "case_band": [
+     0,
+     8
+    ],
+    "twin_band": [
+     375,
+     562
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 9,
+     "n_review": 3,
+     "review_share": 0.333,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Asymmetric Hydrogenation of Heteroarenes and Arenes",
+       "why": "venue:Chemical Reviews"
+      },
+      {
+       "rank": 2,
+       "title": "Dehydrogenation and Related Reactions Catalyzed by Iridium Pincer Complexes",
+       "why": "venue:Chemical Reviews"
+      },
+      {
+       "rank": 6,
+       "title": "Phosphine−Phosphinite and Phosphine−Phosphite Ligands: Preparation and Applicati",
+       "why": "abstract:recent developments in"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 188,
+     "n_review": 3,
+     "review_share": 0.016
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2034935579",
+    "doi": "https://doi.org/10.1002/adsc.201100488",
+    "title": "The Growing Impact of Catalysis in the Pharmaceutical Industry",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 514,
+    "pct": 0.99586184,
+    "n_refs": 294,
+    "n_authors": 4,
+    "topic_id": "T11281",
+    "topic": "Asymmetric Hydrogenation and Catalysis",
+    "topic_score": 0.9995999932289124,
+    "field": "Chemistry",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Advanced Synthesis & Catalysis",
+    "rank": 4,
+    "pool": 939
+   },
+   "twin": {
+    "id": "W4242228693",
+    "doi": "https://doi.org/10.1002/ange.201101496",
+    "title": "Divergent Regioselectivity in the Synthesis of Trisubstituted Allylic Alcohols by Nickel‐ and Ruthenium‐Catalyzed Alkyne Hydrohydroxymethylation with Formaldehyde",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 30,
+    "pct": 0.86415802,
+    "n_refs": 92,
+    "n_authors": 4,
+    "topic_id": "T11281",
+    "topic": "Asymmetric Hydrogenation and Catalysis",
+    "topic_score": 1.0,
+    "field": "Chemistry",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Angewandte Chemie",
+    "rank": 518,
+    "pool": 939
+   }
+  },
+  {
+   "topic": "Endometrial and Cervical Cancer Treatments",
+   "topic_id": "T10668",
+   "path": "Health Sciences > Medicine > Obstetrics and Gynecology > Endometrial and Cervical Cancer Treatments",
+   "domain": "Health Sciences",
+   "year": 2011,
+   "pool": 807,
+   "ranks": {
+    "case": 6,
+    "twin": 333,
+    "case_band": [
+     0,
+     7
+    ],
+    "twin_band": [
+     322,
+     483
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 8,
+     "n_review": 2,
+     "review_share": 0.25,
+     "reviews": [
+      {
+       "rank": 1,
+       "title": "Endometrial cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment a",
+       "why": "title:Guidelines"
+      },
+      {
+       "rank": 7,
+       "title": "The vaginal radical trachelectomy: An update of a series of 125 cases and 106 pr",
+       "why": "title:update"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 162,
+     "n_review": 14,
+     "review_share": 0.086
+    }
+   },
+   "flags": [
+    "twin_topic_score<0.7"
+   ],
+   "case": {
+    "id": "W2154516141",
+    "doi": "https://doi.org/10.1200/jco.2010.32.6397",
+    "title": "Phase II Trial of Bevacizumab in Recurrent or Persistent Endometrial Cancer: A Gynecologic Oncology Group Study",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 324,
+    "pct": 0.998254,
+    "n_refs": 38,
+    "n_authors": 10,
+    "topic_id": "T10668",
+    "topic": "Endometrial and Cervical Cancer Treatments",
+    "topic_score": 0.8693000078201294,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Clinical Oncology",
+    "rank": 6,
+    "pool": 807
+   },
+   "twin": {
+    "id": "W2130810987",
+    "doi": "https://doi.org/10.1186/1476-4598-10-132",
+    "title": "Genomic instability influences the transcriptome and proteome in endometrial cancer subtypes",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 23,
+    "pct": 0.85811888,
+    "n_refs": 49,
+    "n_authors": 13,
+    "topic_id": "T10668",
+    "topic": "Endometrial and Cervical Cancer Treatments",
+    "topic_score": 0.27239999175071716,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://molecular-cancer.biomedcentral.com/counter/pdf/10.1186/1476-4598-10-132",
+    "is_oa": true,
+    "venue": "Molecular Cancer",
+    "rank": 333,
+    "pool": 807
+   }
+  },
+  {
+   "topic": "Plant Gene Expression Analysis",
+   "topic_id": "T11237",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Molecular Biology > Plant Gene Expression Analysis",
+   "domain": "Life Sciences",
+   "year": 2014,
+   "pool": 580,
+   "ranks": {
+    "case": 1,
+    "twin": 270,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     232,
+     347
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 3,
+     "review_share": 0.6,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Flavonoids as Important Molecules of Plant Interactions with the Environment",
+       "why": "abstract:This review summarizes"
+      },
+      {
+       "rank": 3,
+       "title": "Engineering anthocyanin biosynthesis in plants",
+       "why": "venue:Current Opinion in Plant Biology"
+      },
+      {
+       "rank": 4,
+       "title": "WRKY transcription factors",
+       "why": "abstract:we review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 116,
+     "n_review": 4,
+     "review_share": 0.034
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2096172188",
+    "doi": "https://doi.org/10.1105/tpc.113.122069",
+    "title": "A Conserved Network of Transcriptional Activators and Repressors Regulates Anthocyanin Pigmentation in Eudicots",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 861,
+    "pct": 0.99292141,
+    "n_refs": 101,
+    "n_authors": 10,
+    "topic_id": "T11237",
+    "topic": "Plant Gene Expression Analysis",
+    "topic_score": 0.9998999834060669,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://academic.oup.com/plcell/article-pdf/26/3/962/36963975/plcell_v26_3_962.pdf",
+    "is_oa": true,
+    "venue": "The Plant Cell",
+    "rank": 1,
+    "pool": 580
+   },
+   "twin": {
+    "id": "W2146827637",
+    "doi": "https://doi.org/10.1093/treephys/tpu079",
+    "title": "Constitutive expression of the poplar WRKY transcription factor PtoWRKY60 enhances resistance to Dothiorella gregaria Sacc. in transgenic plants",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 48,
+    "pct": 0.81344878,
+    "n_refs": 78,
+    "n_authors": 10,
+    "topic_id": "T11237",
+    "topic": "Plant Gene Expression Analysis",
+    "topic_score": 0.9998999834060669,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Tree Physiology",
+    "rank": 270,
+    "pool": 580
+   }
+  },
+  {
+   "topic": "Cannabis and Cannabinoid Research",
+   "topic_id": "T10414",
+   "path": "Health Sciences > Medicine > Pharmacology > Cannabis and Cannabinoid Research",
+   "domain": "Health Sciences",
+   "year": 2011,
+   "pool": 1104,
+   "ranks": {
+    "case": 1,
+    "twin": 629,
+    "case_band": [
+     0,
+     10
+    ],
+    "twin_band": [
+     441,
+     661
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 11,
+     "n_review": 4,
+     "review_share": 0.364,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Taming THC: potential cannabis synergy and phytocannabinoid‐terpenoid entourage ",
+       "why": "abstract:This review"
+      },
+      {
+       "rank": 2,
+       "title": "An Evidence-Based Review of Acute and Long-Term Effects of Cannabis Use on Execu",
+       "why": "title:Review"
+      },
+      {
+       "rank": 6,
+       "title": "Cannabis Use and Earlier Onset of Psychosis",
+       "why": "abstract:meta-analysis"
+      },
+      {
+       "rank": 7,
+       "title": "Safety and Side Effects of Cannabidiol, a Cannabis sativa Constituent",
+       "why": "abstract:This review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 221,
+     "n_review": 17,
+     "review_share": 0.077
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2100987960",
+    "doi": "https://doi.org/10.1038/npp.2011.6",
+    "title": "Cannabidiol Reduces the Anxiety Induced by Simulated Public Speaking in Treatment-Naïve Social Phobia Patients",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 778,
+    "pct": 0.99686446,
+    "n_refs": 48,
+    "n_authors": 14,
+    "topic_id": "T10414",
+    "topic": "Cannabis and Cannabinoid Research",
+    "topic_score": 0.9990000128746033,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Neuropsychopharmacology",
+    "rank": 1,
+    "pool": 1104
+   },
+   "twin": {
+    "id": "W1580136919",
+    "doi": "https://doi.org/10.1111/j.1742-7843.2011.00767.x",
+    "title": "Effects of the Analgesic Acetaminophen (Paracetamol) and its para‐Aminophenol Metabolite on Viability of Mouse‐Cultured Cortical Neurons",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 30,
+    "pct": 0.83395249,
+    "n_refs": 18,
+    "n_authors": 5,
+    "topic_id": "T10414",
+    "topic": "Cannabis and Cannabinoid Research",
+    "topic_score": 0.9998999834060669,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Basic & Clinical Pharmacology & Toxicology",
+    "rank": 629,
+    "pool": 1104
+   }
+  },
+  {
+   "topic": "EEG and Brain-Computer Interfaces",
+   "topic_id": "T10429",
+   "path": "Life Sciences > Neuroscience > Cognitive Neuroscience > EEG and Brain-Computer Interfaces",
+   "domain": "Life Sciences",
+   "year": 2012,
+   "pool": 1055,
+   "ranks": {
+    "case": 7,
+    "twin": 512,
+    "case_band": [
+     0,
+     9
+    ],
+    "twin_band": [
+     422,
+     632
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 10,
+     "n_review": 2,
+     "review_share": 0.2,
+     "reviews": [
+      {
+       "rank": 1,
+       "title": "Brain Computer Interfaces, a Review",
+       "why": "title:Review"
+      },
+      {
+       "rank": 3,
+       "title": "Review of the BCI Competition IV",
+       "why": "title:Review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 211,
+     "n_review": 5,
+     "review_share": 0.024
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2126719297",
+    "doi": "https://doi.org/10.1016/j.cmpb.2012.10.008",
+    "title": "Classifying depression patients and normal subjects using machine learning techniques and nonlinear features from EEG signal",
+    "year": 2012,
+    "type": "article",
+    "cited_by_count": 566,
+    "pct": 0.95360156,
+    "n_refs": 28,
+    "n_authors": 3,
+    "topic_id": "T10429",
+    "topic": "EEG and Brain-Computer Interfaces",
+    "topic_score": 0.9994999766349792,
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Computer Methods and Programs in Biomedicine",
+    "rank": 7,
+    "pool": 1055
+   },
+   "twin": {
+    "id": "W1993492026",
+    "doi": "https://doi.org/10.1007/s11948-012-9425-0",
+    "title": "European Public Deliberation on Brain Machine Interface Technology: Five Convergence Seminars",
+    "year": 2012,
+    "type": "article",
+    "cited_by_count": 23,
+    "pct": 0.61663471,
+    "n_refs": 14,
+    "n_authors": 2,
+    "topic_id": "T10429",
+    "topic": "EEG and Brain-Computer Interfaces",
+    "topic_score": 0.9998999834060669,
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Science and Engineering Ethics",
+    "rank": 512,
+    "pool": 1055
+   }
+  },
+  {
+   "topic": "Groundwater and Watershed Analysis",
+   "topic_id": "T12543",
+   "path": "Physical Sciences > Environmental Science > Environmental Engineering > Groundwater and Watershed Analysis",
+   "domain": "Physical Sciences",
+   "year": 2019,
+   "pool": 501,
+   "ranks": {
+    "case": 0,
+    "twin": 253,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     200,
+     299
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 1,
+     "review_share": 0.2,
+     "reviews": [
+      {
+       "rank": 3,
+       "title": "Review: Advances in groundwater potential mapping",
+       "why": "title:Review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 100,
+     "n_review": 2,
+     "review_share": 0.02
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2914012905",
+    "doi": "https://doi.org/10.1038/s41598-019-38567-x",
+    "title": "GIS and AHP Techniques Based Delineation of Groundwater Potential Zones: a case study from Southern Western Ghats, India",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 714,
+    "pct": 0.99921894,
+    "n_refs": 65,
+    "n_authors": 3,
+    "topic_id": "T12543",
+    "topic": "Groundwater and Watershed Analysis",
+    "topic_score": 0.9998999834060669,
+    "field": "Environmental Science",
+    "domain": "Physical Sciences",
+    "oa_url": "https://www.nature.com/articles/s41598-019-38567-x.pdf",
+    "is_oa": true,
+    "venue": "Scientific Reports",
+    "rank": 0,
+    "pool": 501
+   },
+   "twin": {
+    "id": "W2941089783",
+    "doi": "https://doi.org/10.1007/s42452-019-0519-z",
+    "title": "Coupling groundwater GIS mapping and geovisualisation techniques in urban hydrogeomorphology: focus on methodology",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 12,
+    "pct": 0.65880128,
+    "n_refs": 57,
+    "n_authors": 3,
+    "topic_id": "T12543",
+    "topic": "Groundwater and Watershed Analysis",
+    "topic_score": 0.9991000294685364,
+    "field": "Environmental Science",
+    "domain": "Physical Sciences",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s42452-019-0519-z.pdf",
+    "is_oa": true,
+    "venue": "SN Applied Sciences",
+    "rank": 253,
+    "pool": 501
+   }
+  },
+  {
+   "topic": "Nail Diseases and Treatments",
+   "topic_id": "T11253",
+   "path": "Health Sciences > Medicine > Epidemiology > Nail Diseases and Treatments",
+   "domain": "Health Sciences",
+   "year": 2018,
+   "pool": 787,
+   "ranks": {
+    "case": 3,
+    "twin": 389,
+    "case_band": [
+     0,
+     6
+    ],
+    "twin_band": [
+     314,
+     471
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 7,
+     "n_review": 0,
+     "review_share": 0.0,
+     "reviews": []
+    },
+    "twin_band": {
+     "n_band": 158,
+     "n_review": 21,
+     "review_share": 0.133
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2785200097",
+    "doi": "https://doi.org/10.1371/journal.pone.0191493",
+    "title": "Deep neural networks show an equivalent and often superior performance to dermatologists in onychomycosis diagnosis: Automatic construction of onychomycosis datasets by region-based convolutional deep neural network",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 306,
+    "pct": 0.99602314,
+    "n_refs": 20,
+    "n_authors": 7,
+    "topic_id": "T11253",
+    "topic": "Nail Diseases and Treatments",
+    "topic_score": 0.9998000264167786,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0191493&type=printable",
+    "is_oa": true,
+    "venue": "PLoS ONE",
+    "rank": 3,
+    "pool": 787
+   },
+   "twin": {
+    "id": "W2955349987",
+    "doi": "https://doi.org/10.4103/ijdd.ijdd_27_18",
+    "title": "A Hospital-Based Observational Study on the Frequency of Different Skin Diseases and Patterns of Topical Steroid Misuse",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 6,
+    "pct": 0.66189968,
+    "n_refs": 21,
+    "n_authors": 2,
+    "topic_id": "T11253",
+    "topic": "Nail Diseases and Treatments",
+    "topic_score": 0.9958000183105469,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://doi.org/10.4103/ijdd.ijdd_27_18",
+    "is_oa": true,
+    "venue": "Indian Journal of Drugs in Dermatology",
+    "rank": 389,
+    "pool": 787
+   }
+  },
+  {
+   "topic": "Evolution and Genetic Dynamics",
+   "topic_id": "T11764",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Genetics > Evolution and Genetic Dynamics",
+   "domain": "Life Sciences",
+   "year": 2012,
+   "pool": 833,
+   "ranks": {
+    "case": 7,
+    "twin": 450,
+    "case_band": [
+     0,
+     7
+    ],
+    "twin_band": [
+     333,
+     498
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 8,
+     "n_review": 2,
+     "review_share": 0.25,
+     "reviews": [
+      {
+       "rank": 5,
+       "title": "The genomics of speciation-with-gene-flow",
+       "why": "venue:Trends in Genetics"
+      },
+      {
+       "rank": 6,
+       "title": "Experimental evolution",
+       "why": "venue:Trends in Ecology & Evolution"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 166,
+     "n_review": 13,
+     "review_share": 0.078
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2019385975",
+    "doi": "https://doi.org/10.1073/pnas.1210309109",
+    "title": "Rate and molecular spectrum of spontaneous mutations in the bacterium Escherichia coli as determined by whole-genome sequencing",
+    "year": 2012,
+    "type": "article",
+    "cited_by_count": 753,
+    "pct": 0.99561215,
+    "n_refs": 86,
+    "n_authors": 4,
+    "topic_id": "T11764",
+    "topic": "Evolution and Genetic Dynamics",
+    "topic_score": 0.9998000264167786,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.pnas.org/content/pnas/109/41/E2774.full.pdf",
+    "is_oa": true,
+    "venue": "Proceedings of the National Academy of Sciences",
+    "rank": 7,
+    "pool": 833
+   },
+   "twin": {
+    "id": "W2137122227",
+    "doi": "https://doi.org/10.1371/journal.pcbi.1002609",
+    "title": "Mutation Induced Extinction in Finite Populations: Lethal Mutagenesis and Lethal Isolation",
+    "year": 2012,
+    "type": "article",
+    "cited_by_count": 24,
+    "pct": 0.80048705,
+    "n_refs": 67,
+    "n_authors": 2,
+    "topic_id": "T11764",
+    "topic": "Evolution and Genetic Dynamics",
+    "topic_score": 1.0,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1002609&type=printable",
+    "is_oa": true,
+    "venue": "PLoS Computational Biology",
+    "rank": 450,
+    "pool": 833
+   }
+  },
+  {
+   "topic": "Geotechnical Engineering and Soil Stabilization",
+   "topic_id": "T11375",
+   "path": "Physical Sciences > Engineering > Civil and Structural Engineering > Geotechnical Engineering and Soil Stabilization",
+   "domain": "Physical Sciences",
+   "year": 2015,
+   "pool": 802,
+   "ranks": {
+    "case": 6,
+    "twin": 378,
+    "case_band": [
+     0,
+     7
+    ],
+    "twin_band": [
+     320,
+     480
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 8,
+     "n_review": 0,
+     "review_share": 0.0,
+     "reviews": []
+    },
+    "twin_band": {
+     "n_band": 161,
+     "n_review": 9,
+     "review_share": 0.056
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2158489246",
+    "doi": "https://doi.org/10.1016/j.trgeo.2015.01.002",
+    "title": "Stabilization of clayey soil using ultrafine palm oil fuel ash (POFA) and cement",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 179,
+    "pct": 0.99558317,
+    "n_refs": 42,
+    "n_authors": 4,
+    "topic_id": "T11375",
+    "topic": "Geotechnical Engineering and Soil Stabilization",
+    "topic_score": 0.9984999895095825,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Transportation Geotechnics",
+    "rank": 6,
+    "pool": 802
+   },
+   "twin": {
+    "id": "W2330296675",
+    "doi": "https://doi.org/10.12791/ksbec.2015.24.1.039",
+    "title": "Comparisons of Water Behavior and Moisture Content between Rockwools and Coir used in Soilless Culture",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 13,
+    "pct": 0.2078026,
+    "n_refs": 10,
+    "n_authors": 2,
+    "topic_id": "T11375",
+    "topic": "Geotechnical Engineering and Soil Stabilization",
+    "topic_score": 0.9453999996185303,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": "https://doi.org/10.12791/ksbec.2015.24.1.039",
+    "is_oa": true,
+    "venue": "Protected horticulture and Plant Factory",
+    "rank": 378,
+    "pool": 802
+   }
+  },
+  {
+   "topic": "Microbial Natural Products and Biosynthesis",
+   "topic_id": "T10252",
+   "path": "Health Sciences > Medicine > Pharmacology > Microbial Natural Products and Biosynthesis",
+   "domain": "Health Sciences",
+   "year": 2017,
+   "pool": 1594,
+   "ranks": {
+    "case": 0,
+    "twin": 904,
+    "case_band": [
+     0,
+     14
+    ],
+    "twin_band": [
+     637,
+     955
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 15,
+     "n_review": 6,
+     "review_share": 0.4,
+     "reviews": [
+      {
+       "rank": 1,
+       "title": "Nonribosomal Peptide Synthesis—Principles and Prospects",
+       "why": "abstract:This Review"
+      },
+      {
+       "rank": 2,
+       "title": "Enzymatic Carbon–Sulfur Bond Formation in Natural Product Biosynthesis",
+       "why": "abstract:This Review"
+      },
+      {
+       "rank": 3,
+       "title": "Retrospective analysis of natural products provides insights for future discover",
+       "why": "title:trends"
+      },
+      {
+       "rank": 4,
+       "title": "Developing new antimicrobial therapies: Are synergistic combinations of plant ex",
+       "why": "abstract:in this review"
+      },
+      {
+       "rank": 7,
+       "title": "Actinomycetes: still a source of novel antibiotics",
+       "why": "abstract:This review"
+      },
+      {
+       "rank": 8,
+       "title": "Chemical ecology of antibiotic production by actinomycetes",
+       "why": "abstract:we review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 319,
+     "n_review": 15,
+     "review_share": 0.047
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2609551972",
+    "doi": "https://doi.org/10.1093/nar/gkx319",
+    "title": "antiSMASH 4.0—improvements in chemistry prediction and gene cluster boundary identification",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 1230,
+    "pct": 0.99996754,
+    "n_refs": 36,
+    "n_authors": 18,
+    "topic_id": "T10252",
+    "topic": "Microbial Natural Products and Biosynthesis",
+    "topic_score": 0.9998999834060669,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://academic.oup.com/nar/article-pdf/45/W1/W36/18137297/gkx319.pdf",
+    "is_oa": true,
+    "venue": "Nucleic Acids Research",
+    "rank": 0,
+    "pool": 1594
+   },
+   "twin": {
+    "id": "W2775639144",
+    "doi": "https://doi.org/10.1021/acs.jafc.7b03913",
+    "title": "Mitochondrial Signs and Subcellular Imaging Provide Insight into the Antifungal Mechanism of Carabrone against Gaeumannomyces graminis var. tritici",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 19,
+    "pct": 0.69801643,
+    "n_refs": 49,
+    "n_authors": 6,
+    "topic_id": "T10252",
+    "topic": "Microbial Natural Products and Biosynthesis",
+    "topic_score": 0.9994000196456909,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Agricultural and Food Chemistry",
+    "rank": 904,
+    "pool": 1594
+   }
+  },
+  {
+   "topic": "Optical Network Technologies",
+   "topic_id": "T10232",
+   "path": "Physical Sciences > Engineering > Electrical and Electronic Engineering > Optical Network Technologies",
+   "domain": "Physical Sciences",
+   "year": 2011,
+   "pool": 1186,
+   "ranks": {
+    "case": 3,
+    "twin": 673,
+    "case_band": [
+     0,
+     10
+    ],
+    "twin_band": [
+     474,
+     710
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 11,
+     "n_review": 1,
+     "review_share": 0.091,
+     "reviews": [
+      {
+       "rank": 8,
+       "title": "Next-Generation Broadband Access Networks and Technologies",
+       "why": "abstract:This paper reviews"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 237,
+     "n_review": 5,
+     "review_share": 0.021
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W4241624517",
+    "doi": "https://doi.org/10.1364/oe.19.016576",
+    "title": "Design and fabrication of ultra-low crosstalk and low-loss multi-core fiber",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 548,
+    "pct": 0.99554183,
+    "n_refs": 9,
+    "n_authors": 5,
+    "topic_id": "T10232",
+    "topic": "Optical Network Technologies",
+    "topic_score": 1.0,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": "https://doi.org/10.1364/oe.19.016576",
+    "is_oa": true,
+    "venue": "Optics Express",
+    "rank": 3,
+    "pool": 1186
+   },
+   "twin": {
+    "id": "W2139416103",
+    "doi": "https://doi.org/10.1109/jlt.2010.2103926",
+    "title": "Performance Evaluation of WDM Systems Through Multicanonical Monte Carlo Simulations",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 8,
+    "pct": 0.81671104,
+    "n_refs": 27,
+    "n_authors": 3,
+    "topic_id": "T10232",
+    "topic": "Optical Network Technologies",
+    "topic_score": 0.9970999956130981,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Lightwave Technology",
+    "rank": 673,
+    "pool": 1186
+   }
+  },
+  {
+   "topic": "Chronic Kidney Disease and Diabetes",
+   "topic_id": "T10408",
+   "path": "Health Sciences > Medicine > Nephrology > Chronic Kidney Disease and Diabetes",
+   "domain": "Health Sciences",
+   "year": 2015,
+   "pool": 1064,
+   "ranks": {
+    "case": 5,
+    "twin": 622,
+    "case_band": [
+     0,
+     9
+    ],
+    "twin_band": [
+     425,
+     637
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 10,
+     "n_review": 4,
+     "review_share": 0.4,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Diabetic kidney disease",
+       "why": "venue:Nature Reviews Disease Primers"
+      },
+      {
+       "rank": 1,
+       "title": "A systematic analysis of worldwide population-based data on the global burden of",
+       "why": "title:systematic"
+      },
+      {
+       "rank": 2,
+       "title": "Changing epidemiology of type 2 diabetes mellitus and associated chronic kidney ",
+       "why": "venue:Nature Reviews Nephrology"
+      },
+      {
+       "rank": 7,
+       "title": "Biomarkers in chronic kidney disease, from kidney function to kidney damage",
+       "why": "abstract:this review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 213,
+     "n_review": 17,
+     "review_share": 0.08
+    }
+   },
+   "flags": [
+    "twin_topic_score<0.7"
+   ],
+   "case": {
+    "id": "W2159020137",
+    "doi": "https://doi.org/10.1001/jama.2015.0602",
+    "title": "Glomerular Filtration Rate and Albuminuria for Detection and Staging of Acute and Chronic Kidney Disease in Adults",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 592,
+    "pct": 0.99875064,
+    "n_refs": 71,
+    "n_authors": 3,
+    "topic_id": "T10408",
+    "topic": "Chronic Kidney Disease and Diabetes",
+    "topic_score": 0.9915000200271606,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "JAMA",
+    "rank": 5,
+    "pool": 1064
+   },
+   "twin": {
+    "id": "W2076173928",
+    "doi": "https://doi.org/10.1177/0004563214568162",
+    "title": "Serum albumin-adjusted glycated albumin is a better indicator of glycaemic control in diabetic patients with end-stage renal disease not on haemodialysis",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 13,
+    "pct": 0.75203939,
+    "n_refs": 31,
+    "n_authors": 6,
+    "topic_id": "T10408",
+    "topic": "Chronic Kidney Disease and Diabetes",
+    "topic_score": 0.4478999972343445,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Annals of Clinical Biochemistry International Journal of Laboratory Medicine",
+    "rank": 622,
+    "pool": 1064
+   }
+  },
+  {
+   "topic": "Cryospheric studies and observations",
+   "topic_id": "T10644",
+   "path": "Physical Sciences > Earth and Planetary Sciences > Atmospheric Science > Cryospheric studies and observations",
+   "domain": "Physical Sciences",
+   "year": 2012,
+   "pool": 1101,
+   "ranks": {
+    "case": 6,
+    "twin": 630,
+    "case_band": [
+     0,
+     10
+    ],
+    "twin_band": [
+     440,
+     659
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 11,
+     "n_review": 2,
+     "review_share": 0.182,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Different glacier status with atmospheric circulations in Tibetan Plateau and su",
+       "why": "title:status"
+      },
+      {
+       "rank": 8,
+       "title": "Climate change in mountains: a review of elevation-dependent warming and its pos",
+       "why": "title:review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 220,
+     "n_review": 15,
+     "review_share": 0.068
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2048430163",
+    "doi": "https://doi.org/10.1038/nclimate1592",
+    "title": "Climate change impacts on glaciers and runoff in Tien Shan (Central Asia)",
+    "year": 2012,
+    "type": "article",
+    "cited_by_count": 943,
+    "pct": 0.99872505,
+    "n_refs": 74,
+    "n_authors": 5,
+    "topic_id": "T10644",
+    "topic": "Cryospheric studies and observations",
+    "topic_score": 1.0,
+    "field": "Earth and Planetary Sciences",
+    "domain": "Physical Sciences",
+    "oa_url": "https://zenodo.org/record/3425774",
+    "is_oa": true,
+    "venue": "Nature Climate Change",
+    "rank": 6,
+    "pool": 1101
+   },
+   "twin": {
+    "id": "W2075428046",
+    "doi": "https://doi.org/10.1007/s00704-012-0659-1",
+    "title": "Changes in temperature and temperature gradients in the French Northern Alps during the last century",
+    "year": 2012,
+    "type": "article",
+    "cited_by_count": 29,
+    "pct": 0.79708297,
+    "n_refs": 52,
+    "n_authors": 1,
+    "topic_id": "T10644",
+    "topic": "Cryospheric studies and observations",
+    "topic_score": 0.9997000098228455,
+    "field": "Earth and Planetary Sciences",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Theoretical and Applied Climatology",
+    "rank": 630,
+    "pool": 1101
+   }
+  },
+  {
+   "topic": "Craniofacial Disorders and Treatments",
+   "topic_id": "T11679",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Genetics > Craniofacial Disorders and Treatments",
+   "domain": "Life Sciences",
+   "year": 2010,
+   "pool": 524,
+   "ranks": {
+    "case": 2,
+    "twin": 214,
+    "case_band": [
+     0,
+     4
+    ],
+    "twin_band": [
+     209,
+     313
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 5,
+     "n_review": 1,
+     "review_share": 0.2,
+     "reviews": [
+      {
+       "rank": 3,
+       "title": "Craniofacial birth defects: The role of neural crest cells in the etiology and p",
+       "why": "abstract:This review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 105,
+     "n_review": 2,
+     "review_share": 0.019
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2073744318",
+    "doi": "https://doi.org/10.1186/1746-160x-6-18",
+    "title": "3D digital stereophotogrammetry: a practical guide to facial image acquisition",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 267,
+    "pct": 0.95520309,
+    "n_refs": 69,
+    "n_authors": 4,
+    "topic_id": "T11679",
+    "topic": "Craniofacial Disorders and Treatments",
+    "topic_score": 0.9995999932289124,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://head-face-med.biomedcentral.com/counter/pdf/10.1186/1746-160X-6-18",
+    "is_oa": true,
+    "venue": "Head & Face Medicine",
+    "rank": 2,
+    "pool": 524
+   },
+   "twin": {
+    "id": "W2082554197",
+    "doi": "https://doi.org/10.1097/scs.0b013e3181cfe970",
+    "title": "Absence of the Anterior Fontanelle Due to a Fontanellar Bone",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 18,
+    "pct": 0.71127166,
+    "n_refs": 6,
+    "n_authors": 2,
+    "topic_id": "T11679",
+    "topic": "Craniofacial Disorders and Treatments",
+    "topic_score": 1.0,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Craniofacial Surgery",
+    "rank": 214,
+    "pool": 524
+   }
+  },
+  {
+   "topic": "Obesity and Health Practices",
+   "topic_id": "T12066",
+   "path": "Health Sciences > Health Professions > Pharmacy > Obesity and Health Practices",
+   "domain": "Health Sciences",
+   "year": 2017,
+   "pool": 668,
+   "ranks": {
+    "case": 4,
+    "twin": 386,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     267,
+     399
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 6,
+     "n_review": 0,
+     "review_share": 0.0,
+     "reviews": []
+    },
+    "twin_band": {
+     "n_band": 133,
+     "n_review": 14,
+     "review_share": 0.105
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2766424213",
+    "doi": "https://doi.org/10.1002/oby.22054",
+    "title": "Perceptions of Barriers to Effective Obesity Care: Results from the National ACTION Study",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 313,
+    "pct": 0.99895849,
+    "n_refs": 23,
+    "n_authors": 13,
+    "topic_id": "T12066",
+    "topic": "Obesity and Health Practices",
+    "topic_score": 0.9761000275611877,
+    "field": "Health Professions",
+    "domain": "Health Sciences",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/oby.22054",
+    "is_oa": true,
+    "venue": "Obesity",
+    "rank": 4,
+    "pool": 668
+   },
+   "twin": {
+    "id": "W2585763612",
+    "doi": "https://doi.org/10.1080/10410236.2016.1278497",
+    "title": "An Examination of How People Who Have Lost Weight Communicatively Negotiate Interpersonal Challenges to Weight Management",
+    "year": 2017,
+    "type": "article",
+    "cited_by_count": 8,
+    "pct": 0.72905818,
+    "n_refs": 50,
+    "n_authors": 1,
+    "topic_id": "T12066",
+    "topic": "Obesity and Health Practices",
+    "topic_score": 0.9987000226974487,
+    "field": "Health Professions",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Health Communication",
+    "rank": 386,
+    "pool": 668
+   }
+  },
+  {
+   "topic": "Neuroscience of respiration and sleep",
+   "topic_id": "T11456",
+   "path": "Life Sciences > Neuroscience > Endocrine and Autonomic Systems > Neuroscience of respiration and sleep",
+   "domain": "Life Sciences",
+   "year": 2018,
+   "pool": 689,
+   "ranks": {
+    "case": 3,
+    "twin": 284,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     275,
+     412
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 6,
+     "n_review": 2,
+     "review_share": 0.333,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Breathing matters",
+       "why": "venue:Nature reviews. Neuroscience"
+      },
+      {
+       "rank": 2,
+       "title": "Neural Mechanisms of Inflammation-Induced Fever",
+       "why": "abstract:we review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 138,
+     "n_review": 10,
+     "review_share": 0.072
+    }
+   },
+   "flags": [
+    "twin_topic_score<0.7"
+   ],
+   "case": {
+    "id": "W2792962347",
+    "doi": "https://doi.org/10.1038/s41467-018-03223-x",
+    "title": "The interdependence of excitation and inhibition for the control of dynamic breathing rhythms",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 180,
+    "pct": 0.98568837,
+    "n_refs": 80,
+    "n_authors": 3,
+    "topic_id": "T11456",
+    "topic": "Neuroscience of respiration and sleep",
+    "topic_score": 1.0,
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.nature.com/articles/s41467-018-03223-x.pdf",
+    "is_oa": true,
+    "venue": "Nature Communications",
+    "rank": 3,
+    "pool": 689
+   },
+   "twin": {
+    "id": "W2891303987",
+    "doi": "https://doi.org/10.1186/s12904-018-0361-x",
+    "title": "Intranasal fentanyl for respiratory distress in children and adolescents with life-limiting conditions",
+    "year": 2018,
+    "type": "article",
+    "cited_by_count": 16,
+    "pct": 0.63238556,
+    "n_refs": 53,
+    "n_authors": 3,
+    "topic_id": "T11456",
+    "topic": "Neuroscience of respiration and sleep",
+    "topic_score": 0.5504999756813049,
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": "https://link.springer.com/content/pdf/10.1186/s12904-018-0361-x.pdf",
+    "is_oa": true,
+    "venue": "BMC Palliative Care",
+    "rank": 284,
+    "pool": 689
+   }
+  }
+ ],
+ "split": "dev"
+}
