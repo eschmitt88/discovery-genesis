@@ -21,6 +21,9 @@ ROOT = HERE.parents[1]
 import sys
 NAME = sys.argv[1] if len(sys.argv) > 1 else "pilotB"
 FEATURES = ROOT / "data" / "features" / f"{NAME}.csv"
+# Optional: restrict to pairs whose BOTH members two blind coders called primary
+# research (genesis.primary). Pass the verdict file as argv[2].
+PRIMARY = Path(sys.argv[2]) if len(sys.argv) > 2 else None
 
 PREDICTED = {                      # feature -> predicted sign of (case - twin); 0 = measured only
     "ref_share_le3": +1, "ref_age_median": -1, "ref_age_mean": -1,
@@ -80,8 +83,16 @@ def main():
     for r in rows:
         pairs.setdefault(int(r["pair"]), {})[r["role"]] = r
     pairs = {k: v for k, v in pairs.items() if "case" in v and "twin" in v}
+    n_all = len(pairs)
+    if PRIMARY and PRIMARY.exists():
+        keep = {p["pair"] for p in json.load(PRIMARY.open())["pairs"] if p["keep"]}
+        pairs = {k: v for k, v in pairs.items() if k in keep}
     out, lines = {"n_pairs": len(pairs), "features": {}}, []
     lines.append(f"# H1 {NAME} — paired differences (case − twin), n = {len(pairs)} pairs\n")
+    if PRIMARY and PRIMARY.exists():
+        lines.append(f"Restricted to pairs both of whose members two blind coders called primary "
+                     f"research ({len(pairs)} of {n_all}); verdicts in `{PRIMARY.name}`.\n")
+        out["n_pairs_before_primary_filter"] = n_all
     lines.append("| feature | predicted | case median | twin median | median Δ | case>twin | case<twin | Wilcoxon p | Cliff δ |")
     lines.append("|---|---|---|---|---|---|---|---|---|")
     for feat, sign in PREDICTED.items():
