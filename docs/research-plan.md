@@ -228,7 +228,19 @@ primary research only; held-out 5 pairs untouched).
   what distinguishes impact here; working at the live edge of a hot, *local*
   literature is. Caveat: a mean share cannot see Uzzi's atypical *tail*, and
   the atypicality null model is not built yet.
-- **H0: an idea-first genesis is the minority.** Two blind coders over 14
+- **H0 confirmed and audited (2026-08-24).** Across 192 blind codings of
+  the main sample idea-first was assigned once. Because v1.1 reaches
+  idea-first last and defines it strictly, this was re-tested on 31
+  stratified papers with the decision order **reversed** and each model
+  given an independent hearing: idea-first rises only from 2 % to 6 % of
+  codings, no paper is idea-first to both coders, and coders keep the same
+  label under both orders on ~75 % of papers. **The near-absence of
+  idea-first is not a procedural artefact.** Two thirds read as
+  problem-first under either order. The claim this licenses is about the
+  *record*: an impactful primary paper very rarely shows a proposition its
+  authors could have stated before starting. See
+  `results/h0-order-sensitivity.md`.
+- **(pilot, superseded) H0: an idea-first genesis is the minority.** Two blind coders over 14
   papers (κ = 0.714 on `genesis_model`, gate passed first try): idea-first
   2–3, means-first 4, problem-first 3–4, accretion 3–5. Both coders
   independently concluded a prospectively-statable proposition was the
