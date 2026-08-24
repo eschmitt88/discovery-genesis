@@ -203,3 +203,20 @@ The rules below **are in force**; the numbered issues they answer follow.
    `consolidation` 8×, on the same 16 papers (move Jaccard 0.70 → 0.43).
    Both are being used as the "default second label". Rule: a second label
    is listed only if removing it would make the card false.
+
+## Dossier support for the means-first rule (added 2026-08-24)
+
+Three coders independently reported that the v1.1 means-first test — *is
+the capability new to the authors?* — was the rule they most often had to
+guess at, because the dossier's reference list did not say which references
+the authors wrote themselves. `genesis.dossier` now marks every reference
+sharing an author with the focal paper (**SELF**) and prints the count in
+the section heading. Validated against a coder's manual count: 15 of 92 on
+the Krische reductive-coupling paper, where the coder had estimated
+"~15–20 self-citations on the same strategy".
+
+Use it directly: **≥ 4 self-citations of the same method/platform →
+problem-first** (serial reuse); **0–1, or the capability first cited ≤ 2
+years before the paper → means-first**. Cards coded before this change
+(pilot B, main50) inferred self-citation from author names in titles and
+should be treated as noisier on this axis.

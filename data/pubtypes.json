@@ -1745,5 +1745,86 @@
   "crossref_subtype": null,
   "review_flags": [],
   "is_review_signal": false
+ },
+ "W2015267536": {
+  "id": "W2015267536",
+  "openalex_type": "article",
+  "n_refs": 19,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2783667606": {
+  "id": "W2783667606",
+  "openalex_type": "article",
+  "n_refs": 60,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2891229446": {
+  "id": "W2891229446",
+  "openalex_type": "article",
+  "n_refs": 24,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2096325810": {
+  "id": "W2096325810",
+  "openalex_type": "article",
+  "n_refs": 32,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2423190257": {
+  "id": "W2423190257",
+  "openalex_type": "article",
+  "n_refs": 19,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
  }
 }
