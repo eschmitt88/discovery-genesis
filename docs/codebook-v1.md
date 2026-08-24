@@ -220,3 +220,22 @@ problem-first** (serial reuse); **0–1, or the capability first cited ≤ 2
 years before the paper → means-first**. Cards coded before this change
 (pilot B, main50) inferred self-citation from author names in titles and
 should be treated as noisier on this axis.
+
+
+## v1.2 — queued (from the H0 order-sensitivity audit, 2026-08-24)
+
+The cascade suppresses one real pattern: a comprehensive modern study
+organised around **someone else's** long-standing published proposition
+(trisomy-21 interferon-receptor dosage, proposed 1974–78, tested
+comprehensively in 2016). The cascade stops at problem-first — old question,
+existing tools — and never weighs the antecedent claim.
+
+Fix: ask of every paper, independently of the cascade, and record as its own
+field:
+
+    antecedent_proposition: <none | authors' own prior claim | third-party claim>
+    antecedent_year: <year the proposition was first stated, or null>
+    antecedent_evidence: "<the cited work stating it>"
+
+This keeps the cascade's reliability (κ 0.73) while making the suppressed
+pattern visible and countable instead of silently folded into problem-first.

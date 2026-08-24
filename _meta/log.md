@@ -47,3 +47,4 @@ skills; read by `/lint`.
 2026-08-22 19:56 wrap: H1 pilot B result, codebook v1, 26 ingests
 2026-08-23 02:39 codebook v1.1 frozen (kappa 0.73, 30 papers)
 2026-08-23 02:39 ADR 0002 pilot design decisions
+2026-08-24 01:52 H0 order-sensitivity audit: idea-first robust at 2-6%
