@@ -249,3 +249,34 @@
   been rate-limited on Europe PMC; and 46 of 50 background pools are
   missing, so the velocity control and atypicality null are unavailable at
   n = 50.
+- 2026-08-24 **main50 coding, 192 of 200 codings in** (8 blind coders, 4
+  pair-blinded groups, frozen v1.1). Aggregate over the 96 papers coded by
+  both:
+  - `genesis_model`: problem-first **139**, accretion 31, means-first 21,
+    **idea-first 1**.
+  - `is_primary`: yes 147, no 32, partial 13 — **16 papers both coders call
+    not-primary**, which is the review contamination the regex missed.
+  - moves: `gap-filling:next-target` 83, `:first-measurement` 41,
+    consolidation 31, recombination 26, instrument 18, `:bigger-n` 5,
+    formalisation 4, `:other` 3, unification 2, transfer 2, anomaly 2,
+    relaxation 1, resource 1.
+  - evidence: abstract-only 110, full-text 41, title+refs-only 24,
+    abstract+contexts 15, tldr-only 2.
+- **H0 is now degenerate and that is a codebook artefact, not a finding.**
+  One idea-first coding in 192 cannot be read as "idea-first is rare in
+  nature". v1.1 does two things that make it unreachable: the decision
+  order tries accretion → means-first → problem-first *before* idea-first,
+  so anything with a named gap stops at problem-first; and the idea-first
+  bar ("a proposition statable before the work began; a gap statement is
+  not a proposition") is strict. The pilot's v0 pass, with no decision
+  order, coded idea-first 2–3 times in 14. The honest statement is:
+  **under a strict, order-first codebook almost no paper's genesis reads as
+  idea-first from the record** — which is a claim about what the written
+  record can show, not about how the work happened.
+- Planned sensitivity check before H0 is reported at all: re-code a
+  stratified subset with the decision order **reversed** (idea-first
+  tested first, then problem-first, then means-first, then accretion) and
+  compare the distributions. If idea-first stays ≈ 0 under reversal, the
+  strictness is doing the work and the finding is about the record; if it
+  rises materially, the order is doing the work and v1.1 needs a
+  simultaneous-judgement design rather than a cascade.
