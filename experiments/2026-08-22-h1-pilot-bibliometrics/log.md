@@ -280,3 +280,20 @@
   strictness is doing the work and the finding is about the record; if it
   rises materially, the order is doing the work and v1.1 needs a
   simultaneous-judgement design rather than a cascade.
+- 2026-08-24 **primary-research verdicts and the pooled H1.**
+  `genesis.primary` combines the two blind coders' `is_primary` with the
+  external publication types. main50: 16 works excluded, 8 disputed, 76
+  primary — **14 of 50 cases vs 2 of 50 twins excluded**. pilot B: 5
+  excluded, 2 disputed. Pairs surviving: 29/50 and 9/15 → **38 pooled
+  primary-research pairs**.
+  - Replicates: `ref_hot_median` +140 (32/38 pairs, q < 0.0001) —
+    independently large in both samples; `ref_fwci_median` +2.7;
+    `ref_share_le3` +0.072; `n_refs` +13.5; `n_authors` +2;
+    `n_institutions` +1.5; `ref_age_median` −2 y (q = 0.048).
+  - **Does not replicate: the breadth reversal.** All four cross-boundary
+    features are null pooled. The n = 15 claim that impactful papers are
+    "more local" was over-read; the honest statement is that citation
+    breadth does not distinguish impact in either direction.
+  - Note `n_refs` survives the review filter (+13.5, 31/38): impactful
+    primary papers do cite somewhat more, but nothing like the +92 that
+    review contamination produced in pilot A.

@@ -2236,5 +2236,82 @@
   "crossref_subtype": null,
   "review_flags": [],
   "is_review_signal": false
+ },
+ "W2141454239": {
+  "id": "W2141454239",
+  "openalex_type": "article",
+  "n_refs": 36,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2914150220": {
+  "id": "W2914150220",
+  "openalex_type": "article",
+  "n_refs": 36,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2973034366": {
+  "id": "W2973034366",
+  "openalex_type": "article",
+  "n_refs": 21,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2960399794": {
+  "id": "W2960399794",
+  "openalex_type": "article",
+  "n_refs": 62,
+  "epmc_types": [
+   "research-article",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2945280440": {
+  "id": "W2945280440",
+  "openalex_type": "article",
+  "n_refs": 86,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
  }
 }

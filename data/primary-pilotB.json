@@ -1,0 +1,535 @@
+{
+ "sample": "data/samples/pilotB.json",
+ "coders": [
+  "coderA",
+  "coderB"
+ ],
+ "works": {
+  "W2597760097": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 69,
+   "role": "case",
+   "title": "A Pseudomonas T6SS effector recruits PQS-containing outer membrane vesicles for iron acquisition"
+  },
+  "W2624619100": {
+   "verdict": "disputed",
+   "coders": {
+    "coderA": "no",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 49,
+   "role": "twin",
+   "title": "Microbial Suicide"
+  },
+  "W2852434548": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "partial"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 105,
+   "role": "case",
+   "title": "OpenIE-based approach for Knowledge Graph construction from text"
+  },
+  "W2790837578": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "partial"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 42,
+   "role": "twin",
+   "title": "Using Ontologies for Business Capability modelling: Describing What Services and Processes Achieve"
+  },
+  "W2149161770": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 36,
+   "role": "case",
+   "title": "Primary contribution to zebrafish heart regeneration by gata4+ cardiomyocytes"
+  },
+  "W2030763722": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "partial"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 20,
+   "role": "twin",
+   "title": "Detecting 22q11.2 Deletions by Use of Multiplex Ligation-Dependent Probe Amplification on DNA from Neonatal Dried Blood Spot Samples"
+  },
+  "W2806550153": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review"
+   ],
+   "n_refs": 5,
+   "role": "case",
+   "title": "Tobacco Product Use Among Middle and High School Students \u2014 United States, 2011\u20132017"
+  },
+  "W2803000566": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "yes"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review"
+   ],
+   "n_refs": 22,
+   "role": "twin",
+   "title": "Decline of adolescent smoking in Ireland 1995\u20132015: trend analysis and associated factors"
+  },
+  "W2318832362": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 60,
+   "role": "case",
+   "title": "Characterization of Lignin Structures and Lignin\u2013Carbohydrate Complex (LCC) Linkages by Quantitative 13C and 2D HSQC NMR Spectroscopy"
+  },
+  "W2162382108": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 46,
+   "role": "twin",
+   "title": "Lignin characteristics of bast fiber and core in kenaf, bark and wood of paper mulberry and mulberry"
+  },
+  "W2600578302": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 24,
+   "role": "case",
+   "title": "Effect of KIT and PDGFRA Mutations on Survival in Patients With Gastrointestinal Stromal Tumors Treated With Adjuvant Imatinib"
+  },
+  "W2744174631": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review",
+    "epmc_types:Review"
+   ],
+   "n_refs": 65,
+   "role": "twin",
+   "title": "Clinical and morphological characteristics of gastrointestinal stromal tumors"
+  },
+  "W2078338131": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 26,
+   "role": "case",
+   "title": "Convergence of electronic bands for high performance bulk thermoelectrics"
+  },
+  "W2022565558": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 19,
+   "role": "twin",
+   "title": "Thin films of thermoelectric compound Mg2Sn deposited by co-sputtering assisted by multi-dipolar microwave plasma"
+  },
+  "W2134599653": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 25,
+   "role": "case",
+   "title": "Early Use of TIPS in Patients with Cirrhosis and Variceal Bleeding"
+  },
+  "W2015267536": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 19,
+   "role": "twin",
+   "title": "Analysis of elevated liver enzymes in an acute medical setting: Jaundice may indicate increased survival in elderly patients with bacterial sepsis"
+  },
+  "W2783667606": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 60,
+   "role": "case",
+   "title": "Chromosomal instability drives metastasis through a cytosolic DNA response"
+  },
+  "W2891229446": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 24,
+   "role": "twin",
+   "title": "Decreased RIG-I expression is associated with poor prognosis and promotes cell invasion in human gastric cancer"
+  },
+  "W2096325810": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 32,
+   "role": "case",
+   "title": "Observation of a Localized Flat-Band State in a Photonic Lieb Lattice"
+  },
+  "W2423190257": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 19,
+   "role": "twin",
+   "title": "Compact rubidium-stabilized multi-frequency reference source in the 155-\u03bcm region"
+  },
+  "W2127780961": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 57,
+   "role": "case",
+   "title": "Cervical cancer risk for women undergoing concurrent testing for human papillomavirus and cervical cytology: a population-based study in routine clinical practice"
+  },
+  "W2044126692": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 52,
+   "role": "twin",
+   "title": "The Role of p73 G4C14-to-A4T14 Polymorphism in the Susceptibility to Cervical Cancer"
+  },
+  "W2620991346": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review",
+    "epmc_types:Review"
+   ],
+   "n_refs": 66,
+   "role": "case",
+   "title": "Tumor Necrosis Factor\u2010Alpha: Role in Development of Insulin Resistance and Pathogenesis of Type 2 Diabetes Mellitus"
+  },
+  "W2772954730": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 58,
+   "role": "twin",
+   "title": "Effects of exergaming on cardiovascular risk factors and adipokine levels in women"
+  },
+  "W2837320447": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 89,
+   "role": "case",
+   "title": "Brain-wide glymphatic enhancement and clearance in humans assessed with MRI"
+  },
+  "W2931736102": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 23,
+   "role": "twin",
+   "title": "A novel view on Alzheimer\u2019s disease pathogenesis: modern conceptof amyloid clearance"
+  },
+  "W2136608905": {
+   "verdict": "disputed",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "partial"
+   },
+   "external_review": true,
+   "external_flags": [
+    "epmc_types:Review"
+   ],
+   "n_refs": 42,
+   "role": "case",
+   "title": "The behaviour change wheel: A new method for characterising and designing behaviour change interventions"
+  },
+  "W2035612475": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "partial"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 34,
+   "role": "twin",
+   "title": "Integrated Healthscape Strategies: An Ecological Approach to Evidence-Based Design"
+  },
+  "W2896933604": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 41,
+   "role": "case",
+   "title": "Identification and risk assessment of spinosad resistance in a California population of Drosophila suzukii"
+  },
+  "W2899493151": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "partial"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 35,
+   "role": "twin",
+   "title": "Real\u2010time PCR assays for rapid detection of Zeugodacus cucumis and Bactrocera jarvisi (Diptera: Tephritidae) for quarantine application"
+  }
+ },
+ "pairs": [
+  {
+   "pair": 0,
+   "keep": false,
+   "verdicts": [
+    "primary",
+    "disputed"
+   ],
+   "topic": "Vibrio bacteria research studies",
+   "year": 2017
+  },
+  {
+   "pair": 1,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Semantic Web and Ontologies",
+   "year": 2018
+  },
+  {
+   "pair": 2,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Congenital heart defects research",
+   "year": 2010
+  },
+  {
+   "pair": 3,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "excluded"
+   ],
+   "topic": "Smoking Behavior and Cessation",
+   "year": 2018
+  },
+  {
+   "pair": 4,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Lignin and Wood Chemistry",
+   "year": 2011
+  },
+  {
+   "pair": 5,
+   "keep": false,
+   "verdicts": [
+    "primary",
+    "excluded"
+   ],
+   "topic": "Gastrointestinal Tumor Research and Treatment",
+   "year": 2017
+  },
+  {
+   "pair": 6,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Advanced Thermoelectric Materials and Devices",
+   "year": 2011
+  },
+  {
+   "pair": 7,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Liver Disease and Transplantation",
+   "year": 2010
+  },
+  {
+   "pair": 8,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "interferon and immune responses",
+   "year": 2018
+  },
+  {
+   "pair": 9,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Advanced Fiber Laser Technologies",
+   "year": 2015
+  },
+  {
+   "pair": 10,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Cervical Cancer and HPV Research",
+   "year": 2011
+  },
+  {
+   "pair": 11,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "primary"
+   ],
+   "topic": "Adipokines, Inflammation, and Metabolic Diseases",
+   "year": 2017
+  },
+  {
+   "pair": 12,
+   "keep": false,
+   "verdicts": [
+    "primary",
+    "excluded"
+   ],
+   "topic": "Cerebrospinal fluid and hydrocephalus",
+   "year": 2018
+  },
+  {
+   "pair": 13,
+   "keep": false,
+   "verdicts": [
+    "disputed",
+    "primary"
+   ],
+   "topic": "Health Policy Implementation Science",
+   "year": 2011
+  },
+  {
+   "pair": 14,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Insect behavior and control techniques",
+   "year": 2018
+  }
+ ],
+ "n_pairs_total": 15,
+ "n_pairs_kept": 9
+}
