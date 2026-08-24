@@ -1,0 +1,1765 @@
+{
+ "sample": "data/samples/main50.json",
+ "coders": [
+  "coderA",
+  "coderB"
+ ],
+ "works": {
+  "W1979639801": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 53,
+   "role": "case",
+   "title": "Recomendaciones sobre el estilo de vida"
+  },
+  "W2339696061": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 6,
+   "role": "twin",
+   "title": "Probabilidad de evento coronario en los pr\u00f3ximos 10 a\u00f1os en pacientes diab\u00e9ticos seg\u00fan la escala de Framingham - REGICOR"
+  },
+  "W2917815849": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 51,
+   "role": "case",
+   "title": "Bacterial cGAS-like enzymes synthesize diverse nucleotide signals"
+  },
+  "W2913469753": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 27,
+   "role": "twin",
+   "title": "Bivalent oral cholera vaccination induces a memory B cell response to the V. cholerae O1-polysaccharide antigen in Haitian adults"
+  },
+  "W2064056867": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 36,
+   "role": "case",
+   "title": "The role of electric field in pore formation during aluminum anodization"
+  },
+  "W4382023531": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 27,
+   "role": "twin",
+   "title": "Preparation of 6-Diallylamino-1,3,5-Triazine-2,4-Dithiol Functional Nanofilm by Electrochemical Polymerization Technique on Aluminum Surface"
+  },
+  "W2070451836": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 30,
+   "role": "case",
+   "title": "Critical aspects of using bacterial cell viability assays with the fluorophores SYTO9 and propidium iodide"
+  },
+  "W2190457155": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 40,
+   "role": "twin",
+   "title": "Endoplasmic Reticulum-Associated rht-PA Processing in CHO Cells: Influence of Mild Hypothermia and Specific Growth Rates in Batch and Chemostat Cultures"
+  },
+  "W2292628419": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 51,
+   "role": "case",
+   "title": "Intelligent Multifunctional VO2/SiO2/TiO2 Coatings for Self-Cleaning, Energy-Saving Window Panels"
+  },
+  "W2288936626": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 47,
+   "role": "twin",
+   "title": "A first-principles study on new high-pressure metastable polymorphs of MoO2"
+  },
+  "W2954733066": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 60,
+   "role": "case",
+   "title": "A mirage of cryptic species: Genomics uncover striking mitonuclear discordance in the butterfly Thymelicus sylvestris"
+  },
+  "W2963245931": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "partial"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 8,
+   "role": "twin",
+   "title": "The mitochondrial genome of Erannis ankeraria (Lepidoptera: Geometridae)"
+  },
+  "W2109003093": {
+   "verdict": "disputed",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "partial"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review"
+   ],
+   "n_refs": 143,
+   "role": "case",
+   "title": "Chelyabinsk Airburst, Damage Assessment, Meteorite Recovery, and Characterization"
+  },
+  "W1981899327": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 46,
+   "role": "twin",
+   "title": "Experimental investigation of reduced volatile formation by high-temperature interactions among meteorite constituent materials, water, and nitrogen"
+  },
+  "W2923326318": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 53,
+   "role": "case",
+   "title": "Further Evidence of the Relationship Between Cochlear Implant Electrode Positioning and Hearing Outcomes"
+  },
+  "W2787401765": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "partial"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 28,
+   "role": "twin",
+   "title": "The test-retest reliability of questionnaires regarding attitudes and beliefs toward noise, hearing loss, and hearing protector devices in young adults."
+  },
+  "W2018722914": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 32,
+   "role": "case",
+   "title": "Effects of Rare Earth on the Microstructure and Impact Toughness of H13 Steel"
+  },
+  "W1570262056": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 25,
+   "role": "twin",
+   "title": "Load-carrying capacity of WC/C-coated gears lubricated with a low-viscosity oil"
+  },
+  "W2126595565": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 43,
+   "role": "case",
+   "title": "Hamstring muscle injuries in professional football: the correlation of MRI findings with return to play"
+  },
+  "W2016739320": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 38,
+   "role": "twin",
+   "title": "Revisi\u00f3n bibliogr\u00e1fica de la efectividad del kinesiotaping"
+  },
+  "W2803566305": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review",
+    "epmc_types:review-article",
+    "epmc_types:Review"
+   ],
+   "n_refs": 103,
+   "role": "case",
+   "title": "GalNAc-siRNA Conjugates: Leading the Way for Delivery of RNAi Therapeutics"
+  },
+  "W2903661111": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 30,
+   "role": "twin",
+   "title": "Cloning and expression of L-asparaginase from Bacillus tequilensis PV9W and therapeutic efficacy of Solid Lipid Particle formulations against cancer"
+  },
+  "W1045711957": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 34,
+   "role": "case",
+   "title": "Nil-clean and strongly nil-clean rings"
+  },
+  "W2072407405": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 13,
+   "role": "twin",
+   "title": "On Reduced Zero-Divisor Graphs of Posets"
+  },
+  "W1774024296": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review",
+    "epmc_types:Review"
+   ],
+   "n_refs": 160,
+   "role": "case",
+   "title": "Microbial terroir and food innovation: The case of yeast biodiversity in wine"
+  },
+  "W1190150953": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 20,
+   "role": "twin",
+   "title": "Physico-chemical properties of botrytised Chenin blanc grapes to assess the extent of noble rot"
+  },
+  "W2010892660": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 30,
+   "role": "case",
+   "title": "The impact of wind generation on the electricity spot-market price level and variance: The Texas experience"
+  },
+  "W2066936468": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 31,
+   "role": "twin",
+   "title": "A Novel Improved Particle Swarm Optimization Approach for Dynamic Economic Dispatch Incorporating Wind Power"
+  },
+  "W2890676278": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 73,
+   "role": "case",
+   "title": "Well-Defined Palladium(II)\u2013NHC Precatalysts for Cross-Coupling Reactions of Amides and Esters by Selective N\u2013C/O\u2013C Cleavage"
+  },
+  "W2884792634": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 54,
+   "role": "twin",
+   "title": "Palladium\u2010Catalyzed Domino Heck/Silylation Reaction for the Synthesis of (2\u2010Oxoindolin\u20103\u2010yl)methylsilanes via Trapping of the \u03c3\u2010Alkylpalladium Intermediates with Disilanes"
+  },
+  "W2002459863": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 71,
+   "role": "case",
+   "title": "Structure and dynamics of the pan-genome of Streptococcus pneumoniae and closely related species"
+  },
+  "W2041131478": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 23,
+   "role": "twin",
+   "title": "Prevalence of undiagnosed hypoxemia in adults and children in an under-resourced district hospital in Zambia"
+  },
+  "W1989920209": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 15,
+   "role": "case",
+   "title": "Universality of Tip Singularity Formation in Freezing Water Drops"
+  },
+  "W2020416394": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 13,
+   "role": "twin",
+   "title": "Production of a high-velocity water slug using an impacting technique"
+  },
+  "W2128144746": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "partial"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 101,
+   "role": "case",
+   "title": "The Americleft Speech Project: A Training and Reliability Study"
+  },
+  "W2408915156": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 11,
+   "role": "twin",
+   "title": "[Influential factors affecting the postoperative velopharyngeal function among aged cleft palate patients]."
+  },
+  "W2739511401": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 37,
+   "role": "case",
+   "title": "Characterization of Pickering emulsion gels stabilized by zein/gum arabic complex colloidal nanoparticles"
+  },
+  "W2729223875": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 35,
+   "role": "twin",
+   "title": "Microfluidic fabrication of photonic encoding magnetized silica microspheres for aptamer-based enrichment of Ochratoxin A"
+  },
+  "W2789752648": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review",
+    "epmc_types:review-article",
+    "epmc_types:Review"
+   ],
+   "n_refs": 489,
+   "role": "case",
+   "title": "Galectin-3: One Molecule for an Alphabet of Diseases, from A to Z"
+  },
+  "W2893916093": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 37,
+   "role": "twin",
+   "title": "The Predictive Value of Plasma Brain Natriuretic Peptide and Galectin-3 in Elderly Patients Admitted for Heart Failure"
+  },
+  "W2040371569": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 36,
+   "role": "case",
+   "title": "Demonstration of a stable ultrafast laser based on a nonlinear microcavity"
+  },
+  "W2061124791": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 28,
+   "role": "twin",
+   "title": "Spectral phase shift and residual angular dispersion of an acousto-optic programmable dispersive filter"
+  },
+  "W2791765621": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 207,
+   "role": "case",
+   "title": "Phylogenomics and Comparative Genomic Studies Robustly Support Division of the Genus Mycobacterium into an Emended Genus Mycobacterium and Four Novel Genera"
+  },
+  "W2795063159": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 84,
+   "role": "twin",
+   "title": "Human IL12RB1 expression is allele-biased and produces a novel IL12 response regulator"
+  },
+  "W2147209470": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review",
+    "epmc_types:Review"
+   ],
+   "n_refs": 169,
+   "role": "case",
+   "title": "Mechanotransduction and fibrosis"
+  },
+  "W2018608811": {
+   "verdict": "disputed",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:LettersAndComments",
+    "epmc_types:Letter"
+   ],
+   "n_refs": 12,
+   "role": "twin",
+   "title": "Two novel mutations in the LOR gene in three families with loricrin keratoderma"
+  },
+  "W2193011214": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review"
+   ],
+   "n_refs": 53,
+   "role": "case",
+   "title": "Selection criteria for patients with chronic ankle instability in controlled research: a position statement of the International Ankle Consortium"
+  },
+  "W2127508065": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 29,
+   "role": "twin",
+   "title": "Prevalence of Accessory Ossicles and Sesamoid Bones in Hallux Valgus"
+  },
+  "W2519712219": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 60,
+   "role": "case",
+   "title": "Youthful Brains in Older Adults: Preserved Neuroanatomy in the Default Mode and Salience Networks Contributes to Youthful Memory in Superaging"
+  },
+  "W2552051208": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 57,
+   "role": "twin",
+   "title": "Sex, age, and sex hormones affect recall of words in a directed forgetting paradigm"
+  },
+  "W2194583909": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review",
+    "epmc_types:Review"
+   ],
+   "n_refs": 170,
+   "role": "case",
+   "title": "Production, properties, and industrial food application of lactic acid bacteria-derived exopolysaccharides"
+  },
+  "W2256802547": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 27,
+   "role": "twin",
+   "title": "Antioxidant, Anti-inflammatory and Cytotoxicity on Human Lung Epithelial A549 Cells of Jerusalem artichoke (Helianthus tuberosus L.) Tuber"
+  },
+  "W1993065952": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review",
+    "epmc_types:Review"
+   ],
+   "n_refs": 211,
+   "role": "case",
+   "title": "Teleost intestinal immunology"
+  },
+  "W1990273311": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 37,
+   "role": "twin",
+   "title": "Lymphocytes with T-cell-like properties express the Fas ligand in the Japanese flounder Paralichthys olivaceus"
+  },
+  "W2914434557": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review",
+    "epmc_types:Review"
+   ],
+   "n_refs": 68,
+   "role": "case",
+   "title": "Anatomy of the Facial Fat Compartments and their Relevance in Aesthetic Surgery"
+  },
+  "W2994312635": {
+   "verdict": "disputed",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review"
+   ],
+   "n_refs": 23,
+   "role": "twin",
+   "title": "Predictability of the Phenylephrine Test With Regard to Eyelid Skin Appearance in Patients Who Undergo M\u00fcller Muscle\u2013Conjunctival Resection Without Blepharoplasty"
+  },
+  "W2223380856": {
+   "verdict": "disputed",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review"
+   ],
+   "n_refs": 102,
+   "role": "case",
+   "title": "Memorable Tourist Experiences and Place Attachment When Consuming Local Food"
+  },
+  "W2524393622": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review"
+   ],
+   "n_refs": 23,
+   "role": "twin",
+   "title": "On Imitating the Regimen of Immortality or Facing the Diet of Mortal Reality: A Brief History of Abstinence from Flesh-Eating in Christianity"
+  },
+  "W1999185871": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review",
+    "epmc_types:Review"
+   ],
+   "n_refs": 401,
+   "role": "case",
+   "title": "Remediation of heavy metal(loid)s contaminated soils \u2013 To mobilize or to immobilize?"
+  },
+  "W2130334366": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 22,
+   "role": "twin",
+   "title": "Effect of sewage sludge on metal content of grassland soil and herbage in semiarid lands"
+  },
+  "W2487528628": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 89,
+   "role": "case",
+   "title": "Trisomy 21 consistently activates the interferon response"
+  },
+  "W2473872168": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 15,
+   "role": "twin",
+   "title": "Recurrent Cellulitis Caused by Helicobacter cinaedi in a Patient with X-linked Agammaglobulinaemia"
+  },
+  "W2027918153": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 48,
+   "role": "case",
+   "title": "Reconfigurable Folded Reflectarray Antenna Based Upon Liquid Crystal Technology"
+  },
+  "W2010048157": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 13,
+   "role": "twin",
+   "title": "Broadening bandwidth of the composite radar absorption material involving a frequency selective surface"
+  },
+  "W2005712468": {
+   "verdict": "disputed",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review"
+   ],
+   "n_refs": 56,
+   "role": "case",
+   "title": "To Eat or Not to Eat? Debris Selectivity by Marine Turtles"
+  },
+  "W1980373626": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 51,
+   "role": "twin",
+   "title": "Effects of road proximity on genetic diversity and reproductive success of the painted turtle (Chrysemys picta)"
+  },
+  "W2033708806": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 79,
+   "role": "case",
+   "title": "Oncogenic BRAF Regulates Oxidative Metabolism via PGC1\u03b1 and MITF"
+  },
+  "W1991144222": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 46,
+   "role": "twin",
+   "title": "Low BRAF and NRAS expression levels are associated with clinical benefit from DTIC therapy and prognosis in metastatic melanoma"
+  },
+  "W2034935579": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 294,
+   "role": "case",
+   "title": "The Growing Impact of Catalysis in the Pharmaceutical Industry"
+  },
+  "W4242228693": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 92,
+   "role": "twin",
+   "title": "Divergent Regioselectivity in the Synthesis of Trisubstituted Allylic Alcohols by Nickel\u2010 and Ruthenium\u2010Catalyzed Alkyne Hydrohydroxymethylation with Formaldehyde"
+  },
+  "W2154516141": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 38,
+   "role": "case",
+   "title": "Phase II Trial of Bevacizumab in Recurrent or Persistent Endometrial Cancer: A Gynecologic Oncology Group Study"
+  },
+  "W2130810987": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 49,
+   "role": "twin",
+   "title": "Genomic instability influences the transcriptome and proteome in endometrial cancer subtypes"
+  },
+  "W2096172188": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 101,
+   "role": "case",
+   "title": "A Conserved Network of Transcriptional Activators and Repressors Regulates Anthocyanin Pigmentation in Eudicots"
+  },
+  "W2146827637": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 78,
+   "role": "twin",
+   "title": "Constitutive expression of the poplar WRKY transcription factor PtoWRKY60 enhances resistance to Dothiorella gregaria Sacc. in transgenic plants"
+  },
+  "W2100987960": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 48,
+   "role": "case",
+   "title": "Cannabidiol Reduces the Anxiety Induced by Simulated Public Speaking in Treatment-Na\u00efve Social Phobia Patients"
+  },
+  "W1580136919": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 18,
+   "role": "twin",
+   "title": "Effects of the Analgesic Acetaminophen (Paracetamol) and its para\u2010Aminophenol Metabolite on Viability of Mouse\u2010Cultured Cortical Neurons"
+  },
+  "W2126719297": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 28,
+   "role": "case",
+   "title": "Classifying depression patients and normal subjects using machine learning techniques and nonlinear features from EEG signal"
+  },
+  "W1993492026": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 14,
+   "role": "twin",
+   "title": "European Public Deliberation on Brain Machine Interface Technology: Five Convergence Seminars"
+  },
+  "W2914012905": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 65,
+   "role": "case",
+   "title": "GIS and AHP Techniques Based Delineation of Groundwater Potential Zones: a case study from Southern Western Ghats, India"
+  },
+  "W2941089783": {
+   "verdict": "disputed",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "partial"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review"
+   ],
+   "n_refs": 57,
+   "role": "twin",
+   "title": "Coupling groundwater GIS mapping and geovisualisation techniques in urban hydrogeomorphology: focus on methodology"
+  },
+  "W2785200097": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 20,
+   "role": "case",
+   "title": "Deep neural networks show an equivalent and often superior performance to dermatologists in onychomycosis diagnosis: Automatic construction of onychomycosis datasets by region-based convolutional deep neural network"
+  },
+  "W2955349987": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 21,
+   "role": "twin",
+   "title": "A Hospital-Based Observational Study on the Frequency of Different Skin Diseases and Patterns of Topical Steroid Misuse"
+  },
+  "W2019385975": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 86,
+   "role": "case",
+   "title": "Rate and molecular spectrum of spontaneous mutations in the bacterium Escherichia coli as determined by whole-genome sequencing"
+  },
+  "W2137122227": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 67,
+   "role": "twin",
+   "title": "Mutation Induced Extinction in Finite Populations: Lethal Mutagenesis and Lethal Isolation"
+  },
+  "W2158489246": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 42,
+   "role": "case",
+   "title": "Stabilization of clayey soil using ultrafine palm oil fuel ash (POFA) and cement"
+  },
+  "W2330296675": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 10,
+   "role": "twin",
+   "title": "Comparisons of Water Behavior and Moisture Content between Rockwools and Coir used in Soilless Culture"
+  },
+  "W2609551972": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "partial"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 36,
+   "role": "case",
+   "title": "antiSMASH 4.0\u2014improvements in chemistry prediction and gene cluster boundary identification"
+  },
+  "W2775639144": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 49,
+   "role": "twin",
+   "title": "Mitochondrial Signs and Subcellular Imaging Provide Insight into the Antifungal Mechanism of Carabrone against Gaeumannomyces graminis var. tritici"
+  },
+  "W4241624517": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 9,
+   "role": "case",
+   "title": "Design and fabrication of ultra-low crosstalk and low-loss multi-core fiber"
+  },
+  "W2139416103": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 27,
+   "role": "twin",
+   "title": "Performance Evaluation of WDM Systems Through Multicanonical Monte Carlo Simulations"
+  },
+  "W2159020137": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review",
+    "epmc_types:Systematic Review"
+   ],
+   "n_refs": 71,
+   "role": "case",
+   "title": "Glomerular Filtration Rate and Albuminuria for Detection and Staging of Acute and Chronic Kidney Disease in Adults"
+  },
+  "W2076173928": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 31,
+   "role": "twin",
+   "title": "Serum albumin-adjusted glycated albumin is a better indicator of glycaemic control in diabetic patients with end-stage renal disease not on haemodialysis"
+  },
+  "W2048430163": {
+   "verdict": "excluded",
+   "coders": {
+    "coderA": "no",
+    "coderB": "no"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 74,
+   "role": "case",
+   "title": "Climate change impacts on glaciers and runoff in Tien Shan (Central Asia)"
+  },
+  "W2075428046": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 52,
+   "role": "twin",
+   "title": "Changes in temperature and temperature gradients in the French Northern Alps during the last century"
+  },
+  "W2073744318": {
+   "verdict": "disputed",
+   "coders": {
+    "coderA": "partial",
+    "coderB": "partial"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review",
+    "epmc_types:review-article",
+    "epmc_types:Review"
+   ],
+   "n_refs": 69,
+   "role": "case",
+   "title": "3D digital stereophotogrammetry: a practical guide to facial image acquisition"
+  },
+  "W2082554197": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 6,
+   "role": "twin",
+   "title": "Absence of the Anterior Fontanelle Due to a Fontanellar Bone"
+  },
+  "W2766424213": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 23,
+   "role": "case",
+   "title": "Perceptions of Barriers to Effective Obesity Care: Results from the National ACTION Study"
+  },
+  "W2585763612": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 50,
+   "role": "twin",
+   "title": "An Examination of How People Who Have Lost Weight Communicatively Negotiate Interpersonal Challenges to Weight Management"
+  },
+  "W2792962347": {
+   "verdict": "primary",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": false,
+   "external_flags": [],
+   "n_refs": 80,
+   "role": "case",
+   "title": "The interdependence of excitation and inhibition for the control of dynamic breathing rhythms"
+  },
+  "W2891303987": {
+   "verdict": "disputed",
+   "coders": {
+    "coderA": "yes",
+    "coderB": "yes"
+   },
+   "external_review": true,
+   "external_flags": [
+    "s2_types:Review"
+   ],
+   "n_refs": 53,
+   "role": "twin",
+   "title": "Intranasal fentanyl for respiratory distress in children and adolescents with life-limiting conditions"
+  }
+ },
+ "pairs": [
+  {
+   "pair": 0,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "primary"
+   ],
+   "topic": "Health and Lifestyle Studies",
+   "year": 2016
+  },
+  {
+   "pair": 1,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Vibrio bacteria research studies",
+   "year": 2019
+  },
+  {
+   "pair": 2,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Anodic Oxide Films and Nanostructures",
+   "year": 2011
+  },
+  {
+   "pair": 3,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Viral Infectious Diseases and Gene Expression in Insects",
+   "year": 2015
+  },
+  {
+   "pair": 4,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Transition Metal Oxide Nanomaterials",
+   "year": 2016
+  },
+  {
+   "pair": 5,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Lepidoptera: Biology and Taxonomy",
+   "year": 2019
+  },
+  {
+   "pair": 6,
+   "keep": false,
+   "verdicts": [
+    "disputed",
+    "primary"
+   ],
+   "topic": "Astro and Planetary Science",
+   "year": 2013
+  },
+  {
+   "pair": 7,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Hearing Loss and Rehabilitation",
+   "year": 2019
+  },
+  {
+   "pair": 8,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Metal Alloys Wear and Properties",
+   "year": 2015
+  },
+  {
+   "pair": 9,
+   "keep": false,
+   "verdicts": [
+    "primary",
+    "excluded"
+   ],
+   "topic": "Sports injuries and prevention",
+   "year": 2011
+  },
+  {
+   "pair": 10,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "primary"
+   ],
+   "topic": "RNA Interference and Gene Delivery",
+   "year": 2018
+  },
+  {
+   "pair": 11,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Rings, Modules, and Algebras",
+   "year": 2015
+  },
+  {
+   "pair": 12,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "primary"
+   ],
+   "topic": "Fermentation and Sensory Analysis",
+   "year": 2015
+  },
+  {
+   "pair": 13,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Electric Power System Optimization",
+   "year": 2011
+  },
+  {
+   "pair": 14,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "primary"
+   ],
+   "topic": "Catalytic Cross-Coupling Reactions",
+   "year": 2018
+  },
+  {
+   "pair": 15,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Pneumonia and Respiratory Infections",
+   "year": 2010
+  },
+  {
+   "pair": 16,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Fluid Dynamics and Heat Transfer",
+   "year": 2014
+  },
+  {
+   "pair": 17,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Cleft Lip and Palate Research",
+   "year": 2014
+  },
+  {
+   "pair": 18,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Pickering emulsions and particle stabilization",
+   "year": 2017
+  },
+  {
+   "pair": 19,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "primary"
+   ],
+   "topic": "Galectins and Cancer Biology",
+   "year": 2018
+  },
+  {
+   "pair": 20,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Advanced Fiber Laser Technologies",
+   "year": 2012
+  },
+  {
+   "pair": 21,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Mycobacterium research and diagnosis",
+   "year": 2018
+  },
+  {
+   "pair": 22,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "disputed"
+   ],
+   "topic": "Skin and Cellular Biology Research",
+   "year": 2014
+  },
+  {
+   "pair": 23,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "primary"
+   ],
+   "topic": "Foot and Ankle Surgery",
+   "year": 2013
+  },
+  {
+   "pair": 24,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Memory Processes and Influences",
+   "year": 2016
+  },
+  {
+   "pair": 25,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "primary"
+   ],
+   "topic": "Microbial Metabolites in Food Biotechnology",
+   "year": 2015
+  },
+  {
+   "pair": 26,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "primary"
+   ],
+   "topic": "Aquaculture disease management and microbiota",
+   "year": 2010
+  },
+  {
+   "pair": 27,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "disputed"
+   ],
+   "topic": "Facial Rejuvenation and Surgery Techniques",
+   "year": 2019
+  },
+  {
+   "pair": 28,
+   "keep": false,
+   "verdicts": [
+    "disputed",
+    "excluded"
+   ],
+   "topic": "Culinary Culture and Tourism",
+   "year": 2016
+  },
+  {
+   "pair": 29,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "primary"
+   ],
+   "topic": "Heavy metals in environment",
+   "year": 2013
+  },
+  {
+   "pair": 30,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Immunodeficiency and Autoimmune Disorders",
+   "year": 2016
+  },
+  {
+   "pair": 31,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Advanced Antenna and Metasurface Technologies",
+   "year": 2014
+  },
+  {
+   "pair": 32,
+   "keep": false,
+   "verdicts": [
+    "disputed",
+    "primary"
+   ],
+   "topic": "Turtle Biology and Conservation",
+   "year": 2012
+  },
+  {
+   "pair": 33,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Melanoma and MAPK Pathways",
+   "year": 2013
+  },
+  {
+   "pair": 34,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "primary"
+   ],
+   "topic": "Asymmetric Hydrogenation and Catalysis",
+   "year": 2011
+  },
+  {
+   "pair": 35,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Endometrial and Cervical Cancer Treatments",
+   "year": 2011
+  },
+  {
+   "pair": 36,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Plant Gene Expression Analysis",
+   "year": 2014
+  },
+  {
+   "pair": 37,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Cannabis and Cannabinoid Research",
+   "year": 2011
+  },
+  {
+   "pair": 38,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "EEG and Brain-Computer Interfaces",
+   "year": 2012
+  },
+  {
+   "pair": 39,
+   "keep": false,
+   "verdicts": [
+    "primary",
+    "disputed"
+   ],
+   "topic": "Groundwater and Watershed Analysis",
+   "year": 2019
+  },
+  {
+   "pair": 40,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Nail Diseases and Treatments",
+   "year": 2018
+  },
+  {
+   "pair": 41,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Evolution and Genetic Dynamics",
+   "year": 2012
+  },
+  {
+   "pair": 42,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Geotechnical Engineering and Soil Stabilization",
+   "year": 2015
+  },
+  {
+   "pair": 43,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Microbial Natural Products and Biosynthesis",
+   "year": 2017
+  },
+  {
+   "pair": 44,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Optical Network Technologies",
+   "year": 2011
+  },
+  {
+   "pair": 45,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "primary"
+   ],
+   "topic": "Chronic Kidney Disease and Diabetes",
+   "year": 2015
+  },
+  {
+   "pair": 46,
+   "keep": false,
+   "verdicts": [
+    "excluded",
+    "primary"
+   ],
+   "topic": "Cryospheric studies and observations",
+   "year": 2012
+  },
+  {
+   "pair": 47,
+   "keep": false,
+   "verdicts": [
+    "disputed",
+    "primary"
+   ],
+   "topic": "Craniofacial Disorders and Treatments",
+   "year": 2010
+  },
+  {
+   "pair": 48,
+   "keep": true,
+   "verdicts": [
+    "primary",
+    "primary"
+   ],
+   "topic": "Obesity and Health Practices",
+   "year": 2017
+  },
+  {
+   "pair": 49,
+   "keep": false,
+   "verdicts": [
+    "primary",
+    "disputed"
+   ],
+   "topic": "Neuroscience of respiration and sleep",
+   "year": 2018
+  }
+ ],
+ "n_pairs_total": 50,
+ "n_pairs_kept": 29
+}

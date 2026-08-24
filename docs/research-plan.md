@@ -237,7 +237,21 @@ primary research only; held-out 5 pairs untouched).
   were already cited by the paper; exactly 1 was new-here; 19 of 28 cards had
   every ingredient cited. Case and twin are indistinguishable on this
   (52/60 vs 53/57). Anchoring caveat in the experiment log.
-- **Controls hold (2026-08-23).** Recency and hotness survive a
+- **CORRECTION (2026-08-24, 38 primary-only pairs).** The breadth reversal
+  below does **not** replicate. Pooling the pilot's 9 surviving pairs with
+  the main sample's 29, every cross-boundary citation feature is null
+  (topic −0.095, p = 0.15; subfield −0.083, p = 0.10; domain and
+  `ref_n_fields` flat). What replicates strongly is **reference hotness**
+  (+140 median citations, 32/38 pairs, q < 0.0001) and, more modestly,
+  reference recency (+0.072 share ≤ 3 y, q = 0.001; median age −2 y,
+  q = 0.048), team size (+2 authors, +1.5 institutions) and reference count
+  (+13.5). See `results/pooled-primary.md`. The n = 15 reading below is
+  kept as the record of what the pilot showed and what it got wrong.
+- **Review contamination is concentrated on the impactful side**: two blind
+  coders excluded 14 of 50 main-sample *cases* as reviews/guidelines/
+  consensus statements versus 2 of 50 twins. Any case/twin comparison run
+  without a primary-research filter measures reviews, not discovery.
+- **Controls hold (2026-08-23, n = 15 pilot only).** Recency and hotness survive a
   topic-year velocity control (the case is younger/hotter than its *own
   pool*, the twin older/colder; p = 0.012 / 0.042). A Uzzi-style subfield-
   pair atypicality null finds no atypical tail (p = 0.47) — the impactful
