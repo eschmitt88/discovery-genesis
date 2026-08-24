@@ -130,5 +130,1620 @@
   "crossref_subtype": null,
   "review_flags": [],
   "is_review_signal": false
+ },
+ "W2954733066": {
+  "id": "W2954733066",
+  "openalex_type": "article",
+  "n_refs": 60,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2963245931": {
+  "id": "W2963245931",
+  "openalex_type": "article",
+  "n_refs": 8,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2109003093": {
+  "id": "W2109003093",
+  "openalex_type": "article",
+  "n_refs": 143,
+  "s2_types": [
+   "JournalArticle",
+   "Review"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W1981899327": {
+  "id": "W1981899327",
+  "openalex_type": "article",
+  "n_refs": 46,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2923326318": {
+  "id": "W2923326318",
+  "openalex_type": "article",
+  "n_refs": 53,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2787401765": {
+  "id": "W2787401765",
+  "openalex_type": "article",
+  "n_refs": 28,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2018722914": {
+  "id": "W2018722914",
+  "openalex_type": "article",
+  "n_refs": 32,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W1570262056": {
+  "id": "W1570262056",
+  "openalex_type": "article",
+  "n_refs": 25,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2126595565": {
+  "id": "W2126595565",
+  "openalex_type": "article",
+  "n_refs": 43,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2016739320": {
+  "id": "W2016739320",
+  "openalex_type": "article",
+  "n_refs": 38,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2803566305": {
+  "id": "W2803566305",
+  "openalex_type": "article",
+  "n_refs": 103,
+  "s2_types": [
+   "Review",
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "review-article",
+   "Review",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review",
+   "epmc_types:review-article",
+   "epmc_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2903661111": {
+  "id": "W2903661111",
+  "openalex_type": "article",
+  "n_refs": 30,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W1045711957": {
+  "id": "W1045711957",
+  "openalex_type": "article",
+  "n_refs": 34,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2072407405": {
+  "id": "W2072407405",
+  "openalex_type": "article",
+  "n_refs": 13,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W1774024296": {
+  "id": "W1774024296",
+  "openalex_type": "article",
+  "n_refs": 160,
+  "s2_types": [
+   "Review",
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Review",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review",
+   "epmc_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W1190150953": {
+  "id": "W1190150953",
+  "openalex_type": "article",
+  "n_refs": 20,
+  "s2_types": null,
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2010892660": {
+  "id": "W2010892660",
+  "openalex_type": "article",
+  "n_refs": 30,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2066936468": {
+  "id": "W2066936468",
+  "openalex_type": "article",
+  "n_refs": 31,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2890676278": {
+  "id": "W2890676278",
+  "openalex_type": "article",
+  "n_refs": 73,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2884792634": {
+  "id": "W2884792634",
+  "openalex_type": "article",
+  "n_refs": 54,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2002459863": {
+  "id": "W2002459863",
+  "openalex_type": "article",
+  "n_refs": 71,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2041131478": {
+  "id": "W2041131478",
+  "openalex_type": "article",
+  "n_refs": 23,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W1989920209": {
+  "id": "W1989920209",
+  "openalex_type": "article",
+  "n_refs": 15,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2020416394": {
+  "id": "W2020416394",
+  "openalex_type": "article",
+  "n_refs": 13,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2128144746": {
+  "id": "W2128144746",
+  "openalex_type": "article",
+  "n_refs": 101,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2408915156": {
+  "id": "W2408915156",
+  "openalex_type": "article",
+  "n_refs": 11,
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2739511401": {
+  "id": "W2739511401",
+  "openalex_type": "article",
+  "n_refs": 37,
+  "s2_types": null,
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2729223875": {
+  "id": "W2729223875",
+  "openalex_type": "article",
+  "n_refs": 35,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2789752648": {
+  "id": "W2789752648",
+  "openalex_type": "article",
+  "n_refs": 489,
+  "s2_types": [
+   "Review",
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "review-article",
+   "Review",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review",
+   "epmc_types:review-article",
+   "epmc_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2893916093": {
+  "id": "W2893916093",
+  "openalex_type": "article",
+  "n_refs": 37,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2040371569": {
+  "id": "W2040371569",
+  "openalex_type": "article",
+  "n_refs": 36,
+  "s2_types": null,
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2061124791": {
+  "id": "W2061124791",
+  "openalex_type": "article",
+  "n_refs": 28,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2791765621": {
+  "id": "W2791765621",
+  "openalex_type": "article",
+  "n_refs": 207,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2795063159": {
+  "id": "W2795063159",
+  "openalex_type": "article",
+  "n_refs": 84,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2147209470": {
+  "id": "W2147209470",
+  "openalex_type": "article",
+  "n_refs": 169,
+  "s2_types": [
+   "Review",
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Review",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review",
+   "epmc_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2018608811": {
+  "id": "W2018608811",
+  "openalex_type": "article",
+  "n_refs": 12,
+  "s2_types": [
+   "LettersAndComments",
+   "CaseReport"
+  ],
+  "epmc_types": [
+   "Letter",
+   "Research Support, Non-U.S. Gov't",
+   "Case Reports"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:LettersAndComments",
+   "epmc_types:Letter"
+  ],
+  "is_review_signal": true
+ },
+ "W2193011214": {
+  "id": "W2193011214",
+  "openalex_type": "article",
+  "n_refs": 53,
+  "s2_types": [
+   "Review",
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2127508065": {
+  "id": "W2127508065",
+  "openalex_type": "article",
+  "n_refs": 29,
+  "s2_types": [
+   "JournalArticle",
+   "Study"
+  ],
+  "epmc_types": [
+   "Comparative Study",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2519712219": {
+  "id": "W2519712219",
+  "openalex_type": "article",
+  "n_refs": 60,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2552051208": {
+  "id": "W2552051208",
+  "openalex_type": "article",
+  "n_refs": 57,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2194583909": {
+  "id": "W2194583909",
+  "openalex_type": "article",
+  "n_refs": 170,
+  "s2_types": [
+   "Review"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Review",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review",
+   "epmc_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2256802547": {
+  "id": "W2256802547",
+  "openalex_type": "article",
+  "n_refs": 27,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W1993065952": {
+  "id": "W1993065952",
+  "openalex_type": "article",
+  "n_refs": 211,
+  "s2_types": [
+   "Review",
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Review",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review",
+   "epmc_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W1990273311": {
+  "id": "W1990273311",
+  "openalex_type": "article",
+  "n_refs": 37,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2914434557": {
+  "id": "W2914434557",
+  "openalex_type": "article",
+  "n_refs": 68,
+  "s2_types": [
+   "Review",
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Review",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review",
+   "epmc_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2994312635": {
+  "id": "W2994312635",
+  "openalex_type": "article",
+  "n_refs": 23,
+  "s2_types": [
+   "JournalArticle",
+   "Review"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2223380856": {
+  "id": "W2223380856",
+  "openalex_type": "article",
+  "n_refs": 102,
+  "s2_types": [
+   "Review"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2524393622": {
+  "id": "W2524393622",
+  "openalex_type": "article",
+  "n_refs": 23,
+  "s2_types": [
+   "Review"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W1999185871": {
+  "id": "W1999185871",
+  "openalex_type": "article",
+  "n_refs": 401,
+  "s2_types": [
+   "Review",
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Review",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review",
+   "epmc_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2130334366": {
+  "id": "W2130334366",
+  "openalex_type": "article",
+  "n_refs": 22,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2487528628": {
+  "id": "W2487528628",
+  "openalex_type": "article",
+  "n_refs": 89,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2473872168": {
+  "id": "W2473872168",
+  "openalex_type": "article",
+  "n_refs": 15,
+  "s2_types": [
+   "JournalArticle",
+   "CaseReport"
+  ],
+  "epmc_types": [
+   "Journal Article",
+   "Case Reports"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2027918153": {
+  "id": "W2027918153",
+  "openalex_type": "article",
+  "n_refs": 48,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2010048157": {
+  "id": "W2010048157",
+  "openalex_type": "article",
+  "n_refs": 13,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2005712468": {
+  "id": "W2005712468",
+  "openalex_type": "article",
+  "n_refs": 56,
+  "s2_types": [
+   "JournalArticle",
+   "Review"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W1980373626": {
+  "id": "W1980373626",
+  "openalex_type": "article",
+  "n_refs": 51,
+  "s2_types": null,
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2033708806": {
+  "id": "W2033708806",
+  "openalex_type": "article",
+  "n_refs": 79,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W1991144222": {
+  "id": "W1991144222",
+  "openalex_type": "article",
+  "n_refs": 46,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2034935579": {
+  "id": "W2034935579",
+  "openalex_type": "article",
+  "n_refs": 294,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W4242228693": {
+  "id": "W4242228693",
+  "openalex_type": "article",
+  "n_refs": 92,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2154516141": {
+  "id": "W2154516141",
+  "openalex_type": "article",
+  "n_refs": 38,
+  "s2_types": [
+   "JournalArticle",
+   "ClinicalTrial"
+  ],
+  "epmc_types": [
+   "Clinical Trial, Phase II",
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2130810987": {
+  "id": "W2130810987",
+  "openalex_type": "article",
+  "n_refs": 49,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, N.I.H., Intramural",
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2096172188": {
+  "id": "W2096172188",
+  "openalex_type": "article",
+  "n_refs": 101,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2146827637": {
+  "id": "W2146827637",
+  "openalex_type": "article",
+  "n_refs": 78,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2100987960": {
+  "id": "W2100987960",
+  "openalex_type": "article",
+  "n_refs": 48,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Randomized Controlled Trial",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W1580136919": {
+  "id": "W1580136919",
+  "openalex_type": "article",
+  "n_refs": 18,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2126719297": {
+  "id": "W2126719297",
+  "openalex_type": "article",
+  "n_refs": 28,
+  "s2_types": [
+   "JournalArticle",
+   "Conference"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W1993492026": {
+  "id": "W1993492026",
+  "openalex_type": "article",
+  "n_refs": 14,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2914012905": {
+  "id": "W2914012905",
+  "openalex_type": "article",
+  "n_refs": 65,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2941089783": {
+  "id": "W2941089783",
+  "openalex_type": "article",
+  "n_refs": 57,
+  "s2_types": [
+   "Review"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2785200097": {
+  "id": "W2785200097",
+  "openalex_type": "article",
+  "n_refs": 20,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2955349987": {
+  "id": "W2955349987",
+  "openalex_type": "article",
+  "n_refs": 21,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2019385975": {
+  "id": "W2019385975",
+  "openalex_type": "article",
+  "n_refs": 86,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2137122227": {
+  "id": "W2137122227",
+  "openalex_type": "article",
+  "n_refs": 67,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2158489246": {
+  "id": "W2158489246",
+  "openalex_type": "article",
+  "n_refs": 42,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2330296675": {
+  "id": "W2330296675",
+  "openalex_type": "article",
+  "n_refs": 10,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2609551972": {
+  "id": "W2609551972",
+  "openalex_type": "article",
+  "n_refs": 36,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2775639144": {
+  "id": "W2775639144",
+  "openalex_type": "article",
+  "n_refs": 49,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W4241624517": {
+  "id": "W4241624517",
+  "openalex_type": "article",
+  "n_refs": 9,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2139416103": {
+  "id": "W2139416103",
+  "openalex_type": "article",
+  "n_refs": 27,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2159020137": {
+  "id": "W2159020137",
+  "openalex_type": "article",
+  "n_refs": 71,
+  "s2_types": [
+   "Review",
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Systematic Review",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review",
+   "epmc_types:Systematic Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2076173928": {
+  "id": "W2076173928",
+  "openalex_type": "article",
+  "n_refs": 31,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2048430163": {
+  "id": "W2048430163",
+  "openalex_type": "article",
+  "n_refs": 74,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2075428046": {
+  "id": "W2075428046",
+  "openalex_type": "article",
+  "n_refs": 52,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2073744318": {
+  "id": "W2073744318",
+  "openalex_type": "article",
+  "n_refs": 69,
+  "s2_types": [
+   "Review",
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "review-article",
+   "Review",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review",
+   "epmc_types:review-article",
+   "epmc_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2082554197": {
+  "id": "W2082554197",
+  "openalex_type": "article",
+  "n_refs": 6,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2766424213": {
+  "id": "W2766424213",
+  "openalex_type": "article",
+  "n_refs": 23,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2585763612": {
+  "id": "W2585763612",
+  "openalex_type": "article",
+  "n_refs": 50,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2792962347": {
+  "id": "W2792962347",
+  "openalex_type": "article",
+  "n_refs": 80,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2891303987": {
+  "id": "W2891303987",
+  "openalex_type": "article",
+  "n_refs": 53,
+  "s2_types": [
+   "JournalArticle",
+   "Review"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2597760097": {
+  "id": "W2597760097",
+  "openalex_type": "article",
+  "n_refs": 69,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2624619100": {
+  "id": "W2624619100",
+  "openalex_type": "article",
+  "n_refs": 49,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2852434548": {
+  "id": "W2852434548",
+  "openalex_type": "article",
+  "n_refs": 105,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2790837578": {
+  "id": "W2790837578",
+  "openalex_type": "article",
+  "n_refs": 42,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2149161770": {
+  "id": "W2149161770",
+  "openalex_type": "article",
+  "n_refs": 36,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2030763722": {
+  "id": "W2030763722",
+  "openalex_type": "article",
+  "n_refs": 20,
+  "s2_types": [
+   "JournalArticle",
+   "Study"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Evaluation Study",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2806550153": {
+  "id": "W2806550153",
+  "openalex_type": "article",
+  "n_refs": 5,
+  "s2_types": [
+   "JournalArticle",
+   "Review"
+  ],
+  "epmc_types": [
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2803000566": {
+  "id": "W2803000566",
+  "openalex_type": "article",
+  "n_refs": 22,
+  "s2_types": [
+   "JournalArticle",
+   "Review"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2318832362": {
+  "id": "W2318832362",
+  "openalex_type": "article",
+  "n_refs": 60,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2162382108": {
+  "id": "W2162382108",
+  "openalex_type": "article",
+  "n_refs": 46,
+  "s2_types": null,
+  "epmc_types": [
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2600578302": {
+  "id": "W2600578302",
+  "openalex_type": "article",
+  "n_refs": 24,
+  "s2_types": [
+   "Study",
+   "JournalArticle",
+   "ClinicalTrial"
+  ],
+  "epmc_types": [
+   "Clinical Trial, Phase III",
+   "research-article",
+   "Multicenter Study",
+   "Randomized Controlled Trial",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2744174631": {
+  "id": "W2744174631",
+  "openalex_type": "article",
+  "n_refs": 65,
+  "s2_types": [
+   "Review",
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Review",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [
+   "s2_types:Review",
+   "epmc_types:Review"
+  ],
+  "is_review_signal": true
+ },
+ "W2078338131": {
+  "id": "W2078338131",
+  "openalex_type": "article",
+  "n_refs": 26,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2022565558": {
+  "id": "W2022565558",
+  "openalex_type": "article",
+  "n_refs": 19,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2134599653": {
+  "id": "W2134599653",
+  "openalex_type": "article",
+  "n_refs": 25,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Randomized Controlled Trial",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
  }
 }
