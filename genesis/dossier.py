@@ -62,7 +62,32 @@ def build(w: str, with_citers: bool, max_chars: int) -> str:
             if key:
                 intents[key] = {"intents": r.get("intents") or [], "influential": r.get("isInfluential"),
                                 "contexts": r.get("contexts") or []}
-    L += ["## References (by year)", ""]
+    # Self-citation marking. The v1.1 codebook's means-first / problem-first rule
+    # turns on whether a capability is new to the AUTHORS, and coders reported that
+    # the dossier gave them no way to see it. Mark any reference sharing an author
+    # (OpenAlex author id, or normalised surname+initial as a fallback) with the
+    # focal paper, and summarise the count per author cluster.
+    def author_keys(rec):
+        ids, names = set(), set()
+        for a in (rec.get("authorships") or []):
+            au = a.get("author") or {}
+            if au.get("id"):
+                ids.add(au["id"].rsplit("/", 1)[-1])
+            dn = (au.get("display_name") or "").strip().lower()
+            if dn:
+                parts = dn.replace(".", " ").split()
+                if len(parts) >= 2:
+                    names.add(parts[-1] + "|" + parts[0][:1])
+        return ids, names
+
+    focal_ids, focal_names = author_keys(work)
+    self_cited = 0
+    for r in refs:
+        rid, rname = author_keys(r)
+        r["_self"] = bool((focal_ids & rid) or (focal_names & rname))
+        self_cited += r["_self"]
+    L += [f"## References (by year) — {self_cited} of {len(refs)} share an author with this paper "
+          f"(marked **SELF**)", ""]
     for r in sorted(refs, key=lambda r: (r.get("publication_year") or 0, r.get("title") or "")):
         rt = (r.get("primary_topic") or {})
         key = (r.get("doi") or "").replace("https://doi.org/", "").lower() or (r.get("title") or "").lower()
@@ -70,7 +95,8 @@ def build(w: str, with_citers: bool, max_chars: int) -> str:
         tag = ""
         if it.get("intents"):
             tag = f"  «{'/'.join(it['intents'])}{'; influential' if it.get('influential') else ''}»"
-        L.append(f"- [{r.get('publication_year')}] {r.get('title')}  — *{rt.get('display_name')}* "
+        L.append(f"- [{r.get('publication_year')}]{' **SELF**' if r.get('_self') else ''} {r.get('title')}"
+                 f"  — *{rt.get('display_name')}* "
                  f"({(rt.get('field') or {}).get('display_name')}); cited {r.get('cited_by_count')}×{tag}")
         for c in it.get("contexts", [])[:2]:
             L.append(f"    > {c.strip()[:300]}")
