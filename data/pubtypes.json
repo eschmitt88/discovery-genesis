@@ -2165,5 +2165,76 @@
   "crossref_subtype": null,
   "review_flags": [],
   "is_review_signal": false
+ },
+ "W630370159": {
+  "id": "W630370159",
+  "openalex_type": "article",
+  "n_refs": 33,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W1996218966": {
+  "id": "W1996218966",
+  "openalex_type": "article",
+  "n_refs": 25,
+  "s2_types": null,
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2149207625": {
+  "id": "W2149207625",
+  "openalex_type": "article",
+  "n_refs": 35,
+  "s2_types": [
+   "JournalArticle",
+   "ClinicalTrial"
+  ],
+  "epmc_types": [
+   "Controlled Clinical Trial",
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W2032969409": {
+  "id": "W2032969409",
+  "openalex_type": "article",
+  "n_refs": 19,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
+ },
+ "W1964224776": {
+  "id": "W1964224776",
+  "openalex_type": "article",
+  "n_refs": 56,
+  "s2_types": [
+   "JournalArticle"
+  ],
+  "epmc_types": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "crossref_type": "journal-article",
+  "crossref_subtype": null,
+  "review_flags": [],
+  "is_review_signal": false
  }
 }
