@@ -1,0 +1,1055 @@
+{
+ "kind": "sample",
+ "date": "2026-08-24",
+ "seed": 1729883731402988666,
+ "xpol_record": {
+  "seed": 1729883731402988666,
+  "level": "topic",
+  "k": 180,
+  "stratify": "domain",
+  "population": 4516,
+  "band": null,
+  "exclude_home": true,
+  "eligible": 4516
+ },
+ "params": {
+  "years": [
+   2010,
+   2019
+  ],
+  "case_band": [
+   0.0,
+   0.010000000000000009
+  ],
+  "twin_band": [
+   0.4,
+   0.6
+  ],
+  "min_refs": 5,
+  "min_pool": 500,
+  "case_min_cites": 20,
+  "ranking": "own cited_by_count rank within primary_topic × year × type:article",
+  "primary_only": true,
+  "review_filter": "title/abstract/venue regex + openalex type (genesis.sample.classify)",
+  "domains": [
+   "Physical Sciences",
+   "Life Sciences",
+   "Health Sciences"
+  ],
+  "type": "article"
+ },
+ "n_pairs": 10,
+ "skipped_topics": [
+  "Copper Interconnects and Reliability",
+  "Menstrual Health and Disorders",
+  "Physical Education and Training Studies",
+  "AI-based Problem Solving and Planning",
+  "Problem Solving Skills Development",
+  "Agricultural and Food Production Studies",
+  "Otitis Media and Relapsing Polychondritis",
+  "Contact Mechanics and Variational Inequalities",
+  "Pharmacology and Obesity Treatment",
+  "Genome Rearrangement Algorithms",
+  "Natural Compounds in Disease Treatment",
+  "Autopsy Techniques and Outcomes",
+  "Machine Learning in Bioinformatics",
+  "Agricultural Development and Management",
+  "Biotechnology and Related Fields",
+  "Beetle Biology and Toxicology Studies",
+  "Ranque-Hilsch vortex tube",
+  "Xenotransplantation and immune response",
+  "Vascular anomalies and interventions",
+  "Climate Change and Sustainable Development",
+  "Engineering Education and Curriculum Development",
+  "Electrokinetic Soil Remediation Techniques",
+  "Agricultural Economics and Policy",
+  "Cellular Automata and Applications",
+  "Pericarditis and Cardiac Tamponade",
+  "Trigeminal Neuralgia and Treatments",
+  "HIV/AIDS oral health manifestations",
+  "Land Rights and Reforms",
+  "Time Series Analysis and Forecasting",
+  "Cancer Research and Treatment",
+  "Agriculture and Farm Safety",
+  "Advanced Synthetic Organic Chemistry",
+  "Actinomycetales infections and treatment",
+  "Inflammation biomarkers and pathways",
+  "Dermatological and COVID-19 studies",
+  "Hemoglobin structure and function",
+  "Wildlife-Road Interactions and Conservation",
+  "Nerve Injury and Rehabilitation",
+  "Karst Systems and Hydrogeology",
+  "Mathematical functions and polynomials",
+  "Occupational exposure and asthma",
+  "Orthoptera Research and Taxonomy",
+  "Cocoa and Sweet Potato Agronomy",
+  "Thermography and Photoacoustic Techniques",
+  "Women's cancer prevention and management",
+  "Cognitive Science and Education Research",
+  "Pain Management and Placebo Effect",
+  "Laser and Thermal Forming Techniques",
+  "Winter Sports Injuries and Performance",
+  "Fungal Plant Pathogen Control",
+  "Medicinal Plant Extracts Effects",
+  "Scientific Research and Studies",
+  "Origins and Evolution of Life",
+  "Embedded Systems and FPGA Design",
+  "Optimization and Packing Problems",
+  "Global Healthcare and Medical Tourism",
+  "Remote Sensing and Land Use"
+ ],
+ "pairs": [
+  {
+   "topic": "Dental materials and restorations",
+   "topic_id": "T10113",
+   "path": "Health Sciences > Dentistry > Orthodontics > Dental materials and restorations",
+   "domain": "Health Sciences",
+   "year": 2010,
+   "pool": 1742,
+   "ranks": {
+    "case": 13,
+    "twin": 700,
+    "case_band": [
+     0,
+     16
+    ],
+    "twin_band": [
+     696,
+     1044
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 17,
+     "n_review": 10,
+     "review_share": 0.588,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Resin composite—State of the art",
+       "why": "title:State of the art"
+      },
+      {
+       "rank": 1,
+       "title": "State of the art of self-etch adhesives",
+       "why": "title:State of the art"
+      },
+      {
+       "rank": 2,
+       "title": "State of the art etch-and-rinse adhesives",
+       "why": "title:State of the art"
+      },
+      {
+       "rank": 3,
+       "title": "Recent Advances and Developments in Composite Dental Restorative Materials",
+       "why": "title:Advances"
+      },
+      {
+       "rank": 4,
+       "title": "Low temperature degradation -aging- of zirconia: A critical review of the releva",
+       "why": "title:A critical"
+      },
+      {
+       "rank": 5,
+       "title": "FDI World Dental Federation: clinical criteria for the evaluation of direct and ",
+       "why": "title:update"
+      },
+      {
+       "rank": 10,
+       "title": "Self-adhesive resin cements - chemistry, properties and clinical considerations",
+       "why": "abstract:This review"
+      },
+      {
+       "rank": 11,
+       "title": "Direct comparison of the bond strength results of the different test methods: A ",
+       "why": "title:A critical"
+      },
+      {
+       "rank": 14,
+       "title": "Ceramics for Dental Applications: A Review",
+       "why": "title:Review"
+      },
+      {
+       "rank": 16,
+       "title": "Adhesion to tooth structure: A critical review of “micro” bond strength test met",
+       "why": "title:A critical"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 349,
+     "n_review": 21,
+     "review_share": 0.06
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2123791769",
+    "doi": "https://doi.org/10.1007/s10439-010-9969-6",
+    "title": "Adhesive/Dentin Interface: The Weak Link in the Composite Restoration",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 470,
+    "pct": 0.99772329,
+    "n_refs": 160,
+    "n_authors": 13,
+    "topic_id": "T10113",
+    "topic": "Dental materials and restorations",
+    "topic_score": 1.0,
+    "field": "Dentistry",
+    "domain": "Health Sciences",
+    "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2871971",
+    "is_oa": true,
+    "venue": "Annals of Biomedical Engineering",
+    "rank": 13,
+    "pool": 1742
+   },
+   "twin": {
+    "id": "W2075317811",
+    "doi": "https://doi.org/10.1108/13552541011065740",
+    "title": "A method for performance evaluation of RE/RP systems in dentistry",
+    "year": 2010,
+    "type": "article",
+    "cited_by_count": 26,
+    "pct": 0.82348817,
+    "n_refs": 38,
+    "n_authors": 3,
+    "topic_id": "T10113",
+    "topic": "Dental materials and restorations",
+    "topic_score": 0.9983000159263611,
+    "field": "Dentistry",
+    "domain": "Health Sciences",
+    "oa_url": "http://hdl.handle.net/11380/1181033",
+    "is_oa": true,
+    "venue": "Rapid Prototyping Journal",
+    "rank": 700,
+    "pool": 1742
+   }
+  },
+  {
+   "topic": "Immune Cell Function and Interaction",
+   "topic_id": "T11020",
+   "path": "Life Sciences > Immunology and Microbiology > Immunology > Immune Cell Function and Interaction",
+   "domain": "Life Sciences",
+   "year": 2014,
+   "pool": 2198,
+   "ranks": {
+    "case": 9,
+    "twin": 1114,
+    "case_band": [
+     0,
+     20
+    ],
+    "twin_band": [
+     879,
+     1317
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 21,
+     "n_review": 5,
+     "review_share": 0.238,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Macrophage Cytokines: Involvement in Immunity and Infectious Diseases",
+       "why": "abstract:This review discusses"
+      },
+      {
+       "rank": 6,
+       "title": "Metabolic Regulation of Immune Responses",
+       "why": "venue:Annual Review of Immunology"
+      },
+      {
+       "rank": 10,
+       "title": "T Cell Antigen Receptor Recognition of Antigen-Presenting Molecules",
+       "why": "venue:Annual Review of Immunology"
+      },
+      {
+       "rank": 13,
+       "title": "Allele frequency net 2015 update: new features for HLA epitopes, KIR and disease",
+       "why": "title:update"
+      },
+      {
+       "rank": 17,
+       "title": "Ectopic lymphoid-like structures in infection, cancer and autoimmunity",
+       "why": "venue:Nature reviews. Immunology"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 439,
+     "n_review": 35,
+     "review_share": 0.08
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2037123168",
+    "doi": "https://doi.org/10.1038/nprot.2014.005",
+    "title": "Intravascular staining for discrimination of vascular and tissue leukocytes",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 843,
+    "pct": 0.99470376,
+    "n_refs": 63,
+    "n_authors": 11,
+    "topic_id": "T11020",
+    "topic": "Immune Cell Function and Interaction",
+    "topic_score": 0.9994999766349792,
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Nature Protocols",
+    "rank": 9,
+    "pool": 2198
+   },
+   "twin": {
+    "id": "W2112278221",
+    "doi": "https://doi.org/10.1158/2326-6066.cir-14-0153",
+    "title": "The Path to Reactivation of Antitumor Immunity and Checkpoint Immunotherapy",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 25,
+    "pct": 0.8418403,
+    "n_refs": 171,
+    "n_authors": 2,
+    "topic_id": "T11020",
+    "topic": "Immune Cell Function and Interaction",
+    "topic_score": 1.0,
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Cancer Immunology Research",
+    "rank": 1114,
+    "pool": 2198
+   }
+  },
+  {
+   "topic": "Peripheral Artery Disease Management",
+   "topic_id": "T10926",
+   "path": "Health Sciences > Medicine > Surgery > Peripheral Artery Disease Management",
+   "domain": "Health Sciences",
+   "year": 2013,
+   "pool": 951,
+   "ranks": {
+    "case": 2,
+    "twin": 474,
+    "case_band": [
+     0,
+     8
+    ],
+    "twin_band": [
+     380,
+     569
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 9,
+     "n_review": 2,
+     "review_share": 0.222,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Supervised exercise therapy versus non-supervised exercise therapy for intermitt",
+       "why": "abstract:this review"
+      },
+      {
+       "rank": 4,
+       "title": "Home-Based Walking Exercise Intervention in Peripheral Artery Disease",
+       "why": "abstract:Clinical practice guidelines"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 190,
+     "n_review": 21,
+     "review_share": 0.111
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W114852567",
+    "doi": "https://doi.org/10.1016/j.jacc.2013.03.034",
+    "title": "Sustained Safety and Effectiveness of Paclitaxel-Eluting Stents for Femoropopliteal Lesions",
+    "year": 2013,
+    "type": "article",
+    "cited_by_count": 332,
+    "pct": 0.99938048,
+    "n_refs": 20,
+    "n_authors": 11,
+    "topic_id": "T10926",
+    "topic": "Peripheral Artery Disease Management",
+    "topic_score": 0.9916999936103821,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://doi.org/10.1016/j.jacc.2013.03.034",
+    "is_oa": true,
+    "venue": "Journal of the American College of Cardiology",
+    "rank": 2,
+    "pool": 951
+   },
+   "twin": {
+    "id": "W2147852486",
+    "doi": "https://doi.org/10.1177/1538574413512377",
+    "title": "Limb Salvage in Patients With Peripheral Arterial Disease Managed by Endovascular First Approach",
+    "year": 2013,
+    "type": "article",
+    "cited_by_count": 10,
+    "pct": 0.87898179,
+    "n_refs": 18,
+    "n_authors": 5,
+    "topic_id": "T10926",
+    "topic": "Peripheral Artery Disease Management",
+    "topic_score": 1.0,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Vascular and Endovascular Surgery",
+    "rank": 474,
+    "pool": 951
+   }
+  },
+  {
+   "topic": "RNA modifications and cancer",
+   "topic_id": "T11482",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Molecular Biology > RNA modifications and cancer",
+   "domain": "Life Sciences",
+   "year": 2015,
+   "pool": 976,
+   "ranks": {
+    "case": 1,
+    "twin": 495,
+    "case_band": [
+     0,
+     8
+    ],
+    "twin_band": [
+     390,
+     584
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 9,
+     "n_review": 0,
+     "review_share": 0.0,
+     "reviews": []
+    },
+    "twin_band": {
+     "n_band": 195,
+     "n_review": 13,
+     "review_share": 0.067
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W1941339056",
+    "doi": "https://doi.org/10.1016/j.cell.2015.05.014",
+    "title": "N6-methyladenosine Modulates Messenger RNA Translation Efficiency",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 3645,
+    "pct": 0.9995496,
+    "n_refs": 76,
+    "n_authors": 10,
+    "topic_id": "T11482",
+    "topic": "RNA modifications and cancer",
+    "topic_score": 1.0,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "http://www.cell.com/article/S0092867415005620/pdf",
+    "is_oa": true,
+    "venue": "Cell",
+    "rank": 1,
+    "pool": 976
+   },
+   "twin": {
+    "id": "W2138485081",
+    "doi": "https://doi.org/10.1002/bies.201400177",
+    "title": "Ubiquitous transcription factors display structural plasticity and diverse functions",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 28,
+    "pct": 0.89672088,
+    "n_refs": 117,
+    "n_authors": 2,
+    "topic_id": "T11482",
+    "topic": "RNA modifications and cancer",
+    "topic_score": 0.9991000294685364,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4334689",
+    "is_oa": true,
+    "venue": "BioEssays",
+    "rank": 495,
+    "pool": 976
+   }
+  },
+  {
+   "topic": "Hearing, Cochlea, Tinnitus, Genetics",
+   "topic_id": "T10334",
+   "path": "Life Sciences > Neuroscience > Sensory Systems > Hearing, Cochlea, Tinnitus, Genetics",
+   "domain": "Life Sciences",
+   "year": 2011,
+   "pool": 1146,
+   "ranks": {
+    "case": 3,
+    "twin": 545,
+    "case_band": [
+     0,
+     10
+    ],
+    "twin_band": [
+     458,
+     686
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 11,
+     "n_review": 4,
+     "review_share": 0.364,
+     "reviews": [
+      {
+       "rank": 6,
+       "title": "Mechanisms of Aminoglycoside Ototoxicity and Targets of Hair Cell Protection",
+       "why": "abstract:are reviewed"
+      },
+      {
+       "rank": 7,
+       "title": "Prevalence of age-related hearing loss in Europe: a review",
+       "why": "title:review"
+      },
+      {
+       "rank": 8,
+       "title": "Tinnitus and depression",
+       "why": "abstract:we review"
+      },
+      {
+       "rank": 9,
+       "title": "Vestibular Hair Cells and Afferents: Two Channels for Head Motion Signals",
+       "why": "venue:Annual Review of Neuroscience"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 229,
+     "n_review": 12,
+     "review_share": 0.052
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2141500911",
+    "doi": "https://doi.org/10.1172/jci60405",
+    "title": "Mechanotransduction in mouse inner ear hair cells requires transmembrane channel–like genes",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 475,
+    "pct": 0.99293528,
+    "n_refs": 52,
+    "n_authors": 11,
+    "topic_id": "T10334",
+    "topic": "Hearing, Cochlea, Tinnitus, Genetics",
+    "topic_score": 0.9998000264167786,
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": "http://www.jci.org/articles/view/60405/files/pdf",
+    "is_oa": true,
+    "venue": "Journal of Clinical Investigation",
+    "rank": 3,
+    "pool": 1146
+   },
+   "twin": {
+    "id": "W2058748445",
+    "doi": "https://doi.org/10.1016/j.ijporl.2011.02.020",
+    "title": "Auditory brain stem response and otoacoustic emission results in children with end-stage renal disease",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 24,
+    "pct": 0.61736554,
+    "n_refs": 38,
+    "n_authors": 4,
+    "topic_id": "T10334",
+    "topic": "Hearing, Cochlea, Tinnitus, Genetics",
+    "topic_score": 0.9240000247955322,
+    "field": "Neuroscience",
+    "domain": "Life Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "International Journal of Pediatric Otorhinolaryngology",
+    "rank": 545,
+    "pool": 1146
+   }
+  },
+  {
+   "topic": "Electrodeposition and Electroless Coatings",
+   "topic_id": "T11200",
+   "path": "Physical Sciences > Engineering > Electrical and Electronic Engineering > Electrodeposition and Electroless Coatings",
+   "domain": "Physical Sciences",
+   "year": 2015,
+   "pool": 655,
+   "ranks": {
+    "case": 4,
+    "twin": 329,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     262,
+     392
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 6,
+     "n_review": 1,
+     "review_share": 0.167,
+     "reviews": [
+      {
+       "rank": 5,
+       "title": "A review of developments in the electrodeposition of tin",
+       "why": "title:review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 131,
+     "n_review": 2,
+     "review_share": 0.015
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W630370159",
+    "doi": "https://doi.org/10.1016/j.apsusc.2015.06.018",
+    "title": "Producing cobalt–graphene composite coating by pulse electrodeposition with excellent wear and corrosion resistance",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 122,
+    "pct": 0.95663782,
+    "n_refs": 33,
+    "n_authors": 3,
+    "topic_id": "T11200",
+    "topic": "Electrodeposition and Electroless Coatings",
+    "topic_score": 1.0,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Applied Surface Science",
+    "rank": 4,
+    "pool": 655
+   },
+   "twin": {
+    "id": "W1996218966",
+    "doi": "https://doi.org/10.1007/s10854-015-2943-1",
+    "title": "Characterizations of Electrodeposited NiCoFe Ternary Alloys: Influence of deposition potential",
+    "year": 2015,
+    "type": "article",
+    "cited_by_count": 10,
+    "pct": 0.72761922,
+    "n_refs": 25,
+    "n_authors": 4,
+    "topic_id": "T11200",
+    "topic": "Electrodeposition and Electroless Coatings",
+    "topic_score": 0.9995999932289124,
+    "field": "Engineering",
+    "domain": "Physical Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Journal of Materials Science Materials in Electronics",
+    "rank": 329,
+    "pool": 655
+   }
+  },
+  {
+   "topic": "Blood Pressure and Hypertension Studies",
+   "topic_id": "T10144",
+   "path": "Health Sciences > Medicine > Cardiology and Cardiovascular Medicine > Blood Pressure and Hypertension Studies",
+   "domain": "Health Sciences",
+   "year": 2011,
+   "pool": 1672,
+   "ranks": {
+    "case": 11,
+    "twin": 883,
+    "case_band": [
+     0,
+     15
+    ],
+    "twin_band": [
+     668,
+     1002
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 16,
+     "n_review": 6,
+     "review_share": 0.375,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Heart Disease and Stroke Statistics—2012 Update",
+       "why": "title:Update"
+      },
+      {
+       "rank": 2,
+       "title": "National, regional, and global trends in systolic blood pressure since 1980: sys",
+       "why": "title:trends"
+      },
+      {
+       "rank": 4,
+       "title": "Cardiovascular disease in chronic kidney disease. A clinical update from Kidney ",
+       "why": "title:update"
+      },
+      {
+       "rank": 9,
+       "title": "ACCF/AHA 2011 Expert Consensus Document on Hypertension in the Elderly",
+       "why": "title:Consensus"
+      },
+      {
+       "rank": 12,
+       "title": "ACCF/AHA 2011 Expert Consensus Document on Hypertension in the Elderly",
+       "why": "title:Consensus"
+      },
+      {
+       "rank": 13,
+       "title": "Management of hypertension: summary of NICE guidance",
+       "why": "abstract:This article summarises"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 335,
+     "n_review": 51,
+     "review_share": 0.152
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2149207625",
+    "doi": "https://doi.org/10.1161/circulationaha.110.991869",
+    "title": "Effect of Renal Sympathetic Denervation on Glucose Metabolism in Patients With Resistant Hypertension",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 573,
+    "pct": 0.99930691,
+    "n_refs": 35,
+    "n_authors": 13,
+    "topic_id": "T10144",
+    "topic": "Blood Pressure and Hypertension Studies",
+    "topic_score": 0.7954000234603882,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.110.991869",
+    "is_oa": true,
+    "venue": "Circulation",
+    "rank": 11,
+    "pool": 1672
+   },
+   "twin": {
+    "id": "W2032969409",
+    "doi": "https://doi.org/10.1016/j.archger.2011.09.009",
+    "title": "Quality issues of self-report of hypertension: Analysis of a population representative sample of older adults in Taiwan",
+    "year": 2011,
+    "type": "article",
+    "cited_by_count": 8,
+    "pct": 0.66328278,
+    "n_refs": 19,
+    "n_authors": 2,
+    "topic_id": "T10144",
+    "topic": "Blood Pressure and Hypertension Studies",
+    "topic_score": 0.9998000264167786,
+    "field": "Medicine",
+    "domain": "Health Sciences",
+    "oa_url": null,
+    "is_oa": false,
+    "venue": "Archives of Gerontology and Geriatrics",
+    "rank": 883,
+    "pool": 1672
+   }
+  },
+  {
+   "topic": "Genomics and Phylogenetic Studies",
+   "topic_id": "T10015",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Molecular Biology > Genomics and Phylogenetic Studies",
+   "domain": "Life Sciences",
+   "year": 2014,
+   "pool": 3048,
+   "ranks": {
+    "case": 28,
+    "twin": 1371,
+    "case_band": [
+     0,
+     29
+    ],
+    "twin_band": [
+     1219,
+     1827
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 30,
+     "n_review": 1,
+     "review_share": 0.033,
+     "reviews": [
+      {
+       "rank": 19,
+       "title": "Uniting the classification of cultured and uncultured bacteria and archaea using",
+       "why": "venue:Nature Reviews Microbiology"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 609,
+     "n_review": 20,
+     "review_share": 0.033
+    }
+   },
+   "flags": [
+    "twin_topic_score<0.7"
+   ],
+   "case": {
+    "id": "W1964224776",
+    "doi": "https://doi.org/10.1038/ng.3015",
+    "title": "Inferring human population size and separation history from multiple genome sequences",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 1268,
+    "pct": 0.99886001,
+    "n_refs": 56,
+    "n_authors": 2,
+    "topic_id": "T10015",
+    "topic": "Genomics and Phylogenetic Studies",
+    "topic_score": 0.9980000257492065,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4116295",
+    "is_oa": true,
+    "venue": "Nature Genetics",
+    "rank": 28,
+    "pool": 3048
+   },
+   "twin": {
+    "id": "W2141454239",
+    "doi": "https://doi.org/10.1093/bioinformatics/btu726",
+    "title": "Computational framework for next-generation sequencing of heterogeneous viral populations using combinatorial pooling",
+    "year": 2014,
+    "type": "article",
+    "cited_by_count": 18,
+    "pct": 0.77836869,
+    "n_refs": 36,
+    "n_authors": 9,
+    "topic_id": "T10015",
+    "topic": "Genomics and Phylogenetic Studies",
+    "topic_score": 0.5297999978065491,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://academic.oup.com/bioinformatics/article-pdf/31/5/682/49011635/bioinformatics_31_5_682.pdf",
+    "is_oa": true,
+    "venue": "Bioinformatics",
+    "rank": 1371,
+    "pool": 3048
+   }
+  },
+  {
+   "topic": "Dental Erosion and Treatment",
+   "topic_id": "T11958",
+   "path": "Health Sciences > Dentistry > Orthodontics > Dental Erosion and Treatment",
+   "domain": "Health Sciences",
+   "year": 2019,
+   "pool": 625,
+   "ranks": {
+    "case": 4,
+    "twin": 330,
+    "case_band": [
+     0,
+     5
+    ],
+    "twin_band": [
+     250,
+     374
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 6,
+     "n_review": 4,
+     "review_share": 0.667,
+     "reviews": [
+      {
+       "rank": 0,
+       "title": "Terminology of Erosive Tooth Wear: Consensus Report of a Workshop Organized by t",
+       "why": "title:Consensus"
+      },
+      {
+       "rank": 1,
+       "title": "Tooth whitening: From the established treatments to novel approaches to prevent ",
+       "why": "abstract:This review"
+      },
+      {
+       "rank": 2,
+       "title": "A Critical Review of Modern Concepts for Teeth Whitening",
+       "why": "title:A Critical"
+      },
+      {
+       "rank": 3,
+       "title": "Recent Advances in Dental Hard Tissue Remineralization: A Review of Literature",
+       "why": "title:Advances"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 125,
+     "n_review": 4,
+     "review_share": 0.032
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2914150220",
+    "doi": "https://doi.org/10.1590/1678-7757-2018-0051",
+    "title": "Whitening toothpaste containing activated charcoal, blue covarine, hydrogen peroxide or microbeads: which one is the most effective?",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 169,
+    "pct": 0.996573,
+    "n_refs": 36,
+    "n_authors": 7,
+    "topic_id": "T11958",
+    "topic": "Dental Erosion and Treatment",
+    "topic_score": 0.9991000294685364,
+    "field": "Dentistry",
+    "domain": "Health Sciences",
+    "oa_url": "http://www.scielo.br/pdf/jaos/v27/1678-7765-jaos-27-e20180051.pdf",
+    "is_oa": true,
+    "venue": "Journal of Applied Oral Science",
+    "rank": 4,
+    "pool": 625
+   },
+   "twin": {
+    "id": "W2973034366",
+    "doi": "https://doi.org/10.1055/s-0039-1695662",
+    "title": "Remineralization Potential of a Modified Eggshell–Titanium Composite-Scanning Electron Microscope Study",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 7,
+    "pct": 0.7259767,
+    "n_refs": 21,
+    "n_authors": 4,
+    "topic_id": "T11958",
+    "topic": "Dental Erosion and Treatment",
+    "topic_score": 1.0,
+    "field": "Dentistry",
+    "domain": "Health Sciences",
+    "oa_url": "http://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0039-1695662.pdf",
+    "is_oa": true,
+    "venue": "European Journal of Dentistry",
+    "rank": 330,
+    "pool": 625
+   }
+  },
+  {
+   "topic": "Genetics and Neurodevelopmental Disorders",
+   "topic_id": "T11772",
+   "path": "Life Sciences > Biochemistry, Genetics and Molecular Biology > Genetics > Genetics and Neurodevelopmental Disorders",
+   "domain": "Life Sciences",
+   "year": 2019,
+   "pool": 907,
+   "ranks": {
+    "case": 2,
+    "twin": 442,
+    "case_band": [
+     0,
+     8
+    ],
+    "twin_band": [
+     362,
+     543
+    ]
+   },
+   "review_filter": {
+    "case_band": {
+     "n_band": 9,
+     "n_review": 3,
+     "review_share": 0.333,
+     "reviews": [
+      {
+       "rank": 1,
+       "title": "A Synaptic Perspective of Fragile X Syndrome and Autism Spectrum Disorders",
+       "why": "title:Perspective"
+      },
+      {
+       "rank": 4,
+       "title": "Cyclin-Dependent Kinase-Like 5 Deficiency Disorder: Clinical Review",
+       "why": "title:Review"
+      },
+      {
+       "rank": 7,
+       "title": "The Molecular Basis of MeCP2 Function in the Brain",
+       "why": "abstract:This review"
+      }
+     ]
+    },
+    "twin_band": {
+     "n_band": 182,
+     "n_review": 21,
+     "review_share": 0.115
+    }
+   },
+   "flags": [],
+   "case": {
+    "id": "W2960399794",
+    "doi": "https://doi.org/10.1016/j.ajhg.2019.05.020",
+    "title": "Ultra-Rare Genetic Variation in the Epilepsies: A Whole-Exome Sequencing Study of 17,606 Individuals",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 310,
+    "pct": 0.99783087,
+    "n_refs": 62,
+    "n_authors": 100,
+    "topic_id": "T11772",
+    "topic": "Genetics and Neurodevelopmental Disorders",
+    "topic_score": 0.9998000264167786,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "http://www.cell.com/article/S0002929719302071/pdf",
+    "is_oa": true,
+    "venue": "The American Journal of Human Genetics",
+    "rank": 2,
+    "pool": 907
+   },
+   "twin": {
+    "id": "W2945280440",
+    "doi": "https://doi.org/10.3390/ijms20102508",
+    "title": "Senescence Phenomena and Metabolic Alteration in Mesenchymal Stromal Cells from a Mouse Model of Rett Syndrome",
+    "year": 2019,
+    "type": "article",
+    "cited_by_count": 19,
+    "pct": 0.8269982,
+    "n_refs": 86,
+    "n_authors": 7,
+    "topic_id": "T11772",
+    "topic": "Genetics and Neurodevelopmental Disorders",
+    "topic_score": 1.0,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences",
+    "oa_url": "https://www.mdpi.com/1422-0067/20/10/2508/pdf?version=1558609165",
+    "is_oa": true,
+    "venue": "International Journal of Molecular Sciences",
+    "rank": 442,
+    "pool": 907
+   }
+  }
+ ],
+ "split": "test"
+}

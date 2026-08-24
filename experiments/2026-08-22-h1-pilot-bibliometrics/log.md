@@ -218,3 +218,34 @@
     by topic + year. A coder who recognises one member can infer the other
     is the twin. Mitigation for the main sample: each coder gets a shuffled
     batch that never contains both members of a pair.
+- 2026-08-24 **main sample drawn and fetched**: 50 dev pairs + 10 held out
+  (seed 1729883731402988666), 120/120 bundles, 88/100 abstracts. Domains:
+  Life 19, Physical 18, Health 13. Median review share of the top-1 % band
+  by the sampler's classifier: 25 %.
+- **H1 at n = 50 is NOT reportable yet — the review filter has a recall
+  problem.** `n_refs` returns as the largest effect (+24.5, 43/50 pairs,
+  q < 0.001, δ +0.59), the pilot-A signature. But a post-hoc rerun of the
+  sampler's own regex flags **0 of 100** works, while the top cases by
+  reference count are plainly reviews: *Galectin-3: One Molecule for an
+  Alphabet of Diseases* (489 refs), *Remediation of heavy metal(loid)s
+  contaminated soils* (401), *The Growing Impact of Catalysis in the
+  Pharmaceutical Industry* (294), *Teleost intestinal immunology* (211).
+  13 cases have > 100 references; 0 twins do. The regex was built on pilot
+  A, where reviews announced themselves in the title or the venue
+  (*Chemical Reviews*, *Annual Review of…*). Its precision is fine and its
+  recall is poor: a review that is simply titled after its subject evades
+  every pattern.
+- Fix: `genesis.pubtype` pulls three independent signals — Semantic
+  Scholar `publicationTypes`, Europe PMC `pubTypeList`, Crossref
+  `type`/`subtype`. Spot check: S2 and EPMC both return "Review" for the
+  Galectin-3 and teleost papers that the regex missed. Reference count is
+  deliberately *not* used as a filter — it is the feature under test.
+- The arbiter of record stays the coders' blind `is_primary` field: two
+  independent coders judge each paper from its dossier without knowing its
+  impact. H1 at n = 50 will be recomputed on the subset both coders call
+  primary, with the external signals as a cross-check.
+- Also to repair before the n = 50 analysis: full text reached only 3/100
+  works (pilot B got 20/40) — the fast sequential fetch appears to have
+  been rate-limited on Europe PMC; and 46 of 50 background pools are
+  missing, so the velocity control and atypicality null are unavailable at
+  n = 50.
