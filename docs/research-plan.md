@@ -272,10 +272,19 @@ primary research only; held-out 5 pairs untouched).
   7/15 twins by ≥ 1 coder (Fisher p = 0.003; 7 discordant pairs, all
   twin-only, sign p = 0.008), under a *stricter* v1 definition (source in a
   different primary field). Bibliometrics and blind coding agree.
+- **H3 is null in the independent sample (2026-08-25).** Both pilot move
+  contrasts failed to replicate on the 29 primary-research pairs of the main
+  sample: `first-measurement` reverses (9 vs 11, sign p = 0.77) and
+  `next-target` flattens (16 vs 20, p = 0.34). No move reaches p < 0.05.
+  **The move does not distinguish impact at this n.** The one consistent
+  lead is `means-first` genesis (8/29 cases vs 2/29 twins, discordant 7/1,
+  p = 0.070) and its move-level counterpart `instrument` (8 vs 2, 7/1,
+  p = 0.070) — promising, unproven, and needing ~300 pairs to settle.
+  See `results/h3-replication.md`.
 - **Codebook v1.1 frozen (κ = 0.73 on `genesis_model`, 30 papers, fresh
-  blind coders).** Its gap-filling split is the pilot's sharpest move
-  contrast: `first-measurement` 10/15 cases vs 4/15 twins (p = 0.033),
-  `next-target` 2/15 vs 7/15 (p = 0.054). Under v1.1's strict definition
+  blind coders).** The pilot's sharpest move contrast was
+  `first-measurement` 10/15 cases vs 4/15 twins (p = 0.033),
+  `next-target` 2/15 vs 7/15 (p = 0.054) — both since retracted, above. Under v1.1's strict definition
   `transfer` attenuates to 1 vs 2 — the earlier 0-vs-7 was partly
   cross-context reuse, which v1.1 calls `next-target`. Genesis model does
   not discriminate roles. Recognition is asymmetric (7/15 cases, 0/15

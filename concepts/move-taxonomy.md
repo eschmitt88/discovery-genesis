@@ -42,9 +42,13 @@ compute / theory / collaboration / imported problem) is coded alongside.
 `consolidation` 8, `gap-filling:bigger-n` 5, `instrument` 5, `transfer` 4,
 `formalisation` 4, `recombination` 4, `unification` 4, `gap-filling:other`
 2, `inversion` 1. Never used: scale, resource, simplification, relaxation,
-reformulation, anomaly. The taxonomy in use is ~8 wide. The role contrast
-lives inside gap-filling: impactful papers *first-measure* (10/15 vs 4/15),
-median papers *re-apply to the next target* (2/15 vs 7/15).
+reformulation, anomaly. The taxonomy in use is ~8 wide. **That role contrast did not replicate.** On the independent 29-pair main
+sample `first-measurement` reverses and `next-target` flattens
+(`results/h3-replication.md`). At n = 29 no move distinguishes impact. The
+taxonomy is a good *description* of what papers do — reliable between coders,
+~8 labels wide, no label ever needed inventing — and a poor *discriminator*
+of which papers matter. What still points somewhere is `instrument` /
+means-first genesis (7 case-only discordant pairs against 1, p = 0.07).
 
 ## Connections
 
