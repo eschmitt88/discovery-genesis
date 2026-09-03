@@ -20,6 +20,7 @@ import random
 import subprocess
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import date
@@ -96,18 +97,36 @@ def classify(w: dict) -> tuple[str, str]:
 
 
 # ----------------------------------------------------------------- helpers
+MAILTO = "eschmitt88@gmail.com"
+# OpenAlex throttles *list* queries (?filter=…) independently of single-entity GETs
+# and can 429 every list query for a long stretch after a burst. A multi-hour draw
+# must ride that out rather than die: escalating waits, ~1 h of total patience.
+PATIENCE = [30, 60, 120, 300, 600, 900, 900]
+
+
 def openalex(params: dict) -> dict:
+    params = {"mailto": MAILTO, **params}
     url = OPENALEX + "?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    for attempt in range(4):
+    waits = [float(x) for x in os.environ["OPENALEX_PATIENCE"].split(",")] \
+        if os.environ.get("OPENALEX_PATIENCE") else PATIENCE
+    for attempt in range(len(waits) + 1):
         try:
             with urllib.request.urlopen(req, timeout=60) as r:
                 return json.load(r)
-        except Exception as e:                      # noqa: BLE001
-            if attempt == 3:
+        except urllib.error.HTTPError as e:
+            if e.code in (400, 404) or attempt == len(waits):
                 raise
-            time.sleep(2 ** attempt)
-    raise RuntimeError("unreachable")
+            w = waits[attempt] if e.code == 429 else min(2 ** attempt, 30)
+            if e.code == 429:
+                print(f"    429 — waiting {w:.0f}s (attempt {attempt + 1}/{len(waits)})",
+                      file=sys.stderr, flush=True)
+            time.sleep(w)
+        except Exception:                           # noqa: BLE001
+            if attempt == len(waits):
+                raise
+            time.sleep(min(2 ** attempt, 30))
+    raise RuntimeError("openalex: patience exhausted")
 
 
 def slim(w: dict) -> dict:
@@ -203,7 +222,11 @@ def topic_id_for(name: str) -> str:
 
 
 # -------------------------------------------------------------------- main
-def sample_pairs(n_pairs: int, seed: int | None, years=YEARS, verbose=True) -> dict:
+def sample_pairs(n_pairs: int, seed: int | None, years=YEARS, verbose=True,
+                 checkpoint: Path | None = None) -> dict:
+    """`checkpoint` is written after every accepted pair. A 400-pair draw is hours of
+    list queries; without it a single unrecoverable 429 throws the whole run away
+    (it did, at pair 127)."""
     rng = random.Random(seed)
     # Over-draw topics so that dropping Social Sciences and empty pools still leaves n_pairs.
     seeds, xrec = xpol_topics(n_pairs * 3, seed)
@@ -236,6 +259,11 @@ def sample_pairs(n_pairs: int, seed: int | None, years=YEARS, verbose=True) -> d
                                             "twin_band": {k: ti.get(k) for k in ("n_band", "n_review", "review_share")}},
                           "flags": flags, "case": case, "twin": twin})
             done = True
+            if checkpoint:
+                checkpoint.parent.mkdir(parents=True, exist_ok=True)
+                checkpoint.write_text(json.dumps(
+                    {"kind": "sample-partial", "seed": seed, "n_pairs": len(pairs),
+                     "params": {"years": list(years)}, "pairs": pairs}, indent=1, ensure_ascii=False))
             if verbose:
                 print(f"[{len(pairs):2d}] {t['name']} ({year}) pool={ci['pool']} reviews_in_top1%={ci['n_review']}/{ci['n_band']}  "
                       f"case={case['id']} r{ci['rank']} c={case['cited_by_count']} oa={case['is_oa']}  "
@@ -269,7 +297,8 @@ def main(argv=None):
                     help="move the LAST N pairs to test/samples/<name>-heldout.json (HCE split, never read during search)")
     a = ap.parse_args(argv)
     seed = a.seed if a.seed is not None else random.SystemRandom().randrange(1 << 62)
-    rec = sample_pairs(a.pairs, seed)
+    ckpt = Path(a.out).with_suffix(".partial.json") if a.out else None
+    rec = sample_pairs(a.pairs, seed, checkpoint=ckpt)
     if not a.out:
         print(json.dumps(rec, indent=1, ensure_ascii=False)); return
     p = Path(a.out); p.parent.mkdir(parents=True, exist_ok=True)
