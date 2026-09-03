@@ -1,0 +1,8 @@
+---
+title: "Compact dossier validation"
+format: html
+---
+
+```{python}
+# tables inline in README.md; cards in cases/main50-compact-validation/
+```

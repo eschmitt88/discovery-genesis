@@ -1,0 +1,34 @@
+{
+ "n_papers": 40,
+ "fields": {
+  "genesis_model": {
+   "vs_coderA": 0.677,
+   "vs_coderB": 0.735,
+   "ceiling_A_vs_B": 0.771,
+   "positives_compact": null
+  },
+  "is_primary": {
+   "vs_coderA": 0.936,
+   "vs_coderB": 0.808,
+   "ceiling_A_vs_B": 0.866,
+   "positives_compact": null
+  },
+  "instrument": {
+   "vs_coderA": 0.655,
+   "vs_coderB": 0.635,
+   "ceiling_A_vs_B": 0.658,
+   "positives_compact": 6
+  },
+  "means_first": {
+   "vs_coderA": 0.658,
+   "vs_coderB": 0.737,
+   "ceiling_A_vs_B": 0.695,
+   "positives_compact": 8
+  }
+ },
+ "size_reduction": {
+  "full_bytes": 6024238,
+  "compact_bytes": 1465477,
+  "factor": 4.1
+ }
+}

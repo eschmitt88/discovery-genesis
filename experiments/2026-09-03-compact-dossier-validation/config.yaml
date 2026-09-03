@@ -1,0 +1,10 @@
+# Does a compact dossier support the same coding judgements as a full one?
+dossiers_full: data/dossiers/main50
+dossiers_compact: data/dossiers/main50-compact
+compact_params: {ref_cap: 60, keep_recent: 22, keep_cited: 22, max_chars: 18000}
+cards_full: cases/main50            # 2 coders x 100 papers, codebook v1.1
+cards_compact: cases/main50-compact-validation
+n_papers: 40
+stratification: all 12 instrument-positive + 2 means-first + 26 random
+seed: 20260903
+coder_model: sonnet

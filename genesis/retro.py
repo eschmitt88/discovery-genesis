@@ -87,6 +87,27 @@ def build_slate(target: dict, pool: list[dict], same_topic: list[str], rng: rand
     return slate, real_ix
 
 
+GEN_PROMPT_ERA = """Below is the prior art a research paper built on: its field, its year,
+and its full reference list. The paper itself is hidden.
+
+{brief}
+
+IMPORTANT — answer as if you were a researcher working in this field in that year
+and no later. You must not use any knowledge of what this field went on to do
+afterwards. Do not propose a contribution because you know it later succeeded, and
+do not name methods, datasets, models or results that did not exist by then. If a
+proposal only makes sense with hindsight, replace it.
+
+Propose {k} DIFFERENT contributions that a strong paper could plausibly have made
+from exactly this prior art, in this field, in this year, using only what was
+available then. Each should be specific enough to be a paper's one-sentence
+contribution statement — name the method, the system and the claim, not a research
+direction. Make them genuinely different from one another and each as plausible as
+you can.
+
+Reply with ONLY a JSON array of {k} strings, no prose."""
+
+
 GEN_PROMPT = """Below is the prior art a research paper built on: its field, its year,
 and its full reference list. The paper itself is hidden.
 
@@ -143,12 +164,14 @@ def judge(brief: str, slate: list[dict], model: str, timeout: int = 300) -> dict
         return {"error": m.group(0)[:300]}
 
 
-def generate_decoys(brief: str, k: int, model: str, timeout: int = 300) -> list[str]:
+def generate_decoys(brief: str, k: int, model: str, timeout: int = 300,
+                    era_restricted: bool = False) -> list[str]:
     """Plausible on-topic contributions for the *same* prior art. These are the
     decoys H6 actually has to survive: the easy calibration used other papers'
     contributions, which a judge can separate on topic vocabulary alone."""
     try:
-        r = subprocess.run(["claude", "-p", GEN_PROMPT.format(brief=brief, k=k), "--model", model],
+        tmpl = GEN_PROMPT_ERA if era_restricted else GEN_PROMPT
+        r = subprocess.run(["claude", "-p", tmpl.format(brief=brief, k=k), "--model", model],
                            capture_output=True, text=True, timeout=timeout, cwd=NEUTRAL_CWD)
     except subprocess.TimeoutExpired:
         return []
@@ -173,8 +196,13 @@ def main(argv=None):
     ap.add_argument("--decoys", type=int, default=5)
     ap.add_argument("--seed", type=int, default=20260903)
     ap.add_argument("--model", default=MODEL)
+    ap.add_argument("--era-restricted", action="store_true",
+                    help="hard stage: forbid the generator from using post-publication hindsight — "
+                         "the control that separates 'the judge over-rates generated text' from "
+                         "'the prior art genuinely underdetermines the contribution'")
     ap.add_argument("--control", action="store_true",
                     help="run the no-real-contribution control slate as well")
+    ap.add_argument("--hard-name", default="hard-raw.json", help="output filename for the hard stage")
     ap.add_argument("--out", required=True)
     a = ap.parse_args(argv)
 
@@ -203,7 +231,7 @@ def main(argv=None):
         if not brief:
             print(f"[{i}/{len(targets)}] {t['id']} no brief — skipped", file=sys.stderr); continue
         if a.stage == "hard":
-            gen = generate_decoys(brief, a.decoys, a.model)
+            gen = generate_decoys(brief, a.decoys, a.model, era_restricted=a.era_restricted)
             if len(gen) < 2:
                 print(f"[{i}/{len(targets)}] {t['id']} generator failed — skipped", file=sys.stderr)
                 continue
@@ -227,7 +255,7 @@ def main(argv=None):
             print(f"[{i}/{len(targets)}] {t['id']} hard: real={row.get('real_score')} "
                   f"decoy_max={row.get('decoy_max')} picked_real={row.get('picked_real')} "
                   f"conf={(res or {}).get('confidence')}", file=sys.stderr)
-            (out_dir / "hard-raw.json").write_text(json.dumps(rows, indent=1))
+            (out_dir / a.hard_name).write_text(json.dumps(rows, indent=1))
             continue
         same = [w for w, tp in topic_of.items() if tp == topic_of[t["id"]]]
         for arm in (["real"] + (["control"] if a.control else [])):
@@ -251,7 +279,7 @@ def main(argv=None):
                   f"decoy_max={row.get('decoy_max')} picked_real={row.get('picked_real')} "
                   f"conf={(res or {}).get('confidence')}", file=sys.stderr)
             (out_dir / "calibration-raw.json").write_text(json.dumps(rows, indent=1))
-    name = "hard-raw.json" if a.stage == "hard" else "calibration-raw.json"
+    name = a.hard_name if a.stage == "hard" else "calibration-raw.json"
     (out_dir / name).write_text(json.dumps(rows, indent=1))
     print(f"{len(rows)} trials -> {out_dir/name}", file=sys.stderr)
 

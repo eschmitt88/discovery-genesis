@@ -1,0 +1,495 @@
+[
+ {
+  "id": "W2127508065",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate": [
+   "A combined plain-radiograph/CT/MRI diagnostic algorithm for distinguishing an acutely fractured accessory ossicle of the foot and ankle (os tibiale externum, os trigonum, os peroneum) from a chronic p",
+   "A prospective radiographic screening study of elite young athletes (extending the authors' prior injury-prevention cohort) quantifying the prevalence of accessory bones and sesamoids of the foot and a",
+   "A surgical case series on symptomatic hallucal interphalangeal sesamoid and chondromalacia of the first-metatarsophalangeal sesamoids in athletes, comparing sesamoidectomy versus sesamoid-sparing debr",
+   "A case series describing painful os peroneum syndrome and os vesalianum in competitive athletes as an under-recognized cause of chronic lateral foot pain, detailing a standardized surgical excision/pe",
+   "A retrospective case series of adolescent and young adult athletes with symptomatic os tibiale externum (accessory navicular), showing that simple excision of the ossicle with tibialis posterior reatt",
+   "First prevalence report of accessory ossicles and sesamoid bones in Italian women with hallux valgus, based on radiographic review of 505 patients by three specialists."
+  ],
+  "result": {
+   "scores": [
+    3,
+    4,
+    2,
+    2,
+    3,
+    1
+   ],
+   "best": 2,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The paper's self-citations (1990 traumatic lesions of accessory bones in athletes, 1990 os tibiale externum fracture in a decathlete, 2010 elite young athlete injury-prevention cohort) and its broad reference span across nearly every accessory ossicle/sesamoid type point to a prospective extension of the authors' own athlete cohort screening for accessory bones as an injury risk factor, matching candidate 2 most closely."
+  },
+  "real_score": 1,
+  "decoy_max": 4,
+  "decoy_mean": 2.8,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W1980373626",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 3,
+  "slate": [
+   "Applying the BOTTLENECK heterozygosity-excess test and sibship reconstruction to microsatellite data from an isolated, human-altered wetland population of box turtles or painted turtles detects a sign",
+   "Microsatellite genotyping (FSTAT, GENEPOP) of Blanding's turtle or painted turtle populations occupying ponds bisected by paved roads shows significantly elevated pairwise FST and reduced allelic rich",
+   "First application of microsatellite-based kin-group analysis to test road-proximity effects on painted turtle reproductive success across three ecoregions, finding fewer, larger kin groups near roads.",
+   "A field experiment using wire predator-exclusion cages on a subset of Chelydra serpentina nests within a naturally synchronous nesting cohort shows caged nests have significantly higher hatch success ",
+   "Combining nesting-movement surveys with road-mortality counts for a Chelydra serpentina population and applying a stage-structured demographic model shows that observed levels of road-killed nesting f",
+   "Microsatellite-based parentage analysis of Chrysemys picta clutches from a single pond documents multiple paternity in a majority of clutches together with genetic evidence of sperm retained across ne"
+  ],
+  "result": {
+   "scores": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1
+   ],
+   "best": 1,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "Candidate 1 combines the BOTTLENECK/sibship methodology cluster with a habitat-isolation turtle population framing that matches the strongest overlap of methods (BOTTLENECK, sibship reconstruction) and topic (isolated human-altered population genetics) present in the reference list."
+  },
+  "real_score": 1,
+  "decoy_max": 3,
+  "decoy_mean": 1.8,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W1190150953",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 3,
+  "slate": [
+   "A proteomic and phenolic profiling of grape skins across the ripening-to-overripening continuum, cross-referenced against the group's mechanical texture data on the same berries, identifies cell-wall-",
+   "A non-destructive mechanical puncture-test protocol applied longitudinally to Cabernet Franc and Chenin blanc berries undergoing noble rot development shows that a characteristic skin-softening thresh",
+   "reports phenolic and mechanical property changes (including a first report of myricetin in white grapes) that track noble-rot progression in Chenin blanc, and shows a combined puncture+compression+col",
+   "An experimental-design-based extraction study (following the champagne-variety flavanol/anthocyanin optimization approach) applied to dried-on-vine versus dried-off-vine passerillage grapes quantifies",
+   "A combined mechanical-texture and CIELab colorimetric survey of grapes sampled from different positions within the bunch (shoulder vs. tip) demonstrates that the physical heterogeneity previously repo",
+   "A texture-analyzer-based discriminant model, built on puncture force and skin elasticity parameters from Semillon and Sauvignon berries at increasing botrytization stages, is shown to classify grey ro"
+  ],
+  "result": {
+   "scores": [
+    2,
+    4,
+    3,
+    2,
+    3,
+    3
+   ],
+   "best": 2,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The reference list is dominated by resveratrol/stilbene chemistry and noble-rot/Botrytis literature alongside the group's own mechanical-texture self-citations (including the Cabernet Franc puncture-test paper), which candidate 2 uniquely ties together via a firmness threshold linked to stilbene accumulation in Cabernet Franc and Chenin blanc."
+  },
+  "real_score": 3,
+  "decoy_max": 4,
+  "decoy_mean": 2.8,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W4242228693",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 5,
+  "slate": [
+   "Report the application of rhodium-catalyzed hydrogen-mediated reductive coupling of conjugated alkynes with \u03b1-ketoesters as the enantioselectivity-setting step in a concise formal total synthesis of a",
+   "Report a ruthenium-catalyzed C\u2013C bond-forming transfer hydrogenation that vinylates secondary alcohols with terminal alkynes (using the alkyne itself as both vinyl donor and hydrogen acceptor) to give",
+   "Report a ruthenium-catalyzed C\u2013C bond-forming transfer hydrogenation that couples 1,3-dienes directly with primary alcohols (via in situ oxidation to the aldehyde) to deliver anti-diastereo- and enant",
+   "Report a rhodium-catalyzed asymmetric hydrogenative coupling of 1,3-enynes with simple dialkyl and aryl alkyl ketones (rather than aldehydes or \u03b1-ketoesters) to deliver tertiary allylic carbinols with",
+   "Shows nickel and ruthenium catalysts give complementary regioselectivity and full stereoselectivity converting unsymmetrical disubstituted alkynes plus paraformaldehyde into primary trisubstituted all",
+   "Report an iridium-catalyzed, enantioselective C\u2013C bond-forming hydrogenation of terminal alkynes with N-tert-butanesulfinyl ketimines (rather than aldimines) to construct \u03b1-quaternary allylic amines b"
+  ],
+  "result": {
+   "scores": [
+    3,
+    3,
+    4,
+    2,
+    1,
+    3
+   ],
+   "best": 3,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The reference list shows two converging Krische-lab threads \u2014 diene+formaldehyde hydroxymethylation to quaternary stereocenters (2009) and alcohol-as-pronucleophile transfer hydrogenation vinylation (2008-2009) \u2014 and candidate 3 is the natural 2011 synthesis of those two lines into diene+alcohol coupling for quaternary homoallylic alcohols."
+  },
+  "real_score": 1,
+  "decoy_max": 4,
+  "decoy_mean": 3.0,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2339696061",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 4,
+  "slate": [
+   "A descriptive epidemiological survey characterizing the prevalence and correlates of classic modifiable risk factors (dyslipidemia per NCEP ATP III, hyperuricemia, obesity, hypertension) among patient",
+   "A cross-sectional clinical study of adults with type 2 diabetes mellitus reporting that serum uric acid levels correlate significantly with NCEP ATP III-defined metabolic syndrome component count, pro",
+   "A comparative analysis of cardiovascular risk factor clustering (obesity, hypertension, dyslipidemia, hyperuricemia) between newly diagnosed and long-standing type 2 diabetes patients, extending prior",
+   "Estimates that most diabetic patients at this hospital have 3-4 coronary risk factors (most commonly hyperglycemia) and that nearly half fall in the moderate 5-9% 10-year coronary-event-probability ba",
+   "A validation study testing whether serum uric acid improves the predictive performance of the NCEP ATP III metabolic syndrome definition for identifying type 2 diabetics at elevated cardiovascular ris",
+   "An observational study applying ADA 2009 diagnostic criteria and NCEP ATP III lipid thresholds to a hospital-based cohort of type 2 diabetics, quantifying the prevalence of dyslipidemia (elevated LDL,"
+  ],
+  "result": {
+   "scores": [
+    2,
+    4,
+    2,
+    1,
+    2,
+    2
+   ],
+   "best": 2,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The reference set (uric acid & metabolic risk, NCEP ATP III, ADA diabetes diagnosis, prior 2008 risk-factor survey) most directly sets up a study correlating serum uric acid with NCEP-defined metabolic syndrome/cardiometabolic risk in T2DM patients."
+  },
+  "real_score": 1,
+  "decoy_max": 4,
+  "decoy_mean": 2.4,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2288936626",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 4,
+  "slate": [
+   "Combined hydrothermal synthesis and DFT electronic-structure analysis linking the degree of Mo-Mo Peierls dimerization in MoO2 nanorods to their reversible lithium-intercalation capacity as a lithium-",
+   "First-principles quasi-harmonic phonon thermochemistry (VASP, PAW-PBE+DFT-D3) establishing the pressure-temperature stability field of monoclinic MoO2 and computing its Gibbs free energy of formation ",
+   "DFT enthalpy-pressure calculations predicting a previously unreported high-pressure CaCl2-type orthorhombic polymorph of MoO2, analogous to the rutile-to-CaCl2 transitions established for TiO2 and SiO",
+   "Predicts new metastable high-pressure polymorphs of MoO2 using first-principles DFT calculations.",
+   "Joint XPS and periodic PAW-PBE DFT study resolving the surface versus bulk electronic structure of MoO2 responsible for its bifunctional catalytic activity in isooctane partial oxidation, extending ea",
+   "Comparative first-principles study (PBE-GGA) of thermal expansion anisotropy across the rutile-structured dioxide family (TiO2, SnO2, MoO2, VO2(B)), showing that Peierls-driven Mo-Mo bonding selective"
+  ],
+  "result": {
+   "scores": [
+    2,
+    4,
+    3,
+    2,
+    2,
+    2
+   ],
+   "best": 2,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The paper's self-citations (a metastable-polymorph thermochemistry paper and 'Ab Initio Thermochemistry of Solid-State Materials') plus the presence of the D'Ans-Lax thermochemical tables reference point to a first-principles thermochemistry study of MoO2 stability, matching candidate 2 most closely."
+  },
+  "real_score": 2,
+  "decoy_max": 4,
+  "decoy_mean": 2.6,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2040371569",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 1,
+  "slate": [
+   "First demonstration of a mode-locked laser based on a CMOS-compatible microring resonator, using a new filter-driven four-wave-mixing mechanism, achieving stable self-starting operation at repetition ",
+   "We demonstrate that a CMOS-compatible, high-Q silicon-nitride microring hyper-parametric oscillator can be driven into a stable, low-timing-jitter mode-locked pulse train, and we characterize its outp",
+   "We apply the Haus-Mecozzi noise theory developed for mode-locked lasers to a CMOS-compatible microresonator-based optical frequency comb, deriving and measuring its fundamental amplitude- and phase-no",
+   "We extend the multisoliton framework of the complex Ginzburg-Landau equation to the parametrically-driven Kerr-comb regime and predict, then experimentally observe in a monolithic microresonator, harm",
+   "Using a delayed self-heterodyne interferometer adapted for widely-spaced comb lines, we measure the individual comb-tooth linewidth of a chip-scale Kerr frequency comb generated in a low-loss doped-si",
+   "We demonstrate a chip-scale analog of the self-induced modulational-instability laser by pumping a high-Q, low-power-threshold silicon-nitride microring above its parametric oscillation threshold to g"
+  ],
+  "result": {
+   "scores": [
+    2,
+    4,
+    2,
+    2,
+    2,
+    3
+   ],
+   "best": 2,
+   "confidence": "high",
+   "recognised_paper": "Modelocking and femtosecond pulse generation in chip-based frequency combs (Saha, Okawachi et al., Opt. Express 2012)",
+   "why": "The paper's self-citations (CMOS-compatible hyper-parametric oscillator, low-power nonlinear silica waveguide, and on-chip phase-sensitive pulse characterization) point directly to demonstrating and characterizing mode-locked pulse trains from a chip-scale Kerr comb, matching candidate 2 almost exactly."
+  },
+  "real_score": 2,
+  "decoy_max": 4,
+  "decoy_mean": 2.6,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2408915156",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 5,
+  "slate": [
+   "Retrospective comparison of two-flap palatoplasty versus a levator-reconstruction-based optimized procedure in cleft palate patients presenting after age six, demonstrating superior velopharyngeal clo",
+   "Long-term postoperative speech and hearing outcome analysis extending the authors' prior optimized surgical cohort, using perceptual speech assessment and audiometric follow-up to show that surgical a",
+   "Application of an anatomic severity grading system, adapted from submucous cleft palate grading criteria, to stratify older cleft palate patients and guide selection between primary palatoplasty alone",
+   "A modified single-stage protocol combining radical intravelar veloplasty (levator sling reconstruction) with two-flap palatoplasty for late-presenting cleft palate patients, reporting reduced fistula ",
+   "Retrospective cohort study of 245 cleft palate patients >2y old identifying surgical technique (Sommerlad-Levator plus sphincter pharyngoplasty) as the main determinant of post-operative velopharyngea",
+   "A staged-versus-simultaneous comparison of double Z-plasty with sphincter pharyngoplasty for correcting persistent velopharyngeal insufficiency in patients whose primary cleft palate repair was delaye"
+  ],
+  "result": {
+   "scores": [
+    2,
+    2,
+    1,
+    2,
+    3,
+    1
+   ],
+   "best": 5,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The SELF paper is about optimizing surgical procedure (likely levator reconstruction + sphincter pharyngoplasty) for cleft palate patients over six, closest matched by candidate 5's cohort study on surgical technique as the determinant of velopharyngeal competence in older patients."
+  },
+  "real_score": 3,
+  "decoy_max": 2,
+  "decoy_mean": 1.6,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2041131478",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 1,
+  "slate": [
+   "First measurement of hypoxemia prevalence among general (not just pneumonia) adult and pediatric inpatients at a rural Zambian district hospital, showing oximetry changed clinical management in all hy",
+   "A multi-country cross-sectional study using pulse oximetry to determine the prevalence and clinical predictors of hypoxaemia among children hospitalized with severe pneumonia in six sub-Saharan Africa",
+   "An economic and operational feasibility analysis modeling the cost-effectiveness of introducing low-cost pulse oximeters into routine triage at rural African health centers, projecting reductions in m",
+   "A cluster-randomized trial comparing outcomes in Papua New Guinean district hospitals with oxygen concentrator-based oxygen systems plus pulse oximetry triage versus standard cylinder-based oxygen sup",
+   "A prospective cohort study examining whether hypoxaemia severity and duration at admission among children treated for severe pneumonia and malaria is associated with subsequent neurocognitive impairme",
+   "A prospective validation study deriving and testing a simplified bedside clinical prediction score (built from respiratory rate, chest indrawing, and mental status) calibrated against pulse oximetry-c"
+  ],
+  "result": {
+   "scores": [
+    1,
+    4,
+    1,
+    2,
+    2,
+    2
+   ],
+   "best": 2,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list is heavily built around pulse oximetry, hypoxaemia prevalence, and WHO danger-sign limitations in childhood pneumonia across developing-country district hospitals, which candidate 2 directly synthesizes into a multi-country prevalence/predictor study."
+  },
+  "real_score": 1,
+  "decoy_max": 4,
+  "decoy_mean": 2.2,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2002459863",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 1,
+  "slate": [
+   "analyses 44 S. pneumoniae genomes alongside related Mitis-group species to characterise pan-genome size and openness, phylogenetic lineage structure, and extensive intra- and inter-species homologous ",
+   "Comparative genomic survey of the three pneumococcal zinc metalloproteinase loci across diverse clinical isolates reveals recombination-driven mosaic allele distributions that correlate with invasive ",
+   "Genomic reconstruction of the multidrug-resistant Spain23F-ST81 pandemic clone's evolutionary history, using whole-genome alignment and coalescent-based recombination detection, shows that its resista",
+   "Whole-genome sequencing and Mauve/RAxML-based comparative analysis of a broad panel of clinical Streptococcus pneumoniae isolates shows that homologous recombination outpaces point mutation as the sou",
+   "MLST/eBURST clonal-complex mapping combined with sequence comparison of the rlrA pilus islet across a large pneumococcal collection demonstrates that the pilus-1 and pilus-2 variants are maintained by",
+   "Population-genetic analysis of pspA and pspC allelic diversity across serotypes and clonal complexes, clustered with Pvclust/MEGA4 phylogenies, identifies a small number of clade-restricted antigen fa"
+  ],
+  "result": {
+   "scores": [
+    3,
+    1,
+    1,
+    4,
+    1,
+    1
+   ],
+   "best": 4,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The reference list is dominated by Mauve/RAxML/eBURST/MLST 'methodology' citations plus prior SELF pan-genome/supragenome papers, matching candidate 4's whole-genome Mauve/RAxML comparative study extending the supragenome model with recombination-vs-mutation quantification."
+  },
+  "real_score": 3,
+  "decoy_max": 4,
+  "decoy_mean": 1.6,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2064056867",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 2,
+  "slate": [
+   "Systematically map the self-ordering regime (voltage, electrolyte composition, temperature) for confined lateral AAO growth in oxalic and phosphoric acid baths and show that lateral pore spacing scale",
+   "not fully determinable from title+references alone; apparently offers evidence or an argument isolating the electric field's specific mechanistic contribution to pore formation in aluminum anodization",
+   "Demonstrate that anodizing aluminum within lithographically defined trench/groove confinement redirects the local electric field so that pore growth is reoriented in-plane (parallel to the substrate) ",
+   "Extend the viscous-flow/volume-expansion growth model for porous anodic alumina to include the mechanical constraint imposed by confining sidewalls, deriving a modified current-time transient and self",
+   "Combine pulse (duty-cycle) anodization with laterally confined channel geometries to grow periodically diameter-modulated, branched pore arrays oriented in-plane, yielding interconnected in-plane nano",
+   "Use laterally confined AAO pore arrays as sacrificial templates for electrodeposition to fabricate metal nanowire arrays oriented parallel to a chip surface, establishing a two-step replication route "
+  ],
+  "result": {
+   "scores": [
+    2,
+    1,
+    4,
+    2,
+    2,
+    1
+   ],
+   "best": 3,
+   "confidence": "high",
+   "recognised_paper": "Abnormal Anodic Aluminum Oxide Formation in Confined Structures for Lateral Pore Arrays",
+   "why": "The SELF-marked reference in the list gives the paper's own title verbatim, which describes exactly candidate 3's contribution (confinement redirecting field/pore growth in-plane)."
+  },
+  "real_score": 1,
+  "decoy_max": 4,
+  "decoy_mean": 2.2,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2130810987",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 3,
+  "slate": [
+   "Serum Amyloid A is shown by tissue expression profiling to be upregulated in advanced-stage endometrial carcinoma, linking its known chemoattractant and matrix metalloproteinase-inducing activity to s",
+   "Microarray screening of endometrioid adenocarcinomas reveals coordinate dysregulation of an AKR1-family aldo-keto reductase alongside altered Wnt7a/homeobox expression, defining a hormone-independent ",
+   "shows that grade of genomic instability (ploidy), rather than histopathological subtype, correlates with specific gene- and protein-expression changes in endometrial cancer, and identifies candidate g",
+   "A combined prognostic index integrating nuclear DNA ploidy and S-phase fraction with Ki-67 proliferation index and p53 immunostaining improves prediction of recurrence in endometrial carcinoma beyond ",
+   "A comparative genomic hybridization (CGH)-based genomic instability index, adapted from the group's prior breast and colorectal carcinoma work, that stratifies endometrioid versus uterine serous carci",
+   "Gene expression microarray profiling of primary endometrial carcinomas identifies Annexin A2 (ANXA2) overexpression, validated by immunohistochemistry, as a marker of myometrial invasion and poor prog"
+  ],
+  "result": {
+   "scores": [
+    2,
+    1,
+    4,
+    3,
+    3,
+    2
+   ],
+   "best": 3,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The SELF reference cluster (ploidy/genomic-instability studies in breast, colorectal, prostate extended to endometrium) plus the explicit co-occurrence of AKR7A2 and ANXA2 papers in the reference list strongly matches candidate 3's description of correlating genomic instability grade with gene/protein expression changes and nominating those specific candidate markers."
+  },
+  "real_score": 4,
+  "decoy_max": 3,
+  "decoy_mean": 2.2,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2792962347",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 1,
+  "slate": [
+   "Shows that intrinsic excitability of preB\u00f6tC excitatory neurons is transiently reduced after each burst, and that inhibition regulates this refractory period to enable fast breathing rates, resolving ",
+   "Selective pharmacological suppression of a peptidergically-modulated pacemaker subpopulation within the preB\u00f6tzinger complex abolishes spontaneous sighs while leaving eupneic breathing frequency and a",
+   "A synthesizing review argues that mammalian breathing rhythm and pattern arise from a hierarchically organized brainstem architecture \u2014 an excitatory preB\u00f6tzinger complex core coupled to parallel expi",
+   "Combining whole-cell recordings with targeted optogenetic silencing of Dbx1-derived preB\u00f6tzinger complex interneurons in the neonatal medullary slice, the paper demonstrates that activity-dependent sy",
+   "Using simultaneous olfactory-bulb and neocortical field-potential recordings across sleep-wake states in freely behaving mice, the paper shows that nasal respiration rhythmically entrains alpha- and g",
+   "In vivo pharmacological and genetic blockade of glycinergic phasic inhibition within the preB\u00f6tzinger and B\u00f6tzinger complexes in adult mice destabilizes inspiratory frequency and produces aberrant rap"
+  ],
+  "result": {
+   "error": "{\"scores\": [3, 3, 4, 3, 1, 2], \"best\": 3, \"confidence\": \"high\", \"recognised_paper\": \"no\", \"why\": \"The dense cluster of SELF-authored review/mechanistic papers on preB\u00f6tC rhythm/pattern hierarchy plus Sherrington and locomotor CPG citations point to a synthesizing review unifying pacemaker and networ"
+  }
+ },
+ {
+  "id": "W2292628419",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate": [
+   "A TiO2-overcoated thermochromic VO2 window stack grown by sequential APCVD in one production line, demonstrating that the TiO2 layer simultaneously provides photocatalytic self-cleaning (via stearic a",
+   "Aerosol-assisted CVD synthesis of niobium-doped VO2 nanoparticle films dispersed in a SiO2 host matrix, reporting solar energy modulation and luminous transmittance values benchmarked against the Mann",
+   "A combined XPS and XRD area-mapping study correlating V2p oxidation-state shifts with preferred crystallographic orientation across the thickness of fluorine-doped VO2 films grown by APCVD, establishi",
+   "Single-pass atmospheric-pressure CVD deposition of molybdenum-doped VO2 thin films from VOCl3 and a Mo(CO)6 aerosol co-precursor, showing that Mo doping lowers the metal-insulator transition temperatu",
+   "A stress-and-grain-growth analysis of tungsten-doped VO2 thin films on float glass during APCVD cooldown, showing that controlling thermal-expansion-mismatch stress via substrate preheat protocol redu",
+   "demonstrates a layered VO2/SiO2/TiO2 coating with improved visible-light transmission (~30% increase), doubled solar modulation versus single-layer VO2, and self-cleaning comparable to commercial phot"
+  ],
+  "result": {
+   "scores": [
+    3,
+    2,
+    2,
+    3,
+    2,
+    4
+   ],
+   "best": 6,
+   "confidence": "high",
+   "recognised_paper": "Intelligent Multifunctional VO2/SiO2/TiO2 Coatings for Self-Cleaning, Energy-Saving Window Panels",
+   "why": "The self-citation cluster (APCVD W/Nb-doped VO2, self-cleaning coatings, Pilkington Activ photocatalyst characterization) matches the known Parkin-group Chem. Mater. 2016 paper on layered VO2/SiO2/TiO2 multifunctional glazing, which candidate 6 describes almost verbatim."
+  },
+  "real_score": 4,
+  "decoy_max": 3,
+  "decoy_mean": 2.4,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2893916093",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 5,
+  "slate": [
+   "An analysis of a multicenter Italian cardiology registry (modeled on IN-HF Outcome) showing that galectin-3 levels correlate with echocardiographic markers of diastolic dysfunction and left ventricula",
+   "A serial-measurement study showing that the change in galectin-3 from admission to discharge in acutely decompensated heart failure predicts short-term (30-day) mortality and rehospitalization better ",
+   "A study demonstrating that elevated plasma galectin-3 at discharge predicts loss of independence in activities of daily living (ADL/IADL decline) over 6-month follow-up in elderly chronic heart failur",
+   "Derivation and internal validation of a multivariable risk model integrating galectin-3, NT-proBNP, echocardiographic diastolic function indices (E/e'), and six-minute walk distance to predict 1-year ",
+   "shows galectin-3 alone, and especially galectin-3 combined with BNP, powerfully stratifies mid-term mortality/rehospitalization risk in elderly ADHF patients",
+   "A prospective single-center cohort study in patients >70 years hospitalized for decompensated heart failure showing that discharge galectin-3 combined with NT-proBNP and the Barthel Index of functiona"
+  ],
+  "result": {
+   "scores": [
+    1,
+    2,
+    3,
+    4,
+    2,
+    3
+   ],
+   "best": 6,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The SELF-flagged references (self-citations on Barthel-adjacent functional status, galectin-3/BNP prognosis in elderly discharged HF patients, and 30-day outcomes in Italian ADHF registries) point to an elderly-cohort discharge study combining galectin-3, NT-proBNP, and functional status (Barthel Index) to predict short-term readmission, matching candidate 6 most closely."
+  },
+  "real_score": 2,
+  "decoy_max": 4,
+  "decoy_mean": 2.6,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ }
+]
