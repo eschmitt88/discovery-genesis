@@ -1,0 +1,14 @@
+# H6 stage 0 — does the closeness ladder measure anything?
+cards: cases/main50
+sample: data/samples/main50.json
+primary_verdict: data/primary-main50.json
+dossiers: data/dossiers/main50-compact
+judge_model: claude-sonnet-5     # pinned; unattended job must not inherit the session default
+generator_model: claude-sonnet-5
+n_targets: 24
+decoys_per_slate: 5
+seed: 20260903
+arms:
+  easy:    decoys are OTHER papers' real contributions (half same-topic, half not)
+  control: same slate with the real contribution REMOVED (guessing check)
+  hard:    decoys are contributions GENERATED from the same prior art brief
