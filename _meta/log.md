@@ -48,3 +48,4 @@ skills; read by `/lint`.
 2026-08-23 02:39 codebook v1.1 frozen (kappa 0.73, 30 papers)
 2026-08-23 02:39 ADR 0002 pilot design decisions
 2026-08-24 01:52 H0 order-sensitivity audit: idea-first robust at 2-6%
+2026-09-03 04:34 new-experiment h6-judge-calibration (done)

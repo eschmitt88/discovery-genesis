@@ -16,6 +16,7 @@ and `/new-experiment`.
 
 ## Active experiments
 
+-  — done: closeness ladder fails against generated decoys
 (none in flight — `experiments/2026-08-22-h1-pilot-bibliometrics/` is done: H1 partly confirmed, breadth effect reversed)
 
 ## Codebook

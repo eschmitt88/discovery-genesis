@@ -253,5 +253,481 @@
   "result": {
    "error": "{\"scores\": [1, 3, 2, 1, 2, 3], \"best\": 2, \"confidence\": \"medium\", \"recognised_paper\": \"no\", \"why\": \"The reference list is dominated by hypoxaemia-prevalence and pulse-oximetry-in-pneumonia papers (Duke 2009 prevalence review, WHO/Gambia/PNG hypoxaemia studies), pointing toward a paper that derives a"
   }
+ },
+ {
+  "id": "W2002459863",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 1,
+  "slate": [
+   "analyses 44 S. pneumoniae genomes alongside related Mitis-group species to characterise pan-genome size and openness, phylogenetic lineage structure, and extensive intra- and inter-species homologous ",
+   "Genome sequencing of a newly characterized virulent pneumococcal serotype identifies horizontally acquired conjugative elements and genomic rearrangements that jointly confer enhanced virulence and an",
+   "Phylogenetic and selection analysis of the rlrA pilus islet across pneumococcal clonal complexes demonstrates that pilus type diversification is driven by recombination and positive selection, linking",
+   "A multilocus and whole-genome phylogenetic analysis of diverse Streptococcus pneumoniae isolates shows that homologous recombination, rather than point mutation, is the dominant force generating clona",
+   "Comparative genomic sequencing and pan-genome (supragenome) analysis across multiple pneumococcal strains defines a large dispensable gene pool alongside a conserved core genome, with gene content var",
+   "Population-genetic and network analysis of the polymorphic pspC and PspA vaccine antigen loci reveals extensive allelic diversity and post-vaccination recombination events that generate vaccine-escape"
+  ],
+  "result": {
+   "scores": [
+    4,
+    1,
+    2,
+    3,
+    2,
+    1
+   ],
+   "best": 1,
+   "confidence": "high",
+   "recognised_paper": "Donati et al. 2010, 'Structure and dynamics of the pan-genome of Streptococcus pneumoniae and closely related species' (Genome Biology)",
+   "why": "The heavy self-citation cluster on pan-genome/supragenome, MLST/eBURST, recombination-detection tools, and phylogenetics software converges on a 44-genome pan-genome/recombination study of pneumococcus plus Mitis-group relatives, matching candidate 1 precisely."
+  },
+  "real_score": 4,
+  "decoy_max": 3,
+  "decoy_mean": 1.8,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2064056867",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 2,
+  "slate": [
+   "Identifies a self-ordering regime for lateral pore growth in mild anodization within narrow lithographic stripes, mapping the combination of confinement width, current density, and electrolyte (oxalic",
+   "not fully determinable from title+references alone; apparently offers evidence or an argument isolating the electric field's specific mechanistic contribution to pore formation in aluminum anodization",
+   "Demonstrates that anodizing aluminum within lithographically defined micro-trenches/confined geometries redirects pore nucleation from the conventional vertical direction to lateral growth, yielding o",
+   "Extends the viscous-flow model of oxide growth to geometrically confined aluminum films, showing that asymmetric mechanical stress at trench sidewalls drives the abnormal pore branching and diameter w",
+   "Adapts pulsed/cyclic anodization voltage waveforms to confined channel templates to produce laterally oriented AAO nanotubes with periodically modulated pore diameter, generalizing shaped-pore enginee",
+   "Uses O18 tracer analysis combined with cross-sectional electron microscopy of confined anodized aluminum structures to show that lateral pore formation originates from field- and oxygen-transport asym"
+  ],
+  "result": {
+   "error": "{\"scores\": [3, 4, 3, 2, 2, 2], \"best\": 3, \"confidence\": \"medium\", \"recognised_paper\": \"no\", \"why\": \"The self-referenced 2011 entry's title (\\\"Abnormal Anodic Aluminum Oxide Formation in Confined Structures for Lateral Pore Arrays\\\") most directly matches candidate 3's description of confinement-indu"
+  }
+ },
+ {
+  "id": "W2130810987",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 3,
+  "slate": [
+   "A comparative genomic hybridization (CGH) study defining a recurrent pattern of chromosomal gains and losses that discriminates uterine serous from endometrioid carcinoma and correlates with FIGO grad",
+   "An integrative gene-expression classification study applying feature-selection methods to microarray data from endometrial tumors to derive a genomic-instability/proliferation signature that stratifie",
+   "shows that grade of genomic instability (ploidy), rather than histopathological subtype, correlates with specific gene- and protein-expression changes in endometrial cancer, and identifies candidate g",
+   "A flow cytometric/image-analysis study combining nuclear DNA ploidy and Ki-67-based proliferative index with the revised FIGO/nuclear grading system to build an improved, reproducible prognostic class",
+   "A cDNA microarray gene-expression profiling study of endometrial carcinoma identifying serum amyloid A (SAA) as a stage- and grade-associated overexpressed gene, proposing it as a candidate serum biom",
+   "An immunohistochemical analysis showing Annexin A2 overexpression correlates with myometrial invasion, lymph node metastasis, and poor prognosis in endometrioid endometrial carcinoma, extending prior "
+  ],
+  "result": {
+   "scores": [
+    2,
+    2,
+    4,
+    2,
+    3,
+    3
+   ],
+   "best": 3,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The self-citation pattern (DNA ploidy/genomic instability across cancer types, plus AKR-family and Annexin II background refs) matches candidate 3's ploidy-vs-subtype/gene-protein-target framing almost exactly, including the named AKR7A2 and ANXA2 targets."
+  },
+  "real_score": 4,
+  "decoy_max": 3,
+  "decoy_mean": 2.4,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2792962347",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 1,
+  "slate": [
+   "Shows that intrinsic excitability of preB\u00f6tC excitatory neurons is transiently reduced after each burst, and that inhibition regulates this refractory period to enable fast breathing rates, resolving ",
+   "A comparative synthesis across respiratory, spinal locomotor, and cortical circuits proposes that a conserved microcircuit motif of recurrent excitation coupled to interneuron-mediated inhibition unde",
+   "A brainstem slice and modeling study showing that graded, activity-dependent shifts in glycinergic versus GABAergic inhibition within the preB\u00f6tzinger and B\u00f6tzinger complexes drive network reconfigura",
+   "Single-cell recordings characterizing the intrinsic hypoxic response of preB\u00f6tzinger Complex neurons reveal a graded O2-sensing mechanism that, at the network level, produces the switch from eupneic b",
+   "Selective optogenetic/pharmacological silencing of Dbx1-derived interneurons in neonatal mouse preB\u00f6tzinger Complex demonstrates that phasic synaptic inhibition, not solely recurrent excitation, sets ",
+   "Simultaneous recording of olfactory bulb field potentials and respiration across sleep-wake states shows that nasal breathing rhythmically entrains cortical alpha and gamma oscillations in a state-dep"
+  ],
+  "result": {
+   "scores": [
+    2,
+    4,
+    2,
+    1,
+    1,
+    2
+   ],
+   "best": 2,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The reference list's unusual breadth\u2014spanning preB\u00f6tC rhythm generation, spinal locomotor CPGs, cortical oscillation studies, and Sherrington's 1914 work on nervous-system rhythm evolution\u2014matches a comparative review proposing a conserved excitation/inhibition microcircuit motif across rhythm-generating systems, exactly candidate 2's move."
+  },
+  "real_score": 2,
+  "decoy_max": 4,
+  "decoy_mean": 2.0,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2292628419",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate": [
+   "Demonstrates a combined VO2/TiO2 multilayer thin film, grown by a single-pass APCVD process, that delivers both thermochromic solar-modulating behaviour and photocatalytic self-cleaning functionality ",
+   "Introduces aerosol-assisted CVD of Nb-doped VO2 nanoparticle films with core-shell-like microstructure, showing that nanostructuring combined with Nb doping improves solar modulation efficiency relati",
+   "Presents a systematic XPS and XRD comparative study across W-, Mo-, and F-doped VO2 films deposited by the group's established CVD route, correlating dopant oxidation-state chemistry with the magnitud",
+   "Reports atmospheric-pressure CVD of a novel dual-dopant (e.g. W and F co-doped) VO2 thin film that simultaneously lowers the metal-insulator transition temperature and increases luminous transmittance",
+   "Develops a scalable, low-cost single-step precursor chemistry for depositing thermochromic VO2 coatings directly onto commercial float glass at throughput compatible with the Pilkington Activ-style pr",
+   "demonstrates a layered VO2/SiO2/TiO2 coating with improved visible-light transmission (~30% increase), doubled solar modulation versus single-layer VO2, and self-cleaning comparable to commercial phot"
+  ],
+  "result": {
+   "scores": [
+    3,
+    1,
+    2,
+    2,
+    2,
+    4
+   ],
+   "best": 6,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The self-citations (APCVD W-doped VO2, self-cleaning TiO2, XRD mapping) plus the SiO2-deposition and amorphous-Si-layered-VO2 references point to a multilayer VO2/SiO2/TiO2 architecture where SiO2 serves as an interlayer to boost optical performance while retaining self-cleaning, matching candidate 6 most specifically."
+  },
+  "real_score": 4,
+  "decoy_max": 3,
+  "decoy_mean": 2.0,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2893916093",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 5,
+  "slate": [
+   "An echocardiographic correlation study linking elevated galectin-3 to worsening Doppler-derived diastolic function (E/e' ratio) and adverse ventricular remodeling over follow-up in a chronic heart fai",
+   "A registry-based analysis comparing galectin-3-augmented risk prediction against standard six-minute walk test and NT-proBNP-guided management in reducing 30-day readmission rates among discharged eld",
+   "A study showing that baseline functional status, quantified via the Barthel Index and instrumental ADL scale, modifies the prognostic value of plasma galectin-3 for all-cause mortality in elderly hear",
+   "Development and internal validation of a multivariable risk score combining galectin-3, BNP, and renal markers (urea nitrogen, creatinine) that stratifies in-hospital and short-term mortality risk in ",
+   "shows galectin-3 alone, and especially galectin-3 combined with BNP, powerfully stratifies mid-term mortality/rehospitalization risk in elderly ADHF patients",
+   "A prospective single-center cohort study demonstrating that serial galectin-3 measurements, combined with NT-proBNP, independently predict 30-day rehospitalization in elderly (>70y) chronic heart fail"
+  ],
+  "result": {
+   "scores": [
+    2,
+    2,
+    2,
+    2,
+    4,
+    3
+   ],
+   "best": 5,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The SELF-tagged 2005 and 2016 references (galectin-3+BNP predicting mortality/rehospitalization in elderly ADHF/CHF outpatients) point to a paper whose own contribution is candidate 5's combined galectin-3/BNP mid-term risk stratification in elderly ADHF patients."
+  },
+  "real_score": 4,
+  "decoy_max": 3,
+  "decoy_mean": 2.2,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2795063159",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate": [
+   "Uses the 1000 Genomes variation map to identify a common IL12RB1 intronic SNP that disrupts a splicing regulatory element and is associated with IL-12R\u03b21 isoform ratio and susceptibility to mycobacter",
+   "Demonstrates that the splicing factor hnRNP H1 binds a G-triplet-containing intronic element in IL12RB1 pre-mRNA to enforce the exon boundaries that generate the DC-migration-enhancing IL-12R\u03b21 isofor",
+   "Catalogs RNA-DNA sequence differences across the IL12RB1 transcript repertoire in PBMCs from TB-exposed individuals, linking interindividual variation in this post-transcriptional recoding to differen",
+   "Shows that human IL12RB1 is subject to random monoallelic expression in individual CD4+ and CD8+ T cells, analogous to IL-2/IL-4/olfactory receptor loci, and that allelic skewing correlates with varia",
+   "Reports that the secreted IL12R\u03b21\u0394TM isoform circulates at variable levels in tuberculosis patients and antagonizes membrane IL-23R signaling, proposing serum IL12R\u03b21\u0394TM as a biomarker of extrapulmona",
+   "Shows human IL12RB1 expression is allele-biased, identifies an hnRNP H-associated exon 9b polyadenylation/splicing competition mechanism controlling Isoform 1 vs. Isoform 2 production, and demonstrate"
+  ],
+  "result": {
+   "scores": [
+    2,
+    3,
+    1,
+    2,
+    1,
+    4
+   ],
+   "best": 6,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "Candidate 6 uniquely synthesizes the paper's own threads (allele-biased IL12RB1 expression, hnRNP H-mediated splicing/polyadenylation competition at exon 9b, and miRNA-based functional validation of Isoform 2), matching the heavy representation of monoallelic-expression, hnRNP-family, G-triplet/intron-border, 3'-end-processing, and miRNA-SNP references in the prior-art list."
+  },
+  "real_score": 4,
+  "decoy_max": 3,
+  "decoy_mean": 1.8,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2082554197",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate": [
+   "A retrospective imaging series proposes a CT-based classification scheme for Wormian bones by size, suture location, and number, arguing that Wormian bone burden itself (not just isolated bregmatic or",
+   "A clinical case series extends the nonradiographic anterior-fontanelle-morphology sign from unilateral coronal synostosis to bilateral coronal and lambdoid synostosis, proposing a fontanelle-shape-bas",
+   "A single-institution outcomes study reports intermediate follow-up results of the Cranial Auto Graft Expansion (CAGE) technique in a cohort of craniosynostosis patients, demonstrating sustained crania",
+   "A synthesis and atlas paper integrates fontanelle and suture developmental timelines with Wormian bone variants to define expanded normative ranges for 'normal' infant skull anatomy, arguing that seve",
+   "A case report documents pseudoclosure of the anterior fontanelle by a large Wormian bone mimicking premature sagittal synostosis, and proposes specific palpation and ultrasound criteria to distinguish",
+   "First case series characterizing anterior fontanellar bone as an isolated finding vs. a marker of craniosynostosis, with associated outcomes."
+  ],
+  "result": {
+   "error": "{\"scores\": [2, 3, 1, 1, 4, 1], \"best\": 5, \"confidence\": \"high\", \"recognised_paper\": \"no\", \"why\": \"The 2006 reference title (Pseudoclosure of Anterior Fontanelle by Wormian Bone in Isolated Sagittal Craniosynostosis) is itself a case series, and candidate 5 is a case report directly extending/detaili"
+  }
+ },
+ {
+  "id": "W2072407405",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 4,
+  "slate": [
+   "Introduce a compressed zero-divisor graph of a poset built from equivalence classes of zero-divisors, and prove its diameter and girth agree with those of the full zero-divisor graph of the poset, giv",
+   "Establish a structure-preserving correspondence between zero-divisor graphs of posets and zero-divisor graphs of associated semigroups, and use it to transfer known cycle and symmetry (automorphism) r",
+   "Prove a poset analogue of Beck's coloring conjecture by showing the chromatic number of the zero-divisor graph of a poset equals its clique number for posets satisfying an ascending chain condition, e",
+   "Defines the reduced zero-divisor graph Gamma_E(P) for posets and shows it identifies the annihilator prime ideals of posets satisfying the ascending chain condition on annihilator ideals.",
+   "Derive sharp diameter and girth bounds for the zero-divisor graph of a poset taken relative to an ideal, generalizing both the ideal-relative construction for posets and the diameter-3/girth-4 theorem",
+   "Extend zero-divisor graph theory from posets to qosets (quasi-ordered sets), proving that the diameter-at-most-3 and girth-at-most-4 theorems known for commutative rings and posets continue to hold in"
+  ],
+  "result": {
+   "scores": [
+    3,
+    1,
+    1,
+    4,
+    3,
+    1
+   ],
+   "best": 4,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The SELF paper (diameter/girth of zero-divisor graphs of posets) most plausibly sets up a follow-up defining a reduced zero-divisor graph tied to annihilator prime ideals under ACC, matching candidate 4's combination of reduced-graph construction and ideal-theoretic characterization."
+  },
+  "real_score": 4,
+  "decoy_max": 3,
+  "decoy_mean": 1.8,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2787401765",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate": [
+   "The systems-theory decision-making model for hearing conservation is empirically operationalized and tested in a cohort of young adults, showing that its proposed determinants (knowledge, risk percept",
+   "A 3-4 year longitudinal test-retest follow-up of the same Flemish young-adult cohort quantifies real threshold change versus measurement noise by applying intraclass correlation coefficients, standard",
+   "A prospective analysis links baseline attitudes and beliefs toward noise and hearing protection (measured via a YANS-derived questionnaire) to subsequently measured hearing threshold shifts and incide",
+   "Repeated-measures audiometric data from Flemish young adults are benchmarked against US NHANES-derived adolescent/young-adult hearing loss prevalence trends, showing a comparable rise in high-frequenc",
+   "A combined epidemiological and psychoacoustic study establishes leisure-noise exposure dose (via activity-based estimation) as an independent risk factor for both audiometrically confirmed hearing thr",
+   "establishes acceptable test-retest reliability (ICC above 0.70 for nearly all factors) for the Dutch YANS and BAHPHL instruments"
+  ],
+  "result": {
+   "scores": [
+    2,
+    4,
+    2,
+    1,
+    2,
+    3
+   ],
+   "best": 2,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The methodology citations (SEM 1998, ICC/SEM 2005, Bland-Altman 2015) all tagged \u00abmethodology\u00bb point specifically to a test-retest reliability analysis of repeated audiometry in the same Flemish cohort, matching candidate 2 far more precisely than the others."
+  },
+  "real_score": 3,
+  "decoy_max": 4,
+  "decoy_mean": 2.2,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W1991144222",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 4,
+  "slate": [
+   "A retrospective biomarker analysis showing that MGMT expression level modifies the prognostic impact of BRAF and NRAS mutation status in advanced melanoma patients treated with DTIC, identifying a MGM",
+   "A tiling-resolution array-CGH survey of primary and metastatic melanomas showing that BRAF V600E-mutant tumors carry a distinct pattern of secondary copy-number gains (including recurrent BRAF locus a",
+   "A copy-number-focused reanalysis of the melanoma driver-mutation landscape proposing that locus-specific gene amplification, rather than additional activating point mutations, accounts for a subset of",
+   "Shows that lower BRAF and NRAS expression levels, independent of mutation status, are associated with clinical benefit from DTIC therapy and improved progression-free and overall survival in metastati",
+   "An integrated mutation-and-expression study demonstrating that BRAF/NRAS mutation status stratifies stage IV melanomas into the previously described gene-expression molecular subtypes, and that this c",
+   "A clinicopathologic cohort study establishing that BRAF V600K (versus V600E) mutant melanomas arise preferentially at chronically sun-damaged sites, associate with older age at diagnosis, and show a g"
+  ],
+  "result": {
+   "scores": [
+    3,
+    2,
+    2,
+    2,
+    4,
+    2
+   ],
+   "best": 5,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The reference list's heavy BRAF/NRAS mutation-frequency and prognosis literature combined with the self-cited 2010 gene-expression molecular-subtype paper best matches candidate 5's integration of mutation status with expression subtypes to improve survival prediction."
+  },
+  "real_score": 2,
+  "decoy_max": 4,
+  "decoy_mean": 2.6,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2139416103",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate": [
+   "A pattern-perturbation multicanonical Monte Carlo algorithm extended to jointly estimate bit-error rates for optical DQPSK systems with postdetection filtering, cutting simulation runtime versus brute",
+   "A multicanonical Monte Carlo methodology for evaluating post-Viterbi-decoding bit-error and frame-error rates in coded optical transmission systems, showing the biasing approach remains efficient when",
+   "An analytical error-probability framework for optically amplified lightwave systems that incorporates parametric-gain-driven signal-noise interaction, validated against multicanonical Monte Carlo simu",
+   "A covariance-matrix-based semi-analytical technique combined with multicanonical sampling to predict bit-error ratios in dense WDM systems under combined SPM/XPM distortion, extending prior single-cha",
+   "A hybrid Metropolis-Hastings importance-sampling scheme for WDM systems that adaptively biases bit patterns to capture XPM-induced nonlinear phase noise, achieving accurate low-BER tail estimates with",
+   "extends the pattern perturbation method to WDM systems and demonstrates its efficiency in estimating bit-error rates under multi-channel pattern dependence"
+  ],
+  "result": {
+   "scores": [
+    3,
+    2,
+    1,
+    2,
+    1,
+    4
+   ],
+   "best": 6,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list is dominated by WDM/XPM pattern-dependence papers and the author's own 2007 pattern perturbation method paper, pointing to a natural extension of that method to multi-channel WDM BER estimation."
+  },
+  "real_score": 4,
+  "decoy_max": 3,
+  "decoy_mean": 1.8,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2955349987",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 4,
+  "slate": [
+   "A retrospective analysis of dermatology outpatient records establishing the relative frequency and clinical spectrum of nail disorders (onychomycosis, psoriatic nail change, chronic paronychia) within",
+   "A hospital-based cross-sectional study of dermatology outpatients showing that prolonged periungual application of potent topical corticosteroids (self-treated for minor nail-fold complaints) produces",
+   "A before-and-after quality-of-life study demonstrating that a structured topical-corticosteroid withdrawal and nail-care protocol significantly improves psychosocial and functional impairment in patie",
+   "Finds 25.70% of new dermatology patients had used unsupervised/OTC topical steroids, most commonly for infectious skin disease, with highest misuse in photodermatitis and melasma.",
+   "Development and prospective validation of a clinical severity-grading scale for topical-steroid-induced periungual dermatitis and associated nail dystrophy, enabling standardized staging and treatment",
+   "A questionnaire-based survey quantifying the prevalence, sociodemographic correlates, and drivers (cosmetic self-medication, pharmacist dispensing without prescription) of topical corticosteroid misus"
+  ],
+  "result": {
+   "scores": [
+    1,
+    4,
+    2,
+    1,
+    2,
+    3
+   ],
+   "best": 2,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The reference list is entirely about prevalence/misuse/adverse-effects of topical corticosteroids in dermatology (facial-focused precedents), so the natural extension is a hospital-based study identifying a distinct 'steroid nail' adverse-effect pattern from periungual misuse, matching candidate 2 most closely."
+  },
+  "real_score": 1,
+  "decoy_max": 4,
+  "decoy_mean": 2.4,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2128144746",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 3,
+  "slate": [
+   "Proposed and validated an alternative agreement statistic to standard kappa for CAPS-A audit data that corrects for the prevalence and bias effects inherent in skewed cleft-speech rating distributions",
+   "Demonstrated that completion of the CAPS-A training package significantly improves novice listeners' rating agreement with expert consensus on hypernasality and audible nasal emission, validating the ",
+   "shows systematic training improves interrater reliability for 6 of 13 CAPS-A parameters and establishes reliability benchmarks for the Americleft-modified protocol in American/Canadian English speaker",
+   "Established normative inter- and intra-rater reliability benchmarks for the CAPS-A protocol across a multi-center panel of speech and language therapists, using weighted kappa to show 'good' to 'excel",
+   "Showed that speech sample type (single words vs. connected/spontaneous speech) systematically affects inter-rater reliability of CAPS-A ratings, recommending connected speech as the more reliable elic",
+   "Compared perceptual ratings of nasal emission and resonance made by experienced cleft specialists versus general speech and language therapists using CAPS-A, quantifying the effect of listener experie"
+  ],
+  "result": {
+   "scores": [
+    2,
+    3,
+    4,
+    3,
+    2,
+    2
+   ],
+   "best": 3,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "Candidate 3 matches the SELF-cited CAPS-A training/reliability line most closely, describing training effects on interrater reliability and establishing benchmarks for an Americleft-modified protocol variant consistent with the cluster of CAPS-A validation papers in the reference list."
+  },
+  "real_score": 4,
+  "decoy_max": 3,
+  "decoy_mean": 2.4,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2729223875",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 3,
+  "slate": [
+   "A photonic-crystal-encoded suspension array assembled from Pickering-emulsion-templated hydrogel microspheres, each carrying a distinct aptamer probe, enabling simultaneous multiplex fluorescence-reco",
+   "Monodisperse silica-core/magnetic-shell Janus particles self-assembled at Pickering emulsion droplet interfaces into colloidal-crystal microcylinders whose stop-band position shifts upon aptamer-Ochra",
+   "Unknown in detail; title indicates a new microfluidically-fabricated, photonically-encoded, magnetically separable microsphere platform for aptamer-based OTA enrichment.",
+   "A microfluidic Pickering-emulsion route to magnetic Janus photonic-crystal microspheres (silica colloidal-crystal hemisphere fused to a Fe3O4-loaded hemisphere) that combine magnetic pre-concentration",
+   "An upconversion-nanoparticle-labeled aptamer paired with photonic-crystal-encoded Pickering-emulsion microspheres in a FRET-based suspension-array immunoassay that lowers the limit of detection for Oc",
+   "An aptamer-functionalized magnetic-nanoparticle Pickering-emulsion sorbent for selective solid-phase extraction and pre-concentration of Ochratoxin A from food matrices, giving higher recovery and cle"
+  ],
+  "result": {
+   "scores": [
+    4,
+    1,
+    3,
+    2,
+    1,
+    1
+   ],
+   "best": 1,
+   "confidence": "high",
+   "recognised_paper": "Aptamer fluorescence signal recovery screening for multiplex mycotoxins in cereal samples based on photonic crystal microsphere suspension array",
+   "why": "Candidate 1 matches the group's own 2017 self-cited title almost verbatim (Pickering-emulsion-templated photonic-crystal hydrogel microspheres, aptamer probes, multiplex fluorescence-recovery detection of OTA plus fumonisin B1), continuing their 2013/2014 suspension-array line."
+  },
+  "real_score": 3,
+  "decoy_max": 4,
+  "decoy_mean": 1.8,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
  }
 ]
