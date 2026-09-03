@@ -122,6 +122,28 @@ one another, and make each one as plausible as you can.
 Reply with ONLY a JSON array of {k} strings, no prose."""
 
 
+GRADED_PROMPT = """A research paper made this contribution:
+
+REFERENCE CONTRIBUTION: {truth}
+
+Below are {n} proposals that were written *without* seeing it, from the paper's
+prior art alone. Score how close each proposal comes to the reference
+contribution above — not how good or plausible it is on its own.
+
+0 — a different contribution altogether.
+1 — same broad area, different problem and different move.
+2 — same problem OR same kind of move, not both.
+3 — same problem and same kind of move, differing in specifics.
+4 — the same contribution, in different words.
+
+Proposals:
+{candidates}
+
+Reply with ONLY a JSON object, no prose:
+{{"scores": [<one integer 0-4 per proposal, in the order shown>],
+  "why": "<one sentence>"}}"""
+
+
 PROMPT = """You are judging how well each candidate contribution fits a body of prior art.
 
 {brief}
@@ -185,9 +207,32 @@ def generate_decoys(brief: str, k: int, model: str, timeout: int = 300,
     return [str(x) for x in out][:k]
 
 
+def judge_graded(truth: str, proposals: list[str], model: str, timeout: int = 300) -> dict | None:
+    """Supervised scoring: the judge is *shown* the real contribution and grades each
+    proposal's distance from it. The unsupervised variant — 'which of these fits the
+    prior art best?' — was shown not to work (`hard` stage): proposals generated from
+    a reference list are by construction more derivable from it than the real paper
+    is, so the judge prefers them. Grading against a revealed ground truth removes
+    that asymmetry."""
+    cands = "\n".join(f"{i+1}. {p}" for i, p in enumerate(proposals))
+    prompt = GRADED_PROMPT.format(truth=truth, n=len(proposals), candidates=cands)
+    try:
+        r = subprocess.run(["claude", "-p", prompt, "--model", model],
+                           capture_output=True, text=True, timeout=timeout, cwd=NEUTRAL_CWD)
+    except subprocess.TimeoutExpired:
+        return None
+    m = re.search(r"\{.*\}", r.stdout, re.S)
+    if not m:
+        return {"error": (r.stdout or r.stderr)[:300]}
+    try:
+        return json.loads(m.group(0))
+    except json.JSONDecodeError:
+        return {"error": m.group(0)[:300]}
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(prog="genesis.retro")
-    ap.add_argument("stage", choices=["calibrate", "hard"])
+    ap.add_argument("stage", choices=["calibrate", "hard", "graded"])
     ap.add_argument("--cards", required=True)
     ap.add_argument("--sample", required=True)
     ap.add_argument("--dossiers", default="data/dossiers/main50-compact")
@@ -230,6 +275,35 @@ def main(argv=None):
         brief = prior_art_brief(t["id"], Path(a.dossiers))
         if not brief:
             print(f"[{i}/{len(targets)}] {t['id']} no brief — skipped", file=sys.stderr); continue
+        if a.stage == "graded":
+            # Anchors with known answers, so the ruler itself is under test:
+            #   positive  — the paper's own contribution, restated by the judge's own
+            #               standard (should score 4)
+            #   generated — proposals from the prior art alone (the quantity of interest)
+            #   negative  — another paper's real contribution (should score 0-1)
+            gen = generate_decoys(brief, 3, a.model, era_restricted=True)
+            if len(gen) < 2:
+                print(f"[{i}/{len(targets)}] {t['id']} generator failed — skipped", file=sys.stderr)
+                continue
+            others = [c for c in pool if c["id"] != t["id"] and c["contribution"]]
+            neg = rng.choice(others)["contribution"]
+            props = [{"kind": "positive", "text": t["contribution"]}] + \
+                    [{"kind": "generated", "text": g} for g in gen] + \
+                    [{"kind": "negative", "text": neg}]
+            rng.shuffle(props)
+            res = judge_graded(t["contribution"], [p["text"] for p in props], a.model)
+            sc = (res or {}).get("scores") or []
+            row = {"id": t["id"], "arm": "graded", "kinds": [p["kind"] for p in props],
+                   "result": res}
+            if len(sc) == len(props):
+                by = {}
+                for p, s2 in zip(props, sc):
+                    by.setdefault(p["kind"], []).append(s2)
+                row["by_kind"] = by
+            rows.append(row)
+            print(f"[{i}/{len(targets)}] {t['id']} graded: {row.get('by_kind')}", file=sys.stderr)
+            (out_dir / "graded-raw.json").write_text(json.dumps(rows, indent=1))
+            continue
         if a.stage == "hard":
             gen = generate_decoys(brief, a.decoys, a.model, era_restricted=a.era_restricted)
             if len(gen) < 2:
@@ -279,7 +353,7 @@ def main(argv=None):
                   f"decoy_max={row.get('decoy_max')} picked_real={row.get('picked_real')} "
                   f"conf={(res or {}).get('confidence')}", file=sys.stderr)
             (out_dir / "calibration-raw.json").write_text(json.dumps(rows, indent=1))
-    name = a.hard_name if a.stage == "hard" else "calibration-raw.json"
+    name = {"hard": a.hard_name, "graded": "graded-raw.json"}.get(a.stage, "calibration-raw.json")
     (out_dir / name).write_text(json.dumps(rows, indent=1))
     print(f"{len(rows)} trials -> {out_dir/name}", file=sys.stderr)
 

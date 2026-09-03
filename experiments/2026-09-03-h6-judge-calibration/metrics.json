@@ -29,5 +29,30 @@
   "low_confidence_share": 0.83
  },
  "judge_model": "claude-sonnet-5",
- "recognised_any": 0
+ "recognised_any": 0,
+ "hard_era_slate": {
+  "n": 23,
+  "picked_real": 5,
+  "picked_rate": 0.217,
+  "real_mean": 2.22,
+  "decoy_max_mean": 3.7,
+  "margin": -1.48,
+  "decoy_beats_real": 0.783,
+  "sign_p": 0.011
+ },
+ "graded_supervised": {
+  "n_papers": 23,
+  "positive_anchor_mean": 4,
+  "negative_anchor_mean": 0.04,
+  "anchors_correct": "23/23",
+  "generated_mean": 1.8,
+  "generated_best_of_3_mean": 2.43,
+  "generated_dist": {
+   "0": 2,
+   "1": 22,
+   "2": 33,
+   "3": 12
+  },
+  "papers_with_a_proposal_ge3": 10
+ }
 }

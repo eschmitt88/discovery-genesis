@@ -593,5 +593,209 @@
   "real_is_top": false,
   "real_tied_top": false,
   "picked_real": false
+ },
+ {
+  "id": "W2787401765",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate": [
+   "A Dutch-language adaptation of the Youth Attitude to Noise Scale is psychometrically validated in Flemish young adults, reporting internal consistency and test-retest reliability alongside convergent ",
+   "Test-retest reliability of standard and extended high-frequency pure-tone audiometry in young adults is quantified using intraclass correlation coefficients, standard error of measurement, and Bland-A",
+   "A two-year prospective follow-up of the Flemish young-adult cohort links baseline Youth Attitude to Noise Scale scores and self-reported recreational noise dose to incident tinnitus and audiometric th",
+   "Self-reported estimates of recreational noise exposure are compared against measured indices using Bland-Altman agreement analysis in a sample of young adults, determining whether questionnaire-based ",
+   "A brief hearing-conservation counseling intervention grounded in the systems-theory model of hearing-conservation decision-making is tested among Flemish university students, showing measurable shifts",
+   "establishes acceptable test-retest reliability (ICC above 0.70 for nearly all factors) for the Dutch YANS and BAHPHL instruments"
+  ],
+  "result": {
+   "scores": [
+    3,
+    2,
+    2,
+    2,
+    1,
+    4
+   ],
+   "best": 6,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list is dominated by reliability methodology (ICC/SEM, Bland-Altman, measurement-error) alongside YANS adaptation studies, pointing to a Dutch-language reliability validation of the YANS/BAHPHL questionnaires as the natural follow-up to the cited 'SELF' Flemish cohort series, which candidate 6 states almost verbatim."
+  },
+  "real_score": 4,
+  "decoy_max": 3,
+  "decoy_mean": 2.0,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W1991144222",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 4,
+  "slate": [
+   "A methods-and-discovery paper adapting the CTAB-urea RNA purification protocol to heavily pigmented archival melanoma specimens in order to generate cDNA microarray expression profiles, deriving a mel",
+   "A retrospective genomic study using tiling-resolution array-CGH and Sanger/pyrosequencing on a stage IV melanoma cohort showing that BRAF V600E/V600K and NRAS Q61 mutant tumors preferentially fall int",
+   "A clinical-genotyping study applying high-resolution melting analysis to a large primary-melanoma series to show that BRAF and NRAS mutation frequencies differ by anatomic site and histogenetic subtyp",
+   "Shows that lower BRAF and NRAS expression levels, independent of mutation status, are associated with clinical benefit from DTIC therapy and improved progression-free and overall survival in metastati",
+   "A biomarker paper proposing that MGMT expression and BRAF/NRAS mutation status act as complementary predictors of DTIC chemosensitivity in advanced melanoma, arguing that BRAF-mutant, MGMT-low tumors ",
+   "A copy-number analysis of matched primary-metastasis melanoma pairs by array-CGH demonstrating that BRAF-mutant tumors acquire focal copy-number gain at the mutant BRAF locus during progression to met"
+  ],
+  "result": {
+   "scores": [
+    2,
+    4,
+    3,
+    1,
+    2,
+    2
+   ],
+   "best": 2,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "Candidate 2 ties together the group's own tiling-resolution array-CGH and stage IV molecular-subtype papers with BRAF/NRAS mutation genotyping, matching the SELF citations most directly."
+  },
+  "real_score": 1,
+  "decoy_max": 4,
+  "decoy_mean": 2.6,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2139416103",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate": [
+   "A pattern-perturbation multicanonical Monte Carlo method for estimating the bit-error rate of optical DQPSK/DPSK transmission systems impaired by cross-phase-modulation-induced nonlinear phase noise, ",
+   "An analytical characterization of self-phase-modulation-induced pulse distortion and its effect on cross-phase-modulation-induced nonlinear phase noise in dispersion-compensated coherent DQPSK WDM sys",
+   "A multicanonical Monte Carlo framework for evaluating the post-decoding error probability of convolutionally coded optical transmission links, generalizing prior Viterbi-decoder BER estimation to conc",
+   "A stratified-sampling pattern-perturbation Monte Carlo algorithm that reduces the required simulation length for estimating ultra-low tail bit-error probabilities in long-haul dispersion-managed solit",
+   "A hybrid semi-analytical technique that couples the noise covariance matrix method with multicanonical Monte Carlo sampling to compute forward-error-corrected bit-error rates for 10-Gb/s NRZ WDM syste",
+   "extends the pattern perturbation method to WDM systems and demonstrates its efficiency in estimating bit-error rates under multi-channel pattern dependence"
+  ],
+  "result": {
+   "scores": [
+    4,
+    2,
+    3,
+    3,
+    2,
+    2
+   ],
+   "best": 1,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "Candidate 1 directly extends the authors' own 2007 pattern-perturbation MMC method and 2009 DQPSK work to XPM-induced nonlinear phase noise in phase-modulated formats, matching the strongest self-citation cluster."
+  },
+  "real_score": 2,
+  "decoy_max": 4,
+  "decoy_mean": 2.8,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2955349987",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 4,
+  "slate": [
+   "A community-based, observational survey estimating the prevalence of nail diseases and steroid-associated nail changes in a rural population, paralleling earlier rural skin-disease prevalence studies ",
+   "A hospital-based cross-sectional study establishing the prevalence and clinical spectrum of nail-plate changes (thinning, brittleness, subungual atrophy, dyschromia) among patients with documented per",
+   "A before-and-after quality-of-life study using a validated dermatology QoL index to measure the psychosocial and functional burden of steroid-induced nail dystrophy and its improvement after supervise",
+   "Finds 25.70% of new dermatology patients had used unsupervised/OTC topical steroids, most commonly for infectious skin disease, with highest misuse in photodermatitis and melasma.",
+   "A case-series clinical study defining and characterizing 'topical steroid-induced onychopathy' as a distinct, reversible clinical entity, describing its presenting features and documenting nail-plate ",
+   "A drug-utilization audit modeled on prior dermatology prescribing-pattern studies, quantifying how often high-potency topical corticosteroids are dispensed or self-applied for nail-fold and periungual"
+  ],
+  "result": {
+   "scores": [
+    2,
+    2,
+    1,
+    3,
+    4,
+    1
+   ],
+   "best": 5,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The reference list is dominated by topical-steroid-misuse background literature (prevalence surveys, misuse patterns, adverse effects) rather than nail-QoL or dermatology-prescribing-audit studies, and the closest fit for a 2018 paper naming a new steroid-related nail entity is candidate 5's clinical case-series defining a distinct reversible 'topical steroid-induced onychopathy'."
+  },
+  "real_score": 3,
+  "decoy_max": 4,
+  "decoy_mean": 2.0,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2128144746",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 3,
+  "slate": [
+   "A methodological paper applying Cicchetti/Feinstein-style agreement-versus-reliability analysis (bias, prevalence-adjusted kappa) to existing CAPS-A and GOS.SP.ASS audit datasets, showing that raw kap",
+   "A comparative study showing that completion of the CAPS-A structured training package significantly improves inter-listener agreement on hypernasality, nasal emission, and articulation ratings among c",
+   "shows systematic training improves interrater reliability for 6 of 13 CAPS-A parameters and establishes reliability benchmarks for the Americleft-modified protocol in American/Canadian English speaker",
+   "A national multi-centre study establishing inter-rater and intra-rater reliability (using weighted kappa) of the CAPS-A perceptual speech tool when applied by speech and language therapists rating rec",
+   "A study contrasting perceptual ratings of audible nasal emission and hypernasality given by experienced cleft speech specialists versus non-specialist or novice listeners on the same recorded samples,",
+   "A study examining how speech sample type (isolated words versus connected/spontaneous speech) affects the reliability and clinical classification of hypernasality and nasal emission ratings in 5-year-"
+  ],
+  "result": {
+   "scores": [
+    2,
+    2,
+    1,
+    4,
+    2,
+    1
+   ],
+   "best": 4,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list's heavy emphasis on kappa/agreement methodology papers plus CAPS-A and the UK 5-year-old cleft audit cohort papers points to a national reliability study of CAPS-A supporting its adoption as an audit standard, matching candidate 4 precisely."
+  },
+  "real_score": 1,
+  "decoy_max": 4,
+  "decoy_mean": 2.2,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2729223875",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 3,
+  "slate": [
+   "An aptamer-functionalized, structural-color-encoded photonic crystal microsphere suspension array that performs simultaneous multiplex fluorescence quantification of ochratoxin A and fumonisin B1 dire",
+   "A modified St\u00f6ber-type silica microsphere synthesis that tunes precursor surface free energy during growth to suppress nucleation-driven polydispersity, yielding narrower size-distribution colloidal-c",
+   "Unknown in detail; title indicates a new microfluidically-fabricated, photonically-encoded, magnetically separable microsphere platform for aptamer-based OTA enrichment.",
+   "A microfluidic Pickering-emulsion-templating method that co-encapsulates silica colloidal-crystal domains and maghemite magnetic nanoparticles within a single droplet to produce structural-color-barco",
+   "An aptamer-DNAzyme hairpin fluorescence 'signal-recovery' probe immobilized covalently on the surface of encoded photonic crystal microspheres, giving a wash-free, one-step ochratoxin A assay whose de",
+   "Aptamer-grafted maghemite-core/silica-shell magnetic nanospheres used as a reusable solid-phase extraction sorbent that is directly coupled to a photonic-crystal-microsphere suspension array readout, "
+  ],
+  "result": {
+   "scores": [
+    1,
+    1,
+    3,
+    4,
+    2,
+    2
+   ],
+   "best": 4,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The hidden paper's own field is 'Pickering emulsions and particle stabilization' and its reference list is dominated by microfluidic Janus/magnetic-photonic particle fabrication work (esp. the 2016 magnetic-fluorescent Janus microparticle paper), which candidate 4's one-step Pickering-emulsion co-encapsulation of magnetic and photonic-crystal domains most directly extends."
+  },
+  "real_score": 3,
+  "decoy_max": 4,
+  "decoy_mean": 2.0,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
  }
 ]

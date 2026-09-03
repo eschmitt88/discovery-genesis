@@ -1,0 +1,798 @@
+[
+ {
+  "id": "W2127508065",
+  "arm": "graded",
+  "kinds": [
+   "negative",
+   "generated",
+   "positive",
+   "generated",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    0,
+    2,
+    4,
+    2,
+    2
+   ],
+   "why": "Proposal 3 is verbatim identical to the reference; the others share the accessory-ossicle/sesamoid foot domain but target different populations or questions (imaging algorithm, os vesalianum case series, accessory navicular study) rather than the specific prevalence-in-hallux-valgus report."
+  },
+  "by_kind": {
+   "negative": [
+    0
+   ],
+   "generated": [
+    2,
+    2,
+    2
+   ],
+   "positive": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "W1980373626",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "positive",
+   "generated",
+   "generated",
+   "negative"
+  ],
+  "result": {
+   "scores": [
+    2,
+    4,
+    1,
+    2,
+    0
+   ],
+   "why": "Only proposal 2 restates the reference verbatim; 1 and 4 share the road/painted-turtle problem but use different genetic moves, 3 shares the mechanistic move (bottleneck/kinship-type genetic signature) on a different species/problem, and 5 is unrelated."
+  },
+  "by_kind": {
+   "generated": [
+    2,
+    1,
+    2
+   ],
+   "positive": [
+    4
+   ],
+   "negative": [
+    0
+   ]
+  }
+ },
+ {
+  "id": "W1190150953",
+  "arm": "graded",
+  "kinds": [
+   "negative",
+   "positive",
+   "generated",
+   "generated",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    0,
+    4,
+    2,
+    2,
+    2
+   ],
+   "why": "Proposal 2 is a verbatim restatement of the reference; the others share only broad grape/berry texture-mechanics territory or an unrelated medical topic."
+  },
+  "by_kind": {
+   "negative": [
+    0
+   ],
+   "positive": [
+    4
+   ],
+   "generated": [
+    2,
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "W4242228693",
+  "arm": "graded",
+  "kinds": [
+   "negative",
+   "generated",
+   "positive",
+   "generated",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    0,
+    2,
+    4,
+    1,
+    2
+   ],
+   "why": "Proposal 3 is verbatim the reference; others share only broad hydroxymethylation/allylic-alcohol themes or catalyst-class overlap without matching both substrate scope and dual-metal complementary regio/stereoselectivity."
+  },
+  "by_kind": {
+   "negative": [
+    0
+   ],
+   "generated": [
+    2,
+    1,
+    2
+   ],
+   "positive": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "W2339696061",
+  "arm": "graded",
+  "kinds": [
+   "negative",
+   "positive",
+   "generated",
+   "generated",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    0,
+    4,
+    3,
+    1,
+    1
+   ],
+   "why": "Proposal 2 is the exact contribution verbatim, proposal 3 matches the same problem/cohort and risk-factor-clustering move but differs in specific findings, while 4 and 5 share only the diabetes/uric-acid domain and 1 is unrelated chemistry."
+  },
+  "by_kind": {
+   "negative": [
+    0
+   ],
+   "positive": [
+    4
+   ],
+   "generated": [
+    3,
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "W2288936626",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "positive",
+   "generated",
+   "generated",
+   "negative"
+  ],
+  "result": {
+   "scores": [
+    1,
+    4,
+    3,
+    2,
+    0
+   ],
+   "why": "Proposal 2 is verbatim the reference; proposal 3 shares the high-pressure DFT polymorph prediction move but with different specific polymorphs/method framing; proposal 4 shares the problem domain (MoO2 structural stability) but via a different move (electronic-structure/Peierls criterion, not high-pressure prediction); proposal 1 is same material but a thermochemistry study, not structural prediction; proposal 5 is unrelated (medical)."
+  },
+  "by_kind": {
+   "generated": [
+    1,
+    3,
+    2
+   ],
+   "positive": [
+    4
+   ],
+   "negative": [
+    0
+   ]
+  }
+ },
+ {
+  "id": "W2040371569",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "generated",
+   "negative",
+   "positive",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    1,
+    2,
+    0,
+    4,
+    1
+   ],
+   "why": "Only proposal 4 is verbatim the reference; 2 shares the mode-locked microring comb move but measures pulses rather than demonstrating the filter-driven FWM mode-locking mechanism itself, while 1 and 5 are chip-scale/fiber comb noise studies in the same broad area, and 3 is unrelated biology."
+  },
+  "by_kind": {
+   "generated": [
+    1,
+    2,
+    1
+   ],
+   "negative": [
+    0
+   ],
+   "positive": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "W2408915156",
+  "arm": "graded",
+  "kinds": [
+   "negative",
+   "positive",
+   "generated",
+   "generated",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    0,
+    4,
+    2,
+    3,
+    1
+   ],
+   "why": "Proposal 2 is verbatim the reference; 4 shares the surgical-technique-determines-VPI-outcome move but different specific technique/timing framing; 3 and 5 share the cleft/VPI domain and outcomes-study move but focus on different variables (secondary surgery choice, timing effects) rather than primary-surgery technique; 1 is unrelated."
+  },
+  "by_kind": {
+   "negative": [
+    0
+   ],
+   "positive": [
+    4
+   ],
+   "generated": [
+    2,
+    3,
+    1
+   ]
+  }
+ },
+ {
+  "id": "W2041131478",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "negative",
+   "generated",
+   "positive",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    1,
+    0,
+    2,
+    4,
+    2
+   ],
+   "why": "Only proposal 4 restates the exact contribution verbatim; others share broad hypoxemia/oxygen-therapy area but differ in problem or study design."
+  },
+  "by_kind": {
+   "generated": [
+    1,
+    2,
+    2
+   ],
+   "negative": [
+    0
+   ],
+   "positive": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "W2002459863",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "negative",
+   "positive",
+   "generated",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    2,
+    0,
+    4,
+    3,
+    1
+   ],
+   "why": "Proposal 3 is verbatim the reference; proposal 4 matches the same problem and recombination-dominant move with different specifics/framing; proposal 1 shares the pneumococcal recombination/phylogeny setting but focuses narrowly on MLST vs WGS typing rather than pan-genome/lineage/reservoir characterization; proposal 5 focuses on specific antigen loci selection rather than genome-wide pan-genome/lineage analysis; proposal 2 is unrelated (cardiology)."
+  },
+  "by_kind": {
+   "generated": [
+    2,
+    3,
+    1
+   ],
+   "negative": [
+    0
+   ],
+   "positive": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "W2064056867",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "negative",
+   "generated",
+   "generated",
+   "positive"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    1,
+    2,
+    4
+   ],
+   "why": "Proposals 1-3 focus on lateral/patterned confinement geometry rather than isolating the electric field's mechanistic role, proposal 4 touches field redistribution but frames it around confinement geometry not pure field mechanism, and proposal 5 restates the reference verbatim."
+  },
+  "by_kind": {
+   "generated": [
+    0,
+    1,
+    2
+   ],
+   "negative": [
+    0
+   ],
+   "positive": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "W2130810987",
+  "arm": "graded",
+  "kinds": [
+   "negative",
+   "generated",
+   "positive",
+   "generated",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    0,
+    2,
+    4,
+    3,
+    2
+   ],
+   "why": "Proposal 3 restates the reference verbatim; 4 shares ANXA2 and expression-profiling but frames it by histology not ploidy; 2 and 5 share ploidy/genomic-instability grading but focus on survival prediction rather than gene/protein correlates; 1 is unrelated."
+  },
+  "by_kind": {
+   "negative": [
+    0
+   ],
+   "generated": [
+    2,
+    3,
+    2
+   ],
+   "positive": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "W2792962347",
+  "arm": "graded",
+  "kinds": [
+   "negative",
+   "generated",
+   "generated",
+   "positive",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    0,
+    1,
+    1,
+    4,
+    2
+   ],
+   "why": "Proposal 4 is verbatim identical to the reference; the others involve different problems/mechanisms (allele-biased splicing, cross-brain-region entrainment, Dbx1 locomotion homology, phasic inhibition timing expiratory-inspiratory transition) despite proposal 5 sharing the preB\u00f6tC inhibition topic."
+  },
+  "by_kind": {
+   "negative": [
+    0
+   ],
+   "generated": [
+    1,
+    1,
+    2
+   ],
+   "positive": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "W2292628419",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "generated",
+   "negative",
+   "positive",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    1,
+    2,
+    0,
+    4,
+    3
+   ],
+   "why": "Only proposal 4 restates the reference verbatim; proposal 5 shares the VO2/TiO2 self-cleaning bilayer concept but lacks the SiO2 layer, transmission/modulation specifics; proposal 2 shares the doping-for-transmittance goal but a different mechanism; proposal 1 is same materials area but a different analytical move; proposal 3 is unrelated (DFT polymorph prediction)."
+  },
+  "by_kind": {
+   "generated": [
+    1,
+    2,
+    3
+   ],
+   "negative": [
+    0
+   ],
+   "positive": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "W2893916093",
+  "arm": "graded",
+  "kinds": [
+   "negative",
+   "generated",
+   "generated",
+   "generated",
+   "positive"
+  ],
+  "result": {
+   "scores": [
+    0,
+    3,
+    3,
+    1,
+    4
+   ],
+   "why": "Proposal 5 restates the reference verbatim; proposals 2 and 3 share the galectin-3-based ADHF/HF risk-stratification problem and combined-biomarker move but differ in specifics (ED CART rule; functional-status score), proposal 4 is same broad area (galectin-3 in HF) but a mechanistic/correlative rather than risk-stratification move, and proposal 1 is an unrelated vaccine immunology study."
+  },
+  "by_kind": {
+   "negative": [
+    0
+   ],
+   "generated": [
+    3,
+    3,
+    1
+   ],
+   "positive": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "W2795063159",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "negative",
+   "positive",
+   "generated",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    1,
+    0,
+    4,
+    2,
+    1
+   ],
+   "why": "Proposal 3 is verbatim the reference; 1 and 4 share the IL12RB1 splicing/isoform topic but focus on different mechanisms (trans-acting hnRNP H1 exon skipping; monoallelic bias/genotype linkage) rather than the exon 9b polyA/splicing competition and miRNA/T-cell functional link; 5 shares the disease context but is a biomarker assay, not a mechanism; 2 is unrelated."
+  },
+  "by_kind": {
+   "generated": [
+    1,
+    2,
+    1
+   ],
+   "negative": [
+    0
+   ],
+   "positive": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "W2082554197",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "positive",
+   "negative",
+   "generated",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    1,
+    4,
+    0,
+    2,
+    0
+   ],
+   "why": "Proposal 2 is verbatim identical to the reference; proposal 4 shares the topic and imaging-based classification move but frames it as normative incidental-finding prevalence data rather than an isolated-vs-marker case series with outcomes; proposal 1 shares the anatomic area but addresses a different diagnostic-mimicry problem; proposals 3 and 5 are unrelated contributions."
+  },
+  "by_kind": {
+   "generated": [
+    1,
+    2,
+    0
+   ],
+   "positive": [
+    4
+   ],
+   "negative": [
+    0
+   ]
+  }
+ },
+ {
+  "id": "W2072407405",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "positive",
+   "negative",
+   "generated",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    1,
+    4,
+    0,
+    2,
+    2
+   ],
+   "why": "Proposal 2 is a verbatim match; 4 and 5 share the poset zero-divisor-graph setting but pursue different problems (planarity, ideal-relative diameter/bipartiteness) rather than the reduced graph/annihilator-prime identification, 1 targets a coloring-conjecture analogue not annihilator primes, and 3 is an unrelated optical-fiber engineering result."
+  },
+  "by_kind": {
+   "generated": [
+    1,
+    2,
+    2
+   ],
+   "positive": [
+    4
+   ],
+   "negative": [
+    0
+   ]
+  }
+ },
+ {
+  "id": "W2787401765",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "negative",
+   "positive",
+   "generated",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    1,
+    0,
+    4,
+    2,
+    3
+   ],
+   "why": "Proposal 3 restates the reference verbatim; 5 matches the test-retest/ICC method but not the specific YANS/BAHPHL instruments; 4 shares the YANS validation problem but focuses on cross-cultural comparison rather than test-retest reliability; 1 is a different longitudinal design; 2 is unrelated chemistry."
+  },
+  "by_kind": {
+   "generated": [
+    1,
+    2,
+    3
+   ],
+   "negative": [
+    0
+   ],
+   "positive": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "W1991144222",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "negative",
+   "generated",
+   "positive",
+   "generated"
+  ],
+  "result": {
+   "error": "{\"scores\": [2, 0, 1, 4, 1], \"why\": \"Proposal 4 is a verbatim match to the reference; proposal 1 shares the DTIC/biomarker problem but pairs mutation status with MGMT not expression, proposal 3 shares melanoma/BRAF-NRAS mutation stratification but focuses on transcriptional subtypes not expression-be"
+  }
+ },
+ {
+  "id": "W2139416103",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "positive",
+   "generated",
+   "negative",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    3,
+    4,
+    2,
+    0,
+    2
+   ],
+   "why": "Proposal 2 is verbatim the reference; proposal 1 shares the same WDM BER pattern-perturbation problem/move with added specifics; proposals 3 and 5 share Monte Carlo BER estimation methodology but different systems/moves; proposal 4 is unrelated (cochlear implants)."
+  },
+  "by_kind": {
+   "generated": [
+    3,
+    2,
+    2
+   ],
+   "positive": [
+    4
+   ],
+   "negative": [
+    0
+   ]
+  }
+ },
+ {
+  "id": "W2955349987",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "generated",
+   "generated",
+   "positive",
+   "negative"
+  ],
+  "result": {
+   "scores": [
+    1,
+    1,
+    2,
+    4,
+    0
+   ],
+   "why": "Only proposal 4 restates the exact contribution; 1-3 pivot to a periungual/nail-specific misuse study (related area, different specific problem and finding), and 5 is unrelated fish immunology."
+  },
+  "by_kind": {
+   "generated": [
+    1,
+    1,
+    2
+   ],
+   "positive": [
+    4
+   ],
+   "negative": [
+    0
+   ]
+  }
+ },
+ {
+  "id": "W2128144746",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "negative",
+   "positive",
+   "generated",
+   "generated"
+  ],
+  "result": {
+   "scores": [
+    2,
+    0,
+    4,
+    2,
+    2
+   ],
+   "why": "Only #3 matches verbatim; #1 and #4 share CAPS-A training/reliability topic but different cohort/focus, #5 shares CAPS-A reliability topic but different manipulation (speech sample type), #2 is unrelated chemistry."
+  },
+  "by_kind": {
+   "generated": [
+    2,
+    2,
+    2
+   ],
+   "negative": [
+    0
+   ],
+   "positive": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "W2729223875",
+  "arm": "graded",
+  "kinds": [
+   "generated",
+   "generated",
+   "negative",
+   "generated",
+   "positive"
+  ],
+  "result": {
+   "scores": [
+    2,
+    3,
+    1,
+    3,
+    4
+   ],
+   "why": "Proposal 5 restates the reference verbatim; 2 and 4 match problem+move closely but differ in specifics (Janus barcode multiplex vs. unified extraction-detection particle), 1 shares the platform type but different readout/problem framing, 3 is an unrelated genomics contribution."
+  },
+  "by_kind": {
+   "generated": [
+    2,
+    3,
+    3
+   ],
+   "negative": [
+    1
+   ],
+   "positive": [
+    4
+   ]
+  }
+ }
+]
