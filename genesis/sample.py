@@ -104,7 +104,19 @@ MAILTO = "eschmitt88@gmail.com"
 PATIENCE = [30, 60, 120, 300, 600, 900, 900]
 
 
+_last_call = [0.0]
+# Minimum spacing between list queries. The throttle that repeatedly bit this
+# project is burst-sensitive: a draw fires thousands of ?filter= queries as fast
+# as they return, and OpenAlex then refuses list queries for hours. Pacing costs
+# a few minutes over a long draw and avoids losing hours to a cooldown.
+PACE = float(os.environ.get("OPENALEX_PACE", "1.0"))
+
+
 def openalex(params: dict) -> dict:
+    gap = time.monotonic() - _last_call[0]
+    if gap < PACE:
+        time.sleep(PACE - gap)
+    _last_call[0] = time.monotonic()
     params = {"mailto": MAILTO, **params}
     url = OPENALEX + "?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={"User-Agent": UA})

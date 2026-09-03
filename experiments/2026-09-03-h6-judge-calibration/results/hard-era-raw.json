@@ -491,5 +491,107 @@
   "real_is_top": false,
   "real_tied_top": false,
   "picked_real": false
+ },
+ {
+  "id": "W2795063159",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate": [
+   "This paper develops and validates a serum ELISA for the secreted IL12R\u03b21\u0394TM isoform as a diagnostic biomarker that distinguishes active pulmonary tuberculosis from latent M. tuberculosis infection and",
+   "Using minigene splicing reporters and siRNA knockdown in Jurkat T cells, this paper identifies hnRNP H1 as the trans-acting splicing factor that governs the balance between full-length membrane IL-12R",
+   "Using a bioinformatic scan for microRNA-target-site SNPs followed by luciferase reporter validation, this paper identifies a 3\u2032UTR variant in IL12RB1 that disrupts miRNA-mediated repression, elevates ",
+   "By profiling allele-specific IL12RB1 transcripts in activated primary human T cells, this paper demonstrates that IL12RB1 undergoes a monoallelic-to-biallelic expression switch analogous to IL-2, IL-4",
+   "Combining RNA-DNA difference (RDD) mapping of IL12RB1 mRNA with 1000 Genomes variant data, this paper identifies a common intronic G-triplet-disrupting polymorphism that shifts IL12RB1 splicing toward",
+   "Shows human IL12RB1 expression is allele-biased, identifies an hnRNP H-associated exon 9b polyadenylation/splicing competition mechanism controlling Isoform 1 vs. Isoform 2 production, and demonstrate"
+  ],
+  "result": {
+   "scores": [
+    2,
+    3,
+    2,
+    3,
+    3,
+    4
+   ],
+   "best": 6,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "Candidate 6 is the only one that ties together the paper's disparate reference threads\u2014monoallelic expression, hnRNP-family splicing factors, 3\u2032-end processing/polyadenylation competition, and miRNA regulation\u2014into one mechanistic model of IL12RB1 isoform control, matching the breadth of prior art better than the narrower single-mechanism candidates."
+  },
+  "real_score": 4,
+  "decoy_max": 3,
+  "decoy_mean": 2.6,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2082554197",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate": [
+   "A retrospective case series proposing anterior fontanelle asymmetry as a bedside, nonradiographic clinical sign for diagnosing bilateral coronal (brachycephalic) synostosis, extending the fontanelle-s",
+   "A case report describing an unusually large lambdoid-region Wormian bone documented by CT with three-dimensional reconstruction, arguing for a standardized tomographic classification of giant Wormian ",
+   "A comparative imaging study correlating Wormian bone presence at the anterior fontanelle with delayed or pseudo-closure on plain radiographs versus CT, proposing diagnostic criteria to distinguish thi",
+   "A descriptive anatomic-radiographic survey classifying Wormian bone frequency and morphology across major cranial sutures (sagittal, coronal, lambdoid, bregmatic) in a pediatric imaging cohort, propos",
+   "A technical modification of the Cranial Auto Graft Expansion (CAGE) technique adapted for multisuture craniosynostosis, reporting perioperative outcomes and vault volume gains in a small consecutive p",
+   "First case series characterizing anterior fontanellar bone as an isolated finding vs. a marker of craniosynostosis, with associated outcomes."
+  ],
+  "result": {
+   "scores": [
+    3,
+    2,
+    4,
+    2,
+    1,
+    3
+   ],
+   "best": 3,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The reference list is dominated by anterior-fontanelle/sagittal-synostosis Wormian bone papers, and candidate 3 directly extends that pseudoclosure/diagnostic-criteria line with imaging comparison."
+  },
+  "real_score": 3,
+  "decoy_max": 4,
+  "decoy_mean": 2.4,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2072407405",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 4,
+  "slate": [
+   "Introduce a compressed zero-divisor graph \u0393_E(P) built on equivalence classes of zero-divisors of a poset (analogous to the ring-theoretic construction of Spiroff\u2013Wickham) and prove diam(\u0393_E(P)) \u2264 dia",
+   "Construct an explicit embedding showing every zero-divisor graph of a poset with 0 arises as the zero-divisor graph of a partially ordered semigroup with zero, unifying the ring-, poset-, and semigrou",
+   "Prove that the zero-divisor graph \u0393(P) of a poset P with least element 0 is always weakly perfect, i.e. \u03c7(\u0393(P)) = \u03c9(\u0393(P)), thereby extending Beck's coloring conjecture from commutative rings to arbitr",
+   "Defines the reduced zero-divisor graph Gamma_E(P) for posets and shows it identifies the annihilator prime ideals of posets satisfying the ascending chain condition on annihilator ideals.",
+   "For an ideal I of a poset P, sharpen the diameter and girth bounds of the ideal-based zero-divisor graph \u0393_I(P), giving a complete classification of the posets and ideals for which \u0393_I(P) is complete,",
+   "Give a forbidden-subposet characterization of when the zero-divisor graph \u0393(P) of a poset is planar, paralleling known planarity classifications for zero-divisor graphs of commutative rings."
+  ],
+  "result": {
+   "scores": [
+    4,
+    1,
+    2,
+    1,
+    2,
+    1
+   ],
+   "best": 1,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The SELF entry is a poset zero-divisor diameter/girth paper, and candidate 1 mirrors the compressed-graph diameter/girth theme built directly on the cited equivalence-class construction (Spiroff\u2013Wickham analogue for posets)."
+  },
+  "real_score": 1,
+  "decoy_max": 4,
+  "decoy_mean": 2.0,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
  }
 ]
