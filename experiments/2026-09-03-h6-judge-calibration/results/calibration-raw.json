@@ -1,0 +1,1405 @@
+[
+ {
+  "id": "W2127508065",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 1,
+  "slate_sources": [
+   "W2127508065",
+   "W2795063159",
+   "W2903661111",
+   "W4242228693",
+   "W2288936626",
+   "W2609551972"
+  ],
+  "result": {
+   "scores": [
+    4,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 1,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "Only candidate 1 matches the field/topic of accessory ossicles and sesamoid bones of the foot, presenting a prevalence radiographic study consistent with this reference list's focus."
+  },
+  "real_score": 4,
+  "decoy_max": 0,
+  "decoy_mean": 0.0,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2127508065",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2519712219",
+   "W2256802547",
+   "W2473872168",
+   "W2339696061",
+   "W2002459863"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 3,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "None of the candidates relate to accessory/sesamoid bones of the foot and ankle; candidate 3 is picked only by default as the least implausible medical case report, but it still doesn't fit."
+  }
+ },
+ {
+  "id": "W1980373626",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 5,
+  "slate_sources": [
+   "W2002459863",
+   "W2884792634",
+   "W2585763612",
+   "W2072407405",
+   "W1980373626",
+   "W2408915156"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    4,
+    0
+   ],
+   "best": 5,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "Candidate 5 directly combines microsatellite kin-group genetics, painted turtles, road effects, and ecoregions \u2014 matching the exact intersection of topics in the reference list."
+  },
+  "real_score": 4,
+  "decoy_max": 0,
+  "decoy_mean": 0.0,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W1980373626",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2018722914",
+   "W2917815849",
+   "W1993492026",
+   "W2519712219",
+   "W2019385975"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 5,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "None of the candidates relate to turtle biology/conservation genetics or road ecology, so all score near zero; candidate 5 is chosen arbitrarily as least-unrelated due to shared molecular-genetics methodology."
+  }
+ },
+ {
+  "id": "W1190150953",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate_sources": [
+   "W4242228693",
+   "W2923326318",
+   "W1981899327",
+   "W2791765621",
+   "W2913469753",
+   "W1190150953"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    4
+   ],
+   "best": 6,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The prior art list is dominated by SELF-citations on grape mechanical texture/ripening and Botrytis/noble rot phenolic composition, matching candidate 6's combined mechanical+phenolic study of noble-rot progression in Chenin blanc."
+  },
+  "real_score": 4,
+  "decoy_max": 0,
+  "decoy_mean": 0.0,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W1190150953",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W1580136919",
+   "W2585763612",
+   "W2070451836",
+   "W2917815849",
+   "W1993492026"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "best": 3,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "None of the candidates concern grape/wine phenolics, resveratrol, Botrytis, or berry mechanical properties; candidate 3 is the only one loosely tied to a microbiology/viability-assay methodology theme, but none plausibly matches this fermentation/viticulture prior art."
+  }
+ },
+ {
+  "id": "W4242228693",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 5,
+  "slate_sources": [
+   "W2795063159",
+   "W2126595565",
+   "W2019385975",
+   "W2061124791",
+   "W4242228693",
+   "W1981899327"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    4,
+    0
+   ],
+   "best": 5,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "Candidate 5 describes Ni/Ru-catalyzed alkyne\u2013paraformaldehyde reductive coupling to allylic alcohols without exogenous reductant, exactly the hydrogen-mediated/transfer-hydrogenative C\u2013C coupling research program the self-citations belong to, while all other candidates are from unrelated fields."
+  },
+  "real_score": 4,
+  "decoy_max": 0,
+  "decoy_mean": 0.0,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W4242228693",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2913469753",
+   "W2609551972",
+   "W2130334366",
+   "W2066936468",
+   "W1990273311"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 5,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "None of the candidates relate to asymmetric hydrogenation/reductive coupling catalysis; all are from unrelated fields, so the pick is essentially arbitrary."
+  }
+ },
+ {
+  "id": "W2339696061",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 2,
+  "slate_sources": [
+   "W2785200097",
+   "W2339696061",
+   "W2775639144",
+   "W4382023531",
+   "W1989920209",
+   "W2070451836"
+  ],
+  "result": {
+   "scores": [
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 2,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The reference list centers on NCEP cholesterol guidelines, diabetes diagnosis criteria, and cardiovascular/coronary risk factor studies in diabetic patients, matching candidate 2's coronary risk factor profiling in diabetics."
+  },
+  "real_score": 3,
+  "decoy_max": 0,
+  "decoy_mean": 0.0,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2339696061",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2487528628",
+   "W2061124791",
+   "W1570262056",
+   "W2884792634",
+   "W2128144746"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "best": 5,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "The reference list centers on diabetes/lipid/metabolic risk factors, which none of the candidates directly address, so this is a weak match at best."
+  }
+ },
+ {
+  "id": "W2288936626",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate_sources": [
+   "W2082554197",
+   "W2292628419",
+   "W2609551972",
+   "W2923326318",
+   "W2137122227",
+   "W2288936626"
+  ],
+  "result": {
+   "scores": [
+    0,
+    2,
+    0,
+    0,
+    0,
+    4
+   ],
+   "best": 6,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list centers on MoO2 crystal/electronic structure and rutile-related dioxide polymorphs studied with DFT (VASP/PBE/PAW), matching candidate 6's DFT prediction of new metastable high-pressure MoO2 polymorphs almost exactly."
+  },
+  "real_score": 4,
+  "decoy_max": 2,
+  "decoy_mean": 0.4,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2288936626",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2791765621",
+   "W4242228693",
+   "W2292628419",
+   "W4382023531",
+   "W1570262056"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    2,
+    0,
+    0
+   ],
+   "best": 3,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "Candidate 3 is the only one in transition-metal-oxide (VO2) thin-film materials science, matching the field even though none closely matches the MoO2/computational focus of the reference list."
+  }
+ },
+ {
+  "id": "W2040371569",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 3,
+  "slate_sources": [
+   "W1981899327",
+   "W2061124791",
+   "W2040371569",
+   "W2729223875",
+   "W2903661111",
+   "W2041131478"
+  ],
+  "result": {
+   "scores": [
+    0,
+    1,
+    4,
+    0,
+    0,
+    0
+   ],
+   "best": 3,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The self-cited CMOS-compatible microring/four-wave-mixing background papers directly set up a mode-locked microring laser demonstration at >200 GHz with sub-130 kHz linewidth, matching candidate 3's specifics."
+  },
+  "real_score": 4,
+  "decoy_max": 1,
+  "decoy_mean": 0.2,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2040371569",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2146827637",
+   "W2061124791",
+   "W2893916093",
+   "W4241624517",
+   "W2128144746"
+  ],
+  "result": {
+   "error": "{\"scores\": [0, 1, 0, 2, 0], \"best\": 4, \"confidence\": \"low\", \"recognised_paper\": \"no\", \"why\": \"The reference list centers on fiber/microresonator laser mode-locking and frequency combs, and only candidate 4 (fiber-based optical technology) is in the same broad domain, though it's about multi-core fib"
+  }
+ },
+ {
+  "id": "W2408915156",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 5,
+  "slate_sources": [
+   "W2075428046",
+   "W2002459863",
+   "W2076173928",
+   "W2128144746",
+   "W2408915156",
+   "W2787401765"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    2,
+    3,
+    0
+   ],
+   "best": 5,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The hidden paper is a self-citation on optimized surgical procedure for cleft palate patients over six years old, and candidate 5's retrospective cohort study identifying surgical technique as the key determinant of velopharyngeal competence is the closest matching move on the same problem."
+  },
+  "real_score": 3,
+  "decoy_max": 2,
+  "decoy_mean": 0.4,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2408915156",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2128144746",
+   "W2552051208",
+   "W2127508065",
+   "W2609551972",
+   "W2795063159"
+  ],
+  "result": {
+   "scores": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 1,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "Candidate 1 is the only one in the cleft palate/VPI speech-outcome domain, though it addresses CAPS-A interrater reliability rather than a surgical-technique study like the SELF paper."
+  }
+ },
+ {
+  "id": "W2041131478",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 2,
+  "slate_sources": [
+   "W2033708806",
+   "W2041131478",
+   "W2552051208",
+   "W2139416103",
+   "W2002459863",
+   "W2339696061"
+  ],
+  "result": {
+   "error": "{\"scores\": [0, 3, 0, 0, 0, 0], \"best\": 2, \"confidence\": \"medium\", \"recognised_paper\": \"no\", \"why\": \"The reference list centers on pulse oximetry, hypoxemia prevalence in children with pneumonia in resource-poor settings, and oxygen programs, matching candidate 2's hypoxemia-prevalence oximetry study"
+  }
+ },
+ {
+  "id": "W2041131478",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W1045711957",
+   "W2002459863",
+   "W4242228693",
+   "W2070451836",
+   "W2139416103"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 4,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "None of the candidates relate to pulse oximetry, hypoxaemia, or pneumonia in children\u2014the field this reference list clearly targets\u2014so this is a default low-confidence pick among unrelated options."
+  }
+ },
+ {
+  "id": "W2002459863",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate_sources": [
+   "W2041131478",
+   "W1190150953",
+   "W1570262056",
+   "W2064056867",
+   "W1991144222",
+   "W2002459863"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    4
+   ],
+   "best": 6,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list is dominated by S. pneumoniae genomics/pan-genome/recombination/MLST tools and SELF-citations on pneumococcal comparative genomics, matching candidate 6's pan-genome/recombination/Mitis-group analysis exactly."
+  },
+  "real_score": 4,
+  "decoy_max": 0,
+  "decoy_mean": 0.0,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2002459863",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2256802547",
+   "W2041131478",
+   "W2146827637",
+   "W2066936468",
+   "W2963245931"
+  ],
+  "result": {
+   "scores": [
+    0,
+    1,
+    0,
+    0,
+    0
+   ],
+   "best": 2,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "None of the candidates match the pneumococcal genomics/comparative genomics/evolution theme of the reference list, so the best score reflects only shared field classification, not topical fit."
+  }
+ },
+ {
+  "id": "W2064056867",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 2,
+  "slate_sources": [
+   "W2082554197",
+   "W2064056867",
+   "W4382023531",
+   "W1990273311",
+   "W2010892660",
+   "W2041131478"
+  ],
+  "result": {
+   "scores": [
+    0,
+    3,
+    1,
+    0,
+    0,
+    0
+   ],
+   "best": 2,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "Only candidate 2 is in the anodic aluminum oxide pore-formation field matching the reference list, addressing electric-field mechanism in pore formation."
+  },
+  "real_score": 3,
+  "decoy_max": 1,
+  "decoy_mean": 0.2,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2064056867",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2126595565",
+   "W4382023531",
+   "W2146827637",
+   "W2100987960",
+   "W2033708806"
+  ],
+  "result": {
+   "scores": [
+    0,
+    3,
+    0,
+    0,
+    0
+   ],
+   "best": 2,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "Candidate 2 is the only one in electrochemistry/anodic oxide territory (aluminum oxide film characterization), matching the field, though it's polymer coating rather than porous oxide self-ordering specifics."
+  }
+ },
+ {
+  "id": "W2130810987",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 2,
+  "slate_sources": [
+   "W4382023531",
+   "W2130810987",
+   "W2330296675",
+   "W2954733066",
+   "W2154516141",
+   "W2519712219"
+  ],
+  "result": {
+   "scores": [
+    0,
+    4,
+    0,
+    0,
+    1,
+    0
+   ],
+   "best": 2,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "Candidate 2 matches the paper's ploidy/genomic-instability focus and cites overlapping self-referenced genes (AKR7A2, ANXA2) tied to endometrial cancer expression profiling."
+  },
+  "real_score": 4,
+  "decoy_max": 1,
+  "decoy_mean": 0.2,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2130810987",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2070451836",
+   "W4242228693",
+   "W2792962347",
+   "W2041131478",
+   "W2154516141"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    2
+   ],
+   "best": 5,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "The reference list centers on endometrial/cervical cancer genomics and biomarkers (DNA content, CGH, proliferation markers, hormone signaling), and candidate 5 is the only one in that clinical domain (bevacizumab trial in endometrial cancer), though the SELF entries suggest a genomic/proteomic methodology paper rather than a clinical trial."
+  }
+ },
+ {
+  "id": "W2792962347",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 2,
+  "slate_sources": [
+   "W2288936626",
+   "W2792962347",
+   "W2256802547",
+   "W2019385975",
+   "W2126719297",
+   "W2913469753"
+  ],
+  "result": {
+   "scores": [
+    0,
+    4,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 2,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list is dominated by preB\u00f6tC rhythm-generation and inhibition literature (multiple SELF cites on inhibition's role, sighs/eupnea, network reconfiguration), matching candidate 2's claim about inhibition regulating post-burst refractory excitability to resolve debate over inhibition's function."
+  },
+  "real_score": 4,
+  "decoy_max": 0,
+  "decoy_mean": 0.0,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2792962347",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2288936626",
+   "W2096172188",
+   "W2139416103",
+   "W2519712219",
+   "W2010892660"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 5,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "None of the candidates relate to respiratory rhythm generation, preB\u00f6tzinger complex, or brainstem neural microcircuits; all are from entirely unrelated fields."
+  }
+ },
+ {
+  "id": "W2292628419",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 3,
+  "slate_sources": [
+   "W2775639144",
+   "W4382023531",
+   "W2292628419",
+   "W1580136919",
+   "W2785200097",
+   "W2288936626"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    4,
+    0,
+    0,
+    1
+   ],
+   "best": 3,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list is dominated by VO2 thermochromic/self-cleaning coating literature including several SELF-cited works on TiO2/VO2 multilayers and photocatalysis, matching candidate 3's layered VO2/SiO2/TiO2 thermochromic + self-cleaning coating almost exactly."
+  },
+  "real_score": 4,
+  "decoy_max": 1,
+  "decoy_mean": 0.2,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2292628419",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2033708806",
+   "W2072407405",
+   "W2154516141",
+   "W2288936626",
+   "W2158489246"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    2,
+    1
+   ],
+   "best": 4,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "The reference list centers on VO2/TiO2 thermochromic and photocatalytic thin films (CVD, doping, metal-insulator transition), and candidate 4 (DFT study of a related transition metal oxide, MoO2, polymorphs) is the only one in the same materials family, though not clearly the exact move this list sets up."
+  }
+ },
+ {
+  "id": "W2893916093",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 2,
+  "slate_sources": [
+   "W1570262056",
+   "W2893916093",
+   "W2126719297",
+   "W2100987960",
+   "W2963245931",
+   "W2519712219"
+  ],
+  "result": {
+   "scores": [
+    0,
+    4,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 2,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list is dominated by galectin-3/BNP/ADHF prognosis literature, and candidate 2 directly matches that theme with elderly ADHF risk stratification."
+  },
+  "real_score": 4,
+  "decoy_max": 0,
+  "decoy_mean": 0.0,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2893916093",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2913469753",
+   "W4241624517",
+   "W1989920209",
+   "W2408915156",
+   "W2139416103"
+  ],
+  "result": {
+   "scores": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 1,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "None of the candidates match this heart-failure/galectin-3 biomarker prior art; candidate 1 is at least biomedical/immunology-adjacent while the rest are entirely unrelated fields (optics, fluid dynamics, surgery)."
+  }
+ },
+ {
+  "id": "W2795063159",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 5,
+  "slate_sources": [
+   "W1991144222",
+   "W2408915156",
+   "W2027918153",
+   "W2775639144",
+   "W2795063159",
+   "W2791765621"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    4,
+    1
+   ],
+   "best": 5,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "Candidate 5 directly matches the IL12RB1 splicing/isoform/allele-bias research program with hnRNP involvement that dominates the SELF-cited reference cluster."
+  },
+  "real_score": 4,
+  "decoy_max": 1,
+  "decoy_mean": 0.2,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2795063159",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2128144746",
+   "W2791765621",
+   "W2154516141",
+   "W2954733066",
+   "W2002459863"
+  ],
+  "result": {
+   "scores": [
+    0,
+    3,
+    0,
+    0,
+    0
+   ],
+   "best": 2,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "Candidate 2 is the only one in the Mycobacterium research/diagnosis field, but it proposes a genus-level taxonomic reclassification rather than continuing the IL12RB1/IFN-\u03b3 immunogenetics thread the reference list clearly builds toward."
+  }
+ },
+ {
+  "id": "W2082554197",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 2,
+  "slate_sources": [
+   "W2018722914",
+   "W2082554197",
+   "W2954733066",
+   "W2130334366",
+   "W2061124791",
+   "W2330296675"
+  ],
+  "result": {
+   "scores": [
+    0,
+    4,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 2,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list is entirely craniofacial/fontanelle literature, and candidate 2 matches the exact topic (anterior fontanellar bone as isolated finding vs synostosis marker) that this prior art directly builds toward."
+  },
+  "real_score": 4,
+  "decoy_max": 0,
+  "decoy_mean": 0.0,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2082554197",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W1190150953",
+   "W2126595565",
+   "W2064056867",
+   "W2126719297",
+   "W2955349987"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 3,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "None of the candidates relate to craniofacial/fontanelle/wormian bone topics, so none plausibly matches this prior art; candidate 3 is picked arbitrarily as least-worst placeholder."
+  }
+ },
+ {
+  "id": "W2072407405",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 3,
+  "slate_sources": [
+   "W1045711957",
+   "W2884792634",
+   "W2072407405",
+   "W2923326318",
+   "W2292628419",
+   "W2027918153"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    4,
+    0,
+    0,
+    0
+   ],
+   "best": 3,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "Candidate 3 defines a reduced zero-divisor graph for posets and links it to annihilator prime ideals, matching exactly the poset zero-divisor-graph line the reference list builds toward."
+  },
+  "real_score": 4,
+  "decoy_max": 0,
+  "decoy_mean": 0.0,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2072407405",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W1045711957",
+   "W2330296675",
+   "W2146827637",
+   "W2010892660",
+   "W1580136919"
+  ],
+  "result": {
+   "scores": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 1,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "Only candidate 1 is in ring theory, but it concerns clean/nil-clean rings rather than zero-divisor graphs of posets, which is what this reference list (diameter/girth of zero-divisor graphs) most sets up."
+  }
+ },
+ {
+  "id": "W2787401765",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate_sources": [
+   "W2146827637",
+   "W2076173928",
+   "W2020416394",
+   "W2923326318",
+   "W2913469753",
+   "W2787401765"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    4
+   ],
+   "best": 6,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list is dominated by YANS/BAHPHL noise-attitude questionnaire literature and psychometric-reliability methodology papers, matching candidate 6's Dutch YANS/BAHPHL test-retest reliability study exactly."
+  },
+  "real_score": 4,
+  "decoy_max": 0,
+  "decoy_mean": 0.0,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2787401765",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2923326318",
+   "W2075428046",
+   "W2096172188",
+   "W4382023531",
+   "W2010892660"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 1,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "None of the candidates relate to leisure noise exposure, hearing attitudes/protection, or tinnitus in young adults, which is the clear theme of this reference list."
+  }
+ },
+ {
+  "id": "W1991144222",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate_sources": [
+   "W2914012905",
+   "W2288936626",
+   "W2954733066",
+   "W2585763612",
+   "W2033708806",
+   "W1991144222"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    3,
+    3
+   ],
+   "best": 6,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "Candidate 6 directly matches the reference set's focus on BRAF/NRAS mutation and expression status as prognostic/predictive markers for DTIC therapy outcome in metastatic melanoma, aligning with the SELF-cited MGMT/DTIC survival paper, while candidate 5 is the same disease/pathway area but a different mechanistic angle (metabolic resistance to BRAF inhibitors)."
+  },
+  "real_score": 3,
+  "decoy_max": 3,
+  "decoy_mean": 0.6,
+  "real_is_top": false,
+  "real_tied_top": true,
+  "picked_real": true
+ },
+ {
+  "id": "W1991144222",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2128144746",
+   "W2033708806",
+   "W2018722914",
+   "W2146827637",
+   "W2127508065"
+  ],
+  "result": {
+   "scores": [
+    0,
+    2,
+    0,
+    0,
+    0
+   ],
+   "best": 2,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "Only candidate 2 is in melanoma/BRAF/MAPK biology, but it describes a resistance-mechanism study not clearly matching the mutation-epidemiology/prognostic focus of the reference list."
+  }
+ },
+ {
+  "id": "W2139416103",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 5,
+  "slate_sources": [
+   "W4241624517",
+   "W2795063159",
+   "W2893916093",
+   "W2609551972",
+   "W2139416103",
+   "W2130334366"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    4,
+    0
+   ],
+   "best": 5,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list is dominated by the same author's prior work on pattern perturbation and multicanonical Monte Carlo BER estimation in optical systems, and candidate 5 directly extends the pattern perturbation method (SELF-cited 2007) to WDM systems, matching the field and trajectory exactly."
+  },
+  "real_score": 4,
+  "decoy_max": 0,
+  "decoy_mean": 0.0,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2139416103",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W4241624517",
+   "W2729223875",
+   "W2914012905",
+   "W2076173928",
+   "W1993492026"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 1,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "None of the candidates relate to multicanonical Monte Carlo/BER estimation in optical communications, which this reference list clearly builds toward; scored by nearest superficial engineering overlap only."
+  }
+ },
+ {
+  "id": "W2955349987",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 4,
+  "slate_sources": [
+   "W2061124791",
+   "W2954733066",
+   "W2070451836",
+   "W2955349987",
+   "W2785200097",
+   "W2127508065"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    0,
+    4,
+    1,
+    0
+   ],
+   "best": 4,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list is entirely about topical corticosteroid misuse/abuse and dermatology outpatient prevalence studies, matching candidate 4's misuse-prevalence finding directly, while the other candidates (pulse shaper physics, phylogenetics, staining kits, onychomycosis deep learning, foot radiography) are unrelated or off-topic despite the field label."
+  },
+  "real_score": 4,
+  "decoy_max": 1,
+  "decoy_mean": 0.2,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2955349987",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2785200097",
+   "W2072407405",
+   "W1045711957",
+   "W2256802547",
+   "W1981899327"
+  ],
+  "result": {
+   "scores": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "best": 1,
+   "confidence": "low",
+   "recognised_paper": "no",
+   "why": "Candidate 1 is the only one in the nail/dermatology domain, but it's a deep-learning diagnostic study, not the topical-corticosteroid-misuse epidemiology theme the references converge on."
+  }
+ },
+ {
+  "id": "W2128144746",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate_sources": [
+   "W2061124791",
+   "W2040371569",
+   "W2408915156",
+   "W2070451836",
+   "W2130334366",
+   "W2128144746"
+  ],
+  "result": {
+   "scores": [
+    0,
+    0,
+    2,
+    0,
+    0,
+    4
+   ],
+   "best": 6,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "Candidate 6 directly matches the CAPS-A/Americleft training-reliability theme built up by the SELF references, while the others belong to unrelated fields (optics, photonics, microbiology, agronomy) or a related-but-distinct cleft palate surgical outcomes study."
+  },
+  "real_score": 4,
+  "decoy_max": 2,
+  "decoy_mean": 0.4,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2128144746",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W2158489246",
+   "W2256802547",
+   "W2785200097",
+   "W2795063159",
+   "W2408915156"
+  ],
+  "result": {
+   "error": "{\"scores\": [0, 0, 0, 0, 3], \"best\": 5, \"confidence\": \"medium\", \"recognised_paper\": \"no\", \"why\": \"Only candidate 5 is a cleft palate speech/surgical outcomes study matching this field's prior art, though the hidden paper likely focuses more specifically on perceptual speech assessment methodology tha"
+  }
+ },
+ {
+  "id": "W2729223875",
+  "arm": "real",
+  "n_candidates": 6,
+  "real_index": 4,
+  "slate_sources": [
+   "W2082554197",
+   "W2739511401",
+   "W2019385975",
+   "W2729223875",
+   "W2775639144",
+   "W2585763612"
+  ],
+  "result": {
+   "scores": [
+    0,
+    2,
+    0,
+    4,
+    0,
+    0
+   ],
+   "best": 4,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list is dominated by OTA aptamer biosensing, magnetic/photonic microsphere fabrication, and the authors' own prior photonic crystal suspension array papers, matching candidate 4's microfluidic photonic-magnetic aptamer platform for OTA enrichment."
+  },
+  "real_score": 4,
+  "decoy_max": 2,
+  "decoy_mean": 0.4,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W2729223875",
+  "arm": "control",
+  "n_candidates": 5,
+  "real_index": null,
+  "slate_sources": [
+   "W4242228693",
+   "W2739511401",
+   "W4382023531",
+   "W1580136919",
+   "W1993492026"
+  ],
+  "result": {
+   "scores": [
+    0,
+    3,
+    0,
+    0,
+    0
+   ],
+   "best": 2,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "Only candidate 2 concerns Pickering emulsion particle stabilization (the field/topic of this paper), matching the biopolymer-complex-particle stabilization theme reflected in the Pickering-emulsion-tagged references."
+  }
+ }
+]

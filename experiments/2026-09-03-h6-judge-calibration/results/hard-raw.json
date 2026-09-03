@@ -1,0 +1,257 @@
+[
+ {
+  "id": "W2127508065",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 6,
+  "slate": [
+   "A comparative outcomes study demonstrating that surgical excision of painful accessory navicular and os tibiale externum in adolescent elite athletes yields faster return-to-sport times than conservat",
+   "An epidemiological survey correlating the presence and morphology of accessory ossicles (os vesalianum, os peroneum, os supra naviculare) with injury incidence in a cohort of elite young athletes, arg",
+   "A narrative/systematic review synthesizing anatomic, embryologic, and imaging literature on accessory bones and sesamoids of the foot and ankle to produce practical differential-diagnosis guidance for",
+   "A proposed clinical-radiological classification system for accessory bones and sesamoids of the foot and ankle that stratifies lesions by anatomic site, ossification pattern, and symptom risk, intende",
+   "A retrospective case series showing that symptomatic accessory ossicles of the foot and ankle in competitive athletes (os tibiale externum, os trigonum, os peroneum, accessory navicular) are frequentl",
+   "First prevalence report of accessory ossicles and sesamoid bones in Italian women with hallux valgus, based on radiographic review of 505 patients by three specialists."
+  ],
+  "result": {
+   "scores": [
+    2,
+    3,
+    4,
+    2,
+    2,
+    1
+   ],
+   "best": 3,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The reference list is dominated by classic anatomic/embryologic/imaging literature on accessory bones and sesamoids plus the authors' own sports-trauma case reports, matching a synthesizing review aimed at differentiating incidental ossicles from sports-related fractures on imaging."
+  },
+  "real_score": 1,
+  "decoy_max": 4,
+  "decoy_mean": 2.6,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W1980373626",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 3,
+  "slate": [
+   "A multi-pond microsatellite survey testing isolation-by-resistance versus isolation-by-distance models, finding that road density and land-use fragmentation better predict genetic differentiation amon",
+   "A landscape genetics study using microsatellite markers and F-statistics to demonstrate that a major roadway acts as a genetic barrier, producing significant population differentiation between painted",
+   "First application of microsatellite-based kin-group analysis to test road-proximity effects on painted turtle reproductive success across three ecoregions, finding fewer, larger kin groups near roads.",
+   "An integrative field and genetic study showing that female painted turtles exhibit strong nest-site fidelity and natal homing across a road-divided landscape, exposing them disproportionately to road ",
+   "Application of the BOTTLENECK program to microsatellite allele-frequency data from a road-impacted turtle population, providing genetic evidence of a recent effective population size reduction attribu",
+   "A combined microsatellite parentage and sibship-reconstruction analysis showing that multiple paternity and long-term sperm storage buffer the genetic effects of road-caused adult female mortality, ma"
+  ],
+  "result": {
+   "error": "{\"scores\": [2, 4, 1, 2, 3, 2], \"best\": 2, \"confidence\": \"high\", \"recognised_paper\": \"no\", \"why\": \"The reference list's blend of road-mortality/ecology papers with F-statistics and microsatellite population-genetics tools (FSTAT, GENEPOP, BOTTLENECK) points to a landscape genetics study testing roads"
+  }
+ },
+ {
+  "id": "W1190150953",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 3,
+  "slate": [
+   "Proposes berry mechanical texture measurements as a rapid instrumental proxy for resveratrol and stilbene content across ripening and Botrytis infection stages, benchmarked against the optimized flava",
+   "Introduces a mechanical puncture/texture-analyzer protocol applied longitudinally to Botrytis cinerea-infected grape berries, showing that the rate of skin firmness loss discriminates noble-rot (Saute",
+   "reports phenolic and mechanical property changes (including a first report of myricetin in white grapes) that track noble-rot progression in Chenin blanc, and shows a combined puncture+compression+col",
+   "Uses high-speed countercurrent chromatography to isolate and characterize the pigment/stilbene oligomer fractions that accumulate in noble-rot-affected grape skins, linking specific pigment classes to",
+   "Demonstrates that berry mechanical properties (skin break force, flesh firmness) measured during ripening correlate with skin anthocyanin extractability specifically in noble-rot-affected Vitis vinife",
+   "Combines CIELab colorimetry with texture-analyzer skin/flesh firmness measurements to build a non-destructive, multi-parameter classification index for grading dried-on-vine or botrytized grapes by qu"
+  ],
+  "result": {
+   "scores": [
+    2,
+    3,
+    4,
+    1,
+    3,
+    3
+   ],
+   "best": 3,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The reference list's specific citation of noble-rot terroir work on chenin blanc (2004) alongside the self-cited mechanical texture methodology papers (2009/2010/2014) points to a paper extending mechanical+phenolic characterization to noble rot progression on Chenin blanc, which candidate 3 names directly."
+  },
+  "real_score": 4,
+  "decoy_max": 3,
+  "decoy_mean": 2.4,
+  "real_is_top": true,
+  "real_tied_top": false,
+  "picked_real": true
+ },
+ {
+  "id": "W4242228693",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 5,
+  "slate": [
+   "A formal total synthesis of a polyketide natural product that showcases iterative Ru- and Rh-catalyzed hydrogenative C\u2013C couplings (crotylation, vinylation, hydroxymethylation) as a redox-economical a",
+   "A new electron-poor chiral phosphine ligand class for rhodium that suppresses competing alkyne hydrogenation side pathways, enabling catalytic asymmetric reductive coupling of terminal (rather than on",
+   "A rhodium-catalyzed asymmetric hydrogenation protocol that couples 1,3-enynes directly with N-sulfonyl ketimines to deliver enantioenriched allylic amines bearing quaternary stereocenters, extending p",
+   "A unified mechanistic study establishing that Rh- and Ru-catalyzed hydrogen-mediated reductive couplings of alkynes proceed through a common metallacycle/hydrometalation pathway, rationalizing the div",
+   "Shows nickel and ruthenium catalysts give complementary regioselectivity and full stereoselectivity converting unsymmetrical disubstituted alkynes plus paraformaldehyde into primary trisubstituted all",
+   "A ruthenium-catalyzed C\u2013C bond-forming transfer hydrogenation that uses simple allylic alcohols as surrogates for preformed allylmetal reagents to achieve diastereo- and enantioselective carbonyl ally"
+  ],
+  "result": {
+   "scores": [
+    2,
+    2,
+    2,
+    1,
+    2,
+    4
+   ],
+   "best": 6,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The self-citations to transfer-hydrogenation carbonyl addition/vinylation plus the classical hydroalumination/carboalumination refs (1960, 1975, 1981) point to a Ru-catalyzed transfer-hydrogenation allylation paper that replaces stoichiometric organometallic (allylmetal) reagents, matching candidate 6 almost exactly."
+  },
+  "real_score": 2,
+  "decoy_max": 4,
+  "decoy_mean": 2.2,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2339696061",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 4,
+  "slate": [
+   "A biomarker-panel proposal integrating serum uric acid with the NCEP ATP III lipid profile into a composite metabolic risk score for type 2 diabetes patients, validated against ADA glycemic classifica",
+   "A cross-sectional clinical study establishing that elevated serum uric acid is independently associated with dyslipidemia and NCEP ATP III-defined metabolic syndrome in adults with type 2 diabetes, pr",
+   "An epidemiological survey quantifying the prevalence of classic cardiovascular risk factors (dyslipidemia, hypertension, obesity, hyperuricemia) among type 2 diabetes patients in a specific regional h",
+   "Estimates that most diabetic patients at this hospital have 3-4 coronary risk factors (most commonly hyperglycemia) and that nearly half fall in the moderate 5-9% 10-year coronary-event-probability ba",
+   "A lifestyle-intervention study showing that a structured diet and physical-activity program reduces serum uric acid and improves NCEP ATP III lipid parameters in type 2 diabetic patients, arguing for ",
+   "A validation study comparing the ADA diagnostic/classification criteria for diabetes mellitus against NCEP ATP III lipid thresholds in a Latin American clinical cohort, demonstrating that combining fa"
+  ],
+  "result": {
+   "error": "{\"scores\": [2, 4, 1, 1, 1, 1], \"best\": 2, \"confidence\": \"high\", \"recognised_paper\": \"no\", \"why\": \"The references (uric acid + metabolic risk, NCEP ATP III lipids, ADA diabetes diagnosis criteria) set up a cross-sectional study linking serum uric acid to dyslipidemia/metabolic syndrome in T2DM patien"
+  }
+ },
+ {
+  "id": "W2288936626",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 4,
+  "slate": [
+   "Presents a hydrothermal/reduction synthesis route to phase-pure MoO2 nanorods and nanosheets with surface energies computed from first principles, correlating exposed facet stability with the superior",
+   "Introduces a size-dependent ab initio thermochemistry model (PAW-GGA-D3, VASP) that predicts a critical nanoparticle diameter below which MoO2 becomes thermodynamically less stable than \u03b1-MoO3, ration",
+   "Reports a DFT-D3 study showing that dispersion corrections are required to correctly reproduce the Peierls-distorted Mo-Mo dimerization and rutile-type lattice parameters of MoO2, resolving discrepanc",
+   "Predicts new metastable high-pressure polymorphs of MoO2 using first-principles DFT calculations.",
+   "Develops a unified structure-map comparing rutile-related MO2 oxides (TiO2, SnO2, ZrO2, MoO2, WO2) via DFT formation energies and electronic control of octahedral distortion, proposing design rules fo",
+   "Identifies and characterizes a metastable high-pressure MoO2 polymorph, analogous to known HP-TiO2 and orthorhombic SnO2 phases, using combined ab initio total-energy calculations and comparison to th"
+  ],
+  "result": {
+   "scores": [
+    2,
+    4,
+    2,
+    2,
+    2,
+    3
+   ],
+   "best": 2,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The self-cited 'Ab Initio Thermochemistry of Solid-State Materials' method plus the listed cw-laser Raman MoO2-to-MoO3 transformation paper point directly to a size-dependent thermochemical stability model explaining that transformation, matching candidate 2 almost exactly."
+  },
+  "real_score": 2,
+  "decoy_max": 4,
+  "decoy_mean": 2.6,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2040371569",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 1,
+  "slate": [
+   "First demonstration of a mode-locked laser based on a CMOS-compatible microring resonator, using a new filter-driven four-wave-mixing mechanism, achieving stable self-starting operation at repetition ",
+   "Demonstrates that a CMOS-compatible silica-microring optical parametric oscillator generates a coherent, low-noise pulse train via dissipative four-wave mixing, with RF-beatnote linewidths measured by",
+   "Uses on-chip sub-picosecond phase-sensitive pulse characterization to directly measure timing jitter and amplitude noise of a CMOS-compatible frequency comb, establishing quantitative noise-scaling re",
+   "Reports a chip-scale hyper-parametric oscillator that reaches ultra-high pulse repetition rates (>100 GHz) through cascaded four-wave mixing, extending the modulational-instability-laser mechanism fro",
+   "Models Kerr-comb formation in a high-Q (~10^7) CMOS-compatible microresonator using the complex Ginzburg-Landau equation, showing that the resonator's temporal output corresponds to multisoliton pulse",
+   "Presents a regeneratively stabilized, harmonically mode-locked microresonator frequency comb architecture that locks the comb's repetition rate to an intracavity filter's free spectral range, achievin"
+  ],
+  "result": {
+   "scores": [
+    2,
+    4,
+    3,
+    2,
+    2,
+    1
+   ],
+   "best": 2,
+   "confidence": "high",
+   "recognised_paper": "no",
+   "why": "The reference list's emphasis on delayed self-heterodyne linewidth measurement, dissipative four-wave-mixing mode-locking, and noise-of-mode-locked-laser theory alongside the group's own 2009 hyper-parametric oscillator/microring papers points to a 2012 follow-up characterizing the coherence/linewidth of their CMOS-compatible microring OPO against mode-locked laser benchmarks, which is exactly candidate 2."
+  },
+  "real_score": 2,
+  "decoy_max": 4,
+  "decoy_mean": 2.4,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2408915156",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 5,
+  "slate": [
+   "A retrospective comparison showing that a modified radical intravelar veloplasty with levator muscle reconstruction achieves superior speech and velopharyngeal closure outcomes in nonsyndromic cleft p",
+   "A prospective speech-outcome study establishing perceptual and instrumental (nasometry/endoscopy) criteria for selecting between pharyngeal flap and sphincter pharyngoplasty specifically in delayed-re",
+   "A refined grading and surgical algorithm for submucous cleft palate that extends prior classification systems by stratifying older children (>6 years) into distinct repair pathways based on velopharyn",
+   "A long-term outcome study demonstrating that combining sphincter pharyngoplasty with a modified double-opposing Z-plasty in a single-stage procedure reduces postoperative velopharyngeal insufficiency ",
+   "Retrospective cohort study of 245 cleft palate patients >2y old identifying surgical technique (Sommerlad-Levator plus sphincter pharyngoplasty) as the main determinant of post-operative velopharyngea",
+   "A case-series analysis identifying age at primary repair (before vs. after six years) as an independent predictor of hearing and speech outcomes after cleft palate closure, supporting revision of the "
+  ],
+  "result": {
+   "scores": [
+    3,
+    1,
+    1,
+    1,
+    1,
+    2
+   ],
+   "best": 1,
+   "confidence": "medium",
+   "recognised_paper": "no",
+   "why": "The self-cited paper is about optimizing surgical procedure for cleft palate patients over six years old, and candidate 1 matches this age-stratified surgical-technique comparison most closely among the options."
+  },
+  "real_score": 1,
+  "decoy_max": 3,
+  "decoy_mean": 1.6,
+  "real_is_top": false,
+  "real_tied_top": false,
+  "picked_real": false
+ },
+ {
+  "id": "W2041131478",
+  "arm": "hard",
+  "n_candidates": 6,
+  "real_index": 1,
+  "slate": [
+   "First measurement of hypoxemia prevalence among general (not just pneumonia) adult and pediatric inpatients at a rural Zambian district hospital, showing oximetry changed clinical management in all hy",
+   "A multi-country pooled analysis establishes a pulse-oximetry-defined hypoxaemia prevalence threshold and derives a clinical prediction rule of danger signs that identifies hypoxaemic children with sev",
+   "A systematic review and meta-analysis quantifies the global burden of hypoxaemia among children hospitalized with pneumonia and shows substantial heterogeneity by region and altitude, arguing for rout",
+   "A cost-effectiveness and mortality-impact model demonstrates that scaling up pulse oximetry plus oxygen concentrator systems in district hospitals in low-income countries would avert a substantial pro",
+   "An implementation study of a hospital-wide oxygen and pulse-oximetry program in a developing-country setting reports a measurable reduction in pneumonia case-fatality rates after introduction, support",
+   "A prospective cohort study in a sub-Saharan African referral hospital shows that admission oxygen saturation measured by pulse oximetry is a stronger independent predictor of in-hospital mortality amo"
+  ],
+  "result": {
+   "error": "{\"scores\": [1, 3, 2, 1, 2, 3], \"best\": 2, \"confidence\": \"medium\", \"recognised_paper\": \"no\", \"why\": \"The reference list is dominated by hypoxaemia-prevalence and pulse-oximetry-in-pneumonia papers (Duke 2009 prevalence review, WHO/Gambia/PNG hypoxaemia studies), pointing toward a paper that derives a"
+  }
+ }
+]
