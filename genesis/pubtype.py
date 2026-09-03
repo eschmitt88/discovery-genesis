@@ -82,18 +82,30 @@ def main(argv=None):
     ap = argparse.ArgumentParser(prog="genesis.pubtype")
     ap.add_argument("sample", nargs="+")
     ap.add_argument("--out", default=str(OUT))
+    ap.add_argument("--from-sample", action="store_true",
+                    help="type works straight from the sample record (doi/type/n_refs are all "
+                         "signals() needs) instead of requiring a fetched bundle — lets a large "
+                         "draw be screened BEFORE paying to fetch it")
     a = ap.parse_args(argv)
     from .fetch import RAW
     out = Path(a.out)
     store = json.load(out.open()) if out.exists() else {}
-    ids = []
+    ids, from_sample = [], {}
     for f in a.sample:
         for p in json.load(open(f))["pairs"]:
-            ids += [p["case"]["id"], p["twin"]["id"]]
-    todo = [w for w in ids if w not in store and (RAW / w / "work.json").exists()]
+            for role in ("case", "twin"):
+                ids.append(p[role]["id"])
+                from_sample[p[role]["id"]] = {
+                    "doi": p[role].get("doi"), "type": p[role].get("type"),
+                    "referenced_works_count": p[role].get("n_refs")}
+    if a.from_sample:
+        todo = [w for w in ids if w not in store]
+    else:
+        todo = [w for w in ids if w not in store and (RAW / w / "work.json").exists()]
     print(f"{len(todo)} works to type ({len(ids) - len(todo)} cached)", file=sys.stderr)
     for i, w in enumerate(todo, 1):
-        work = json.load((RAW / w / "work.json").open())
+        work = (from_sample[w] if a.from_sample
+                else json.load((RAW / w / "work.json").open()))
         store[w] = signals(w, work)
         if i % 5 == 0 or i == len(todo):
             out.parent.mkdir(parents=True, exist_ok=True)

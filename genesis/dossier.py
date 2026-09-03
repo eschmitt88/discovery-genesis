@@ -25,7 +25,39 @@ from pathlib import Path
 from .fetch import RAW, wid
 
 
-def build(w: str, with_citers: bool, max_chars: int) -> str:
+REF_CAP = 60                       # show every reference up to this many
+REF_KEEP_RECENT = 22               # beyond it: the most recent ...
+REF_KEEP_CITED = 22                # ... plus the most cited, deduped
+
+
+def _select_refs(refs: list[dict], compact: bool) -> tuple[list[dict], str]:
+    """Long reference lists dominate dossier size (p90 is 67 kB, max 3 MB) without
+    adding coding signal: what a coder needs is what the paper builds on *recently*
+    and what it leans on *heavily*. Above REF_CAP, keep the most recent and the most
+    cited and say plainly what was dropped, so the omission is visible rather than
+    silent."""
+    if not compact or len(refs) <= REF_CAP:
+        return refs, ""
+    recent = sorted(refs, key=lambda r: (r.get("publication_year") or 0), reverse=True)[:REF_KEEP_RECENT]
+    cited = sorted(refs, key=lambda r: (r.get("cited_by_count") or 0), reverse=True)[:REF_KEEP_CITED]
+    selfc = [r for r in refs if r.get("_self")][:10]
+    keep, seen = [], set()
+    for r in recent + cited + selfc:
+        k = r.get("id") or r.get("title")
+        if k not in seen:
+            seen.add(k); keep.append(r)
+    years = [r["publication_year"] for r in refs if r.get("publication_year")]
+    cites = [r["cited_by_count"] for r in refs if r.get("cited_by_count") is not None]
+    import statistics as _st
+    note = (f"\n**Showing {len(keep)} of {len(refs)} references** — the most recent and the most "
+            f"cited (plus self-citations). Whole list: median year "
+            f"{int(_st.median(years)) if years else '?'}, median citations "
+            f"{int(_st.median(cites)) if cites else '?'}, "
+            f"{sum(1 for r in refs if r.get('_self'))} self-cited.\n")
+    return keep, note
+
+
+def build(w: str, with_citers: bool, max_chars: int, compact: bool = False) -> str:
     d = RAW / w
     work = json.load((d / "work.json").open())
     refs = json.load((d / "refs.json").open()) if (d / "refs.json").exists() else []
@@ -86,9 +118,10 @@ def build(w: str, with_citers: bool, max_chars: int) -> str:
         rid, rname = author_keys(r)
         r["_self"] = bool((focal_ids & rid) or (focal_names & rname))
         self_cited += r["_self"]
+    shown, note = _select_refs(refs, compact)
     L += [f"## References (by year) — {self_cited} of {len(refs)} share an author with this paper "
-          f"(marked **SELF**)", ""]
-    for r in sorted(refs, key=lambda r: (r.get("publication_year") or 0, r.get("title") or "")):
+          f"(marked **SELF**)", note, ""]
+    for r in sorted(shown, key=lambda r: (r.get("publication_year") or 0, r.get("title") or "")):
         rt = (r.get("primary_topic") or {})
         key = (r.get("doi") or "").replace("https://doi.org/", "").lower() or (r.get("title") or "").lower()
         it = intents.get(key, {})
@@ -98,8 +131,8 @@ def build(w: str, with_citers: bool, max_chars: int) -> str:
         L.append(f"- [{r.get('publication_year')}]{' **SELF**' if r.get('_self') else ''} {r.get('title')}"
                  f"  — *{rt.get('display_name')}* "
                  f"({(rt.get('field') or {}).get('display_name')}); cited {r.get('cited_by_count')}×{tag}")
-        for c in it.get("contexts", [])[:2]:
-            L.append(f"    > {c.strip()[:300]}")
+        for c in it.get("contexts", [])[:(1 if compact else 2)]:
+            L.append(f"    > {c.strip()[:(160 if compact else 300)]}")
     L.append("")
     if with_citers and s2 and (s2.get("citations") or []):
         L += ["## How later papers cite this one (Semantic Scholar contexts; sample)", ""]
@@ -129,6 +162,9 @@ def main(argv=None):
     ap.add_argument("--out", required=True)
     ap.add_argument("--with-citers", action="store_true", help="include how later papers cite it (hindsight risk — use for impact coding only)")
     ap.add_argument("--max-chars", type=int, default=120_000)
+    ap.add_argument("--compact", action="store_true",
+                    help="cap the reference list and full text so a large sample can be coded "
+                         "affordably; validate against full dossiers before trusting it")
     a = ap.parse_args(argv)
     rec = json.load(open(a.sample))
     out = Path(a.out); out.mkdir(parents=True, exist_ok=True)
@@ -138,7 +174,8 @@ def main(argv=None):
             w = p[role]["id"]
             if not (RAW / w / "work.json").exists():
                 print(f"missing bundle {w}", file=sys.stderr); continue
-            (out / f"{w}.md").write_text(build(w, a.with_citers, a.max_chars)); n += 1
+            (out / f"{w}.md").write_text(
+                build(w, a.with_citers, a.max_chars, compact=a.compact)); n += 1
     print(f"{n} dossiers -> {out}", file=sys.stderr)
 
 
