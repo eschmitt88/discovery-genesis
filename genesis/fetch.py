@@ -27,13 +27,12 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .sample import UA, openalex
+from .sample import MAILTO, UA, openalex
 
 ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / "raw" / "cases"
 S2 = "https://api.semanticscholar.org/graph/v1/paper"
 UNPAYWALL = "https://api.unpaywall.org/v2/"
-MAILTO = "<owner-email>"
 WORK_SELECT = ",".join([
     "id", "doi", "title", "display_name", "publication_year", "publication_date", "type",
     "cited_by_count", "citation_normalized_percentile", "cited_by_percentile_year",

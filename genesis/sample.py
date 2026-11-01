@@ -33,7 +33,20 @@ CASE_PCT = 0.99
 TWIN_BAND = (0.40, 0.60)
 MIN_REFS = 5                      # need prior art to study
 OPENALEX = "https://api.openalex.org/works"
-UA = "discovery-genesis (research; mailto:<owner-email>)"
+# The polite-pool / Unpaywall contact address is the operator's, never
+# committed: $RESEARCH_MAILTO, else ~/.config/research/mailto.
+def _mailto() -> str:
+    v = os.environ.get("RESEARCH_MAILTO", "").strip()
+    if not v:
+        try:
+            v = (Path.home() / ".config" / "research" / "mailto").read_text().strip()
+        except OSError:
+            v = ""
+    return v
+
+
+MAILTO = _mailto()
+UA = f"discovery-genesis (research; mailto:{MAILTO})" if MAILTO else "discovery-genesis (research)"
 SELECT = ",".join([
     "id", "doi", "title", "publication_year", "type", "cited_by_count",
     "citation_normalized_percentile", "referenced_works_count",
@@ -97,7 +110,6 @@ def classify(w: dict) -> tuple[str, str]:
 
 
 # ----------------------------------------------------------------- helpers
-MAILTO = "<owner-email>"
 # OpenAlex throttles *list* queries (?filter=…) independently of single-entity GETs
 # and can 429 every list query for a long stretch after a burst. A multi-hour draw
 # must ride that out rather than die: escalating waits, ~1 h of total patience.
@@ -117,7 +129,7 @@ def openalex(params: dict) -> dict:
     if gap < PACE:
         time.sleep(PACE - gap)
     _last_call[0] = time.monotonic()
-    params = {"mailto": MAILTO, **params}
+    params = {**({"mailto": MAILTO} if MAILTO else {}), **params}
     url = OPENALEX + "?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     waits = [float(x) for x in os.environ["OPENALEX_PATIENCE"].split(",")] \
